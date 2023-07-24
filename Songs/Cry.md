@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:07]
-[Artist:: [[James Blunt]]]
+[Artist:: [[James Blunt]] ]
 [Genre:: Pop Rock]
 [Played:: 2]
-[Album:: [[Back to Bedlam]]]
+[Album:: [[Back to Bedlam (2004)]]]
 [Year:: 2004]
 ### Dates
 ````dataview

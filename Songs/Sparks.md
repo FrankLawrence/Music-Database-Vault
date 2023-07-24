@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:48]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Alternative Rock]
 [Played:: 23]
-[Album:: [[Parachutes]]]
+[Album:: [[Parachutes (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

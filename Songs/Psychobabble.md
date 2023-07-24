@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:51]
-[Artist:: [[Alan Parsons Project]]]
+[Artist:: [[Alan Parsons Project]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Eye In The Sky]]]
+[Album:: [[Eye In The Sky (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

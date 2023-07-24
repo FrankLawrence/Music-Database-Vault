@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:43]
-[Artist:: [[Fleetwood Mac]]]
+[Artist:: [[Fleetwood Mac]] ]
 [Genre:: Soft Rock]
 [Played:: 22]
-[Album:: [[Tango in the Night]]]
+[Album:: [[Tango in the Night (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:59]
-[Artist:: [[Coldplay ft. Rihanna]]]
+[Artist:: [[Coldplay]] [[Rihanna]] ]
 [Genre:: Pop]
 [Played:: 24]
-[Album:: [[Mylo Xyloto]]]
+[Album:: [[Mylo Xyloto (2011)]]]
 [Year:: 2011]
 ### Dates
 ````dataview

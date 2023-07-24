@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:25]
-[Artist:: [[The Rippingtons]]]
+[Artist:: [[The Rippingtons]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1989)]]]
 [Year:: 1989]
 ### Dates
 ````dataview

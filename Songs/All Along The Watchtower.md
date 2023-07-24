@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:01]
-[Artist:: [[The Jimi Hendrix Experience]]]
+[Artist:: [[The Jimi Hendrix Experience]] ]
 [Genre:: Folk rock]
 [Played:: 5]
-[Album:: [[Electric Ladyland]]]
+[Album:: [[Electric Ladyland (1968)]]]
 [Year:: 1968]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:02]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Rock, Pop]
 [Played:: 1]
-[Album:: [[Viva La Vida Or Death And All His Friends]]]
+[Album:: [[Viva La Vida Or Death And All His Friends (2008)]]]
 [Year:: 2008]
 ### Dates
 ````dataview

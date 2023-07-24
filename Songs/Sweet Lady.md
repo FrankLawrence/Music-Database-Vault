@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:02]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[A Night at the Opera]]]
+[Album:: [[A Night at the Opera (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

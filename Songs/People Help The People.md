@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:12]
-[Artist:: [[Birdy]]]
+[Artist:: [[Birdy]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2013]
 ### Dates
 ````dataview

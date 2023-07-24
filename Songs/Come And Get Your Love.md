@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:27]
-[Artist:: [[Redbone]]]
+[Artist:: [[Redbone]] ]
 [Genre:: Pop Rock]
 [Played:: 15]
-[Album:: [[Wovoka]]]
+[Album:: [[Wovoka (1973)]]]
 [Year:: 1973]
 ### Dates
 ````dataview

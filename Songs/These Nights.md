@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:07]
-[Artist:: [[Darci]]]
+[Artist:: [[Darci]] ]
 [Genre:: ]
 [Played:: 39]
-[Album:: [[These Nights]]]
+[Album:: [[These Nights (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

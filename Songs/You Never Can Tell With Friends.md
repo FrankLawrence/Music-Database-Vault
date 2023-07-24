@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:17]
-[Artist:: [[Supertramp]]]
+[Artist:: [[Supertramp]] ]
 [Genre:: Rock]
 [Played:: 26]
-[Album:: [[Free As A Bird]]]
+[Album:: [[Free As A Bird (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

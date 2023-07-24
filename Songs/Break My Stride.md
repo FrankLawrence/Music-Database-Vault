@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:06]
-[Artist:: [[Matthew Wilder]]]
+[Artist:: [[Matthew Wilder]] ]
 [Genre:: New Wave]
 [Played:: ]
-[Album:: [[I Don't Speak the Language]]]
+[Album:: [[I Don't Speak the Language (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

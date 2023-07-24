@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:54]
-[Artist:: [[Whitesnake]]]
+[Artist:: [[Whitesnake]] ]
 [Genre:: Metal]
 [Played:: 33]
-[Album:: [[Saints & Sinners]]]
+[Album:: [[Saints & Sinners (1994)]]]
 [Year:: 1994]
 ### Dates
 ````dataview

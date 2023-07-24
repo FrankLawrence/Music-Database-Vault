@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 10:19]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Electronic, Rock, Pop]
 [Played:: 34]
-[Album:: [[Music Of The Spheres]]]
+[Album:: [[Music Of The Spheres (2021)]]]
 [Year:: 2021]
 ### Dates
 ````dataview

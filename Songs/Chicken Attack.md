@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:58]
-[Artist:: [[Producer Snafu]]]
+[Artist:: [[Producer Snafu]] ]
 [Genre:: ]
 [Played:: 17]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2017]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:20]
-[Artist:: [[Travis Scott]]]
+[Artist:: [[Travis Scott]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 3]
-[Album:: [[Astroworld]]]
+[Album:: [[Astroworld (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

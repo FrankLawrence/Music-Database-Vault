@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:06]
-[Artist:: [[Simon & Garfunkel]]]
+[Artist:: [[Simon & Garfunkel]] ]
 [Genre:: Soundtrack]
 [Played:: ]
-[Album:: [[The Graduate]]]
+[Album:: [[The Graduate (1965)]]]
 [Year:: 1965]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:21]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[1]]]
+[Album:: [[1 (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

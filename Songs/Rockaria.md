@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:14]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
 [Played:: 6]
-[Album:: [[A New World Record]]]
+[Album:: [[A New World Record (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

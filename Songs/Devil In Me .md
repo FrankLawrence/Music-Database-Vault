@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:17]
-[Artist:: [[Purple Disco Machine ft. Joe Killington & Duane Harden]]]
+[Artist:: [[Purple Disco Machine]] [[Joe Killington & Duane Harden]] ]
 [Genre:: Rock/Pop]
 [Played:: 5]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

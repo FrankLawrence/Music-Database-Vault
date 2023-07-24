@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:43]
-[Artist:: [[Maurice West]]]
+[Artist:: [[Maurice West]] ]
 [Genre:: ]
 [Played:: 3]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

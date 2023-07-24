@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:32]
-[Artist:: [[Gorillaz]]]
+[Artist:: [[Gorillaz]] ]
 [Genre:: Pop]
 [Played:: 4]
-[Album:: [[Plastic Beach]]]
+[Album:: [[Plastic Beach (2010)]]]
 [Year:: 2010]
 ### Dates
 ````dataview

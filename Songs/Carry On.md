@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:21]
-[Artist:: [[J.J. Cale]]]
+[Artist:: [[J.J. Cale]] ]
 [Genre:: Blues]
 [Played:: 14]
-[Album:: [[Shades]]]
+[Album:: [[Shades (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:08]
-[Artist:: [[Bee Gees]]]
+[Artist:: [[Bee Gees]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Idea]]]
+[Album:: [[Idea (1968)]]]
 [Year:: 1968]
 ### Dates
 ````dataview

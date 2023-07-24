@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:54]
-[Artist:: [[Post Malone ft. Yount Thug]]]
+[Artist:: [[Post Malone]] [[Yount Thug]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 5]
-[Album:: [[Hollywood's Bleeding]]]
+[Album:: [[Hollywood's Bleeding (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

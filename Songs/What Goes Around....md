@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 7:29]
-[Artist:: [[Justin Timberlake]]]
+[Artist:: [[Justin Timberlake]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[FutureSex/Lovesounds]]]
+[Album:: [[FutureSex/Lovesounds (2006)]]]
 [Year:: 2006]
 ### Dates
 ````dataview

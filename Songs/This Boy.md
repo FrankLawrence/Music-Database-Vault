@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:22]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Rock]
 [Played:: 3]
-[Album:: [[Anthology 1 [Disc 2]]]]
+[Album:: [[Anthology 1 [Disc 2] (1963)]]]
 [Year:: 1963]
 ### Dates
 ````dataview

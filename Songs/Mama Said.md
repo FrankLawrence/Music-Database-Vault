@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:29]
-[Artist:: [[Lukas Graham]]]
+[Artist:: [[Lukas Graham]] ]
 [Genre:: Rock/Pop]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2016]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:14]
-[Artist:: [[David Bowie]]]
+[Artist:: [[David Bowie]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Best Of Bowie]]]
+[Album:: [[Best Of Bowie (1969)]]]
 [Year:: 1969]
 ### Dates
 ````dataview

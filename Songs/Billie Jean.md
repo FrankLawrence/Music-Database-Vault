@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:56]
-[Artist:: [[Michael Jackson]]]
+[Artist:: [[Michael Jackson]] ]
 [Genre:: Rock]
 [Played:: 25]
-[Album:: [[Thriller]]]
+[Album:: [[Thriller (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

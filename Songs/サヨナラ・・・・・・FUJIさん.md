@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:28]
-[Artist:: [[Masayoshi Takanaka (高中正義)]]]
+[Artist:: [[Masayoshi Takanaka (高中正義)]] ]
 [Genre:: Jazz]
 [Played:: 10]
-[Album:: [[Seychelles]]]
+[Album:: [[Seychelles (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

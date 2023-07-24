@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:20]
-[Artist:: [[Brenda Russell]]]
+[Artist:: [[Brenda Russell]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:05]
-[Artist:: [[David Guetta ft. Sia]]]
+[Artist:: [[David Guetta]] [[Sia]] ]
 [Genre:: Electro House]
 [Played:: 1]
-[Album:: [[Nothing but the Beat 2.0]]]
+[Album:: [[Nothing but the Beat 2.0 (2012)]]]
 [Year:: 2012]
 ### Dates
 ````dataview

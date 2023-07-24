@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:49]
-[Artist:: [[J.J. Cale]]]
+[Artist:: [[J.J. Cale]] ]
 [Genre:: Blues]
 [Played:: 12]
-[Album:: [[Grasshopper]]]
+[Album:: [[Grasshopper (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

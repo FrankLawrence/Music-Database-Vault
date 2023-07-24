@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 2:55]
-[Artist:: [[Yvonne Elliman]]]
+[Artist:: [[Yvonne Elliman]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

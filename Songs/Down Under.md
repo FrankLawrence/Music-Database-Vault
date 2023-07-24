@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:42]
-[Artist:: [[Men At Work]]]
+[Artist:: [[Men At Work]] ]
 [Genre:: Pop Rock]
 [Played:: 26]
-[Album:: [[Buisness as Usual]]]
+[Album:: [[Buisness as Usual (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

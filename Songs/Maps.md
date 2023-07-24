@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:09]
-[Artist:: [[Maroon 5]]]
+[Artist:: [[Maroon 5]] ]
 [Genre:: Pop Rock]
 [Played:: 26]
-[Album:: [[V]]]
+[Album:: [[V (2014)]]]
 [Year:: 2014]
 ### Dates
 ````dataview

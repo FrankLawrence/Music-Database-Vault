@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:06]
-[Artist:: [[Simply Red]]]
+[Artist:: [[Simply Red]] ]
 [Genre:: Pop Rock]
 [Played:: 38]
-[Album:: [[Stars]]]
+[Album:: [[Stars (1991)]]]
 [Year:: 1991]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:16]
-[Artist:: [[George Michael]]]
+[Artist:: [[George Michael]] ]
 [Genre:: Blue-eyed soul]
 [Played:: ]
-[Album:: [[Faith]]]
+[Album:: [[Faith (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

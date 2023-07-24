@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 6:49]
-[Artist:: [[Masayoshi Takanaka (高中正義)]]]
+[Artist:: [[Masayoshi Takanaka (高中正義)]] ]
 [Genre:: Jazz]
 [Played:: 1]
-[Album:: [[Brasilian Skies]]]
+[Album:: [[Brasilian Skies (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

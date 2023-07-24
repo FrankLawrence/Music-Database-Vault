@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:43]
-[Artist:: [[Buffalo Springfield]]]
+[Artist:: [[Buffalo Springfield]] ]
 [Genre:: Alternative]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

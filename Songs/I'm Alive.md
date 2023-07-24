@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:47]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Electronic, Pop, Stage & Screen]
 [Played:: 93]
-[Album:: [[Xanadu (From The Original Motion Picture Soundtrack)]]]
+[Album:: [[Xanadu (From The Original Motion Picture Soundtrack) (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

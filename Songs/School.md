@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:35]
-[Artist:: [[Supertramp]]]
+[Artist:: [[Supertramp]] ]
 [Genre:: Progressive Rock]
 [Played:: 1]
-[Album:: [[Crime of the Century]]]
+[Album:: [[Crime of the Century (1974)]]]
 [Year:: 1974]
 ### Dates
 ````dataview

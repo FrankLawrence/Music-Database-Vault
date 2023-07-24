@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 2:38]
-[Artist:: [[Van Halen]]]
+[Artist:: [[Van Halen]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Van Halen]]]
+[Album:: [[Van Halen (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

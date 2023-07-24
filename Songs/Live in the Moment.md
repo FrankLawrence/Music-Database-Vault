@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:07]
-[Artist:: [[Portugal. The Man]]]
+[Artist:: [[Portugal. The Man]] ]
 [Genre:: Pop Rock]
 [Played:: 12]
-[Album:: [[Woodstock]]]
+[Album:: [[Woodstock (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:32]
-[Artist:: [[Marvin Gaye]]]
+[Artist:: [[Marvin Gaye]] ]
 [Genre:: Soul]
 [Played:: 4]
-[Album:: [[United]]]
+[Album:: [[United (1967)]]]
 [Year:: 1967]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:46]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[A Day at the Races]]]
+[Album:: [[A Day at the Races (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

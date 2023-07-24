@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💔
 ---
 [Time:: 3:15]
-[Artist:: [[Loriot]]]
+[Artist:: [[Loriot]] ]
 [Genre:: Spoken & Audio]
 [Played:: 4]
-[Album:: [[Heile Welt]]]
+[Album:: [[Heile Welt (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

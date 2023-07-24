@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:45]
-[Artist:: [[The Village People]]]
+[Artist:: [[The Village People]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

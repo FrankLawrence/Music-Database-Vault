@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 6:23]
-[Artist:: [[Justin Timberlake]]]
+[Artist:: [[Justin Timberlake]] ]
 [Genre:: Rock/Pop]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

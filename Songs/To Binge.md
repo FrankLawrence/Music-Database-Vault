@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:56]
-[Artist:: [[Gorillaz ft. Little Dragon]]]
+[Artist:: [[Gorillaz]] [[Little Dragon]] ]
 [Genre:: Pop]
 [Played:: 5]
-[Album:: [[Plastic Beach]]]
+[Album:: [[Plastic Beach (2010)]]]
 [Year:: 2010]
 ### Dates
 ````dataview

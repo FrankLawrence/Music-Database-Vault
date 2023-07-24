@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:54]
-[Artist:: [[Powfu ft. beabadoobee]]]
+[Artist:: [[Powfu]] [[beabadoobee]] ]
 [Genre:: Lo-fi hip hop]
 [Played:: 5]
-[Album:: [[Poems of the Past]]]
+[Album:: [[Poems of the Past (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:42]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Out of Our Heads]]]
+[Album:: [[Out of Our Heads (1965)]]]
 [Year:: 1965]
 ### Dates
 ````dataview

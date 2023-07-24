@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:43]
-[Artist:: [[Madonna]]]
+[Artist:: [[Madonna]] ]
 [Genre:: Pop]
 [Played:: 24]
-[Album:: [[Confessions on a Dance Floor]]]
+[Album:: [[Confessions on a Dance Floor (2005)]]]
 [Year:: 2005]
 ### Dates
 ````dataview

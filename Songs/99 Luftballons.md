@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:53]
-[Artist:: [[Nena]]]
+[Artist:: [[Nena]] ]
 [Genre:: New Wave]
 [Played:: 2]
-[Album:: [[Nena]]]
+[Album:: [[Nena (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

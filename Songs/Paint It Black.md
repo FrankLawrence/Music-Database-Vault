@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:24]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock]
 [Played:: 2]
-[Album:: [[Aftermath]]]
+[Album:: [[Aftermath (2007)]]]
 [Year:: 2007]
 ### Dates
 ````dataview

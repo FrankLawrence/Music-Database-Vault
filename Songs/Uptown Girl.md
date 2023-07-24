@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:18]
-[Artist:: [[Billy Joel]]]
+[Artist:: [[Billy Joel]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Piano Man]]]
+[Album:: [[Piano Man (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:23]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Voulez-vous]]]
+[Album:: [[Voulez-vous (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

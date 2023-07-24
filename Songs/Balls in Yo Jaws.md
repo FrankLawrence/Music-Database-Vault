@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 1:19]
-[Artist:: [[Frank Sinatra]]]
+[Artist:: [[Frank Sinatra]] ]
 [Genre:: ]
 [Played:: 14]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2021]
 ### Dates
 ````dataview

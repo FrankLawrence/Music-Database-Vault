@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:34]
-[Artist:: [[Lily Allen]]]
+[Artist:: [[Lily Allen]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2014]
 ### Dates
 ````dataview

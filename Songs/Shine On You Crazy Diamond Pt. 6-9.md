@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 12:30]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
 [Played:: 91]
-[Album:: [[Wish You Were Here]]]
+[Album:: [[Wish You Were Here (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

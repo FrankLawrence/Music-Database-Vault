@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:07]
-[Artist:: [[Backstreet Boys]]]
+[Artist:: [[Backstreet Boys]] ]
 [Genre:: Dance-pop]
 [Played:: 3]
-[Album:: [[Backsteet's Back]]]
+[Album:: [[Backsteet's Back (1997)]]]
 [Year:: 1997]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:54]
-[Artist:: [[R.E.M.]]]
+[Artist:: [[R.E.M.]] ]
 [Genre:: Alternative Rock]
 [Played:: 10]
-[Album:: [[Out of Time]]]
+[Album:: [[Out of Time (1991)]]]
 [Year:: 1991]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:01]
-[Artist:: [[AWOLNATION]]]
+[Artist:: [[AWOLNATION]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

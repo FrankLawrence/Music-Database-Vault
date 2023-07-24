@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:55]
-[Artist:: [[Kylie Minogue]]]
+[Artist:: [[Kylie Minogue]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

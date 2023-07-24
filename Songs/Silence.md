@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:58]
-[Artist:: [[Rodrigo Amarante]]]
+[Artist:: [[Rodrigo Amarante]] ]
 [Genre:: ]
 [Played:: 41]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2016]
 ### Dates
 ````dataview

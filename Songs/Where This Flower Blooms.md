@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:15]
-[Artist:: [[Tyler, the Creator ft. Frank Ocean]]]
+[Artist:: [[Tyler, the Creator]] [[Frank Ocean]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 16]
-[Album:: [[Flower Boy]]]
+[Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

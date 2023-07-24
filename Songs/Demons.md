@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:56]
-[Artist:: [[Imagine Dragons]]]
+[Artist:: [[Imagine Dragons]] ]
 [Genre:: Pop Rock]
 [Played:: ]
-[Album:: [[Night Visions]]]
+[Album:: [[Night Visions (2013)]]]
 [Year:: 2013]
 ### Dates
 ````dataview

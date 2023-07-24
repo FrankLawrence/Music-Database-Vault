@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 💛
 ---
 [Time:: 1:30]
-[Artist:: [[Linked Horizon]]]
+[Artist:: [[Linked Horizon]] ]
 [Genre:: Anime]
 [Played:: 12]
-[Album:: [[Attack on Titan Original Soundtrack]]]
+[Album:: [[Attack on Titan Original Soundtrack ()]]]
 [Year:: ]
 ### Dates
 ````dataview

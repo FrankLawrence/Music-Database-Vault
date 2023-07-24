@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 2:44]
-[Artist:: [[Arctic Monkeys]]]
+[Artist:: [[Arctic Monkeys]] ]
 [Genre:: Funk rock]
 [Played:: 1]
-[Album:: [[AM]]]
+[Album:: [[AM (2013)]]]
 [Year:: 2013]
 ### Dates
 ````dataview

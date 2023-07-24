@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:49]
-[Artist:: [[Donna Summer]]]
+[Artist:: [[Donna Summer]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

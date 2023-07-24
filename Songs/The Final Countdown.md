@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:56]
-[Artist:: [[Europe]]]
+[Artist:: [[Europe]] ]
 [Genre:: Hard Rock]
 [Played:: 13]
-[Album:: [[The Final Countdown]]]
+[Album:: [[The Final Countdown (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

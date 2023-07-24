@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:04]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
 [Played:: 13]
-[Album:: [[Discovery]]]
+[Album:: [[Discovery (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

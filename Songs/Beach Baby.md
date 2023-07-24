@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:55]
-[Artist:: [[First Class]]]
+[Artist:: [[First Class]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

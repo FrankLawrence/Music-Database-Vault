@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:23]
-[Artist:: [[Eurythmics]]]
+[Artist:: [[Eurythmics]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Greatest Hits]]]
+[Album:: [[Greatest Hits (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

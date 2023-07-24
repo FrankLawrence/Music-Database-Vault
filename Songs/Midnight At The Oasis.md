@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:52]
-[Artist:: [[Martin Taylor]]]
+[Artist:: [[Martin Taylor]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1999)]]]
 [Year:: 1999]
 ### Dates
 ````dataview

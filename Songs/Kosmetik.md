@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 6:17]
-[Artist:: [[Joachim Witt]]]
+[Artist:: [[Joachim Witt]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

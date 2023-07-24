@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:11]
-[Artist:: [[Pat Benatar]]]
+[Artist:: [[Pat Benatar]] ]
 [Genre:: Rock]
 [Played:: 4]
-[Album:: [[Heartbreaker [UK]]]]
+[Album:: [[Heartbreaker [UK] (1996)]]]
 [Year:: 1996]
 ### Dates
 ````dataview

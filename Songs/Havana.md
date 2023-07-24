@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:36]
-[Artist:: [[Camila Cabello ft. Young Thug]]]
+[Artist:: [[Camila Cabello]] [[Young Thug]] ]
 [Genre:: Blues/R&B]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

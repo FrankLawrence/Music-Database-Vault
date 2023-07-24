@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:42]
-[Artist:: [[Wang Chung]]]
+[Artist:: [[Wang Chung]] ]
 [Genre:: New Wave]
 [Played:: ]
-[Album:: [[Mosiac]]]
+[Album:: [[Mosiac (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

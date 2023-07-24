@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:20]
-[Artist:: [[The Weeknd]]]
+[Artist:: [[The Weeknd]] ]
 [Genre:: R&B/Soul]
 [Played:: 5]
-[Album:: [[After Hours]]]
+[Album:: [[After Hours (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

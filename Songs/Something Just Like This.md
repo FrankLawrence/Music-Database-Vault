@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:27]
-[Artist:: [[The Chainsmokers ft. Coldplay]]]
+[Artist:: [[The Chainsmokers]] [[Coldplay]] ]
 [Genre:: EDM]
 [Played:: ]
-[Album:: [[Memories...Do Not Open]]]
+[Album:: [[Memories...Do Not Open (2016)]]]
 [Year:: 2016]
 ### Dates
 ````dataview

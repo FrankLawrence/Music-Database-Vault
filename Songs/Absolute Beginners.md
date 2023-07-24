@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:38]
-[Artist:: [[David Bowie]]]
+[Artist:: [[David Bowie]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Best Of Bowie]]]
+[Album:: [[Best Of Bowie (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

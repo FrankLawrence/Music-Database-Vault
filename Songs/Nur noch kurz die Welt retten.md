@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:21]
-[Artist:: [[Tim Bendzko]]]
+[Artist:: [[Tim Bendzko]] ]
 [Genre:: German Rock-Pop]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2013]
 ### Dates
 ````dataview

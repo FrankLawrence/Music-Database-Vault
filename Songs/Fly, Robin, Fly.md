@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:34]
-[Artist:: [[Silver Convention]]]
+[Artist:: [[Silver Convention]] ]
 [Genre:: Euro Disco]
 [Played:: 6]
-[Album:: [[Save Me]]]
+[Album:: [[Save Me (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

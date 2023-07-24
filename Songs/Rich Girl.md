@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:26]
-[Artist:: [[Hall & Oates]]]
+[Artist:: [[Hall & Oates]] ]
 [Genre:: Pop]
 [Played:: 17]
-[Album:: [[ArtistCollection]]]
+[Album:: [[ArtistCollection (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

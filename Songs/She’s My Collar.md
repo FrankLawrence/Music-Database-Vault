@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:24]
-[Artist:: [[Gorillaz ft. Kali Uchis]]]
+[Artist:: [[Gorillaz]] [[Kali Uchis]] ]
 [Genre:: Electropop]
 [Played:: 18]
-[Album:: [[Humanz]]]
+[Album:: [[Humanz (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

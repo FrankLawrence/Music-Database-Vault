@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:53]
-[Artist:: [[J. Cole]]]
+[Artist:: [[J. Cole]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 3]
-[Album:: [[2014 Forest Hills Drive]]]
+[Album:: [[2014 Forest Hills Drive (2014)]]]
 [Year:: 2014]
 ### Dates
 ````dataview

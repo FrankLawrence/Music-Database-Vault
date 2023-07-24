@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:30]
-[Artist:: [[Culture Club]]]
+[Artist:: [[Culture Club]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[At Worse...The Best Of Boy George And Culture Club]]]
+[Album:: [[At Worse...The Best Of Boy George And Culture Club (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:55]
-[Artist:: [[Maître Gims]]]
+[Artist:: [[Maître Gims]] ]
 [Genre:: Rock Pop]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2019]
 ### Dates
 ````dataview

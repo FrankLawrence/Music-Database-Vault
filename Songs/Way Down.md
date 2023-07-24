@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 2:39]
-[Artist:: [[Elvis Presley]]]
+[Artist:: [[Elvis Presley]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[30 #1 Hits]]]
+[Album:: [[30 #1 Hits (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

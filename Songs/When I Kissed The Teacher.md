@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:03]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Arrival]]]
+[Album:: [[Arrival (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

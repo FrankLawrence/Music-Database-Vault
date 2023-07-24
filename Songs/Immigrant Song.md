@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:27]
-[Artist:: [[Led Zeppelin]]]
+[Artist:: [[Led Zeppelin]] ]
 [Genre:: Hard Rock]
 [Played:: 22]
-[Album:: [[Led Zeppelin III]]]
+[Album:: [[Led Zeppelin III (1970)]]]
 [Year:: 1970]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐ 💔
 ---
 [Time:: 3:56]
-[Artist:: [[AC/DC]]]
+[Artist:: [[AC/DC]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Highway To Hell]]]
+[Album:: [[Highway To Hell (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

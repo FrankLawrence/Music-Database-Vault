@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 6:17]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[A Head Full of Dreams]]]
+[Album:: [[A Head Full of Dreams (2015)]]]
 [Year:: 2015]
 ### Dates
 ````dataview

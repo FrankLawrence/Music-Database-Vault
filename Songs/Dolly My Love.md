@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:02]
-[Artist:: [[The Moments]]]
+[Artist:: [[The Moments]] ]
 [Genre:: R&B]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

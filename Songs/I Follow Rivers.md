@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:07]
-[Artist:: [[Lykke Li]]]
+[Artist:: [[Lykke Li]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2011]
 ### Dates
 ````dataview

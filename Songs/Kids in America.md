@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:24]
-[Artist:: [[Kim Wilde]]]
+[Artist:: [[Kim Wilde]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[Die 80er Show 2 CD2]]]
+[Album:: [[Die 80er Show 2 CD2 (2002)]]]
 [Year:: 2002]
 ### Dates
 ````dataview

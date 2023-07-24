@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 8:22]
-[Artist:: [[Dire Straits]]]
+[Artist:: [[Dire Straits]] ]
 [Genre:: Pop Rock]
 [Played:: 5]
-[Album:: [[Brothers in Arms]]]
+[Album:: [[Brothers in Arms (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

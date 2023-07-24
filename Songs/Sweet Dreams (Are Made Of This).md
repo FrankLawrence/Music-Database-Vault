@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:36]
-[Artist:: [[Eurythmics]]]
+[Artist:: [[Eurythmics]] ]
 [Genre:: Rock/Pop]
 [Played:: ]
-[Album:: [[Sweet Dreams (Are Made Of This)]]]
+[Album:: [[Sweet Dreams (Are Made Of This) (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 6:20]
-[Artist:: [[澤野弘之 (Hiroyuki Sawano)]]]
+[Artist:: [[澤野弘之 (Hiroyuki Sawano)]] ]
 [Genre:: Anime]
 [Played:: 12]
-[Album:: [[Attack on Titan Original Soundtrack]]]
+[Album:: [[Attack on Titan Original Soundtrack (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

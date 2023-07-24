@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:46]
-[Artist:: [[Lionel Richie]]]
+[Artist:: [[Lionel Richie]] ]
 [Genre:: Soul]
 [Played:: 1]
-[Album:: [[Back To Front [UK]]]]
+[Album:: [[Back To Front [UK] (1992)]]]
 [Year:: 1992]
 ### Dates
 ````dataview

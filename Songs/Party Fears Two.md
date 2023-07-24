@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:11]
-[Artist:: [[The Associates]]]
+[Artist:: [[The Associates]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

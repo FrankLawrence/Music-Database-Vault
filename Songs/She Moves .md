@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:23]
-[Artist:: [[Alle Farben ft. Graham Candy]]]
+[Artist:: [[Alle Farben]] [[Graham Candy]] ]
 [Genre:: Rock Pop]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2019]
 ### Dates
 ````dataview

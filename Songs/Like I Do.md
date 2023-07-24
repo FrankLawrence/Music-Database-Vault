@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:23]
-[Artist:: [[David Guetta ft. Martin Garrix & Brooks]]]
+[Artist:: [[David Guetta]] [[Martin Garrix & Brooks]] ]
 [Genre:: EDM]
 [Played:: ]
-[Album:: [[7]]]
+[Album:: [[7 (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

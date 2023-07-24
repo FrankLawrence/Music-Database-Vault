@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:28]
-[Artist:: [[Alice Cooper]]]
+[Artist:: [[Alice Cooper]] ]
 [Genre:: Glam metal]
 [Played:: ]
-[Album:: [[Trash]]]
+[Album:: [[Trash (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 4:24]
-[Artist:: [[Seiler und Speer]]]
+[Artist:: [[Seiler und Speer]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

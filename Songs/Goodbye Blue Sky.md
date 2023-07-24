@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:47]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
 [Played:: 50]
-[Album:: [[The Wall]]]
+[Album:: [[The Wall (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

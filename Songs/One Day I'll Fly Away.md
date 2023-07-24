@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:05]
-[Artist:: [[Randy Crawford]]]
+[Artist:: [[Randy Crawford]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

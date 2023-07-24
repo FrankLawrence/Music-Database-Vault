@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:00]
-[Artist:: [[Gorillaz ft. Lou Reed]]]
+[Artist:: [[Gorillaz]] [[Lou Reed]] ]
 [Genre:: Pop]
 [Played:: 8]
-[Album:: [[Plastic Beach]]]
+[Album:: [[Plastic Beach (2010)]]]
 [Year:: 2010]
 ### Dates
 ````dataview

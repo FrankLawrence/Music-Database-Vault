@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 5:25]
-[Artist:: [[David Benoit]]]
+[Artist:: [[David Benoit]] ]
 [Genre:: Jazz]
 [Played:: 42]
-[Album:: [[The Very Best Of Smooth Jazz [Disc 1]]]]
+[Album:: [[The Very Best Of Smooth Jazz [Disc 1] (1999)]]]
 [Year:: 1999]
 ### Dates
 ````dataview

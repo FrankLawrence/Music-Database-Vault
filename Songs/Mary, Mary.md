@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:17]
-[Artist:: [[The Monkees]]]
+[Artist:: [[The Monkees]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[The Monkees Greatest Hits]]]
+[Album:: [[The Monkees Greatest Hits (1966)]]]
 [Year:: 1966]
 ### Dates
 ````dataview

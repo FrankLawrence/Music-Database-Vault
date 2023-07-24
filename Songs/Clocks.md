@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:30]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Rock]
 [Played:: 34]
-[Album:: [[A Rush of Blood To The Head]]]
+[Album:: [[A Rush of Blood To The Head (2002)]]]
 [Year:: 2002]
 ### Dates
 ````dataview

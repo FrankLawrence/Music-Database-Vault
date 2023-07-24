@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:06]
-[Artist:: [[Vickelblanka]]]
+[Artist:: [[Vickelblanka]] ]
 [Genre:: J-Pop]
 [Played:: 16]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

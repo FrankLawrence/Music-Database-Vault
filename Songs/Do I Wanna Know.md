@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:26]
-[Artist:: [[Arctic Monkeys]]]
+[Artist:: [[Arctic Monkeys]] ]
 [Genre:: Psychedelic Rock]
 [Played:: 13]
-[Album:: [[AM]]]
+[Album:: [[AM (2013)]]]
 [Year:: 2013]
 ### Dates
 ````dataview

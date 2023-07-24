@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:55]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Super trouper]]]
+[Album:: [[Super trouper (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

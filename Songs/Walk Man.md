@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:04]
-[Artist:: [[Tiny Meat Gang]]]
+[Artist:: [[Tiny Meat Gang]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 2]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2019]
 ### Dates
 ````dataview

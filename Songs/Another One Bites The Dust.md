@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:37]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: 4]
-[Album:: [[The Game]]]
+[Album:: [[The Game (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

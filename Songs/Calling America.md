@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:27]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
 [Played:: 27]
-[Album:: [[Balance of Power]]]
+[Album:: [[Balance of Power (1990)]]]
 [Year:: 1990]
 ### Dates
 ````dataview

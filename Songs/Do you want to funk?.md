@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:09]
-[Artist:: [[Sylvester]]]
+[Artist:: [[Sylvester]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2013]
 ### Dates
 ````dataview

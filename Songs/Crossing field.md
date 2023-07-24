@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:08]
-[Artist:: [[LiSA]]]
+[Artist:: [[LiSA]] ]
 [Genre:: Rock]
 [Played:: 10]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2012]
 ### Dates
 ````dataview

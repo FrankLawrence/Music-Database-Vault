@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:13]
-[Artist:: [[Louis Armstrong]]]
+[Artist:: [[Louis Armstrong]] ]
 [Genre:: Jazz]
 [Played:: 5]
-[Album:: [[On Her Majesty's Secret Service]]]
+[Album:: [[On Her Majesty's Secret Service (1969)]]]
 [Year:: 1969]
 ### Dates
 ````dataview

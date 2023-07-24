@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:39]
-[Artist:: [[Kiss]]]
+[Artist:: [[Kiss]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Greatest Kiss]]]
+[Album:: [[Greatest Kiss (1997)]]]
 [Year:: 1997]
 ### Dates
 ````dataview

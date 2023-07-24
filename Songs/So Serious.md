@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:44]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Electronic, Rock, Pop]
 [Played:: 98]
-[Album:: [[Balance Of Power]]]
+[Album:: [[Balance Of Power (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

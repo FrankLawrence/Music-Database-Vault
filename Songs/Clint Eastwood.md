@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 5:41]
-[Artist:: [[Gorillaz ft. Del the Funky Homosapien]]]
+[Artist:: [[Gorillaz]] [[Del the Funky Homosapien]] ]
 [Genre:: Trip hop]
 [Played:: 18]
-[Album:: [[Gorillaz]]]
+[Album:: [[Gorillaz (2001)]]]
 [Year:: 2001]
 ### Dates
 ````dataview

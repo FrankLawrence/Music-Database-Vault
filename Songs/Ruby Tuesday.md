@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:16]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Between the Buttons]]]
+[Album:: [[Between the Buttons (2007)]]]
 [Year:: 2007]
 ### Dates
 ````dataview

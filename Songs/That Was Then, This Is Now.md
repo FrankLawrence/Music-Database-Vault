@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 4:04]
-[Artist:: [[Micky Dolenz & Peter Tork]]]
+[Artist:: [[Micky Dolenz & Peter Tork]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[The Monkees Greatest Hits]]]
+[Album:: [[The Monkees Greatest Hits (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

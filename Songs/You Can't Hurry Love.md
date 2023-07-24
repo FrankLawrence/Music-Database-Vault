@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:56]
-[Artist:: [[Phil Collins]]]
+[Artist:: [[Phil Collins]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Hello, I Must Be Going!]]]
+[Album:: [[Hello, I Must Be Going! (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

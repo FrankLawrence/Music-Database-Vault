@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:20]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Help!]]]
+[Album:: [[Help! (1965)]]]
 [Year:: 1965]
 ### Dates
 ````dataview

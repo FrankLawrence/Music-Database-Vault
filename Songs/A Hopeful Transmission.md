@@ -2,10 +2,10 @@
 tags: Song ⭐ 
 ---
 [Time:: 0:33]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Mylo Xyloto]]]
+[Album:: [[Mylo Xyloto (2011)]]]
 [Year:: 2011]
 ### Dates
 ````dataview

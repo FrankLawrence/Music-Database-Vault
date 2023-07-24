@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 2:45]
-[Artist:: [[Elvis Presley]]]
+[Artist:: [[Elvis Presley]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[30 #1 Hits]]]
+[Album:: [[30 #1 Hits (1956)]]]
 [Year:: 1956]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:36]
-[Artist:: [[Hall & Oates]]]
+[Artist:: [[Hall & Oates]] ]
 [Genre:: Pop]
 [Played:: 3]
-[Album:: [[ArtistCollection]]]
+[Album:: [[ArtistCollection (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

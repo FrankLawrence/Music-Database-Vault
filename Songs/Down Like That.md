@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:55]
-[Artist:: [[Ksi ft. Rick Ross, Lil Baby & S-X]]]
+[Artist:: [[Ksi]] [[Rick Ross]] [[Lil Baby & S-X]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 2]
-[Album:: [[Dissimulation]]]
+[Album:: [[Dissimulation (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

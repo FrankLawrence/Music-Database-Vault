@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:57]
-[Artist:: [[Udo Lindenberg]]]
+[Artist:: [[Udo Lindenberg]] ]
 [Genre:: German Rock-Pop]
 [Played:: ]
-[Album:: [[Horizont]]]
+[Album:: [[Horizont (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

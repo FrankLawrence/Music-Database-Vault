@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:27]
-[Artist:: [[Zucchero]]]
+[Artist:: [[Zucchero]] ]
 [Genre:: Rock/Pop]
 [Played:: 4]
-[Album:: [[The Best Of Zucchero]]]
+[Album:: [[The Best Of Zucchero (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

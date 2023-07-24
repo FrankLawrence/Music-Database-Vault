@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:18]
-[Artist:: [[Grover Washington Jr. & Bill Withers]]]
+[Artist:: [[Grover Washington Jr. & Bill Withers]] ]
 [Genre:: R&B]
 [Played:: 62]
-[Album:: [[Winelight]]]
+[Album:: [[Winelight (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

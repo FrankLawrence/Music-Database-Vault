@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:30]
-[Artist:: [[Eurythmics]]]
+[Artist:: [[Eurythmics]] ]
 [Genre:: Pop Rock]
 [Played:: ]
-[Album:: [[Revenge]]]
+[Album:: [[Revenge ()]]]
 [Year:: ]
 ### Dates
 ````dataview

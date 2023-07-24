@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:50]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock, Pop]
 [Played:: 81]
-[Album:: [[Secret Messages]]]
+[Album:: [[Secret Messages (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

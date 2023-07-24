@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:15]
-[Artist:: [[Bee Gees]]]
+[Artist:: [[Bee Gees]] ]
 [Genre:: Psychedelic Pop]
 [Played:: ]
-[Album:: [[Horizontal]]]
+[Album:: [[Horizontal (1968)]]]
 [Year:: 1968]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:15]
-[Artist:: [[Atlanta Rhythm Section]]]
+[Artist:: [[Atlanta Rhythm Section]] ]
 [Genre:: Rock]
 [Played:: 4]
-[Album:: [[So Into You ]]]
+[Album:: [[So Into You  (1997)]]]
 [Year:: 1997]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:40]
-[Artist:: [[Sia]]]
+[Artist:: [[Sia]] ]
 [Genre:: Pop]
 [Played:: 3]
-[Album:: [[This Is Acting]]]
+[Album:: [[This Is Acting (2016)]]]
 [Year:: 2016]
 ### Dates
 ````dataview

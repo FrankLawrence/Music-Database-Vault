@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:25]
-[Artist:: [[Duran Duran]]]
+[Artist:: [[Duran Duran]] ]
 [Genre:: New Wave]
 [Played:: 2]
-[Album:: [[Rio]]]
+[Album:: [[Rio (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

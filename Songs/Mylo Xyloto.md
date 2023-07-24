@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 0:42]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Electronic, Rock, Pop]
 [Played:: 7]
-[Album:: [[Mylo Xyloto]]]
+[Album:: [[Mylo Xyloto (2011)]]]
 [Year:: 2011]
 ### Dates
 ````dataview

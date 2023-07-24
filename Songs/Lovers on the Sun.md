@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:24]
-[Artist:: [[David Guetta ft. Sam Martin]]]
+[Artist:: [[David Guetta]] [[Sam Martin]] ]
 [Genre:: Progressive House]
 [Played:: 9]
-[Album:: [[Listen]]]
+[Album:: [[Listen (2014)]]]
 [Year:: 2014]
 ### Dates
 ````dataview

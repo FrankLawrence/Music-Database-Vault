@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:44]
-[Artist:: [[Fallen Lights]]]
+[Artist:: [[Fallen Lights]] ]
 [Genre:: ]
 [Played:: 2]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2015]
 ### Dates
 ````dataview

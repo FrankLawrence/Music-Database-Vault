@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:52]
-[Artist:: [[Kc & The Sunshine Band]]]
+[Artist:: [[Kc & The Sunshine Band]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

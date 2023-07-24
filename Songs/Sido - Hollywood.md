@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:31]
-[Artist:: [[SIDO]]]
+[Artist:: [[SIDO]] ]
 [Genre:: ]
 [Played:: 5]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

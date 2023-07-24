@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:12]
-[Artist:: [[David Bowie]]]
+[Artist:: [[David Bowie]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Best Of Bowie]]]
+[Album:: [[Best Of Bowie (1984)]]]
 [Year:: 1984]
 ### Dates
 ````dataview

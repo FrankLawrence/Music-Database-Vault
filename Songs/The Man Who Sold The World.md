@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:58]
-[Artist:: [[David Bowie]]]
+[Artist:: [[David Bowie]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[Best Of Bowie]]]
+[Album:: [[Best Of Bowie (2002)]]]
 [Year:: 2002]
 ### Dates
 ````dataview

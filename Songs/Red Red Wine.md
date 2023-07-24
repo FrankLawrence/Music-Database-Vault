@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:24]
-[Artist:: [[UB40]]]
+[Artist:: [[UB40]] ]
 [Genre:: Reggae]
 [Played:: ]
-[Album:: [[Labour of Love]]]
+[Album:: [[Labour of Love (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

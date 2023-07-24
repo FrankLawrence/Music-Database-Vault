@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:46]
-[Artist:: [[Dido]]]
+[Artist:: [[Dido]] ]
 [Genre:: Pop]
 [Played:: 12]
-[Album:: [[Life for rent]]]
+[Album:: [[Life for rent (2003)]]]
 [Year:: 2003]
 ### Dates
 ````dataview

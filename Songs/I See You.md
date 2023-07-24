@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:30]
-[Artist:: [[Jutty Ranx]]]
+[Artist:: [[Jutty Ranx]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Jutty Ranx]]]
+[Album:: [[Jutty Ranx (2013)]]]
 [Year:: 2013]
 ### Dates
 ````dataview

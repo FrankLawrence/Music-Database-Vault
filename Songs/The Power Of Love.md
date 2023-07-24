@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:55]
-[Artist:: [[Huey Lewis & The News]]]
+[Artist:: [[Huey Lewis & The News]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[Time Flies.. The Best of Huey Lewis & The News]]]
+[Album:: [[Time Flies.. The Best of Huey Lewis & The News (1996)]]]
 [Year:: 1996]
 ### Dates
 ````dataview

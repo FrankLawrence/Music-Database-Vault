@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:23]
-[Artist:: [[Halsey]]]
+[Artist:: [[Halsey]] ]
 [Genre:: Electropop]
 [Played:: 2]
-[Album:: [[Manic]]]
+[Album:: [[Manic (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

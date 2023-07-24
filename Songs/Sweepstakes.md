@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 5:20]
-[Artist:: [[Gorillaz ft. Mos Def]]]
+[Artist:: [[Gorillaz]] [[Mos Def]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Plastic Beach]]]
+[Album:: [[Plastic Beach (2010)]]]
 [Year:: 2010]
 ### Dates
 ````dataview

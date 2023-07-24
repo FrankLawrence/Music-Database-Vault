@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:20]
-[Artist:: [[Wings]]]
+[Artist:: [[Wings]] ]
 [Genre:: Disco]
 [Played:: 24]
-[Album:: [[All The Best]]]
+[Album:: [[All The Best (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

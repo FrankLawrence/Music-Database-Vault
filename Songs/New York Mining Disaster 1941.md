@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:12]
-[Artist:: [[Bee Gees]]]
+[Artist:: [[Bee Gees]] ]
 [Genre:: Psychedelic Pop]
 [Played:: 2]
-[Album:: [[Bee Gees' 1st]]]
+[Album:: [[Bee Gees' 1st (1967)]]]
 [Year:: 1967]
 ### Dates
 ````dataview

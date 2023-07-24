@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:13]
-[Artist:: [[Scorpions]]]
+[Artist:: [[Scorpions]] ]
 [Genre:: Metal]
 [Played:: 2]
-[Album:: [[Love At First Sting]]]
+[Album:: [[Love At First Sting (1984)]]]
 [Year:: 1984]
 ### Dates
 ````dataview

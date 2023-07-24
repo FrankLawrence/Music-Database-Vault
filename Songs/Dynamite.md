@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:19]
-[Artist:: [[BTS]]]
+[Artist:: [[BTS]] ]
 [Genre:: Disco-pop]
 [Played:: 20]
-[Album:: [[Dynamite]]]
+[Album:: [[Dynamite (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

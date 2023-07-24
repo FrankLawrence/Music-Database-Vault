@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 6:45]
-[Artist:: [[Michael Jackson]]]
+[Artist:: [[Michael Jackson]] ]
 [Genre:: Blues]
 [Played:: 19]
-[Album:: [[HIStory: Past, Present and Future, Book I]]]
+[Album:: [[HIStory: Past, Present and Future, Book I (1995)]]]
 [Year:: 1995]
 ### Dates
 ````dataview

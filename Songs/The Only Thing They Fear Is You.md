@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:05]
-[Artist:: [[Mick Gordon]]]
+[Artist:: [[Mick Gordon]] ]
 [Genre:: Instrumental]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2020]
 ### Dates
 ````dataview

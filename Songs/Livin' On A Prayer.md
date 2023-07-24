@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:11]
-[Artist:: [[Bon Jovi]]]
+[Artist:: [[Bon Jovi]] ]
 [Genre:: Rock]
 [Played:: 4]
-[Album:: [[Cross Road]]]
+[Album:: [[Cross Road (1994)]]]
 [Year:: 1994]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:22]
-[Artist:: [[Madness]]]
+[Artist:: [[Madness]] ]
 [Genre:: New Wave]
 [Played:: ]
-[Album:: [[The Rise & Fall]]]
+[Album:: [[The Rise & Fall (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

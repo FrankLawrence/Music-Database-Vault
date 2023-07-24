@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:38]
-[Artist:: [[Kiss]]]
+[Artist:: [[Kiss]] ]
 [Genre:: Rock]
 [Played:: 19]
-[Album:: [[Destroyer]]]
+[Album:: [[Destroyer (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

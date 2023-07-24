@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:27]
-[Artist:: [[Die Prinzen]]]
+[Artist:: [[Die Prinzen]] ]
 [Genre:: German Rock-Pop]
 [Played:: 11]
-[Album:: [[Küssen verboten]]]
+[Album:: [[Küssen verboten (1992)]]]
 [Year:: 1992]
 ### Dates
 ````dataview

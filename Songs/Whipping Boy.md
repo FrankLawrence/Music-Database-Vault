@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:44]
-[Artist:: [[Elton John]]]
+[Artist:: [[Elton John]] ]
 [Genre:: Pop Rock]
 [Played:: 3]
-[Album:: [[Too Low For Zero]]]
+[Album:: [[Too Low For Zero (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

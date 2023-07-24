@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:09]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[The Miracle]]]
+[Album:: [[The Miracle (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

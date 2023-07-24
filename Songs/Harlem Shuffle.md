@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:54]
-[Artist:: [[Bob & Earl]]]
+[Artist:: [[Bob & Earl]] ]
 [Genre:: R&B]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

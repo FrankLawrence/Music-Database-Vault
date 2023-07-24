@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:56]
-[Artist:: [[Kenny Loggins]]]
+[Artist:: [[Kenny Loggins]] ]
 [Genre:: Pop Rock]
 [Played:: ]
-[Album:: [[Footloose: Original Soundtrack of the Paramount Motion Picture]]]
+[Album:: [[Footloose: Original Soundtrack of the Paramount Motion Picture (1984)]]]
 [Year:: 1984]
 ### Dates
 ````dataview

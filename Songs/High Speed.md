@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:17]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Alternative Rock]
 [Played:: 40]
-[Album:: [[Parachutes]]]
+[Album:: [[Parachutes (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

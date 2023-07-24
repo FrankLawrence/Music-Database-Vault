@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:31]
-[Artist:: [[yung Gravy]]]
+[Artist:: [[yung Gravy]] ]
 [Genre:: ]
 [Played:: 2]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

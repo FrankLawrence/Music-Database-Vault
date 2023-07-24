@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:34]
-[Artist:: [[Zucchero]]]
+[Artist:: [[Zucchero]] ]
 [Genre:: Disco]
 [Played:: 3]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2019]
 ### Dates
 ````dataview

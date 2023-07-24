@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:27]
-[Artist:: [[David Bowie]]]
+[Artist:: [[David Bowie]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Best Of Bowie]]]
+[Album:: [[Best Of Bowie (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

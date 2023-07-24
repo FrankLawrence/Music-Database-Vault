@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:49]
-[Artist:: [[Jagwar Twin]]]
+[Artist:: [[Jagwar Twin]] ]
 [Genre:: Alternative Rock]
 [Played:: 10]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2020]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:36]
-[Artist:: [[Guns N' Roses]]]
+[Artist:: [[Guns N' Roses]] ]
 [Genre:: Hard Rock]
 [Played:: 7]
-[Album:: [[Use Your Illusion II]]]
+[Album:: [[Use Your Illusion II (1992)]]]
 [Year:: 1992]
 ### Dates
 ````dataview

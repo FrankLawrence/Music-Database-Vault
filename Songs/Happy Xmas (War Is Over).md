@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:36]
-[Artist:: [[John Lennon]]]
+[Artist:: [[John Lennon]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[The John Lennon Collection]]]
+[Album:: [[The John Lennon Collection (1971)]]]
 [Year:: 1971]
 ### Dates
 ````dataview

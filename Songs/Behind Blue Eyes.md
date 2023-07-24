@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:42]
-[Artist:: [[The Who]]]
+[Artist:: [[The Who]] ]
 [Genre:: Hard Rock]
 [Played:: 16]
-[Album:: [[Who's Next]]]
+[Album:: [[Who's Next (1971)]]]
 [Year:: 1971]
 ### Dates
 ````dataview

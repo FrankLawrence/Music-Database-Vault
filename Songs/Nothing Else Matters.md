@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 6:26]
-[Artist:: [[Metallica]]]
+[Artist:: [[Metallica]] ]
 [Genre:: Hard Rock]
 [Played:: 8]
-[Album:: [[Metallica]]]
+[Album:: [[Metallica (1997)]]]
 [Year:: 1997]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 2:55]
-[Artist:: [[Ksi ft. Swarmz & Tion Wayne]]]
+[Artist:: [[Ksi]] [[Swarmz & Tion Wayne]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 3]
-[Album:: [[Dissimulation]]]
+[Album:: [[Dissimulation (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

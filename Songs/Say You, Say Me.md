@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:03]
-[Artist:: [[Lionel Richie]]]
+[Artist:: [[Lionel Richie]] ]
 [Genre:: R&B]
 [Played:: 8]
-[Album:: [[Dancing on the Ceiling]]]
+[Album:: [[Dancing on the Ceiling (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

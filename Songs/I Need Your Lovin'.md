@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:34]
-[Artist:: [[Teena Marie]]]
+[Artist:: [[Teena Marie]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 4:51]
-[Artist:: [[Olivia Newton-John & John Travolta]]]
+[Artist:: [[Olivia Newton-John & John Travolta]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1990)]]]
 [Year:: 1990]
 ### Dates
 ````dataview

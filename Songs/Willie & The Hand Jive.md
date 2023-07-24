@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 3:28]
-[Artist:: [[Eric Clapton]]]
+[Artist:: [[Eric Clapton]] ]
 [Genre:: Blues]
 [Played:: 2]
-[Album:: [[Time Pieces - The Best Of Eric Clapton]]]
+[Album:: [[Time Pieces - The Best Of Eric Clapton (1974)]]]
 [Year:: 1974]
 ### Dates
 ````dataview

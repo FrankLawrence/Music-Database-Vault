@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:09]
-[Artist:: [[Max]]]
+[Artist:: [[Max]] ]
 [Genre:: ]
 [Played:: 2]
-[Album:: [[DJ Replay]]]
+[Album:: [[DJ Replay (2014)]]]
 [Year:: 2014]
 ### Dates
 ````dataview

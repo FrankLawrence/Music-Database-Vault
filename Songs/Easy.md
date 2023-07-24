@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:17]
-[Artist:: [[Lionel Richie]]]
+[Artist:: [[Lionel Richie]] ]
 [Genre:: Soul]
 [Played:: 1]
-[Album:: [[Commodores]]]
+[Album:: [[Commodores (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

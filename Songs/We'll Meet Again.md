@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:16]
-[Artist:: [[TheFatRat & Laura Brehm]]]
+[Artist:: [[TheFatRat & Laura Brehm]] ]
 [Genre:: ]
 [Played:: 7]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

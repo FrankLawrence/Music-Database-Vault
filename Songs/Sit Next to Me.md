@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:05]
-[Artist:: [[Foster the People]]]
+[Artist:: [[Foster the People]] ]
 [Genre:: Indie pop]
 [Played:: 24]
-[Album:: [[Sacred Hearts Club]]]
+[Album:: [[Sacred Hearts Club (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 4:15]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Rolled Gold Plus: Very Best Of The Rolling Stones [Disc 2]]]]
+[Album:: [[Rolled Gold Plus: Very Best Of The Rolling Stones [Disc 2] (1967)]]]
 [Year:: 1967]
 ### Dates
 ````dataview

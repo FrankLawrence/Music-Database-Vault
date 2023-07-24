@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:13]
-[Artist:: [[Paul McCartney]]]
+[Artist:: [[Paul McCartney]] ]
 [Genre:: Pop]
 [Played:: 37]
-[Album:: [[All The Best]]]
+[Album:: [[All The Best (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:56]
-[Artist:: [[Toto]]]
+[Artist:: [[Toto]] ]
 [Genre:: Soft Rock]
 [Played:: 14]
-[Album:: [[Toto IV]]]
+[Album:: [[Toto IV (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:00]
-[Artist:: [[REGGIO]]]
+[Artist:: [[REGGIO]] ]
 [Genre:: ]
 [Played:: 12]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2016]
 ### Dates
 ````dataview

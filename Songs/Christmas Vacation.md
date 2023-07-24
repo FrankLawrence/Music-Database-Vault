@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 6:18]
-[Artist:: [[Angelo Badalamenti]]]
+[Artist:: [[Angelo Badalamenti]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[National Lampoon's Vacation Original Motion Picture Sound Track]]]
+[Album:: [[National Lampoon's Vacation Original Motion Picture Sound Track (1989)]]]
 [Year:: 1989]
 ### Dates
 ````dataview

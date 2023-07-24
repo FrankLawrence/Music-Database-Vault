@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:57]
-[Artist:: [[Paul McCartney ft. Michael Jackson]]]
+[Artist:: [[Paul McCartney]] [[Michael Jackson]] ]
 [Genre:: Pop]
 [Played:: 38]
-[Album:: [[Pipes of peace]]]
+[Album:: [[Pipes of peace (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

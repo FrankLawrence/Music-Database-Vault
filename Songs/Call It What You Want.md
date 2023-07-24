@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:59]
-[Artist:: [[Foster the People]]]
+[Artist:: [[Foster the People]] ]
 [Genre:: Psychedelic Pop]
 [Played:: 9]
-[Album:: [[Torches]]]
+[Album:: [[Torches (2011)]]]
 [Year:: 2011]
 ### Dates
 ````dataview

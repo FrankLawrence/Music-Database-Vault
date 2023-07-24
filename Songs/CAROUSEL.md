@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:42]
-[Artist:: [[Aries]]]
+[Artist:: [[Aries]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 1]
-[Album:: [[WELCOME HOME]]]
+[Album:: [[WELCOME HOME (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

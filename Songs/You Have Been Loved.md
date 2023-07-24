@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:29]
-[Artist:: [[George Michael]]]
+[Artist:: [[George Michael]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Twentyfive: For Loving [Disc 2]]]]
+[Album:: [[Twentyfive: For Loving [Disc 2] (1996)]]]
 [Year:: 1996]
 ### Dates
 ````dataview

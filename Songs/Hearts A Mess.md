@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:40]
-[Artist:: [[Gotye]]]
+[Artist:: [[Gotye]] ]
 [Genre:: Indie Rock]
 [Played:: 54]
-[Album:: [[Like Drawing Blood]]]
+[Album:: [[Like Drawing Blood (2006)]]]
 [Year:: 2006]
 ### Dates
 ````dataview

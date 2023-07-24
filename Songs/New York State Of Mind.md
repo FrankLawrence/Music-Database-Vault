@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 6:04]
-[Artist:: [[Billy Joel]]]
+[Artist:: [[Billy Joel]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Piano Man]]]
+[Album:: [[Piano Man (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

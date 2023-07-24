@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:19]
-[Artist:: [[Michael Jackson]]]
+[Artist:: [[Michael Jackson]] ]
 [Genre:: Pop Rock]
 [Played:: 5]
-[Album:: [[Bad]]]
+[Album:: [[Bad (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

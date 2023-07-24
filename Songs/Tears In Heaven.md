@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:40]
-[Artist:: [[Eric Clapton]]]
+[Artist:: [[Eric Clapton]] ]
 [Genre:: Soft Rock]
 [Played:: 26]
-[Album:: [[Rush: Music from the Motion Picture Soundtrack]]]
+[Album:: [[Rush: Music from the Motion Picture Soundtrack (1992)]]]
 [Year:: 1992]
 ### Dates
 ````dataview

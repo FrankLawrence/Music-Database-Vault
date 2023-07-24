@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:22]
-[Artist:: [[Stray Cats]]]
+[Artist:: [[Stray Cats]] ]
 [Genre:: Rockabilly]
 [Played:: ]
-[Album:: [[Stray Cats]]]
+[Album:: [[Stray Cats (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

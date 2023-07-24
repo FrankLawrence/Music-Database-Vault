@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:57]
-[Artist:: [[Dionne Warwick]]]
+[Artist:: [[Dionne Warwick]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

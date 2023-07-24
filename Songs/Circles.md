@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:46]
-[Artist:: [[Post Malone]]]
+[Artist:: [[Post Malone]] ]
 [Genre:: Pop Rock]
 [Played:: 9]
-[Album:: [[Hollywood's Bleeding]]]
+[Album:: [[Hollywood's Bleeding (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

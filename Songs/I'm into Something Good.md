@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:34]
-[Artist:: [[Herman's Hermits]]]
+[Artist:: [[Herman's Hermits]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[The Best of Herman and the Hermits]]]
+[Album:: [[The Best of Herman and the Hermits (1964)]]]
 [Year:: 1964]
 ### Dates
 ````dataview

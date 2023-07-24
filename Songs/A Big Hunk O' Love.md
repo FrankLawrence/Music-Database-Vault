@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 2:17]
-[Artist:: [[Elvis Presley]]]
+[Artist:: [[Elvis Presley]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[30 #1 Hits]]]
+[Album:: [[30 #1 Hits (1959)]]]
 [Year:: 1959]
 ### Dates
 ````dataview

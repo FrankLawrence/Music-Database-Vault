@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 17:40]
-[Artist:: [[Olly James]]]
+[Artist:: [[Olly James]] ]
 [Genre:: ]
 [Played:: 13]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2020]
 ### Dates
 ````dataview

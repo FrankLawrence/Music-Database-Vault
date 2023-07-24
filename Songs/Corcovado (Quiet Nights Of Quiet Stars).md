@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:59]
-[Artist:: [[Stan Getz]]]
+[Artist:: [[Stan Getz]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1962)]]]
 [Year:: 1962]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:16]
-[Artist:: [[a-ha]]]
+[Artist:: [[a-ha]] ]
 [Genre:: Electronic, Rock, Pop]
 [Played:: 29]
-[Album:: [[Scoundrel Days]]]
+[Album:: [[Scoundrel Days (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

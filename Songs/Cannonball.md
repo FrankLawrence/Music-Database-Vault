@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:57]
-[Artist:: [[Supertramp]]]
+[Artist:: [[Supertramp]] ]
 [Genre:: Progressive Rock]
 [Played:: ]
-[Album:: [[Brother Where You Bound]]]
+[Album:: [[Brother Where You Bound (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

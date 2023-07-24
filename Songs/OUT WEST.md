@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 2:39]
-[Artist:: [[JACKBOYS feat. Travis Scott & Young Thug]]]
+[Artist:: [[JACKBOYS]] [[Travis Scott & Young Thug]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 2]
-[Album:: [[JackBoys]]]
+[Album:: [[JackBoys (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

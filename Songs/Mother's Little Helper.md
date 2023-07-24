@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:47]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock Pop]
 [Played:: ]
-[Album:: [[Aftermath]]]
+[Album:: [[Aftermath (1966)]]]
 [Year:: 1966]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:49]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[Flash Gordon]]]
+[Album:: [[Flash Gordon (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

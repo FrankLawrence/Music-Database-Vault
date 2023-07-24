@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:37]
-[Artist:: [[Tame Impala]]]
+[Artist:: [[Tame Impala]] ]
 [Genre:: Psychedelic Pop]
 [Played:: 49]
-[Album:: [[Currents]]]
+[Album:: [[Currents (2015)]]]
 [Year:: 2015]
 ### Dates
 ````dataview

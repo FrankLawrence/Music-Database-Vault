@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:02]
-[Artist:: [[Hot Chocolate]]]
+[Artist:: [[Hot Chocolate]] ]
 [Genre:: Pop]
 [Played:: 5]
-[Album:: [[Their Greatest Hits]]]
+[Album:: [[Their Greatest Hits (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

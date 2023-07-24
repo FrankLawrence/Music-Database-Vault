@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 1:48]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Pop]
 [Played:: 3]
-[Album:: [[A Hard Day's Night]]]
+[Album:: [[A Hard Day's Night (1964)]]]
 [Year:: 1964]
 ### Dates
 ````dataview

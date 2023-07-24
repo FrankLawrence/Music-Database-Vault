@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:26]
-[Artist:: [[Ace]]]
+[Artist:: [[Ace]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

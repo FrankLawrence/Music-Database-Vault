@@ -2,10 +2,10 @@
 tags: Song ⭐ 💔
 ---
 [Time:: 4:28]
-[Artist:: [[SIDO ft. Andreas Bourani]]]
+[Artist:: [[SIDO]] [[Andreas Bourani]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

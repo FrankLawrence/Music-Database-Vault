@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:57]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Soul]
 [Played:: 7]
-[Album:: [[A Rush of Blood To The Head]]]
+[Album:: [[A Rush of Blood To The Head ()]]]
 [Year:: ]
 ### Dates
 ````dataview

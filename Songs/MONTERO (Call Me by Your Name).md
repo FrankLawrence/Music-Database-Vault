@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:18]
-[Artist:: [[Lil Nas X]]]
+[Artist:: [[Lil Nas X]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 41]
-[Album:: [[MONTERO]]]
+[Album:: [[MONTERO (2021)]]]
 [Year:: 2021]
 ### Dates
 ````dataview

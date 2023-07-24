@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:48]
-[Artist:: [[Kiss]]]
+[Artist:: [[Kiss]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[Greatest Kiss]]]
+[Album:: [[Greatest Kiss (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

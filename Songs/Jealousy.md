@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:22]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Soft Rock]
 [Played:: 1]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

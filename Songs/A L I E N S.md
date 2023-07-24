@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:55]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Progressive Rock]
 [Played:: 42]
-[Album:: [[Kaleidoscope]]]
+[Album:: [[Kaleidoscope (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:45]
-[Artist:: [[Sansixto, Max Adrian & Aftermarket]]]
+[Artist:: [[Sansixto]] [[Max Adrian & Aftermarket]] ]
 [Genre:: Big Room]
 [Played:: 2]
-[Album:: [[Stellar]]]
+[Album:: [[Stellar (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

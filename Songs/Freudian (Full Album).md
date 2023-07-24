@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 41:31]
-[Artist:: [[Daniel Caesar]]]
+[Artist:: [[Daniel Caesar]] ]
 [Genre:: R&B]
 [Played:: 4]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

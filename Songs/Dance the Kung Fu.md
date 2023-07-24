@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:10]
-[Artist:: [[Carl Douglas]]]
+[Artist:: [[Carl Douglas]] ]
 [Genre:: R&B]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

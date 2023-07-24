@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:32]
-[Artist:: [[NF]]]
+[Artist:: [[NF]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 8]
-[Album:: [[Perception]]]
+[Album:: [[Perception (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

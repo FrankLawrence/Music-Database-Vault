@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:31]
-[Artist:: [[Billy Joel]]]
+[Artist:: [[Billy Joel]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Piano Man]]]
+[Album:: [[Piano Man (1989)]]]
 [Year:: 1989]
 ### Dates
 ````dataview

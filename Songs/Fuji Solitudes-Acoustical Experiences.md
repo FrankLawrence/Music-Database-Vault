@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 47:01]
-[Artist:: [[Solitudes]]]
+[Artist:: [[Solitudes]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[Fuji Solitudes - Acoustical Experiences]]]
+[Album:: [[Fuji Solitudes - Acoustical Experiences (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

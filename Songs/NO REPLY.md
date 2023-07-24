@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:29]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Anthology 1 [Disc 2]]]]
+[Album:: [[Anthology 1 [Disc 2] (1964)]]]
 [Year:: 1964]
 ### Dates
 ````dataview

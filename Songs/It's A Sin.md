@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:01]
-[Artist:: [[Pet Shop Boys]]]
+[Artist:: [[Pet Shop Boys]] ]
 [Genre:: Synth-Pop]
 [Played:: 26]
-[Album:: [[Actually]]]
+[Album:: [[Actually (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

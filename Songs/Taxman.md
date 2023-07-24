@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:39]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Revolver]]]
+[Album:: [[Revolver (1966)]]]
 [Year:: 1966]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:41]
-[Artist:: [[Gorillaz ft. De La Soul]]]
+[Artist:: [[Gorillaz]] [[De La Soul]] ]
 [Genre:: Alternative Rock]
 [Played:: 20]
-[Album:: [[Demon Days]]]
+[Album:: [[Demon Days (2005)]]]
 [Year:: 2005]
 ### Dates
 ````dataview

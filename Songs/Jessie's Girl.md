@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:12]
-[Artist:: [[Rick Springfield]]]
+[Artist:: [[Rick Springfield]] ]
 [Genre:: Power pop]
 [Played:: 1]
-[Album:: [[Working Class Dog]]]
+[Album:: [[Working Class Dog (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

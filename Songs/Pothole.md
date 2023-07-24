@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:57]
-[Artist:: [[Tyler, the Creator ft. Jaden Smith]]]
+[Artist:: [[Tyler, the Creator]] [[Jaden Smith]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 13]
-[Album:: [[Flower Boy]]]
+[Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 14:08]
-[Artist:: [[Martin Garrix & Third Party]]]
+[Artist:: [[Martin Garrix & Third Party]] ]
 [Genre:: Progressive House]
 [Played:: 11]
-[Album:: [[Hope]]]
+[Album:: [[Hope (2016)]]]
 [Year:: 2016]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:10]
-[Artist:: [[The Doors]]]
+[Artist:: [[The Doors]] ]
 [Genre:: Pop]
 [Played:: 20]
-[Album:: [[Strange Days]]]
+[Album:: [[Strange Days (1967)]]]
 [Year:: 1967]
 ### Dates
 ````dataview

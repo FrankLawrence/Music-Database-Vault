@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:42]
-[Artist:: [[The Black Eyed Peas]]]
+[Artist:: [[The Black Eyed Peas]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2011]
 ### Dates
 ````dataview

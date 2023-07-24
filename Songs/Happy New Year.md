@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:24]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: 3]
-[Album:: [[Super trouper]]]
+[Album:: [[Super trouper (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:08]
-[Artist:: [[Felix Jaehn ft. Jasmine Thompson]]]
+[Artist:: [[Felix Jaehn]] [[Jasmine Thompson]] ]
 [Genre:: EDM]
 [Played:: 6]
-[Album:: [[I]]]
+[Album:: [[I (2015)]]]
 [Year:: 2015]
 ### Dates
 ````dataview

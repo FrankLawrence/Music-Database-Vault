@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:39]
-[Artist:: [[Steve Miller Band]]]
+[Artist:: [[Steve Miller Band]] ]
 [Genre:: Rock]
 [Played:: 22]
-[Album:: [[Abracadabra]]]
+[Album:: [[Abracadabra (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

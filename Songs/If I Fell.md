@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:22]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[A Hard Day's Night]]]
+[Album:: [[A Hard Day's Night (1964)]]]
 [Year:: 1964]
 ### Dates
 ````dataview

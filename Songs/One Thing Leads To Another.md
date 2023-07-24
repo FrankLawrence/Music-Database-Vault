@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:16]
-[Artist:: [[The Fixx]]]
+[Artist:: [[The Fixx]] ]
 [Genre:: New Wave]
 [Played:: 1]
-[Album:: [[Reach the Beach]]]
+[Album:: [[Reach the Beach (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

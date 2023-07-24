@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:45]
-[Artist:: [[Riggi & Piros vs. ZAXX]]]
+[Artist:: [[Riggi & Piros vs. ZAXX]] ]
 [Genre::  ]
 [Played:: 3]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

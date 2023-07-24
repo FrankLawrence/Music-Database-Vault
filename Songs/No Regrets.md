@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:54]
-[Artist:: [[Tom Rush]]]
+[Artist:: [[Tom Rush]] ]
 [Genre:: Folk]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 1:53]
-[Artist:: [[]]]
+[Artist:: [[]] ]
 [Genre:: ]
 [Played:: 12]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

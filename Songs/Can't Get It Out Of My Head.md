@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:24]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
 [Played:: 6]
-[Album:: [[Eldorado]]]
+[Album:: [[Eldorado (1974)]]]
 [Year:: 1974]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:24]
-[Artist:: [[Neil Diamond]]]
+[Artist:: [[Neil Diamond]] ]
 [Genre:: Soft Rock]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 1969]
 ### Dates
 ````dataview

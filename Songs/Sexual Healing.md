@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:05]
-[Artist:: [[Marvin Gaye]]]
+[Artist:: [[Marvin Gaye]] ]
 [Genre:: Funk]
 [Played:: 18]
-[Album:: [[Midnight Love]]]
+[Album:: [[Midnight Love (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

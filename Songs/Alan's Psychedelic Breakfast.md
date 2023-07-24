@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 13:01]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
 [Played:: 41]
-[Album:: [[Atom Heart Mother]]]
+[Album:: [[Atom Heart Mother (1970)]]]
 [Year:: 1970]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:08]
-[Artist:: [[Eddie Money]]]
+[Artist:: [[Eddie Money]] ]
 [Genre:: ]
 [Played:: 2]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2013]
 ### Dates
 ````dataview

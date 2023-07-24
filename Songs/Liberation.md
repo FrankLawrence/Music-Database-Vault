@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:04]
-[Artist:: [[Julian Calor]]]
+[Artist:: [[Julian Calor]] ]
 [Genre:: ]
 [Played:: 25]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

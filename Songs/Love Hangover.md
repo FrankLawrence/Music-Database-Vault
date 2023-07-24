@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:46]
-[Artist:: [[Diana Ross]]]
+[Artist:: [[Diana Ross]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

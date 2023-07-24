@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 5:45]
-[Artist:: [[Haddaway]]]
+[Artist:: [[Haddaway]] ]
 [Genre:: Rock/Pop]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:38]
-[Artist:: [[The Chainsmokers]]]
+[Artist:: [[The Chainsmokers]] ]
 [Genre:: Pop]
 [Played:: 4]
-[Album:: [[Sick Boy]]]
+[Album:: [[Sick Boy (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

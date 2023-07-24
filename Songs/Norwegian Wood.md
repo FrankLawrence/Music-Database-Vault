@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:05]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[Rubber Soul]]]
+[Album:: [[Rubber Soul (1965)]]]
 [Year:: 1965]
 ### Dates
 ````dataview

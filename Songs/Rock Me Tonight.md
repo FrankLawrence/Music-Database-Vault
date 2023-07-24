@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:36]
-[Artist:: [[Freddie Jackson]]]
+[Artist:: [[Freddie Jackson]] ]
 [Genre:: Jazz]
 [Played:: 1]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

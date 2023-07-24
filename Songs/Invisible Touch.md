@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:28]
-[Artist:: [[Genesis]]]
+[Artist:: [[Genesis]] ]
 [Genre:: Dance-rock]
 [Played:: 2]
-[Album:: [[Invisible Touch]]]
+[Album:: [[Invisible Touch (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

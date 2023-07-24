@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 1:58]
-[Artist:: [[Dean Martin]]]
+[Artist:: [[Dean Martin]] ]
 [Genre:: Easy Listening]
 [Played:: ]
-[Album:: [[Making Spirits Bright]]]
+[Album:: [[Making Spirits Bright (1959)]]]
 [Year:: 1959]
 ### Dates
 ````dataview

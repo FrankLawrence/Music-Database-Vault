@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:42]
-[Artist:: [[Imagination]]]
+[Artist:: [[Imagination]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

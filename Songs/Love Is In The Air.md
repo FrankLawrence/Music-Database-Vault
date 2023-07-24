@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:31]
-[Artist:: [[John Paul Young]]]
+[Artist:: [[John Paul Young]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

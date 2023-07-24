@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:25]
-[Artist:: [[Genesis]]]
+[Artist:: [[Genesis]] ]
 [Genre:: Pop Rock]
 [Played:: 8]
-[Album:: [[Genesis]]]
+[Album:: [[Genesis (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

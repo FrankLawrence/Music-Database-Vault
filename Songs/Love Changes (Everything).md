@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:30]
-[Artist:: [[Climie Fisher]]]
+[Artist:: [[Climie Fisher]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

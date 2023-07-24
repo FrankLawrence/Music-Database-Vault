@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:26]
-[Artist:: [[Tyler, the Creator ft. Playboi Carti]]]
+[Artist:: [[Tyler, the Creator]] [[Playboi Carti]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 2]
-[Album:: [[IGOR]]]
+[Album:: [[IGOR (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

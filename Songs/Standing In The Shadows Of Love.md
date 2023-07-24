@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:23]
-[Artist:: [[Barry White]]]
+[Artist:: [[Barry White]] ]
 [Genre:: R&B]
 [Played:: ]
-[Album:: [[Barry White's Greatest Hits]]]
+[Album:: [[Barry White's Greatest Hits (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

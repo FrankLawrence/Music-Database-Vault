@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:20]
-[Artist:: [[Kungs ft. Jamie N Common]]]
+[Artist:: [[Kungs]] [[Jamie N Common]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

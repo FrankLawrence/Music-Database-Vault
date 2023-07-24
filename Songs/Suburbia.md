@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 5:16]
-[Artist:: [[Pet Shop Boys]]]
+[Artist:: [[Pet Shop Boys]] ]
 [Genre:: Synth-Pop]
 [Played:: 43]
-[Album:: [[Please]]]
+[Album:: [[Please (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

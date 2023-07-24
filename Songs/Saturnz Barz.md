@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 6:13]
-[Artist:: [[Gorillaz ft. Popcaan]]]
+[Artist:: [[Gorillaz]] [[Popcaan]] ]
 [Genre:: Dancehall]
 [Played:: 2]
-[Album:: [[Humanz]]]
+[Album:: [[Humanz (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

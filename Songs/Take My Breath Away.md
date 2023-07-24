@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:11]
-[Artist:: [[Berlin]]]
+[Artist:: [[Berlin]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Top Gun]]]
+[Album:: [[Top Gun (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

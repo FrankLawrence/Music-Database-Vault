@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:47]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
 [Played:: 8]
-[Album:: [[Secret Messages]]]
+[Album:: [[Secret Messages (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

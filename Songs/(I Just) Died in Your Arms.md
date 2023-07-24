@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:31]
-[Artist:: [[Cutting Crew]]]
+[Artist:: [[Cutting Crew]] ]
 [Genre:: Pop Rock]
 [Played:: 2]
-[Album:: [[Broadcast]]]
+[Album:: [[Broadcast (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

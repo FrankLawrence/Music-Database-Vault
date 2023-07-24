@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:58]
-[Artist:: [[The White Stripes]]]
+[Artist:: [[The White Stripes]] ]
 [Genre:: Alternative Rock]
 [Played:: 1]
-[Album:: [[Elephant]]]
+[Album:: [[Elephant (2003)]]]
 [Year:: 2003]
 ### Dates
 ````dataview

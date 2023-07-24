@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:27]
-[Artist:: [[James Blunt]]]
+[Artist:: [[James Blunt]] ]
 [Genre:: Pop Rock]
 [Played:: 3]
-[Album:: [[All The Lost Souls]]]
+[Album:: [[All The Lost Souls (2007)]]]
 [Year:: 2007]
 ### Dates
 ````dataview

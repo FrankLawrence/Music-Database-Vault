@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:56]
-[Artist:: [[Les Humphries Singers]]]
+[Artist:: [[Les Humphries Singers]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Greatest Hits - Das Beste]]]
+[Album:: [[Greatest Hits - Das Beste (1970)]]]
 [Year:: 1970]
 ### Dates
 ````dataview

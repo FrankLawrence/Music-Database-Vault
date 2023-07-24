@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:00]
-[Artist:: [[Alan Parsons Project]]]
+[Artist:: [[Alan Parsons Project]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[The Best Of The Alan Parsons Project]]]
+[Album:: [[The Best Of The Alan Parsons Project (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

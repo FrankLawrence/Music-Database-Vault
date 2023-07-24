@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:38]
-[Artist:: [[Gerald Albright]]]
+[Artist:: [[Gerald Albright]] ]
 [Genre:: Jazz]
 [Played:: 1]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

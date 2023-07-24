@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:06]
-[Artist:: [[Gorillaz ft. Bobby Womack]]]
+[Artist:: [[Gorillaz]] [[Bobby Womack]] ]
 [Genre:: Pop]
 [Played:: 9]
-[Album:: [[Plastic Beach]]]
+[Album:: [[Plastic Beach (2010)]]]
 [Year:: 2010]
 ### Dates
 ````dataview

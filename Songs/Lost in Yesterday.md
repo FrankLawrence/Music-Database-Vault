@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:10]
-[Artist:: [[Tame Impala]]]
+[Artist:: [[Tame Impala]] ]
 [Genre:: Psychedelic Pop]
 [Played:: 39]
-[Album:: [[The slow rush]]]
+[Album:: [[The slow rush (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

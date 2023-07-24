@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:52]
-[Artist:: [[Tame Impala]]]
+[Artist:: [[Tame Impala]] ]
 [Genre:: Psychedelic Pop]
 [Played:: 32]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2019]
 ### Dates
 ````dataview

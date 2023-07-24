@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:41]
-[Artist:: [[Gibson Brothers]]]
+[Artist:: [[Gibson Brothers]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

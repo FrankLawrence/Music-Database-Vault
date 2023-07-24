@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:32]
-[Artist:: [[Ella Fitzgerald]]]
+[Artist:: [[Ella Fitzgerald]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1956)]]]
 [Year:: 1956]
 ### Dates
 ````dataview

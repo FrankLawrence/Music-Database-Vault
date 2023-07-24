@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:36]
-[Artist:: [[Thelma Houston]]]
+[Artist:: [[Thelma Houston]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:40]
-[Artist:: [[Crown Heights Affair]]]
+[Artist:: [[Crown Heights Affair]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

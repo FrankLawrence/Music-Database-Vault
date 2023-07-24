@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:29]
-[Artist:: [[The Stranglers]]]
+[Artist:: [[The Stranglers]] ]
 [Genre:: Rock]
 [Played:: 34]
-[Album:: [[The Very Best Of The Stranglers]]]
+[Album:: [[The Very Best Of The Stranglers (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

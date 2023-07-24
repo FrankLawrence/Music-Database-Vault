@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 6:30]
-[Artist:: [[The Eagles]]]
+[Artist:: [[The Eagles]] ]
 [Genre:: Rock]
 [Played:: 18]
-[Album:: [[Hotel California]]]
+[Album:: [[Hotel California (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

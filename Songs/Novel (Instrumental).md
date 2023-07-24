@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:26]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

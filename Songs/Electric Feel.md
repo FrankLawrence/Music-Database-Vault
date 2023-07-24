@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:50]
-[Artist:: [[MGMT]]]
+[Artist:: [[MGMT]] ]
 [Genre:: Psychedelic Pop]
 [Played:: 3]
-[Album:: [[Oracluar Spectacular]]]
+[Album:: [[Oracluar Spectacular (2007)]]]
 [Year:: 2007]
 ### Dates
 ````dataview

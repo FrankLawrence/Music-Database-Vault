@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:11]
-[Artist:: [[Daryl an Oates]]]
+[Artist:: [[Daryl an Oates]] ]
 [Genre:: Yacht rock]
 [Played:: ]
-[Album:: [[Voices]]]
+[Album:: [[Voices (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

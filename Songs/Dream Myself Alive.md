@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:10]
-[Artist:: [[a-ha]]]
+[Artist:: [[a-ha]] ]
 [Genre:: Electronic, Rock, Pop]
 [Played:: 46]
-[Album:: [[Hunting High And Low]]]
+[Album:: [[Hunting High And Low (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

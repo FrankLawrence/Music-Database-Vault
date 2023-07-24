@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:18]
-[Artist:: [[Gary Wright]]]
+[Artist:: [[Gary Wright]] ]
 [Genre:: Pop]
 [Played:: 43]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

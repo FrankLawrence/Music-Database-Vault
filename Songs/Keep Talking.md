@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 💛
 ---
 [Time:: 6:12]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
 [Played:: 58]
-[Album:: [[The Division Bell]]]
+[Album:: [[The Division Bell (1994)]]]
 [Year:: 1994]
 ### Dates
 ````dataview

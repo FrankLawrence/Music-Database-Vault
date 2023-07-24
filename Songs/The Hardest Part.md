@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:25]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Pop Rock]
 [Played:: 2]
-[Album:: [[X&Y]]]
+[Album:: [[X&Y (2006)]]]
 [Year:: 2006]
 ### Dates
 ````dataview

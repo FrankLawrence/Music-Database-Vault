@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 14:23]
-[Artist:: [[]]]
+[Artist:: [[]] ]
 [Genre:: ASMR]
 [Played:: 1]
-[Album:: [[Yandere]]]
+[Album:: [[Yandere (2021)]]]
 [Year:: 2021]
 ### Dates
 ````dataview

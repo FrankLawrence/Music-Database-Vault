@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:05]
-[Artist:: [[Another Level]]]
+[Artist:: [[Another Level]] ]
 [Genre:: ]
 [Played:: 11]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

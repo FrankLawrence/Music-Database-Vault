@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:49]
-[Artist:: [[Robin_Schulz]]]
+[Artist:: [[Robin_Schulz]] ]
 [Genre:: Rock Pop]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

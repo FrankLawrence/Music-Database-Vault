@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:29]
-[Artist:: [[The Weeknd ft. Daft Punk]]]
+[Artist:: [[The Weeknd]] [[Daft Punk]] ]
 [Genre:: Disco]
 [Played:: 20]
-[Album:: [[Starboy]]]
+[Album:: [[Starboy (2016)]]]
 [Year:: 2016]
 ### Dates
 ````dataview

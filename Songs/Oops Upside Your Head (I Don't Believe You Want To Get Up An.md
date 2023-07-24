@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:26]
-[Artist:: [[The Gap Band]]]
+[Artist:: [[The Gap Band]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

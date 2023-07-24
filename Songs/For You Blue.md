@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:32]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[Let It Be]]]
+[Album:: [[Let It Be (1970)]]]
 [Year:: 1970]
 ### Dates
 ````dataview

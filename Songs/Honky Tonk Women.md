@@ -2,10 +2,10 @@
 tags: Song ⭐ 💔
 ---
 [Time:: 3:01]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[Rolled Gold Plus: Very Best Of The Rolling Stones [Disc 2]]]]
+[Album:: [[Rolled Gold Plus: Very Best Of The Rolling Stones [Disc 2] (1969)]]]
 [Year:: 1969]
 ### Dates
 ````dataview

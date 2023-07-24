@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:55]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Rolled Gold Plus: Very Best Of The Rolling Stones [Disc 1]]]]
+[Album:: [[Rolled Gold Plus: Very Best Of The Rolling Stones [Disc 1] (1965)]]]
 [Year:: 1965]
 ### Dates
 ````dataview

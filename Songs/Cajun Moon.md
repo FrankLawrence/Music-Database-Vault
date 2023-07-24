@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:16]
-[Artist:: [[J.J. Cale]]]
+[Artist:: [[J.J. Cale]] ]
 [Genre:: Blues]
 [Played:: 9]
-[Album:: [[Okie]]]
+[Album:: [[Okie (1974)]]]
 [Year:: 1974]
 ### Dates
 ````dataview

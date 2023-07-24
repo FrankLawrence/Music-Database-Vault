@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:07]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
 [Played:: 8]
-[Album:: [[Time]]]
+[Album:: [[Time (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

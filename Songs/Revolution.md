@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:25]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[1967-1970]]]
+[Album:: [[1967-1970 (1973)]]]
 [Year:: 1973]
 ### Dates
 ````dataview

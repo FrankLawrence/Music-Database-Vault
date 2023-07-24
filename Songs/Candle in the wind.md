@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:50]
-[Artist:: [[Elton John]]]
+[Artist:: [[Elton John]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Goodbye Yellow Brick Road]]]
+[Album:: [[Goodbye Yellow Brick Road (1973)]]]
 [Year:: 1973]
 ### Dates
 ````dataview

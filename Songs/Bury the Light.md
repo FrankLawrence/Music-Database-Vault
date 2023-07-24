@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 9:42]
-[Artist:: [[Casey Edwards ft. Victor Borba]]]
+[Artist:: [[Casey Edwards]] [[Victor Borba]] ]
 [Genre:: Soundtrack]
 [Played:: 50]
-[Album:: [[Devil May Cry 5 Soundtrack]]]
+[Album:: [[Devil May Cry 5 Soundtrack (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

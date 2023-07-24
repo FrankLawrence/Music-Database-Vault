@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 3:22]
-[Artist:: [[George Benson]]]
+[Artist:: [[George Benson]] ]
 [Genre:: Jazz]
 [Played:: 1]
-[Album:: [[The Very Best Of Smooth Jazz [Disc 1]]]]
+[Album:: [[The Very Best Of Smooth Jazz [Disc 1] (1968)]]]
 [Year:: 1968]
 ### Dates
 ````dataview

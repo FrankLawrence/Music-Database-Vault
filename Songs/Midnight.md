@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:55]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Rock, Pop]
 [Played:: 26]
-[Album:: [[Ghost Stories]]]
+[Album:: [[Ghost Stories (2014)]]]
 [Year:: 2014]
 ### Dates
 ````dataview

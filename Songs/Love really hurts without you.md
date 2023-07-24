@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:52]
-[Artist:: [[Billy Ocean]]]
+[Artist:: [[Billy Ocean]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 1976]
 ### Dates
 ````dataview

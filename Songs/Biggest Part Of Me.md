@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:13]
-[Artist:: [[Take 6]]]
+[Artist:: [[Take 6]] ]
 [Genre:: Jazz]
 [Played:: 1]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1994)]]]
 [Year:: 1994]
 ### Dates
 ````dataview

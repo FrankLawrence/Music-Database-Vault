@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:43]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: 6]
-[Album:: [[The Works]]]
+[Album:: [[The Works (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

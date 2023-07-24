@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:01]
-[Artist:: [[NF]]]
+[Artist:: [[NF]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 15]
-[Album:: [[The Search]]]
+[Album:: [[The Search (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

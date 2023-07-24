@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:45]
-[Artist:: [[The Weeknd]]]
+[Artist:: [[The Weeknd]] ]
 [Genre:: Disco]
 [Played:: 53]
-[Album:: [[Dawn FM]]]
+[Album:: [[Dawn FM (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

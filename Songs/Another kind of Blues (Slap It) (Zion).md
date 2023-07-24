@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:34]
-[Artist:: [[Fluke]]]
+[Artist:: [[Fluke]] ]
 [Genre:: Soundtrack]
 [Played:: 62]
-[Album:: [[Puppy]]]
+[Album:: [[Puppy (2001)]]]
 [Year:: 2001]
 ### Dates
 ````dataview

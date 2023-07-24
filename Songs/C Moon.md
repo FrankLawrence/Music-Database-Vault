@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:34]
-[Artist:: [[Wings]]]
+[Artist:: [[Wings]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[All The Best]]]
+[Album:: [[All The Best (1972)]]]
 [Year:: 1972]
 ### Dates
 ````dataview

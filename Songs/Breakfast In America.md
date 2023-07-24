@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:39]
-[Artist:: [[Supertramp]]]
+[Artist:: [[Supertramp]] ]
 [Genre:: Rock]
 [Played:: 5]
-[Album:: [[Breakfast In America]]]
+[Album:: [[Breakfast In America (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

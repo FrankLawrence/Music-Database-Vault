@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:57]
-[Artist:: [[George Michael Feat. Mutya]]]
+[Artist:: [[George Michael]] [[Mutya]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Twentyfive: For Loving [Disc 2]]]]
+[Album:: [[Twentyfive: For Loving [Disc 2] (2006)]]]
 [Year:: 2006]
 ### Dates
 ````dataview

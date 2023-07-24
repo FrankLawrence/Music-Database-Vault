@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:53]
-[Artist:: [[Zack Fox]]]
+[Artist:: [[Zack Fox]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 26]
-[Album:: [[IHY2LN + Marinate]]]
+[Album:: [[IHY2LN + Marinate (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

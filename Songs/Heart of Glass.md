@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:43]
-[Artist:: [[Blondie]]]
+[Artist:: [[Blondie]] ]
 [Genre:: New Wave]
 [Played:: 4]
-[Album:: [[Parallel Lines]]]
+[Album:: [[Parallel Lines (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

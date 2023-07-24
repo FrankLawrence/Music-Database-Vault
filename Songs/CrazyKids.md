@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:51]
-[Artist:: [[Kesha]]]
+[Artist:: [[Kesha]] ]
 [Genre:: ]
 [Played:: 2]
-[Album:: [[Crazy Kids]]]
+[Album:: [[Crazy Kids (2013)]]]
 [Year:: 2013]
 ### Dates
 ````dataview

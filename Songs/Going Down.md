@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:42]
-[Artist:: [[Jake Chudnow]]]
+[Artist:: [[Jake Chudnow]] ]
 [Genre:: Instrumental]
 [Played:: 44]
-[Album:: [[Jake Chudnow]]]
+[Album:: [[Jake Chudnow (2012)]]]
 [Year:: 2012]
 ### Dates
 ````dataview

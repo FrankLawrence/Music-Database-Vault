@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 44:11]
-[Artist:: [[Kitaro]]]
+[Artist:: [[Kitaro]] ]
 [Genre:: ]
 [Played:: 3]
-[Album:: [[Fuji FRI-II Kitaro Silkroad 2]]]
+[Album:: [[Fuji FRI-II Kitaro Silkroad 2 (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

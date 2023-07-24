@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:21]
-[Artist:: [[Red Hot Chili Peppers]]]
+[Artist:: [[Red Hot Chili Peppers]] ]
 [Genre:: Alternative Rock]
 [Played:: 2]
-[Album:: [[Californication]]]
+[Album:: [[Californication (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

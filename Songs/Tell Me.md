@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:49]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[The Rolling Stones]]]
+[Album:: [[The Rolling Stones (2007)]]]
 [Year:: 2007]
 ### Dates
 ````dataview

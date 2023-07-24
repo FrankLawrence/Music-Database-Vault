@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:44]
-[Artist:: [[Michael McDonald]]]
+[Artist:: [[Michael McDonald]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

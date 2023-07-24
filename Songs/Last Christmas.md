@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:27]
-[Artist:: [[Wham!]]]
+[Artist:: [[Wham!]] ]
 [Genre:: Pop]
 [Played:: 3]
-[Album:: [[Music from the Edge of Heaven]]]
+[Album:: [[Music from the Edge of Heaven (1984)]]]
 [Year:: 1984]
 ### Dates
 ````dataview

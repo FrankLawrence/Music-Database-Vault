@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:12]
-[Artist:: [[KSI ft. Craig David & Digital Farm Animals]]]
+[Artist:: [[KSI]] [[Craig David & Digital Farm Animals]] ]
 [Genre:: Dance-pop]
 [Played:: 2]
-[Album:: [[All Over the Place]]]
+[Album:: [[All Over the Place (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

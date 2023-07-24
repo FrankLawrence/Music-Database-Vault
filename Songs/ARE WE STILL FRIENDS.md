@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:26]
-[Artist:: [[Tyler, the Creator ft. Pharrell Williams]]]
+[Artist:: [[Tyler, the Creator]] [[Pharrell Williams]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 30]
-[Album:: [[IGOR]]]
+[Album:: [[IGOR (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

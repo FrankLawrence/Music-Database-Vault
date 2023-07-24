@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:33]
-[Artist:: [[Elvis Presley]]]
+[Artist:: [[Elvis Presley]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[30 #1 Hits]]]
+[Album:: [[30 #1 Hits (2002)]]]
 [Year:: 2002]
 ### Dates
 ````dataview

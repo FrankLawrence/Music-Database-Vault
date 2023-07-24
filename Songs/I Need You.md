@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:29]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: ]
 [Played:: 2]
-[Album:: [[Help!]]]
+[Album:: [[Help! (1965)]]]
 [Year:: 1965]
 ### Dates
 ````dataview

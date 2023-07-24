@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:07]
-[Artist:: [[Freddie Ravel]]]
+[Artist:: [[Freddie Ravel]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[The Very Best Of Smooth Jazz [Disc 1]]]]
+[Album:: [[The Very Best Of Smooth Jazz [Disc 1] (2001)]]]
 [Year:: 2001]
 ### Dates
 ````dataview

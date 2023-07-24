@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:03]
-[Artist:: [[Nelly Furtado]]]
+[Artist:: [[Nelly Furtado]] ]
 [Genre:: Electropop]
 [Played:: 17]
-[Album:: [[Loose]]]
+[Album:: [[Loose (2006)]]]
 [Year:: 2006]
 ### Dates
 ````dataview

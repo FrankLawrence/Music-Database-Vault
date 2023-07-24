@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:19]
-[Artist:: [[KSI]]]
+[Artist:: [[KSI]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 6]
-[Album:: [[All Over the Place]]]
+[Album:: [[All Over the Place (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

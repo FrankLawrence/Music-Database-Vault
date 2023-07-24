@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 1:46]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
 [Played:: 14]
-[Album:: [[A Momentary Lapse of Reason]]]
+[Album:: [[A Momentary Lapse of Reason (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

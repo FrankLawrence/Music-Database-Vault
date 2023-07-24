@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:31]
-[Artist:: [[Europe]]]
+[Artist:: [[Europe]] ]
 [Genre:: Glam metal]
 [Played:: 15]
-[Album:: [[The Final Countdown]]]
+[Album:: [[The Final Countdown (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

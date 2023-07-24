@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:27]
-[Artist:: [[James Blunt]]]
+[Artist:: [[James Blunt]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[Some Kind of Trouble]]]
+[Album:: [[Some Kind of Trouble (2010)]]]
 [Year:: 2010]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:10]
-[Artist:: [[Al Jarreau]]]
+[Artist:: [[Al Jarreau]] ]
 [Genre:: Jazz]
 [Played:: 33]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

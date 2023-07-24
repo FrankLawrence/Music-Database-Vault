@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:15]
-[Artist:: [[A-ha]]]
+[Artist:: [[A-ha]] ]
 [Genre:: Pop Rock]
 [Played:: 1]
-[Album:: [[Scoundrel Days]]]
+[Album:: [[Scoundrel Days (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:29]
-[Artist:: [[Culture Club]]]
+[Artist:: [[Culture Club]] ]
 [Genre:: Rock]
 [Played:: 8]
-[Album:: [[Kissing To Be Clever]]]
+[Album:: [[Kissing To Be Clever (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

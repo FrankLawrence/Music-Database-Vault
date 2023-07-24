@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:14]
-[Artist:: [[Anni-Frid Lyngstad]]]
+[Artist:: [[Anni-Frid Lyngstad]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Frida ensam]]]
+[Album:: [[Frida ensam (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

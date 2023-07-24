@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:08]
-[Artist:: [[Tom Walker]]]
+[Artist:: [[Tom Walker]] ]
 [Genre:: ]
 [Played:: 12]
-[Album:: [[What a Time to Be Alive]]]
+[Album:: [[What a Time to Be Alive (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

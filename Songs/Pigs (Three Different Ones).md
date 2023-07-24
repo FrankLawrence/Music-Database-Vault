@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 11:26]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
 [Played:: 27]
-[Album:: [[Animals]]]
+[Album:: [[Animals (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

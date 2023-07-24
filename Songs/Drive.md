@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:00]
-[Artist:: [[The Cars]]]
+[Artist:: [[The Cars]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

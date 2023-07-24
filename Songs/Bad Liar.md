@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:44]
-[Artist:: [[Imagine Dragons]]]
+[Artist:: [[Imagine Dragons]] ]
 [Genre:: Electropop]
 [Played:: 1]
-[Album:: [[Origins]]]
+[Album:: [[Origins (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

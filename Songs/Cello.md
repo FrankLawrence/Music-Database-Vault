@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:01]
-[Artist:: [[Udo Lindenberg]]]
+[Artist:: [[Udo Lindenberg]] ]
 [Genre:: German Rock-Pop]
 [Played:: 1]
-[Album:: [[Alles klar auf der Andrea Doria]]]
+[Album:: [[Alles klar auf der Andrea Doria (1973)]]]
 [Year:: 1973]
 ### Dates
 ````dataview

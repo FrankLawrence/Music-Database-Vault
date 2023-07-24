@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:00]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Electronic, Rock, Pop, Stage & Screen]
 [Played:: 17]
-[Album:: [[The Album]]]
+[Album:: [[The Album (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

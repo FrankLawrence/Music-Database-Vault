@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:20]
-[Artist:: [[Mica Paris]]]
+[Artist:: [[Mica Paris]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1988)]]]
 [Year:: 1988]
 ### Dates
 ````dataview

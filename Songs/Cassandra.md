@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:51]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[The Visitors]]]
+[Album:: [[The Visitors (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

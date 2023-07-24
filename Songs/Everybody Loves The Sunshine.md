@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:42]
-[Artist:: [[Roy Ayers]]]
+[Artist:: [[Roy Ayers]] ]
 [Genre:: Jazz]
 [Played:: 3]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

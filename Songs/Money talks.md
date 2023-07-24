@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:17]
-[Artist:: [[J.J. Cale]]]
+[Artist:: [[J.J. Cale]] ]
 [Genre:: Blues]
 [Played:: 3]
-[Album:: [[#8]]]
+[Album:: [[#8 (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

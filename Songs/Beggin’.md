@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:36]
-[Artist:: [[Madcon]]]
+[Artist:: [[Madcon]] ]
 [Genre:: Hip-Hop]
 [Played:: 15]
-[Album:: [[So Dark the Con of Man]]]
+[Album:: [[So Dark the Con of Man (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

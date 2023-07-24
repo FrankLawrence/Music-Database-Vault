@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:16]
-[Artist:: [[Supertramp]]]
+[Artist:: [[Supertramp]] ]
 [Genre:: Progressive Rock]
 [Played:: ]
-[Album:: [[..Famous Last Words..]]]
+[Album:: [[..Famous Last Words.. (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

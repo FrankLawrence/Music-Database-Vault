@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:44]
-[Artist:: [[Bobby Caldwell]]]
+[Artist:: [[Bobby Caldwell]] ]
 [Genre:: Jazz]
 [Played:: 36]
-[Album:: [[Bobby Caldwell]]]
+[Album:: [[Bobby Caldwell (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

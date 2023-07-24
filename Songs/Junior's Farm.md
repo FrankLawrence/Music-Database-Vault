@@ -2,10 +2,10 @@
 tags: Song ⭐ 💔
 ---
 [Time:: 4:24]
-[Artist:: [[Paul McCartney & Wings]]]
+[Artist:: [[Paul McCartney & Wings]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[All The Best]]]
+[Album:: [[All The Best (1974)]]]
 [Year:: 1974]
 ### Dates
 ````dataview

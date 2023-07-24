@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:37]
-[Artist:: [[Whitesnake]]]
+[Artist:: [[Whitesnake]] ]
 [Genre:: Metal]
 [Played:: 43]
-[Album:: [[Whitesnake]]]
+[Album:: [[Whitesnake (1988)]]]
 [Year:: 1988]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:11]
-[Artist:: [[Masayoshi Takanaka (高中正義)]]]
+[Artist:: [[Masayoshi Takanaka (高中正義)]] ]
 [Genre:: Jazz]
 [Played:: 9]
-[Album:: [[An Insatiable High]]]
+[Album:: [[An Insatiable High (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

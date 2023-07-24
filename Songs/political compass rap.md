@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:35]
-[Artist:: [[Jreg]]]
+[Artist:: [[Jreg]] ]
 [Genre:: ]
 [Played:: 13]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

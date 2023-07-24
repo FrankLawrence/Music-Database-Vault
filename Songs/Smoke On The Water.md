@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:40]
-[Artist:: [[Deep Purple]]]
+[Artist:: [[Deep Purple]] ]
 [Genre:: Rock]
 [Played:: 2]
-[Album:: [[Deepest Purple: The Very Best Of ...]]]
+[Album:: [[Deepest Purple: The Very Best Of ... (1972)]]]
 [Year:: 1972]
 ### Dates
 ````dataview

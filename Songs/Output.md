@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:42]
-[Artist:: [[Max]]]
+[Artist:: [[Max]] ]
 [Genre:: ]
 [Played:: 11]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2014]
 ### Dates
 ````dataview

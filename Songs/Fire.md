@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:12]
-[Artist:: [[Kasabian]]]
+[Artist:: [[Kasabian]] ]
 [Genre:: Psychedelic Rock]
 [Played:: 16]
-[Album:: [[West Ryder Pauper Lunatic Asylum]]]
+[Album:: [[West Ryder Pauper Lunatic Asylum (2009)]]]
 [Year:: 2009]
 ### Dates
 ````dataview

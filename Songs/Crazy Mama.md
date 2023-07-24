@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 2:31]
-[Artist:: [[J.J. Cale]]]
+[Artist:: [[J.J. Cale]] ]
 [Genre:: Blues]
 [Played:: 2]
-[Album:: [[Naturally]]]
+[Album:: [[Naturally (1972)]]]
 [Year:: 1972]
 ### Dates
 ````dataview

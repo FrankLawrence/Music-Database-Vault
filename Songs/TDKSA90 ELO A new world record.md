@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 47:16]
-[Artist:: [[ELO]]]
+[Artist:: [[ELO]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[A new world record]]]
+[Album:: [[A new world record (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

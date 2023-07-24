@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:31]
-[Artist:: [[Toto]]]
+[Artist:: [[Toto]] ]
 [Genre:: Pop Rock]
 [Played:: 91]
-[Album:: [[Old Is New]]]
+[Album:: [[Old Is New (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

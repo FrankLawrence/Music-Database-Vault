@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:16]
-[Artist:: [[Linked Horizon]]]
+[Artist:: [[Linked Horizon]] ]
 [Genre:: J-Pop]
 [Played:: 4]
-[Album:: [[Attack on Titan Original Soundtrack]]]
+[Album:: [[Attack on Titan Original Soundtrack ()]]]
 [Year:: ]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:39]
-[Artist:: [[Ikimonogakaru]]]
+[Artist:: [[Ikimonogakaru]] ]
 [Genre:: J-Pop]
 [Played:: 40]
-[Album:: [[Chou Ikimonobakari Tennen Kinen Members]]]
+[Album:: [[Chou Ikimonobakari Tennen Kinen Members (2008)]]]
 [Year:: 2008]
 ### Dates
 ````dataview

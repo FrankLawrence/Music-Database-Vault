@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:13]
-[Artist:: [[Amanda Lear]]]
+[Artist:: [[Amanda Lear]] ]
 [Genre:: Pop]
 [Played:: 4]
-[Album:: [[I Am a Photograph]]]
+[Album:: [[I Am a Photograph (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

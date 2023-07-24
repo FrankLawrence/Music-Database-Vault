@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:10]
-[Artist:: [[Gerry Rafferty]]]
+[Artist:: [[Gerry Rafferty]] ]
 [Genre:: Pop]
 [Played:: 6]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

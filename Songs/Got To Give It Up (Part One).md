@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 4:08]
-[Artist:: [[Marvin Gaye]]]
+[Artist:: [[Marvin Gaye]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

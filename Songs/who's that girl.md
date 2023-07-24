@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:49]
-[Artist:: [[Eurythmics]]]
+[Artist:: [[Eurythmics]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Greatest Hits]]]
+[Album:: [[Greatest Hits (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

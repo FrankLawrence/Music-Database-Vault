@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:45]
-[Artist:: [[Eddy Grant]]]
+[Artist:: [[Eddy Grant]] ]
 [Genre:: Reggae]
 [Played:: ]
-[Album:: [[The Road To Reparation]]]
+[Album:: [[The Road To Reparation (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

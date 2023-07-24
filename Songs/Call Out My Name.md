@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:49]
-[Artist:: [[The Weeknd]]]
+[Artist:: [[The Weeknd]] ]
 [Genre:: Alternative]
 [Played:: 2]
-[Album:: [[My Dear Melancholy]]]
+[Album:: [[My Dear Melancholy (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

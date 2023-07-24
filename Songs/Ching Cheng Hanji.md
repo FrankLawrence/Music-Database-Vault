@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:35]
-[Artist:: [[Farid Bang]]]
+[Artist:: [[Farid Bang]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2021]
 ### Dates
 ````dataview

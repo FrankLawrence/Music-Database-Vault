@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:55]
-[Artist:: [[Leona Lewis]]]
+[Artist:: [[Leona Lewis]] ]
 [Genre:: Latino R&B-Pop]
 [Played:: 1]
-[Album:: [[Spirit]]]
+[Album:: [[Spirit (2008)]]]
 [Year:: 2008]
 ### Dates
 ````dataview

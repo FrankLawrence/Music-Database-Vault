@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:28]
-[Artist:: [[Lionel Richie & Diana Ross]]]
+[Artist:: [[Lionel Richie & Diana Ross]] ]
 [Genre:: R&B]
 [Played:: 5]
-[Album:: [[Endless Love]]]
+[Album:: [[Endless Love (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

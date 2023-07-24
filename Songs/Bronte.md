@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:14]
-[Artist:: [[Gotye]]]
+[Artist:: [[Gotye]] ]
 [Genre:: Indie Rock]
 [Played:: 1]
-[Album:: [[Making Mirrors]]]
+[Album:: [[Making Mirrors (2011)]]]
 [Year:: 2011]
 ### Dates
 ````dataview

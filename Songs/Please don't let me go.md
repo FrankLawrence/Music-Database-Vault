@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:28]
-[Artist:: [[Olly Murs]]]
+[Artist:: [[Olly Murs]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Olly Murs]]]
+[Album:: [[Olly Murs (2012)]]]
 [Year:: 2012]
 ### Dates
 ````dataview

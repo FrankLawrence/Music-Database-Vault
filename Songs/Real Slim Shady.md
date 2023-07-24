@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:28]
-[Artist:: [[Eminem]]]
+[Artist:: [[Eminem]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 11]
-[Album:: [[The Marshall Mathers LP]]]
+[Album:: [[The Marshall Mathers LP (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

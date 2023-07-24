@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:10]
-[Artist:: [[Lindsey Buckingham]]]
+[Artist:: [[Lindsey Buckingham]] ]
 [Genre:: Rock]
 [Played:: 13]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 1983]
 ### Dates
 ````dataview

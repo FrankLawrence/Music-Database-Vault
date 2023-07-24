@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:02]
-[Artist:: [[Bob James & Earl Klugh]]]
+[Artist:: [[Bob James & Earl Klugh]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

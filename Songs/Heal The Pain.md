@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:44]
-[Artist:: [[Paul McCartney & George Michael]]]
+[Artist:: [[Paul McCartney & George Michael]] ]
 [Genre:: Pop]
 [Played:: 47]
-[Album:: [[Listen Without Prejudice Vol. 1]]]
+[Album:: [[Listen Without Prejudice Vol. 1 (2006)]]]
 [Year:: 2006]
 ### Dates
 ````dataview

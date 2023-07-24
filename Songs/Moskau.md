@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:33]
-[Artist:: [[Dschinghis Khan]]]
+[Artist:: [[Dschinghis Khan]] ]
 [Genre:: German Rock-Pop]
 [Played:: ]
-[Album:: [[Die Großen Erfolge]]]
+[Album:: [[Die Großen Erfolge ()]]]
 [Year:: ]
 ### Dates
 ````dataview

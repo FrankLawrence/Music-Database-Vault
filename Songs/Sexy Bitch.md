@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:16]
-[Artist:: [[David Guetta ft. Akon]]]
+[Artist:: [[David Guetta]] [[Akon]] ]
 [Genre:: Electro-hop]
 [Played:: 1]
-[Album:: [[One Love]]]
+[Album:: [[One Love (2009)]]]
 [Year:: 2009]
 ### Dates
 ````dataview

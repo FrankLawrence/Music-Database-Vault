@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:08]
-[Artist:: [[Arrested Youth]]]
+[Artist:: [[Arrested Youth]] ]
 [Genre:: ]
 [Played:: 23]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

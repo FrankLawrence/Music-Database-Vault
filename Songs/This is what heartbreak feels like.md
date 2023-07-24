@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:36]
-[Artist:: [[JVKE]]]
+[Artist:: [[JVKE]] ]
 [Genre:: ]
 [Played:: 13]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

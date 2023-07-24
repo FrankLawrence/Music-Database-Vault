@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:43]
-[Artist:: [[LSD]]]
+[Artist:: [[LSD]] ]
 [Genre:: Pop]
 [Played:: 18]
-[Album:: [[LSD]]]
+[Album:: [[LSD (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

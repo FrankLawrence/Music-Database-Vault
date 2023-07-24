@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:05]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
 [Played:: 8]
-[Album:: [[Xanadu]]]
+[Album:: [[Xanadu (1990)]]]
 [Year:: 1990]
 ### Dates
 ````dataview

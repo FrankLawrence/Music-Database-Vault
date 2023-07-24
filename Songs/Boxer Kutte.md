@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 14:57]
-[Artist:: [[Achim Reichel]]]
+[Artist:: [[Achim Reichel]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 1983]
 ### Dates
 ````dataview

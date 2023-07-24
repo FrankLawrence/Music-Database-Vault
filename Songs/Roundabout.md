@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 8:36]
-[Artist:: [[Yes]]]
+[Artist:: [[Yes]] ]
 [Genre:: Progressive Rock]
 [Played:: ]
-[Album:: [[Fragile]]]
+[Album:: [[Fragile (1971)]]]
 [Year:: 1971]
 ### Dates
 ````dataview

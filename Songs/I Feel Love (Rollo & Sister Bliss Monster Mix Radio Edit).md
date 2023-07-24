@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 3:55]
-[Artist:: [[Donna Summer]]]
+[Artist:: [[Donna Summer]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1995)]]]
 [Year:: 1995]
 ### Dates
 ````dataview

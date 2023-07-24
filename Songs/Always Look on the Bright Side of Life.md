@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:38]
-[Artist:: [[Monty Python]]]
+[Artist:: [[Monty Python]] ]
 [Genre:: Comedy Music]
 [Played:: 10]
-[Album:: [[Monty Python's Life of Brian]]]
+[Album:: [[Monty Python's Life of Brian (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

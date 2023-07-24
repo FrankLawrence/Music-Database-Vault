@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:06]
-[Artist:: [[Dean Martin]]]
+[Artist:: [[Dean Martin]] ]
 [Genre:: Easy Listening]
 [Played:: ]
-[Album:: [[Dean Martin]]]
+[Album:: [[Dean Martin ()]]]
 [Year:: ]
 ### Dates
 ````dataview

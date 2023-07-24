@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:17]
-[Artist:: [[Spandau Ballet]]]
+[Artist:: [[Spandau Ballet]] ]
 [Genre:: ]
 [Played:: 3]
-[Album:: [[TRUE]]]
+[Album:: [[TRUE (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

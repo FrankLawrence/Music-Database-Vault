@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:51]
-[Artist:: [[Welshly Arms]]]
+[Artist:: [[Welshly Arms]] ]
 [Genre:: ]
 [Played:: 3]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2017]
 ### Dates
 ````dataview

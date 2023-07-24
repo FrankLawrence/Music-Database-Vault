@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:22]
-[Artist:: [[Maroon 5 ft. Christina Aguilera]]]
+[Artist:: [[Maroon 5]] [[Christina Aguilera]] ]
 [Genre:: Disco]
 [Played:: 37]
-[Album:: [[Hands All Over]]]
+[Album:: [[Hands All Over (2011)]]]
 [Year:: 2011]
 ### Dates
 ````dataview

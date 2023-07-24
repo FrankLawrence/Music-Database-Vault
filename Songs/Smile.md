@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:55]
-[Artist:: [[Dennis Taylor]]]
+[Artist:: [[Dennis Taylor]] ]
 [Genre:: Jazz]
 [Played:: 1]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (2001)]]]
 [Year:: 2001]
 ### Dates
 ````dataview

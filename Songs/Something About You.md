@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:43]
-[Artist:: [[Level 42]]]
+[Artist:: [[Level 42]] ]
 [Genre:: New Wave]
 [Played:: 3]
-[Album:: [[World Machine]]]
+[Album:: [[World Machine (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

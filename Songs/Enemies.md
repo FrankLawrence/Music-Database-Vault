@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:17]
-[Artist:: [[Post Malone ft. Dababy]]]
+[Artist:: [[Post Malone]] [[Dababy]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 6]
-[Album:: [[Hollywood's Bleeding]]]
+[Album:: [[Hollywood's Bleeding (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

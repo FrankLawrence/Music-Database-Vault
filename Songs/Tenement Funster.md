@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:52]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[Sheer Heart Attack]]]
+[Album:: [[Sheer Heart Attack (1974)]]]
 [Year:: 1974]
 ### Dates
 ````dataview

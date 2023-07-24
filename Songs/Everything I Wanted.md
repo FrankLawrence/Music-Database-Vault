@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:06]
-[Artist:: [[Billie Eilish]]]
+[Artist:: [[Billie Eilish]] ]
 [Genre:: Alternative]
 [Played:: 22]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2019]
 ### Dates
 ````dataview

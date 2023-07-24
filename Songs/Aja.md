@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 4:26]
-[Artist:: [[Christine McBride]]]
+[Artist:: [[Christine McBride]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[The Very Best Of Smooth Jazz [Disc 1]]]]
+[Album:: [[The Very Best Of Smooth Jazz [Disc 1] (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

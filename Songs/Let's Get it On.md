@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:51]
-[Artist:: [[Marvin Gaye]]]
+[Artist:: [[Marvin Gaye]] ]
 [Genre:: Soul]
 [Played:: ]
-[Album:: [[Let's get it on]]]
+[Album:: [[Let's get it on (1973)]]]
 [Year:: 1973]
 ### Dates
 ````dataview

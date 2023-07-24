@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:03]
-[Artist:: [[Los del Rio]]]
+[Artist:: [[Los del Rio]] ]
 [Genre:: dance-pop]
 [Played:: 2]
-[Album:: [[A mí me gusta]]]
+[Album:: [[A mí me gusta (1993)]]]
 [Year:: 1993]
 ### Dates
 ````dataview

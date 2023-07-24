@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:38]
-[Artist:: [[XXXTENTACION]]]
+[Artist:: [[XXXTENTACION]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 3]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

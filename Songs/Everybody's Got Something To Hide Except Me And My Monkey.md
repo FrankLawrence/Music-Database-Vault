@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:25]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[The Beatles (White Album) [Disc 2]]]]
+[Album:: [[The Beatles (White Album) [Disc 2] (1968)]]]
 [Year:: 1968]
 ### Dates
 ````dataview

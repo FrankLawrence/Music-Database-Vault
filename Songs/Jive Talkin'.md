@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:44]
-[Artist:: [[Bee Gees]]]
+[Artist:: [[Bee Gees]] ]
 [Genre:: Pop Rock]
 [Played:: 1]
-[Album:: [[Main Course]]]
+[Album:: [[Main Course (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

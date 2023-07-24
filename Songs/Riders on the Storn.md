@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 7:14]
-[Artist:: [[The Doors]]]
+[Artist:: [[The Doors]] ]
 [Genre:: Classic Rock]
 [Played:: 58]
-[Album:: [[L.A. Woman]]]
+[Album:: [[L.A. Woman (1971)]]]
 [Year:: 1971]
 ### Dates
 ````dataview

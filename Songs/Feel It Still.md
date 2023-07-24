@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:43]
-[Artist:: [[Portugal. The Man]]]
+[Artist:: [[Portugal. The Man]] ]
 [Genre:: Psychedelic Pop]
 [Played:: 1]
-[Album:: [[Woodstock]]]
+[Album:: [[Woodstock (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:28]
-[Artist:: [[Yes]]]
+[Artist:: [[Yes]] ]
 [Genre:: Dance-rock]
 [Played:: 50]
-[Album:: [[90125]]]
+[Album:: [[90125 (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

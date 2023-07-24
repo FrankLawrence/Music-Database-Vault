@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:08]
-[Artist:: [[Mika]]]
+[Artist:: [[Mika]] ]
 [Genre:: Pop Rock]
 [Played:: 35]
-[Album:: [[Life in Cartoon Motion]]]
+[Album:: [[Life in Cartoon Motion (2007)]]]
 [Year:: 2007]
 ### Dates
 ````dataview

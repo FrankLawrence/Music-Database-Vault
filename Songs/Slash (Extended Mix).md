@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:01]
-[Artist:: [[Aspyer]]]
+[Artist:: [[Aspyer]] ]
 [Genre:: Electronic]
 [Played:: 56]
-[Album:: [[Slash]]]
+[Album:: [[Slash (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

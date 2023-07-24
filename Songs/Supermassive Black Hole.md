@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:31]
-[Artist:: [[Muse]]]
+[Artist:: [[Muse]] ]
 [Genre:: Alternative Rock]
 [Played:: 27]
-[Album:: [[Black Holes and Revelations]]]
+[Album:: [[Black Holes and Revelations (2006)]]]
 [Year:: 2006]
 ### Dates
 ````dataview

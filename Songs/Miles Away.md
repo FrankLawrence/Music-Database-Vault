@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:49]
-[Artist:: [[Madonna]]]
+[Artist:: [[Madonna]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Hard Candy]]]
+[Album:: [[Hard Candy (2008)]]]
 [Year:: 2008]
 ### Dates
 ````dataview

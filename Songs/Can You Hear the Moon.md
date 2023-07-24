@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:02]
-[Artist:: [[Grady]]]
+[Artist:: [[Grady]] ]
 [Genre:: Pop]
 [Played:: 19]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2019]
 ### Dates
 ````dataview

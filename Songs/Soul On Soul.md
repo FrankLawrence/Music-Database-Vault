@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:14]
-[Artist:: [[Rick Braun Feat. Maysa]]]
+[Artist:: [[Rick Braun]] [[Maysa]] ]
 [Genre:: Jazz]
 [Played:: 1]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1998)]]]
 [Year:: 1998]
 ### Dates
 ````dataview

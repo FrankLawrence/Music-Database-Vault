@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:28]
-[Artist:: [[Jack Johnson]]]
+[Artist:: [[Jack Johnson]] ]
 [Genre:: Acoutic rock]
 [Played:: 2]
-[Album:: [[In Between Dreams]]]
+[Album:: [[In Between Dreams (2005)]]]
 [Year:: 2005]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:43]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
 [Played:: 9]
-[Album:: [[Discovery]]]
+[Album:: [[Discovery (1990)]]]
 [Year:: 1990]
 ### Dates
 ````dataview

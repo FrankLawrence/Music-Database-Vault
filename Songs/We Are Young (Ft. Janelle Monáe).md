@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 16:48]
-[Artist:: [[Fun]]]
+[Artist:: [[Fun]] ]
 [Genre:: Rock/Pop]
 [Played:: ]
-[Album:: [[Some Nights]]]
+[Album:: [[Some Nights (2013)]]]
 [Year:: 2013]
 ### Dates
 ````dataview

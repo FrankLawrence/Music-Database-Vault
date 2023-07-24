@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:13]
-[Artist:: [[Sandra]]]
+[Artist:: [[Sandra]] ]
 [Genre:: Electronic]
 [Played:: 19]
-[Album:: [[Mirrors]]]
+[Album:: [[Mirrors (1986)]]]
 [Year:: 1986]
 ### Dates
 ````dataview

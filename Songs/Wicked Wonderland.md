@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:27]
-[Artist:: [[Martin Tungevaag]]]
+[Artist:: [[Martin Tungevaag]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2015]
 ### Dates
 ````dataview

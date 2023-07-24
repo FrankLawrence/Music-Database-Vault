@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:13]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
 [Played:: 80]
-[Album:: [[Meddle]]]
+[Album:: [[Meddle (1971)]]]
 [Year:: 1971]
 ### Dates
 ````dataview

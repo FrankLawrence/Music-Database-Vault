@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:55]
-[Artist:: [[Earth, Wind & Fire]]]
+[Artist:: [[Earth, Wind & Fire]] ]
 [Genre:: Funk]
 [Played:: 18]
-[Album:: [[Raise!]]]
+[Album:: [[Raise! (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

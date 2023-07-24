@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:36]
-[Artist:: [[Sylo Nozra]]]
+[Artist:: [[Sylo Nozra]] ]
 [Genre:: Pop]
 [Played:: 50]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2020]
 ### Dates
 ````dataview

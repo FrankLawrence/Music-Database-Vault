@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:33]
-[Artist:: [[Ace Of Base]]]
+[Artist:: [[Ace Of Base]] ]
 [Genre:: Electronic]
 [Played:: 21]
-[Album:: [[Happy Nation]]]
+[Album:: [[Happy Nation (1992)]]]
 [Year:: 1992]
 ### Dates
 ````dataview

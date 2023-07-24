@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:58]
-[Artist:: [[The Whispers]]]
+[Artist:: [[The Whispers]] ]
 [Genre:: R&B]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

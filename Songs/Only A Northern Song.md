@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:25]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[Yellow Submarine]]]
+[Album:: [[Yellow Submarine ()]]]
 [Year:: ]
 ### Dates
 ````dataview

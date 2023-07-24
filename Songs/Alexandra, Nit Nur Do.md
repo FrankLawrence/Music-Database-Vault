@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:50]
-[Artist:: [[BAP]]]
+[Artist:: [[BAP]] ]
 [Genre:: German Rock-Pop]
 [Played:: ]
-[Album:: [[Wahnsinn]]]
+[Album:: [[Wahnsinn (1984)]]]
 [Year:: 1984]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:58]
-[Artist:: [[Roxette]]]
+[Artist:: [[Roxette]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Crash! Boom! Bang!]]]
+[Album:: [[Crash! Boom! Bang! (1994)]]]
 [Year:: 1994]
 ### Dates
 ````dataview

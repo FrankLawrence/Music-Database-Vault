@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:05]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[ABBA]]]
+[Album:: [[ABBA (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

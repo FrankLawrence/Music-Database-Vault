@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:45]
-[Artist:: [[2Pac feat. Dre. Dre and Roger Troutman]]]
+[Artist:: [[2Pac]] [[Dre. Dre and Roger Troutman]] ]
 [Genre:: West Coast hip hop]
 [Played:: 40]
-[Album:: [[All Eyez on Me]]]
+[Album:: [[All Eyez on Me (1995)]]]
 [Year:: 1995]
 ### Dates
 ````dataview

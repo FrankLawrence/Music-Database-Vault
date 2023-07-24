@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:57]
-[Artist:: [[Udo Lindenberg]]]
+[Artist:: [[Udo Lindenberg]] ]
 [Genre:: German Rock-Pop]
 [Played:: ]
-[Album:: [[Stark Wie Zwei]]]
+[Album:: [[Stark Wie Zwei (2008)]]]
 [Year:: 2008]
 ### Dates
 ````dataview

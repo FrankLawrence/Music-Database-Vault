@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:35]
-[Artist:: [[Gucci Mane ft. Quavo]]]
+[Artist:: [[Gucci Mane]] [[Quavo]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 18]
-[Album:: [[Evil Genius]]]
+[Album:: [[Evil Genius (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

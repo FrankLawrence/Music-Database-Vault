@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:49]
-[Artist:: [[Foster the People]]]
+[Artist:: [[Foster the People]] ]
 [Genre:: Indie pop]
 [Played:: 2]
-[Album:: [[Supermodel]]]
+[Album:: [[Supermodel (2014)]]]
 [Year:: 2014]
 ### Dates
 ````dataview

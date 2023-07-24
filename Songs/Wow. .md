@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:31]
-[Artist:: [[Post Malone]]]
+[Artist:: [[Post Malone]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 2]
-[Album:: [[Hollywood's Bleeding]]]
+[Album:: [[Hollywood's Bleeding (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

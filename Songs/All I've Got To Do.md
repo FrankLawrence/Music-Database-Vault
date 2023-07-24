@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:05]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[With The Beatles]]]
+[Album:: [[With The Beatles (1963)]]]
 [Year:: 1963]
 ### Dates
 ````dataview

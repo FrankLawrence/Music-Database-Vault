@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:43]
-[Artist:: [[Maroon 5]]]
+[Artist:: [[Maroon 5]] ]
 [Genre:: Pop]
 [Played:: 6]
-[Album:: [[Overexposed]]]
+[Album:: [[Overexposed (2012)]]]
 [Year:: 2012]
 ### Dates
 ````dataview

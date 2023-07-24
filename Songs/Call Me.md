@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:15]
-[Artist:: [[Blondie]]]
+[Artist:: [[Blondie]] ]
 [Genre:: New Wave]
 [Played:: 12]
-[Album:: [[American Gigolo]]]
+[Album:: [[American Gigolo (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:14]
-[Artist:: [[Tiny Meat Gang ft. Blackbear]]]
+[Artist:: [[Tiny Meat Gang]] [[Blackbear]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 4]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2019]
 ### Dates
 ````dataview

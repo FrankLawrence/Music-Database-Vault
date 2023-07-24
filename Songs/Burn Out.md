@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:21]
-[Artist:: [[Martin Garrix & Justin Mylo ft. Dewain Whitmore]]]
+[Artist:: [[Martin Garrix & Justin Mylo]] [[Dewain Whitmore]] ]
 [Genre:: Progressive House]
 [Played:: 40]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

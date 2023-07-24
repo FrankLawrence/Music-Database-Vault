@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:59]
-[Artist:: [[Aerosmith]]]
+[Artist:: [[Aerosmith]] ]
 [Genre:: Hard Rock]
 [Played:: 2]
-[Album:: [[Armageddon: The Album]]]
+[Album:: [[Armageddon: The Album (1998)]]]
 [Year:: 1998]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:45]
-[Artist:: [[Boston]]]
+[Artist:: [[Boston]] ]
 [Genre:: Hard Rock]
 [Played:: ]
-[Album:: [[Boston]]]
+[Album:: [[Boston (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:55]
-[Artist:: [[Ryan Paris]]]
+[Artist:: [[Ryan Paris]] ]
 [Genre:: Italo Disco]
 [Played:: 15]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 1983]
 ### Dates
 ````dataview

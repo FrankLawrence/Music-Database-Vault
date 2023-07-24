@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:12]
-[Artist:: [[Electric Light Orchestra]]]
+[Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
 [Played:: 6]
-[Album:: [[Face the Music]]]
+[Album:: [[Face the Music (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

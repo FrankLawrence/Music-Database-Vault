@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:37]
-[Artist:: [[David Bowie]]]
+[Artist:: [[David Bowie]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Best Of Bowie]]]
+[Album:: [[Best Of Bowie (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

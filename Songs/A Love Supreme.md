@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:37]
-[Artist:: [[Will Downing]]]
+[Artist:: [[Will Downing]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1988)]]]
 [Year:: 1988]
 ### Dates
 ````dataview

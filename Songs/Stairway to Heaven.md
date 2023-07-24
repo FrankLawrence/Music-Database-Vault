@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 8:02]
-[Artist:: [[Led Zeppelin]]]
+[Artist:: [[Led Zeppelin]] ]
 [Genre:: Progressive Rock]
 [Played:: ]
-[Album:: [[Led Zeppelin IV]]]
+[Album:: [[Led Zeppelin IV (1971)]]]
 [Year:: 1971]
 ### Dates
 ````dataview

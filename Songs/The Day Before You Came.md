@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 5:48]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: 18]
-[Album:: [[The Singles - The First Ten Years]]]
+[Album:: [[The Singles - The First Ten Years (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

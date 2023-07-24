@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:40]
-[Artist:: [[Depeche Mode]]]
+[Artist:: [[Depeche Mode]] ]
 [Genre:: Synth-Pop]
 [Played:: 31]
-[Album:: [[Violator]]]
+[Album:: [[Violator (1990)]]]
 [Year:: 1990]
 ### Dates
 ````dataview

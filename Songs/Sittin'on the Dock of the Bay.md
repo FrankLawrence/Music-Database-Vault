@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:46]
-[Artist:: [[Ottis Redding]]]
+[Artist:: [[Ottis Redding]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

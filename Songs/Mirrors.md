@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:35]
-[Artist:: [[Justin Timberlake]]]
+[Artist:: [[Justin Timberlake]] ]
 [Genre:: Rock/Pop]
 [Played:: ]
-[Album:: [[The 20/20 Experience]]]
+[Album:: [[The 20/20 Experience (2014)]]]
 [Year:: 2014]
 ### Dates
 ````dataview

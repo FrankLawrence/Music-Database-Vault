@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:11]
-[Artist:: [[The Weeknd]]]
+[Artist:: [[The Weeknd]] ]
 [Genre:: Synth-Pop]
 [Played:: ]
-[Album:: [[After Hours]]]
+[Album:: [[After Hours (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

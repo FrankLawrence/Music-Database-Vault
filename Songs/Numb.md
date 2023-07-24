@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:06]
-[Artist:: [[Linkin Park]]]
+[Artist:: [[Linkin Park]] ]
 [Genre:: Alternative Rock]
 [Played:: 22]
-[Album:: [[Meteora]]]
+[Album:: [[Meteora (2003)]]]
 [Year:: 2003]
 ### Dates
 ````dataview

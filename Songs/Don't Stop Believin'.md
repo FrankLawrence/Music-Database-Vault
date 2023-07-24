@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:10]
-[Artist:: [[Journey]]]
+[Artist:: [[Journey]] ]
 [Genre:: Rock]
 [Played:: 21]
-[Album:: [[Escape]]]
+[Album:: [[Escape (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

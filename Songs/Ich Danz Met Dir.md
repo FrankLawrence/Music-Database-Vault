@@ -2,10 +2,10 @@
 tags: Song ⭐ 💔
 ---
 [Time:: 4:41]
-[Artist:: [[BAP]]]
+[Artist:: [[BAP]] ]
 [Genre:: German Rock-Pop]
 [Played:: ]
-[Album:: [[Wahnsinn]]]
+[Album:: [[Wahnsinn (1995)]]]
 [Year:: 1995]
 ### Dates
 ````dataview

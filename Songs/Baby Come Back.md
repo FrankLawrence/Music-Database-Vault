@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:56]
-[Artist:: [[Player]]]
+[Artist:: [[Player]] ]
 [Genre:: Soft Rock]
 [Played:: 20]
-[Album:: [[Player]]]
+[Album:: [[Player (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

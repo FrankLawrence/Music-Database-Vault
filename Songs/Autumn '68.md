@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 1:35]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Psychedelic]
 [Played:: 35]
-[Album:: [[The Endless River]]]
+[Album:: [[The Endless River (2014)]]]
 [Year:: 2014]
 ### Dates
 ````dataview

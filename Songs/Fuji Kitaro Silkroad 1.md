@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 42:39]
-[Artist:: [[Kitaro]]]
+[Artist:: [[Kitaro]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[Fuji Kitaro Silkroad 1]]]
+[Album:: [[Fuji Kitaro Silkroad 1 (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

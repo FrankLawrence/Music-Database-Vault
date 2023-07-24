@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:50]
-[Artist:: [[Kool & The Gang]]]
+[Artist:: [[Kool & The Gang]] ]
 [Genre:: Funk]
 [Played:: 57]
-[Album:: [[Emergency]]]
+[Album:: [[Emergency (1984)]]]
 [Year:: 1984]
 ### Dates
 ````dataview

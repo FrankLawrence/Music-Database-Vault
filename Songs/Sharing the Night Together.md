@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:45]
-[Artist:: [[Dr. Hook]]]
+[Artist:: [[Dr. Hook]] ]
 [Genre:: Country Rock]
 [Played:: 46]
-[Album:: [[Pleasure and Pain]]]
+[Album:: [[Pleasure and Pain (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

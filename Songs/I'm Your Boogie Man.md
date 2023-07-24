@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:03]
-[Artist:: [[K.C. & The Sunshine Band]]]
+[Artist:: [[K.C. & The Sunshine Band]] ]
 [Genre:: Pop]
 [Played:: 3]
-[Album:: [[Part 3]]]
+[Album:: [[Part 3 (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:00]
-[Artist:: [[Billy Joel]]]
+[Artist:: [[Billy Joel]] ]
 [Genre:: Pop]
 [Played:: 34]
-[Album:: [[Piano Man]]]
+[Album:: [[Piano Man (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

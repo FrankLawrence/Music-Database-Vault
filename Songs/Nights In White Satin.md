@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:34]
-[Artist:: [[Sandra]]]
+[Artist:: [[Sandra]] ]
 [Genre:: Electronic]
 [Played:: 9]
-[Album:: [[Fading Shades]]]
+[Album:: [[Fading Shades (1995)]]]
 [Year:: 1995]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:23]
-[Artist:: [[Curtis Mayfield]]]
+[Artist:: [[Curtis Mayfield]] ]
 [Genre:: Jazz]
 [Played:: 7]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1971)]]]
 [Year:: 1971]
 ### Dates
 ````dataview

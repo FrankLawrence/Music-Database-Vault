@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:15]
-[Artist:: [[Stevie Wonder]]]
+[Artist:: [[Stevie Wonder]] ]
 [Genre:: Pop]
 [Played:: 26]
-[Album:: [[In Square Circle]]]
+[Album:: [[In Square Circle (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

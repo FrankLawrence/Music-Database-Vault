@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:28]
-[Artist:: [[Earth, Wind & Fire]]]
+[Artist:: [[Earth, Wind & Fire]] ]
 [Genre:: Jazz]
 [Played:: 1]
-[Album:: [[I Am]]]
+[Album:: [[I Am (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

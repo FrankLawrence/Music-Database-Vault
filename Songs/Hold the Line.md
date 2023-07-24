@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:58]
-[Artist:: [[Toto]]]
+[Artist:: [[Toto]] ]
 [Genre:: Hard Rock]
 [Played:: 37]
-[Album:: [[Toto]]]
+[Album:: [[Toto (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

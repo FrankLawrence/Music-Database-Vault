@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:27]
-[Artist:: [[Boney M]]]
+[Artist:: [[Boney M]] ]
 [Genre:: Pop]
 [Played:: 37]
-[Album:: [[Take the Heat off Me]]]
+[Album:: [[Take the Heat off Me (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

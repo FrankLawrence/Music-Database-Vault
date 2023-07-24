@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:43]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ring Ring]]]
+[Album:: [[Ring Ring (1973)]]]
 [Year:: 1973]
 ### Dates
 ````dataview

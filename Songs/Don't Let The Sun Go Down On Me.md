@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 5:49]
-[Artist:: [[George Michael & Elton John]]]
+[Artist:: [[George Michael & Elton John]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Twentyfive: For Loving [Disc 2]]]]
+[Album:: [[Twentyfive: For Loving [Disc 2] (1991)]]]
 [Year:: 1991]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:52]
-[Artist:: [[Post Malone]]]
+[Artist:: [[Post Malone]] ]
 [Genre:: R&B]
 [Played:: 18]
-[Album:: [[Beerbongs & Bentleys]]]
+[Album:: [[Beerbongs & Bentleys (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

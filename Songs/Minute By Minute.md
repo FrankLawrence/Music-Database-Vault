@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:50]
-[Artist:: [[Larry Carlton]]]
+[Artist:: [[Larry Carlton]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[The Very Best Of Smooth Jazz [Disc 1]]]]
+[Album:: [[The Very Best Of Smooth Jazz [Disc 1] (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

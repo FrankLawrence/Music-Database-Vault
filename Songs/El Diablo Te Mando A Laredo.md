@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:53]
-[Artist:: [[Baccara]]]
+[Artist:: [[Baccara]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[The Very Best Of Baccara]]]
+[Album:: [[The Very Best Of Baccara ()]]]
 [Year:: ]
 ### Dates
 ````dataview

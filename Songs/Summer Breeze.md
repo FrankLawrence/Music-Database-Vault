@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:53]
-[Artist:: [[Masayoshi Takanaka (高中正義)]]]
+[Artist:: [[Masayoshi Takanaka (高中正義)]] ]
 [Genre:: Jazz]
 [Played:: 4]
-[Album:: [[Takanaka]]]
+[Album:: [[Takanaka (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

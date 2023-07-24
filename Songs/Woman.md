@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:28]
-[Artist:: [[John Lennon]]]
+[Artist:: [[John Lennon]] ]
 [Genre:: Rock]
 [Played:: 3]
-[Album:: [[The John Lennon Collection]]]
+[Album:: [[The John Lennon Collection (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:35]
-[Artist:: [[J. Geils Band]]]
+[Artist:: [[J. Geils Band]] ]
 [Genre:: New Wave]
 [Played:: 1]
-[Album:: [[Freeze-Frame]]]
+[Album:: [[Freeze-Frame (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

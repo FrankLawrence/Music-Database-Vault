@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:32]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: 4]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

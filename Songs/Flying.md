@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:16]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: ]
 [Played:: 1]
-[Album:: [[Magical Mystery Tour]]]
+[Album:: [[Magical Mystery Tour (1967)]]]
 [Year:: 1967]
 ### Dates
 ````dataview

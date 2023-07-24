@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:36]
-[Artist:: [[Sia]]]
+[Artist:: [[Sia]] ]
 [Genre:: Electropop]
 [Played:: 1]
-[Album:: [[1000 Forms of Fear]]]
+[Album:: [[1000 Forms of Fear (2014)]]]
 [Year:: 2014]
 ### Dates
 ````dataview

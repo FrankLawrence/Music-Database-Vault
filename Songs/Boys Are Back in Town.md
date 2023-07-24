@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:22]
-[Artist:: [[Thin Lizzy]]]
+[Artist:: [[Thin Lizzy]] ]
 [Genre:: Hard Rock]
 [Played:: 11]
-[Album:: [[Jailbreak]]]
+[Album:: [[Jailbreak (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

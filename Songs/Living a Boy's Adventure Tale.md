@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 5:03]
-[Artist:: [[A-ha]]]
+[Artist:: [[A-ha]] ]
 [Genre:: Synth-Pop]
 [Played:: 1]
-[Album:: [[Hunting High and Low]]]
+[Album:: [[Hunting High and Low (1985)]]]
 [Year:: 1985]
 ### Dates
 ````dataview

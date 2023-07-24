@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:58]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: 2]
-[Album:: [[A Night at the Opera]]]
+[Album:: [[A Night at the Opera (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 3:58]
-[Artist:: [[Robin Tricke feat. Pharrell]]]
+[Artist:: [[Robin Tricke]] [[Pharrell]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2013]
 ### Dates
 ````dataview

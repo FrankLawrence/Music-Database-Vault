@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 5:28]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Let It Bleed]]]
+[Album:: [[Let It Bleed (2007)]]]
 [Year:: 2007]
 ### Dates
 ````dataview

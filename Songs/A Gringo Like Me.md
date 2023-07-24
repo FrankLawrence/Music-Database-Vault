@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:27]
-[Artist:: [[ENNIO MORRICONE]]]
+[Artist:: [[ENNIO MORRICONE]] ]
 [Genre:: Soundtrack]
 [Played:: 5]
-[Album:: [[The Legendary Italian Westerns - The Film Composers Series, Volume II]]]
+[Album:: [[The Legendary Italian Westerns - The Film Composers Series, Volume II (1963)]]]
 [Year:: 1963]
 ### Dates
 ````dataview

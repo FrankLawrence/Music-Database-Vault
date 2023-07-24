@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:19]
-[Artist:: [[Pet Shop Boys]]]
+[Artist:: [[Pet Shop Boys]] ]
 [Genre:: Synth-Pop]
 [Played:: 13]
-[Album:: [[Introspective]]]
+[Album:: [[Introspective (1988)]]]
 [Year:: 1988]
 ### Dates
 ````dataview

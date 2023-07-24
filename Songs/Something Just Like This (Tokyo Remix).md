@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:27]
-[Artist:: [[The Chainsmokers ft. Coldplay]]]
+[Artist:: [[The Chainsmokers]] [[Coldplay]] ]
 [Genre:: EDM]
 [Played:: ]
-[Album:: [[Kaleidoscope]]]
+[Album:: [[Kaleidoscope (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

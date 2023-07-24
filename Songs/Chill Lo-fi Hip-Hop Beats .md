@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 1:26:15]
-[Artist:: [[hiphop]]]
+[Artist:: [[hiphop]] ]
 [Genre:: ]
 [Played:: 7]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

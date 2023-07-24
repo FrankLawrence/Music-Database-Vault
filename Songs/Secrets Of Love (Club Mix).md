@@ -2,10 +2,10 @@
 tags: Song ⭐ 
 ---
 [Time:: 3:59]
-[Artist:: [[DJ Bobo & Sandra]]]
+[Artist:: [[DJ Bobo & Sandra]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[The Very Best Of Sandra [Disc 2]]]]
+[Album:: [[The Very Best Of Sandra [Disc 2] (2016)]]]
 [Year:: 2016]
 ### Dates
 ````dataview

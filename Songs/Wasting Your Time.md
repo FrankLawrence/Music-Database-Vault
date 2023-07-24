@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:09]
-[Artist:: [[Frank McComb]]]
+[Artist:: [[Frank McComb]] ]
 [Genre:: Jazz]
 [Played:: 3]
-[Album:: [[The Very Best Of Smooth Jazz [Disc 1]]]]
+[Album:: [[The Very Best Of Smooth Jazz [Disc 1] (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

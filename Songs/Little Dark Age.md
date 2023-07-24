@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 5:00]
-[Artist:: [[MGMT]]]
+[Artist:: [[MGMT]] ]
 [Genre:: Synth-Pop]
 [Played:: 102]
-[Album:: [[Little Dark Age]]]
+[Album:: [[Little Dark Age (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

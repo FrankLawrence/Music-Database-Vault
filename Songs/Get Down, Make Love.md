@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:00]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[News of the World]]]
+[Album:: [[News of the World (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

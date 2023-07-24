@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:34]
-[Artist:: [[Rhylex & Max Adrian]]]
+[Artist:: [[Rhylex & Max Adrian]] ]
 [Genre:: ]
 [Played:: 11]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:14]
-[Artist:: [[The Rolling Stones]]]
+[Artist:: [[The Rolling Stones]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Out of Our Heads]]]
+[Album:: [[Out of Our Heads (2007)]]]
 [Year:: 2007]
 ### Dates
 ````dataview

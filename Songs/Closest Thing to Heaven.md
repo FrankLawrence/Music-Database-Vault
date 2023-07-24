@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:52]
-[Artist:: [[The Kane Gang]]]
+[Artist:: [[The Kane Gang]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

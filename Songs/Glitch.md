@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:05]
-[Artist:: [[Martin Garrix ft. Julian Jordan]]]
+[Artist:: [[Martin Garrix]] [[Julian Jordan]] ]
 [Genre:: Progressive House]
 [Played:: 33]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

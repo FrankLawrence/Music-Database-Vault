@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:08]
-[Artist:: [[America (2)]]]
+[Artist:: [[America (2)]] ]
 [Genre:: Rock]
 [Played:: 11]
-[Album:: [[America]]]
+[Album:: [[America (1972)]]]
 [Year:: 1972]
 ### Dates
 ````dataview

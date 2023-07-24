@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:49]
-[Artist:: [[KSI & Randalf]]]
+[Artist:: [[KSI & Randalf]] ]
 [Genre:: ]
 [Played:: 12]
-[Album:: [[New Age]]]
+[Album:: [[New Age ()]]]
 [Year:: ]
 ### Dates
 ````dataview

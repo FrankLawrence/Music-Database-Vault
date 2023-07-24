@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 3:35]
-[Artist:: [[Lana Del Ray & Cedric Gervais]]]
+[Artist:: [[Lana Del Ray & Cedric Gervais]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2013]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 0:57]
-[Artist:: [[]]]
+[Artist:: [[]] ]
 [Genre:: Instrumental]
 [Played:: 2]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2022]
 ### Dates
 ````dataview

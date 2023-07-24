@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:40]
-[Artist:: [[Paul McCartney]]]
+[Artist:: [[Paul McCartney]] ]
 [Genre:: Rock]
 [Played:: 16]
-[Album:: [[Give My Regards to Broad Street]]]
+[Album:: [[Give My Regards to Broad Street (1984)]]]
 [Year:: 1984]
 ### Dates
 ````dataview

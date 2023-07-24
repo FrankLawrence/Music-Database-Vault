@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:15]
-[Artist:: [[Fabian Mazur]]]
+[Artist:: [[Fabian Mazur]] ]
 [Genre:: Dance]
 [Played:: 22]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

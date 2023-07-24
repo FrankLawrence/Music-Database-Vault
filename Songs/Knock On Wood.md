@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:43]
-[Artist:: [[Amii Stewart]]]
+[Artist:: [[Amii Stewart]] ]
 [Genre:: Electronic, Funk / Soul]
 [Played:: 3]
-[Album:: [[Knock On Wood]]]
+[Album:: [[Knock On Wood (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

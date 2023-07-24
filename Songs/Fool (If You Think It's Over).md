@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:07]
-[Artist:: [[Chris Rea]]]
+[Artist:: [[Chris Rea]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

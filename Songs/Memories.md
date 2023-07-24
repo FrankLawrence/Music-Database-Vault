@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:11]
-[Artist:: [[Maroon 5]]]
+[Artist:: [[Maroon 5]] ]
 [Genre:: Reggae-pop]
 [Played:: 3]
-[Album:: [[Jordi]]]
+[Album:: [[Jordi (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

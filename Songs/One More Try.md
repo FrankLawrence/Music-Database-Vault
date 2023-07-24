@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:53]
-[Artist:: [[George Michael]]]
+[Artist:: [[George Michael]] ]
 [Genre:: Electronic, Rock, Funk / Soul, Pop]
 [Played:: 41]
-[Album:: [[Faith]]]
+[Album:: [[Faith (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

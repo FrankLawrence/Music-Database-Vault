@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:57]
-[Artist:: [[Dire Straits]]]
+[Artist:: [[Dire Straits]] ]
 [Genre:: Blues Rock]
 [Played:: 18]
-[Album:: [[Dire Straits]]]
+[Album:: [[Dire Straits (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

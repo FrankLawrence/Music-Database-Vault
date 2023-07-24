@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 5:31]
-[Artist:: [[Metallica]]]
+[Artist:: [[Metallica]] ]
 [Genre:: Heavy metal]
 [Played:: 36]
-[Album:: [[Metallica]]]
+[Album:: [[Metallica (1991)]]]
 [Year:: 1991]
 ### Dates
 ````dataview

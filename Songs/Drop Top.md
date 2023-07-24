@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:21]
-[Artist:: [[Jeff Golub]]]
+[Artist:: [[Jeff Golub]] ]
 [Genre:: Jazz]
 [Played:: ]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:35]
-[Artist:: [[The Killers]]]
+[Artist:: [[The Killers]] ]
 [Genre:: Synth-Pop]
 [Played:: 39]
-[Album:: [[Battle Born]]]
+[Album:: [[Battle Born (2012)]]]
 [Year:: 2012]
 ### Dates
 ````dataview

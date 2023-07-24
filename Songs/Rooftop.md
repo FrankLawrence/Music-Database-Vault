@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:17]
-[Artist:: [[Nico Santos]]]
+[Artist:: [[Nico Santos]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

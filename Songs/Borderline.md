@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:58]
-[Artist:: [[Tame Impala]]]
+[Artist:: [[Tame Impala]] ]
 [Genre:: Electronic, Rock, Pop]
 [Played:: 106]
-[Album:: [[The Slow Rush]]]
+[Album:: [[The Slow Rush (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

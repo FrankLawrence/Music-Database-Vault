@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:17]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Soft Rock]
 [Played:: 13]
-[Album:: [[Parachutes]]]
+[Album:: [[Parachutes (2000)]]]
 [Year:: 2000]
 ### Dates
 ````dataview

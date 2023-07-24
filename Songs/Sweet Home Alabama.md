@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:45]
-[Artist:: [[Lynyrd Skynyrd]]]
+[Artist:: [[Lynyrd Skynyrd]] ]
 [Genre:: Country Rock]
 [Played:: 1]
-[Album:: [[Second Helping]]]
+[Album:: [[Second Helping (1974)]]]
 [Year:: 1974]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:24]
-[Artist:: [[Robbie Williams]]]
+[Artist:: [[Robbie Williams]] ]
 [Genre:: Pop]
 [Played:: 5]
-[Album:: [[Escapology]]]
+[Album:: [[Escapology (2002)]]]
 [Year:: 2002]
 ### Dates
 ````dataview

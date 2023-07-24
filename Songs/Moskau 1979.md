@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:29]
-[Artist:: [[Dschinghis Khan]]]
+[Artist:: [[Dschinghis Khan]] ]
 [Genre:: Disco]
 [Played:: 6]
-[Album:: [[Dschinghis Khan]]]
+[Album:: [[Dschinghis Khan (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

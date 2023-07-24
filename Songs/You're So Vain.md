@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:20]
-[Artist:: [[Carly Simon]]]
+[Artist:: [[Carly Simon]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

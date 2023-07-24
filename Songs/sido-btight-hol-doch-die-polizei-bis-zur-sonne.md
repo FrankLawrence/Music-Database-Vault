@@ -2,10 +2,10 @@
 tags: Song ⭐ 💔
 ---
 [Time:: 4:00]
-[Artist:: [[SIDO]]]
+[Artist:: [[SIDO]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

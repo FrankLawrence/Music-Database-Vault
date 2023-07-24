@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:30]
-[Artist:: [[Lost Frequencies feat. Janieck Devy]]]
+[Artist:: [[Lost Frequencies]] [[Janieck Devy]] ]
 [Genre:: Rock/Pop]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2018]
 ### Dates
 ````dataview

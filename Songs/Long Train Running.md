@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:42]
-[Artist:: [[The Doobie Brothers]]]
+[Artist:: [[The Doobie Brothers]] ]
 [Genre:: Country Rock]
 [Played:: 7]
-[Album:: [[The Captain and Me]]]
+[Album:: [[The Captain and Me (1973)]]]
 [Year:: 1973]
 ### Dates
 ````dataview

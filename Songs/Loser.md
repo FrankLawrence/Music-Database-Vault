@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:54]
-[Artist:: [[Beck]]]
+[Artist:: [[Beck]] ]
 [Genre:: Alternative Rock]
 [Played:: 6]
-[Album:: [[Mellow Gold]]]
+[Album:: [[Mellow Gold (1992)]]]
 [Year:: 1992]
 ### Dates
 ````dataview

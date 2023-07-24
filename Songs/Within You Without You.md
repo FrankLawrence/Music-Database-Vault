@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:05]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: ]
 [Played:: ]
-[Album:: [[Sgt. Pepper's Lonely Hearts Club Band]]]
+[Album:: [[Sgt. Pepper's Lonely Hearts Club Band ()]]]
 [Year:: ]
 ### Dates
 ````dataview

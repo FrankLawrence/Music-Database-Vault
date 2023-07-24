@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 6:00]
-[Artist:: [[Michael Jackson]]]
+[Artist:: [[Michael Jackson]] ]
 [Genre:: Disco]
 [Played:: 7]
-[Album:: [[Thriller]]]
+[Album:: [[Thriller (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

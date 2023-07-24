@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:30]
-[Artist:: [[Nathan Dawe (feat. KSI)]]]
+[Artist:: [[Nathan Dawe (feat. KSI)]] ]
 [Genre:: House]
 [Played:: 1]
-[Album:: [[Lighter]]]
+[Album:: [[Lighter (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

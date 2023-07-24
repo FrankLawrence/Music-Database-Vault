@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 7:34]
-[Artist:: [[Billy Joel]]]
+[Artist:: [[Billy Joel]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Piano Man]]]
+[Album:: [[Piano Man (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

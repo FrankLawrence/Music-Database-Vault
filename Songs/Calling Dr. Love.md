@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:46]
-[Artist:: [[Kiss]]]
+[Artist:: [[Kiss]] ]
 [Genre:: Rock]
 [Played:: 26]
-[Album:: [[Rock and Roll Over]]]
+[Album:: [[Rock and Roll Over (1976)]]]
 [Year:: 1976]
 ### Dates
 ````dataview

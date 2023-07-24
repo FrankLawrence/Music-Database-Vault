@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:29]
-[Artist:: [[Tom Jones & Mousse T.]]]
+[Artist:: [[Tom Jones & Mousse T.]] ]
 [Genre:: Pop Rock]
 [Played:: 2]
-[Album:: [[Reload]]]
+[Album:: [[Reload (1999)]]]
 [Year:: 1999]
 ### Dates
 ````dataview

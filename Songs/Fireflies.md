@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:45]
-[Artist:: [[Owl City]]]
+[Artist:: [[Owl City]] ]
 [Genre:: Synth-Pop]
 [Played:: 24]
-[Album:: [[Ocean Eyes]]]
+[Album:: [[Ocean Eyes (2009)]]]
 [Year:: 2009]
 ### Dates
 ````dataview

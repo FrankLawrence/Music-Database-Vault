@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:27]
-[Artist:: [[ALLE FARBEN]]]
+[Artist:: [[ALLE FARBEN]] ]
 [Genre:: Rock Pop]
 [Played:: ]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 2019]
 ### Dates
 ````dataview

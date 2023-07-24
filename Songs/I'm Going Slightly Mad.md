@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:08]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: 38]
-[Album:: [[Innuendo]]]
+[Album:: [[Innuendo (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

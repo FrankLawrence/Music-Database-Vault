@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:07]
-[Artist:: [[Alicia Bridges]]]
+[Artist:: [[Alicia Bridges]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Pure Disco]]]
+[Album:: [[Pure Disco (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

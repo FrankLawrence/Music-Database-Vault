@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:57]
-[Artist:: [[J.J. Cale]]]
+[Artist:: [[J.J. Cale]] ]
 [Genre:: Blues]
 [Played:: 2]
-[Album:: [[Really]]]
+[Album:: [[Really (1973)]]]
 [Year:: 1973]
 ### Dates
 ````dataview

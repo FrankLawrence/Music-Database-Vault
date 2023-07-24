@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 3:17]
-[Artist:: [[Gorillaz ft. D.R.A.M.]]]
+[Artist:: [[Gorillaz]] [[D.R.A.M.]] ]
 [Genre:: Electropop]
 [Played:: 1]
-[Album:: [[Humanz]]]
+[Album:: [[Humanz (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

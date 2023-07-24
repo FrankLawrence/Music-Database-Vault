@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:10]
-[Artist:: [[Jermaine Jackson ft. Pia Zadora]]]
+[Artist:: [[Jermaine Jackson]] [[Pia Zadora]] ]
 [Genre:: Synth-Pop]
 [Played:: 30]
-[Album:: [[Jermaine Jackson]]]
+[Album:: [[Jermaine Jackson (1984)]]]
 [Year:: 1984]
 ### Dates
 ````dataview

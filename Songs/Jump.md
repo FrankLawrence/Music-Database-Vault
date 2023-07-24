@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 4:04]
-[Artist:: [[Van Halen]]]
+[Artist:: [[Van Halen]] ]
 [Genre:: Rock]
 [Played:: 15]
-[Album:: [[Jump]]]
+[Album:: [[Jump (1984)]]]
 [Year:: 1984]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:29]
-[Artist:: [[Rascal Flatts]]]
+[Artist:: [[Rascal Flatts]] ]
 [Genre:: Hard Rock]
 [Played:: 26]
-[Album:: [[Me and My Gang]]]
+[Album:: [[Me and My Gang (2006)]]]
 [Year:: 2006]
 ### Dates
 ````dataview

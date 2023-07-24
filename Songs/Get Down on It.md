@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:36]
-[Artist:: [[Kool & The Gang]]]
+[Artist:: [[Kool & The Gang]] ]
 [Genre:: Funk]
 [Played:: 3]
-[Album:: [[Something Special]]]
+[Album:: [[Something Special (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

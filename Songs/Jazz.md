@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 47:20]
-[Artist:: [[Jazz]]]
+[Artist:: [[Jazz]] ]
 [Genre:: Jazz]
 [Played:: 1]
-[Album:: [[BASF Jazz side A]]]
+[Album:: [[BASF Jazz side A ()]]]
 [Year:: ]
 ### Dates
 ````dataview

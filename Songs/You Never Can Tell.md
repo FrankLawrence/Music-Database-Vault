@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:41]
-[Artist:: [[Chuck Berry]]]
+[Artist:: [[Chuck Berry]] ]
 [Genre:: Rock]
 [Played:: 3]
-[Album:: [[St. Louis to Liverpool]]]
+[Album:: [[St. Louis to Liverpool (1964)]]]
 [Year:: 1964]
 ### Dates
 ````dataview

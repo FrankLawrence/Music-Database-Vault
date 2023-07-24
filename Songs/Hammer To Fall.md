@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 3:41]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[The Works]]]
+[Album:: [[The Works (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:44]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: 64]
-[Album:: [[The Visitors]]]
+[Album:: [[The Visitors (1981)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

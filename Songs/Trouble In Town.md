@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:42]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Soft Rock]
 [Played:: 15]
-[Album:: [[Everyday Life]]]
+[Album:: [[Everyday Life (2019)]]]
 [Year:: 2019]
 ### Dates
 ````dataview

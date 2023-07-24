@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:50]
-[Artist:: [[Candy Dulfer]]]
+[Artist:: [[Candy Dulfer]] ]
 [Genre:: Jazz]
 [Played:: 4]
-[Album:: [[Jazz]]]
+[Album:: [[Jazz (1997)]]]
 [Year:: 1997]
 ### Dates
 ````dataview

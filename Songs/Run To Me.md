@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:07]
-[Artist:: [[Bee Gees]]]
+[Artist:: [[Bee Gees]] ]
 [Genre:: Pop Rock]
 [Played:: 47]
-[Album:: [[To Whom It May Concern]]]
+[Album:: [[To Whom It May Concern (1972)]]]
 [Year:: 1972]
 ### Dates
 ````dataview

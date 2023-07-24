@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:54]
-[Artist:: [[Coldplay]]]
+[Artist:: [[Coldplay]] ]
 [Genre:: Soft Rock]
 [Played:: 2]
-[Album:: [[Kaleidoscope]]]
+[Album:: [[Kaleidoscope (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

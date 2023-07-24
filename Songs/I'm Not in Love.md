@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 6:00]
-[Artist:: [[10cc]]]
+[Artist:: [[10cc]] ]
 [Genre:: Soft Rock]
 [Played:: 57]
-[Album:: [[The Original Soundtrack]]]
+[Album:: [[The Original Soundtrack (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

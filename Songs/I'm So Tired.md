@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:04]
-[Artist:: [[The Beatles]]]
+[Artist:: [[The Beatles]] ]
 [Genre:: Rock]
 [Played:: 1]
-[Album:: [[The Beatles]]]
+[Album:: [[The Beatles (1968)]]]
 [Year:: 1968]
 ### Dates
 ````dataview

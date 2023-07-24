@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:30]
-[Artist:: [[La Bouche]]]
+[Artist:: [[La Bouche]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Greatest Hits]]]
+[Album:: [[Greatest Hits (1998)]]]
 [Year:: 1998]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:57]
-[Artist:: [[Smash Mouth]]]
+[Artist:: [[Smash Mouth]] ]
 [Genre:: Pop Rock]
 [Played:: 7]
-[Album:: [[Astro Lounge]]]
+[Album:: [[Astro Lounge (1999)]]]
 [Year:: 1999]
 ### Dates
 ````dataview

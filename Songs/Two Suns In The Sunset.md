@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 5:19]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Art rock]
 [Played:: 4]
-[Album:: [[The Final Cut]]]
+[Album:: [[The Final Cut (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

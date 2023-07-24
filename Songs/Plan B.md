@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:46]
-[Artist:: [[Udo Lindenberg]]]
+[Artist:: [[Udo Lindenberg]] ]
 [Genre:: Rock]
 [Played:: 14]
-[Album:: [[Stärker Als Die Zeit]]]
+[Album:: [[Stärker Als Die Zeit (2016)]]]
 [Year:: 2016]
 ### Dates
 ````dataview

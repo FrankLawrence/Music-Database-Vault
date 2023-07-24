@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:51]
-[Artist:: [[Spandau Ballet]]]
+[Artist:: [[Spandau Ballet]] ]
 [Genre:: New Wave]
 [Played:: 55]
-[Album:: [[TRUE]]]
+[Album:: [[TRUE (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

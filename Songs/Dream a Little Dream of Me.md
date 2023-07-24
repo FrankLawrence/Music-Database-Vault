@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:16]
-[Artist:: [[The Mamas & The Papas]]]
+[Artist:: [[The Mamas & The Papas]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[The Papas & The Mamas]]]
+[Album:: [[The Papas & The Mamas (1968)]]]
 [Year:: 1968]
 ### Dates
 ````dataview

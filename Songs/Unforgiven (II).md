@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 6:36]
-[Artist:: [[Metallica]]]
+[Artist:: [[Metallica]] ]
 [Genre:: Heavy metal]
 [Played:: 4]
-[Album:: [[Reload]]]
+[Album:: [[Reload (1998)]]]
 [Year:: 1998]
 ### Dates
 ````dataview

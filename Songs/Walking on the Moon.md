@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 5:01]
-[Artist:: [[The Police]]]
+[Artist:: [[The Police]] ]
 [Genre:: Reggae]
 [Played:: 21]
-[Album:: [[Reggatta de Blanc]]]
+[Album:: [[Reggatta de Blanc (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

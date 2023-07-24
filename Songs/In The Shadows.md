@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:52]
-[Artist:: [[The Rasmus]]]
+[Artist:: [[The Rasmus]] ]
 [Genre:: Alternative Rock]
 [Played:: 9]
-[Album:: [[Dead Letters]]]
+[Album:: [[Dead Letters (2003)]]]
 [Year:: 2003]
 ### Dates
 ````dataview

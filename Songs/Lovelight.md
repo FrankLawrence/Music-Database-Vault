@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 3:20]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Greatest Hits Vol. 2]]]
+[Album:: [[Greatest Hits Vol. 2 (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

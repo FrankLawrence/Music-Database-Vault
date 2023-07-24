@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 5:39]
-[Artist:: [[Bob James]]]
+[Artist:: [[Bob James]] ]
 [Genre:: Jazz]
 [Played:: 7]
-[Album:: [[The Very Best Of Smooth Jazz [Disc 1]]]]
+[Album:: [[The Very Best Of Smooth Jazz [Disc 1] (1978)]]]
 [Year:: 1978]
 ### Dates
 ````dataview

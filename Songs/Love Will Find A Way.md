@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 5:54]
-[Artist:: [[Lionel Richie]]]
+[Artist:: [[Lionel Richie]] ]
 [Genre:: R&B]
 [Played:: ]
-[Album:: [[Can't Slow Down]]]
+[Album:: [[Can't Slow Down (1983)]]]
 [Year:: 1983]
 ### Dates
 ````dataview

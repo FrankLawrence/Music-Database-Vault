@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:06]
-[Artist:: [[Diana Ross]]]
+[Artist:: [[Diana Ross]] ]
 [Genre:: R&B]
 [Played:: 6]
-[Album:: [[Diana]]]
+[Album:: [[Diana (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

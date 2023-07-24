@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:52]
-[Artist:: [[George Harrison]]]
+[Artist:: [[George Harrison]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Cloud Nine]]]
+[Album:: [[Cloud Nine (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

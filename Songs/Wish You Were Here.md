@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 5:40]
-[Artist:: [[Pink Floyd]]]
+[Artist:: [[Pink Floyd]] ]
 [Genre:: Pop]
 [Played:: 8]
-[Album:: [[Wish You Were Here]]]
+[Album:: [[Wish You Were Here (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

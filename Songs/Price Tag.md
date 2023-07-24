@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 3:45]
-[Artist:: [[Jessie J Feat. B.o.B.]]]
+[Artist:: [[Jessie J]] [[B.o.B.]] ]
 [Genre:: Pop]
 [Played:: 1]
-[Album:: [[Price Tag]]]
+[Album:: [[Price Tag (2011)]]]
 [Year:: 2011]
 ### Dates
 ````dataview

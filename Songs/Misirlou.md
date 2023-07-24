@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 2:16]
-[Artist:: [[Dick Dale]]]
+[Artist:: [[Dick Dale]] ]
 [Genre:: Instrumental Rock]
 [Played:: 15]
-[Album:: [[]]]
+[Album:: ]
 [Year:: 1962]
 ### Dates
 ````dataview

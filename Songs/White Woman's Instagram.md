@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:07]
-[Artist:: [[Bo Burnham]]]
+[Artist:: [[Bo Burnham]] ]
 [Genre:: Pop]
 [Played:: 20]
-[Album:: [[Inside]]]
+[Album:: [[Inside (2020)]]]
 [Year:: 2020]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 1:30]
-[Artist:: [[Shinsei Kamattechan]]]
+[Artist:: [[Shinsei Kamattechan]] ]
 [Genre:: Anime]
 [Played:: 7]
-[Album:: [[Attack on Titan Original Soundtrack]]]
+[Album:: [[Attack on Titan Original Soundtrack (2021)]]]
 [Year:: 2021]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 4:15]
-[Artist:: [[Bonnie Tyler]]]
+[Artist:: [[Bonnie Tyler]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

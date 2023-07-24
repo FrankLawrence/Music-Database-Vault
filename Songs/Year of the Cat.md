@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 6:37]
-[Artist:: [[Al Stewart]]]
+[Artist:: [[Al Stewart]] ]
 [Genre:: Rock]
 [Played:: 30]
-[Album:: [[Ultimate FM Gold]]]
+[Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
 ````dataview

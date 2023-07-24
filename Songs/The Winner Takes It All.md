@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:56]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Electronic, Pop]
 [Played:: 8]
-[Album:: [[Super Trouper]]]
+[Album:: [[Super Trouper (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

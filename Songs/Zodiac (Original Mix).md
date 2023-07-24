@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 3:54]
-[Artist:: [[Maddix]]]
+[Artist:: [[Maddix]] ]
 [Genre:: Dance]
 [Played:: 2]
-[Album:: [[Zodiac]]]
+[Album:: [[Zodiac (2016)]]]
 [Year:: 2016]
 ### Dates
 ````dataview

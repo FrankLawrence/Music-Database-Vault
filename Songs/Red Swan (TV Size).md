@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 1:30]
-[Artist:: [[Yoshiki feat. Hyde]]]
+[Artist:: [[Yoshiki]] [[Hyde]] ]
 [Genre:: Anime]
 [Played:: 19]
-[Album:: [[Attack on Titan Original Soundtrack]]]
+[Album:: [[Attack on Titan Original Soundtrack ()]]]
 [Year:: ]
 ### Dates
 ````dataview

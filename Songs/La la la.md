@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:04]
-[Artist:: [[Naughty Boy ft. Sam Smith]]]
+[Artist:: [[Naughty Boy]] [[Sam Smith]] ]
 [Genre:: Pop]
 [Played:: ]
-[Album:: [[Hotel Cabana]]]
+[Album:: [[Hotel Cabana (2013)]]]
 [Year:: 2013]
 ### Dates
 ````dataview

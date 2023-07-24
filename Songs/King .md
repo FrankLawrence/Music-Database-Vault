@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:54]
-[Artist:: [[Years & Years]]]
+[Artist:: [[Years & Years]] ]
 [Genre:: Synth-Pop]
 [Played:: 29]
-[Album:: [[Communion]]]
+[Album:: [[Communion (2015)]]]
 [Year:: 2015]
 ### Dates
 ````dataview

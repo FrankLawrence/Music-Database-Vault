@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:16]
-[Artist:: [[Bee Gees]]]
+[Artist:: [[Bee Gees]] ]
 [Genre:: Disco]
 [Played:: 15]
-[Album:: [[Saturday Night Fever]]]
+[Album:: [[Saturday Night Fever (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

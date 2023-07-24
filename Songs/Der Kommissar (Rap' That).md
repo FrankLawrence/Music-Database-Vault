@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 3:53]
-[Artist:: [[Falco]]]
+[Artist:: [[Falco]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Falco Hit Singles]]]
+[Album:: [[Falco Hit Singles (1982)]]]
 [Year:: 1982]
 ### Dates
 ````dataview

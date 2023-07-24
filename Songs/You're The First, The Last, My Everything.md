@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 4:35]
-[Artist:: [[Barry White]]]
+[Artist:: [[Barry White]] ]
 [Genre:: R&B]
 [Played:: 8]
-[Album:: [[Can't Get Enough]]]
+[Album:: [[Can't Get Enough (1975)]]]
 [Year:: 1975]
 ### Dates
 ````dataview

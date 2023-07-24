@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 2:40]
-[Artist:: [[The Temptations]]]
+[Artist:: [[The Temptations]] ]
 [Genre:: Jazz]
 [Played:: 3]
-[Album:: [[The Very Best Of Smooth Jazz [Disc 1]]]]
+[Album:: [[The Very Best Of Smooth Jazz [Disc 1] (1964)]]]
 [Year:: 1964]
 ### Dates
 ````dataview

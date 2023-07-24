@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 3:48]
-[Artist:: [[Bring Me The Horizon]]]
+[Artist:: [[Bring Me The Horizon]] ]
 [Genre:: Rock]
 [Played:: 38]
-[Album:: [[Sempiternal]]]
+[Album:: [[Sempiternal (2013)]]]
 [Year:: 2013]
 ### Dates
 ````dataview

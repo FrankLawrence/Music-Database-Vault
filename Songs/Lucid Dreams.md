@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 3:50]
-[Artist:: [[Juice WRLD]]]
+[Artist:: [[Juice WRLD]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: ]
-[Album:: [[Goodbye & Good Riddance]]]
+[Album:: [[Goodbye & Good Riddance (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

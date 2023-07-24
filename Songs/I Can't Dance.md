@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐ 
 ---
 [Time:: 4:50]
-[Artist:: [[Genesis]]]
+[Artist:: [[Genesis]] ]
 [Genre:: Blues Rock]
 [Played:: ]
-[Album:: [[We can't Dance]]]
+[Album:: [[We can't Dance (1991)]]]
 [Year:: 1991]
 ### Dates
 ````dataview

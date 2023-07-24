@@ -2,10 +2,10 @@
 tags: Song ⭐⭐ 
 ---
 [Time:: 4:03]
-[Artist:: [[Queen]]]
+[Artist:: [[Queen]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[A Kind of Magic]]]
+[Album:: [[A Kind of Magic (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

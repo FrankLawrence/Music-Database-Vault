@@ -2,10 +2,10 @@
 tags: Song  
 ---
 [Time:: 5:33]
-[Artist:: [[Billy Idol]]]
+[Artist:: [[Billy Idol]] ]
 [Genre:: Rock]
 [Played:: ]
-[Album:: [[Vital Idol]]]
+[Album:: [[Vital Idol (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview

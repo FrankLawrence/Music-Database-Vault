@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 
 ---
 [Time:: 2:57]
-[Artist:: [[ABBA]]]
+[Artist:: [[ABBA]] ]
 [Genre:: Rock, Pop]
 [Played:: 8]
-[Album:: [[Waterloo]]]
+[Album:: [[Waterloo (2011)]]]
 [Year:: 2011]
 ### Dates
 ````dataview

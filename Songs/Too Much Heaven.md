@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:57]
-[Artist:: [[Bee Gees]]]
+[Artist:: [[Bee Gees]] ]
 [Genre:: Disco]
 [Played:: 1]
-[Album:: [[Spirits Having Flown]]]
+[Album:: [[Spirits Having Flown (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview

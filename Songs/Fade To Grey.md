@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐⭐ 💛
 ---
 [Time:: 8:35]
-[Artist:: [[Visage]]]
+[Artist:: [[Visage]] ]
 [Genre:: Synth-Pop]
 [Played:: 10]
-[Album:: [[Visage]]]
+[Album:: [[Visage (1980)]]]
 [Year:: 1980]
 ### Dates
 ````dataview

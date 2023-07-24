@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:10]
-[Artist:: [[Zucchero]]]
+[Artist:: [[Zucchero]] ]
 [Genre:: Rock/Pop]
 [Played:: 1]
-[Album:: [[Shake]]]
+[Album:: [[Shake (2001)]]]
 [Year:: 2001]
 ### Dates
 ````dataview

@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:04]
-[Artist:: [[Aftermarket & Max Adrian]]]
+[Artist:: [[Aftermarket & Max Adrian]] ]
 [Genre:: Electro House]
 [Played:: 4]
-[Album:: [[Payback]]]
+[Album:: [[Payback (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

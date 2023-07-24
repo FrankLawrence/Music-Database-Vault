@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:47]
-[Artist:: [[Blue Mitchell]]]
+[Artist:: [[Blue Mitchell]] ]
 [Genre:: ]
 [Played:: 8]
-[Album:: [[]]]
+[Album:: ]
 [Year:: ]
 ### Dates
 ````dataview

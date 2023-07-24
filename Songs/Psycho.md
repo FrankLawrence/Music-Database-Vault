@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 2:57]
-[Artist:: [[Post Malone ft. Ty Dolla $ign]]]
+[Artist:: [[Post Malone]] [[Ty Dolla $ign]] ]
 [Genre:: R&B]
 [Played:: 11]
-[Album:: [[Beerbongs & Bentleys]]]
+[Album:: [[Beerbongs & Bentleys (2018)]]]
 [Year:: 2018]
 ### Dates
 ````dataview

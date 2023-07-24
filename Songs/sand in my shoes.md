@@ -2,10 +2,10 @@
 tags: Song ⭐⭐⭐⭐ 
 ---
 [Time:: 4:59]
-[Artist:: [[Dido]]]
+[Artist:: [[Dido]] ]
 [Genre:: Pop]
 [Played:: 17]
-[Album:: [[Sand in my Shoes]]]
+[Album:: [[Sand in my Shoes (2003)]]]
 [Year:: 2003]
 ### Dates
 ````dataview
