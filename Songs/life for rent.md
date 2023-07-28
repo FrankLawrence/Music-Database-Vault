@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "life for rent"
+WHERE Favorite_Song = [[life for rent]]
 ````

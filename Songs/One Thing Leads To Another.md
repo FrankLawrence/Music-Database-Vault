@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "One Thing Leads To Another"
+WHERE Favorite_Song = [[One Thing Leads To Another]]
 ````

@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "I'm Afraid Of Americans"
+WHERE Favorite_Song = [[I'm Afraid Of Americans]]
 ````

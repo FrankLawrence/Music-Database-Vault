@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Darum lieb' ich Dich noch mehr"
+WHERE Favorite_Song = [[Darum lieb' ich Dich noch mehr]]
 ````

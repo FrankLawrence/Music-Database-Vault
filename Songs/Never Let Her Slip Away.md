@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Never Let Her Slip Away"
+WHERE Favorite_Song = [[Never Let Her Slip Away]]
 ````

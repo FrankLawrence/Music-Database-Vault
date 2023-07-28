@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Welcome to the Internet"
+WHERE Favorite_Song = [[Welcome to the Internet]]
 ````

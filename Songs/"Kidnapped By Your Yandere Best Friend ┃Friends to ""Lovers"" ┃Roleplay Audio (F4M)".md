@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = ""Kidnapped By Your Yandere Best Friend ┃Friends to ""Lovers"" ┃Roleplay Audio (F4M)""
+WHERE Favorite_Song = [["Kidnapped By Your Yandere Best Friend ┃Friends to ""Lovers"" ┃Roleplay Audio (F4M)"]]
 ````

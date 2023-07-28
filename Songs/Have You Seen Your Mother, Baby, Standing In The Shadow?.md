@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Have You Seen Your Mother, Baby, Standing In The Shadow?"
+WHERE Favorite_Song = [[Have You Seen Your Mother, Baby, Standing In The Shadow?]]
 ````

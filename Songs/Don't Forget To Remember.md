@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Don't Forget To Remember"
+WHERE Favorite_Song = [[Don't Forget To Remember]]
 ````

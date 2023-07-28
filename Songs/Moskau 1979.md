@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Moskau 1979"
+WHERE Favorite_Song = [[Moskau 1979]]
 ````

@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "The Sun Always Shines on T.V."
+WHERE Favorite_Song = [[The Sun Always Shines on T.V.]]
 ````

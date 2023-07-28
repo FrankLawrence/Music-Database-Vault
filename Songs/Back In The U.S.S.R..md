@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Back In The U.S.S.R."
+WHERE Favorite_Song = [[Back In The U.S.S.R.]]
 ````

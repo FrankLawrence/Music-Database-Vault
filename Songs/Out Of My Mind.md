@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Out Of My Mind"
+WHERE Favorite_Song = [[Out Of My Mind]]
 ````

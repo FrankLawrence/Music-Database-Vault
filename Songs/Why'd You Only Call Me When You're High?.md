@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Why'd You Only Call Me When You're High?"
+WHERE Favorite_Song = [[Why'd You Only Call Me When You're High?]]
 ````

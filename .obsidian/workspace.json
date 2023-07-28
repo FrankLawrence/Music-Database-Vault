@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b3dc18e2e2097d9",
+            "id": "ca4f71c267221ff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs.md",
+                "file": "Script Idea.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3fdc8218e9e97ac1",
+            "id": "8a82453369fc96d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most Played.md",
+                "file": "Favorite Songs.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -34,7 +34,33 @@
             }
           },
           {
-            "id": "30c6593863fbe03f",
+            "id": "a30a127c21773c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Lady (Hear Me Tonight).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b894659f656e7e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-07-16.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "106eb2bb700f9f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,48 +71,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "a1c5a047a93fdff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-06-21.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4efb3ba165a002dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/On Noodle Street.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f0c603c7a999a4d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Favorite Songs.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/On Noodle Street.md",
+                "file": "Songs/Lady (Hear Me Tonight).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/On Noodle Street.md",
+                "file": "Songs/Lady (Hear Me Tonight).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/On Noodle Street.md"
+                "file": "Songs/Lady (Hear Me Tonight).md"
               }
             }
           }
@@ -243,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Songs/On Noodle Street.md",
+                "file": "Songs/Lady (Hear Me Tonight).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -296,58 +283,58 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4efb3ba165a002dd",
+  "active": "a30a127c21773c54",
   "lastOpenFiles": [
-    "Daily Notes/2023-06-21.md",
-    "Daily Notes/2023-06-22.md",
-    "Daily Notes/2023-06-23.md",
-    "Daily Notes/2023-06-24.md",
-    "Daily Notes/2023-06-25.md",
-    "Daily Notes/2023-06-26.md",
-    "Daily Notes/2023-06-27.md",
-    "Daily Notes/2023-06-28.md",
-    "Daily Notes/2023-06-29.md",
-    "Daily Notes/2023-06-30.md",
-    "Daily Notes/2023-07-01.md",
-    "Daily Notes/2023-07-02.md",
-    "Daily Notes/2023-07-03.md",
-    "Daily Notes/2023-07-04.md",
-    "Daily Notes/2023-07-05.md",
-    "Daily Notes/2023-07-06.md",
-    "Daily Notes/Favorite Songs.md",
+    "Daily Notes/2023-07-27.md",
+    "Songs/Lady (Hear Me Tonight).md",
+    "Favorite Songs.md",
+    "Script Idea.md",
+    "Songs/Rasputin.md",
+    "Daily Notes/2023-07-16.md",
+    "Daily Notes/2023-07-17.md",
+    "Daily Notes/2023-07-18.md",
+    "Songs/Speed Of Sound.md",
+    "Songs/Here Is The News.md",
+    "Daily Notes/2023-07-19.md",
+    "Daily Notes/2023-07-20.md",
+    "Daily Notes/2023-07-21.md",
+    "Daily Notes/2023-07-22.md",
+    "Daily Notes/2023-07-23.md",
+    "Songs/Lay All Your Love On Me.md",
     "Daily Notes/2023-07-24.md",
-    "Daily Notes/2023-06-09.md",
-    "Daily Notes/2023-07-07.md",
-    "Daily Notes/2023-07-08.md",
-    "Daily Notes/2023-07-09.md",
-    "Daily Notes/2023-07-10.md",
-    "Daily Notes/2023-07-11.md",
-    "Daily Notes/2023-07-12.md",
-    "Daily Notes/2023-07-13.md",
+    "Daily Notes/2023-07-25.md",
+    "Daily Notes/2023-07-26.md",
+    "Songs/Riders on the Storm.md",
+    "Daily Notes/2023-07-28.md",
+    "Songs/Welcome to the World.md",
+    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
+    "Songs/Wish You Were Here.md",
+    "Album Covers/Demon Days.jpg",
+    "Album Covers/Abracadabra.png",
+    "Album Covers/A Head Full of Dreams.jpg",
+    "Album Covers/Yellow Submarine.png",
+    "Album Covers/1.jpg",
+    "Album Covers/The Best Of Aretha Franklin.jpg",
+    "Album Covers/Bad.png",
+    "Album Covers/ABBA.png",
+    "Album Covers/The John Lennon Collection.jpg",
+    "Album Covers/Hot Chocolate Their Greatest Hits.png",
+    "Album Covers",
+    "Songs.md",
+    "Most Played.md",
+    "Songs",
     "Templates",
     "Daily Notes",
-    "Songs",
     "Genres",
     "Series",
     "Movies",
     "01 Shine On You Crazy Diamond Pt. 1-5.mp3",
     "Miscellaneous/movies.js",
     "Miscellaneous",
-    "Movies 2",
     "Personal/;).canvas",
-    "Banners/The Dark Side of the Moon Album wallpaper Rosé pine.jpeg",
-    "Banners/E3wGdziUYAENJU_.jpeg",
-    "Banners/blockwavemoon.png",
-    "Files/Subspaces associated with a linear transformation.png",
     "Computer Programming/Projects/Clinical Trials API.canvas",
-    "Files/Is every b the image of at most one vector?.png",
-    "Files/Is the range of T all of R^m.png",
     "Computer Programming/Computer Networks/Network Layer Model.canvas",
-    "Files/Additive Increase Multiplicative Decrease control law.png",
-    "Files/Additive and multiplicative bandwidth adjustments.png",
-    "Files/Max-min bandwidth allocation for four flows.png",
     "Untitled.canvas",
-    "Files/Pasted image 20230529233606.png",
     "Computer Programming/Computer Networks/Sliding Windows Abnormal case.canvas",
     "Computer Programming/Computer Organization/A five-stage organization.canvas",
     "Computer Programming/Information Management for CS/An industry and its competitive forces.canvas",

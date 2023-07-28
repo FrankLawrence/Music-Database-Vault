@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Alan's Psychedelic Breakfast"
+WHERE Favorite_Song = [[Alan's Psychedelic Breakfast]]
 ````

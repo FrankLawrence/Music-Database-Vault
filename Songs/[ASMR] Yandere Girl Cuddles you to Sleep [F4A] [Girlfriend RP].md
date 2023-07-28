@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "[ASMR] Yandere Girl Cuddles you to Sleep [F4A] [Girlfriend RP]"
+WHERE Favorite_Song = [[[ASMR] Yandere Girl Cuddles you to Sleep [F4A] [Girlfriend RP]]]
 ````

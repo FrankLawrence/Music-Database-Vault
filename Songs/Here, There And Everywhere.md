@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Here, There And Everywhere"
+WHERE Favorite_Song = [[Here, There And Everywhere]]
 ````

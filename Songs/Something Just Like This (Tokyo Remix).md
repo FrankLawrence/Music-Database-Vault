@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Something Just Like This (Tokyo Remix)"
+WHERE Favorite_Song = [[Something Just Like This (Tokyo Remix)]]
 ````

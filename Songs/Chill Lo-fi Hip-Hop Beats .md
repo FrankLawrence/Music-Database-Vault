@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Chill Lo-fi Hip-Hop Beats "
+WHERE Favorite_Song = [[Chill Lo-fi Hip-Hop Beats ]]
 ````

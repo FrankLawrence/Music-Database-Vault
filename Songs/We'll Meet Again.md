@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "We'll Meet Again"
+WHERE Favorite_Song = [[We'll Meet Again]]
 ````

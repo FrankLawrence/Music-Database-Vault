@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Just Like Diamonds"
+WHERE Favorite_Song = [[Just Like Diamonds]]
 ````

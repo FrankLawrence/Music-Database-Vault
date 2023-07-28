@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Around My Heart"
+WHERE Favorite_Song = [[Around My Heart]]
 ````

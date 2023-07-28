@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Tears And Rain"
+WHERE Favorite_Song = [[Tears And Rain]]
 ````

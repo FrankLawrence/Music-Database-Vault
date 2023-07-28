@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "New York Mining Disaster 1941"
+WHERE Favorite_Song = [[New York Mining Disaster 1941]]
 ````

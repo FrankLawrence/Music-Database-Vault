@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "You Never Can Tell With Friends"
+WHERE Favorite_Song = [[You Never Can Tell With Friends]]
 ````

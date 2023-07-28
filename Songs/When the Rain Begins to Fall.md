@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "When the Rain Begins to Fall"
+WHERE Favorite_Song = [[When the Rain Begins to Fall]]
 ````

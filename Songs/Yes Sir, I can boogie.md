@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Yes Sir, I can boogie"
+WHERE Favorite_Song = [[Yes Sir, I can boogie]]
 ````

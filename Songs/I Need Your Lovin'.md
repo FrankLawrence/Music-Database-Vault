@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "I Need Your Lovin'"
+WHERE Favorite_Song = [[I Need Your Lovin']]
 ````

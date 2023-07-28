@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Good Luck Charm"
+WHERE Favorite_Song = [[Good Luck Charm]]
 ````

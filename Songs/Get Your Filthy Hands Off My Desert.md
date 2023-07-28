@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Get Your Filthy Hands Off My Desert"
+WHERE Favorite_Song = [[Get Your Filthy Hands Off My Desert]]
 ````

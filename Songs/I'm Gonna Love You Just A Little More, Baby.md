@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "I'm Gonna Love You Just A Little More, Baby"
+WHERE Favorite_Song = [[I'm Gonna Love You Just A Little More, Baby]]
 ````

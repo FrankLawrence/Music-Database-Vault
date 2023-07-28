@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Saved By The Bell"
+WHERE Favorite_Song = [[Saved By The Bell]]
 ````

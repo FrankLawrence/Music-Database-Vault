@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Another kind of Blues (Slap It) (Zion)"
+WHERE Favorite_Song = [[Another kind of Blues (Slap It) (Zion)]]
 ````

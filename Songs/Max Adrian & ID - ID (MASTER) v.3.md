@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Max Adrian & ID - ID (MASTER) v.3"
+WHERE Favorite_Song = [[Max Adrian & ID - ID (MASTER) v.3]]
 ````

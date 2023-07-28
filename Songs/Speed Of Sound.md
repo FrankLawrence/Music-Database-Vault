@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[X&Y.png]]"
 ---
 [Time:: 4:29]
 [Artist:: [[Coldplay]] ]
@@ -10,5 +11,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Speed Of Sound"
+WHERE Favorite_Song = [[Speed Of Sound]]
 ````

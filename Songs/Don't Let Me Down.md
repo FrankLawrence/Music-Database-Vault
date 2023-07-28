@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Don't Let Me Down"
+WHERE Favorite_Song = [[Don't Let Me Down]]
 ````

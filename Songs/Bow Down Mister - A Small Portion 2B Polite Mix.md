@@ -10,5 +10,5 @@ tags: Song  💔
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Bow Down Mister - A Small Portion 2B Polite Mix"
+WHERE Favorite_Song = [[Bow Down Mister - A Small Portion 2B Polite Mix]]
 ````

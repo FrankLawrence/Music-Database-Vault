@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "~Punished by a Dominant Yandere~ (Part 4)"
+WHERE Favorite_Song = [[~Punished by a Dominant Yandere~ (Part 4)]]
 ````

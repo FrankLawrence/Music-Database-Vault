@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Atom Heart Mother Suite"
+WHERE Favorite_Song = [[Atom Heart Mother Suite]]
 ````

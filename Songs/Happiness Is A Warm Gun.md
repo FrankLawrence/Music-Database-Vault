@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Happiness Is A Warm Gun"
+WHERE Favorite_Song = [[Happiness Is A Warm Gun]]
 ````

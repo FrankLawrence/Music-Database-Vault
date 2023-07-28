@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Can't Get Enough Of Your Love, Babe"
+WHERE Favorite_Song = [[Can't Get Enough Of Your Love, Babe]]
 ````

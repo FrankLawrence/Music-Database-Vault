@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Fight From The Inside"
+WHERE Favorite_Song = [[Fight From The Inside]]
 ````

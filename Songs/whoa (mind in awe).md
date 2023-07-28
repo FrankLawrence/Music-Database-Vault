@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "whoa (mind in awe)"
+WHERE Favorite_Song = [[whoa (mind in awe)]]
 ````

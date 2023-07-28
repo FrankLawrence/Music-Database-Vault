@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Too Low For Zero"
+WHERE Favorite_Song = [[Too Low For Zero]]
 ````

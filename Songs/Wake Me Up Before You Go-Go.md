@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Wake Me Up Before You Go-Go"
+WHERE Favorite_Song = [[Wake Me Up Before You Go-Go]]
 ````

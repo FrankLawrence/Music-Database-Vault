@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Somebody That I Used to Know"
+WHERE Favorite_Song = [[Somebody That I Used to Know]]
 ````

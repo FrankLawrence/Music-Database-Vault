@@ -10,5 +10,5 @@ tags: Song ⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Swallowed in the Sea"
+WHERE Favorite_Song = [[Swallowed in the Sea]]
 ````

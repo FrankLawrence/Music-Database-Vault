@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Always On My Mind"
+WHERE Favorite_Song = [[Always On My Mind]]
 ````

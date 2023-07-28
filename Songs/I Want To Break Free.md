@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "I Want To Break Free"
+WHERE Favorite_Song = [[I Want To Break Free]]
 ````

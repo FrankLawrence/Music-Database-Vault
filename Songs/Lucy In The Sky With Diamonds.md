@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Lucy In The Sky With Diamonds"
+WHERE Favorite_Song = [[Lucy In The Sky With Diamonds]]
 ````

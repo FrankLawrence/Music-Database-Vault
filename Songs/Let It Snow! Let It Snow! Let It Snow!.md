@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Let It Snow! Let It Snow! Let It Snow!"
+WHERE Favorite_Song = [[Let It Snow! Let It Snow! Let It Snow!]]
 ````

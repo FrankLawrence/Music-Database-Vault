@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Another Brick in the Wall Pt. 1"
+WHERE Favorite_Song = [[Another Brick in the Wall Pt. 1]]
 ````

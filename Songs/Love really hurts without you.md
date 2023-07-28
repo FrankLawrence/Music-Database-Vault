@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Love really hurts without you"
+WHERE Favorite_Song = [[Love really hurts without you]]
 ````

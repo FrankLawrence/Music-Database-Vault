@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Dr. Kimbel auf der Flucht (Stompin' at the Savoy)"
+WHERE Favorite_Song = [[Dr. Kimbel auf der Flucht (Stompin' at the Savoy)]]
 ````

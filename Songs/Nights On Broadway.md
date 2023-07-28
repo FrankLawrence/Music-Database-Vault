@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Nights On Broadway"
+WHERE Favorite_Song = [[Nights On Broadway]]
 ````

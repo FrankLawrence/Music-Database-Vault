@@ -10,5 +10,5 @@ tags: Song ⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "(Marie's The Name) His Latest Flame"
+WHERE Favorite_Song = [[(Marie's The Name) His Latest Flame]]
 ````

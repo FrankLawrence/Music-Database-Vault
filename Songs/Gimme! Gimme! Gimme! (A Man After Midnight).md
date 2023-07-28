@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Gimme! Gimme! Gimme! (A Man After Midnight)"
+WHERE Favorite_Song = [[Gimme! Gimme! Gimme! (A Man After Midnight)]]
 ````

@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Let's Go To San Francisco"
+WHERE Favorite_Song = [[Let's Go To San Francisco]]
 ````

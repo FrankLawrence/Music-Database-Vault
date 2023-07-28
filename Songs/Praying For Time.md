@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Praying For Time"
+WHERE Favorite_Song = [[Praying For Time]]
 ````

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Super Trouper.png]]"
 ---
 [Time:: 4:34]
 [Artist:: [[ABBA]] ]

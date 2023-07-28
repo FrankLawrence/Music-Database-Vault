@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "For The Love Of You"
+WHERE Favorite_Song = [[For The Love Of You]]
 ````

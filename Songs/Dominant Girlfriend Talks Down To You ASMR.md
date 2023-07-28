@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Dominant Girlfriend Talks Down To You ASMR"
+WHERE Favorite_Song = [[Dominant Girlfriend Talks Down To You ASMR]]
 ````

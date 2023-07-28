@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "What Do You Want From Me"
+WHERE Favorite_Song = [[What Do You Want From Me]]
 ````

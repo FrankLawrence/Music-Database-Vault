@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Astronaut in the Ocean"
+WHERE Favorite_Song = [[Astronaut in the Ocean]]
 ````

@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "(Now And Then There's) A Fool Such As I"
+WHERE Favorite_Song = [[(Now And Then There's) A Fool Such As I]]
 ````

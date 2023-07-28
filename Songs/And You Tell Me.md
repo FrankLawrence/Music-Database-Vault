@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "And You Tell Me"
+WHERE Favorite_Song = [[And You Tell Me]]
 ````

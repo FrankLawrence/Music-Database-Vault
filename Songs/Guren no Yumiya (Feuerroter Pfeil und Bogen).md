@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Guren no Yumiya (Feuerroter Pfeil und Bogen)"
+WHERE Favorite_Song = [[Guren no Yumiya (Feuerroter Pfeil und Bogen)]]
 ````

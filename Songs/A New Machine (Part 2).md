@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "A New Machine (Part 2)"
+WHERE Favorite_Song = [[A New Machine (Part 2)]]
 ````

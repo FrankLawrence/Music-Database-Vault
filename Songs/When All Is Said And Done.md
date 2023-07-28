@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "When All Is Said And Done"
+WHERE Favorite_Song = [[When All Is Said And Done]]
 ````

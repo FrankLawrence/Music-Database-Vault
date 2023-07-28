@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Pigs On The Wing (Part Two)"
+WHERE Favorite_Song = [[Pigs On The Wing (Part Two)]]
 ````

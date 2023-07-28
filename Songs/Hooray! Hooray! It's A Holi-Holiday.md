@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Hooray! Hooray! It's A Holi-Holiday"
+WHERE Favorite_Song = [[Hooray! Hooray! It's A Holi-Holiday]]
 ````

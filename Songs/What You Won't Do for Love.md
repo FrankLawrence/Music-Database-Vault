@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "What You Won't Do for Love"
+WHERE Favorite_Song = [[What You Won't Do for Love]]
 ````

@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Not Now John"
+WHERE Favorite_Song = [[Not Now John]]
 ````

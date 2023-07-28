@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Don't Stop Believin'"
+WHERE Favorite_Song = [[Don't Stop Believin']]
 ````

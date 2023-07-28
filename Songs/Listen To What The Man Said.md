@@ -10,5 +10,5 @@ tags: Song ⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Listen To What The Man Said"
+WHERE Favorite_Song = [[Listen To What The Man Said]]
 ````

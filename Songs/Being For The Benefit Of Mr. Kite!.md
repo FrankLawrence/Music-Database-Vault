@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Being For The Benefit Of Mr. Kite!"
+WHERE Favorite_Song = [[Being For The Benefit Of Mr. Kite!]]
 ````

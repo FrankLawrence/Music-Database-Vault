@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Hold the Line"
+WHERE Favorite_Song = [[Hold the Line]]
 ````

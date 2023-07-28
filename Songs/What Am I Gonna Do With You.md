@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "What Am I Gonna Do With You"
+WHERE Favorite_Song = [[What Am I Gonna Do With You]]
 ````

@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Was Hat Die Zeit Mit Uns Gemacht"
+WHERE Favorite_Song = [[Was Hat Die Zeit Mit Uns Gemacht]]
 ````

@@ -10,5 +10,5 @@ tags: Song ⭐ 💔
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Speech: Eric Morecambe And Ernie Wise"
+WHERE Favorite_Song = [[Speech: Eric Morecambe And Ernie Wise]]
 ````

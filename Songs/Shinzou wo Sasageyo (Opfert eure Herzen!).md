@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Shinzou wo Sasageyo (Opfert eure Herzen!)"
+WHERE Favorite_Song = [[Shinzou wo Sasageyo (Opfert eure Herzen!)]]
 ````

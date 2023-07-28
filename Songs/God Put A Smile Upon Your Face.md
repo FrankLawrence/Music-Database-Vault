@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "God Put A Smile Upon Your Face"
+WHERE Favorite_Song = [[God Put A Smile Upon Your Face]]
 ````

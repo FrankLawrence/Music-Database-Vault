@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "El Diablo Te Mando A Laredo"
+WHERE Favorite_Song = [[El Diablo Te Mando A Laredo]]
 ````

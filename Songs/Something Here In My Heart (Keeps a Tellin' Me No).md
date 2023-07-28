@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Something Here In My Heart (Keeps a Tellin' Me No)"
+WHERE Favorite_Song = [[Something Here In My Heart (Keeps a Tellin' Me No)]]
 ````

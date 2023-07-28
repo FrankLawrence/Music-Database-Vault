@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "More Than A Woman"
+WHERE Favorite_Song = [[More Than A Woman]]
 ````

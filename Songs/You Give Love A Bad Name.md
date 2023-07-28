@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "You Give Love A Bad Name"
+WHERE Favorite_Song = [[You Give Love A Bad Name]]
 ````

@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Shout It Out Loud (New Video Version)"
+WHERE Favorite_Song = [[Shout It Out Loud (New Video Version)]]
 ````

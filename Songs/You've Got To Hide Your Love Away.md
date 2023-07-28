@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "You've Got To Hide Your Love Away"
+WHERE Favorite_Song = [[You've Got To Hide Your Love Away]]
 ````

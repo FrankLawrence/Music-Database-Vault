@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Sweet Dreams (Are Made Of This)"
+WHERE Favorite_Song = [[Sweet Dreams (Are Made Of This)]]
 ````

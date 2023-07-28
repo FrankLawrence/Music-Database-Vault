@@ -10,5 +10,5 @@ tags: Song ⭐ 💔
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "sido-btight-hol-doch-die-polizei-bis-zur-sonne"
+WHERE Favorite_Song = [[sido-btight-hol-doch-die-polizei-bis-zur-sonne]]
 ````

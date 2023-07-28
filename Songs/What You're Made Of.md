@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "What You're Made Of"
+WHERE Favorite_Song = [[What You're Made Of]]
 ````

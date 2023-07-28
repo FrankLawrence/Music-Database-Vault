@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Hymn For The Weekend"
+WHERE Favorite_Song = [[Hymn For The Weekend]]
 ````

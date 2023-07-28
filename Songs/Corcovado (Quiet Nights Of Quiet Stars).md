@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Corcovado (Quiet Nights Of Quiet Stars)"
+WHERE Favorite_Song = [[Corcovado (Quiet Nights Of Quiet Stars)]]
 ````

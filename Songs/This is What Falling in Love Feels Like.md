@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "This is What Falling in Love Feels Like"
+WHERE Favorite_Song = [[This is What Falling in Love Feels Like]]
 ````

@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "I've Just Seen A Face"
+WHERE Favorite_Song = [[I've Just Seen A Face]]
 ````

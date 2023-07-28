@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Du knallst in mein Leben"
+WHERE Favorite_Song = [[Du knallst in mein Leben]]
 ````

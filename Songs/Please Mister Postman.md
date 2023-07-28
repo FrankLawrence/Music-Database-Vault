@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Please Mister Postman"
+WHERE Favorite_Song = [[Please Mister Postman]]
 ````

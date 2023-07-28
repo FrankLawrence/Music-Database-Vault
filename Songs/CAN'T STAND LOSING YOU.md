@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "CAN'T STAND LOSING YOU"
+WHERE Favorite_Song = [[CAN'T STAND LOSING YOU]]
 ````

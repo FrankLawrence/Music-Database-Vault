@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Wish You Were Here.jpg]]"
 ---
 [Time:: 5:40]
 [Artist:: [[Pink Floyd]] ]
@@ -10,5 +11,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Wish You Were Here"
+WHERE Favorite_Song = [[Wish You Were Here]]
 ````

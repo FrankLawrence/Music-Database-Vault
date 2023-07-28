@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Sgt. Pepper's Lonely Hearts Club Band"
+WHERE Favorite_Song = [[Sgt. Pepper's Lonely Hearts Club Band]]
 ````

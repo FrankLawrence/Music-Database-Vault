@@ -10,5 +10,5 @@ tags: Song ⭐ 💔
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Nichts haut einen Seemann um"
+WHERE Favorite_Song = [[Nichts haut einen Seemann um]]
 ````

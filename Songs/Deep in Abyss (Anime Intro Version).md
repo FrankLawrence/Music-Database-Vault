@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Deep in Abyss (Anime Intro Version)"
+WHERE Favorite_Song = [[Deep in Abyss (Anime Intro Version)]]
 ````

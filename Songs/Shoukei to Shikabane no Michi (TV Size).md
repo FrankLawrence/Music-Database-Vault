@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Shoukei to Shikabane no Michi (TV Size)"
+WHERE Favorite_Song = [[Shoukei to Shikabane no Michi (TV Size)]]
 ````

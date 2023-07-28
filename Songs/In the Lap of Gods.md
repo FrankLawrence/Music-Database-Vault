@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "In the Lap of Gods"
+WHERE Favorite_Song = [[In the Lap of Gods]]
 ````

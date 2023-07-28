@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "(I Just) Died in Your Arms"
+WHERE Favorite_Song = [[(I Just) Died in Your Arms]]
 ````

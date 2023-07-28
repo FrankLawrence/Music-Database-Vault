@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Plastic Beach.jpg]]"
 ---
 [Time:: 3:35]
 [Artist:: [[Gorillaz]] [[Snoop Dogg]] ]
@@ -10,5 +11,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Welcome to the World"
+WHERE Favorite_Song = [[Welcome to the World]]
 ````

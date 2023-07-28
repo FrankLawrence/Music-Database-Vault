@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Everybody Wants to Rule the World"
+WHERE Favorite_Song = [[Everybody Wants to Rule the World]]
 ````

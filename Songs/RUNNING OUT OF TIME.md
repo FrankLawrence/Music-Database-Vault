@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "RUNNING OUT OF TIME"
+WHERE Favorite_Song = [[RUNNING OUT OF TIME]]
 ````

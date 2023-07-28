@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "熱情のスペクトラム (Netsujo No Spectrum)"
+WHERE Favorite_Song = [[熱情のスペクトラム (Netsujo No Spectrum)]]
 ````

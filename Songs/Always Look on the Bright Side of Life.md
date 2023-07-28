@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Always Look on the Bright Side of Life"
+WHERE Favorite_Song = [[Always Look on the Bright Side of Life]]
 ````

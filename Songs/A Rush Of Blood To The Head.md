@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "A Rush Of Blood To The Head"
+WHERE Favorite_Song = [[A Rush Of Blood To The Head]]
 ````

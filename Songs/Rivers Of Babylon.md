@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Rivers Of Babylon"
+WHERE Favorite_Song = [[Rivers Of Babylon]]
 ````

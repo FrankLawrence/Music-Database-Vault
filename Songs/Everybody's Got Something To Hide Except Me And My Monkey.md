@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Everybody's Got Something To Hide Except Me And My Monkey"
+WHERE Favorite_Song = [[Everybody's Got Something To Hide Except Me And My Monkey]]
 ````

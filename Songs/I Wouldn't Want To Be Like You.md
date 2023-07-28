@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "I Wouldn't Want To Be Like You"
+WHERE Favorite_Song = [[I Wouldn't Want To Be Like You]]
 ````

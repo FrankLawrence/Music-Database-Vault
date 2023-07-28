@@ -10,5 +10,5 @@ tags: Song ⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "You Can't Always Get What You Want"
+WHERE Favorite_Song = [[You Can't Always Get What You Want]]
 ````

@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Max Adrian & Gryffin Mills -Fallin' (Dujak Edit) 1"
+WHERE Favorite_Song = [[Max Adrian & Gryffin Mills -Fallin' (Dujak Edit) 1]]
 ````

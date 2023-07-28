@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Late Nights Vol. 1  A Chill Hip Hop RB Mix 2016"
+WHERE Favorite_Song = [[Late Nights Vol. 1  A Chill Hip Hop RB Mix 2016]]
 ````

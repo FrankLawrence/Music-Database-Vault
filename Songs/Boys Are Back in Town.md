@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Boys Are Back in Town"
+WHERE Favorite_Song = [[Boys Are Back in Town]]
 ````

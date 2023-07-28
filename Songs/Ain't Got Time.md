@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Ain't Got Time"
+WHERE Favorite_Song = [[Ain't Got Time]]
 ````

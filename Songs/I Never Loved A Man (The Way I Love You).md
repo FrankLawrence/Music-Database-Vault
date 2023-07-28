@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "I Never Loved A Man (The Way I Love You)"
+WHERE Favorite_Song = [[I Never Loved A Man (The Way I Love You)]]
 ````

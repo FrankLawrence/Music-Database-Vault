@@ -10,5 +10,5 @@ tags: Song ⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Love Will Find A Way"
+WHERE Favorite_Song = [[Love Will Find A Way]]
 ````

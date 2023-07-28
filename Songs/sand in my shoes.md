@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "sand in my shoes"
+WHERE Favorite_Song = [[sand in my shoes]]
 ````

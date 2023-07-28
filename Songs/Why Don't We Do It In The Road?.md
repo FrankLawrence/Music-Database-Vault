@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Why Don't We Do It In The Road?"
+WHERE Favorite_Song = [[Why Don't We Do It In The Road?]]
 ````

@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "You're The First, The Last, My Everything"
+WHERE Favorite_Song = [[You're The First, The Last, My Everything]]
 ````

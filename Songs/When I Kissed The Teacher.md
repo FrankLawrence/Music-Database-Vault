@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "When I Kissed The Teacher"
+WHERE Favorite_Song = [[When I Kissed The Teacher]]
 ````

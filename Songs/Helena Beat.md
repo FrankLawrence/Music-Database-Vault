@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Helena Beat"
+WHERE Favorite_Song = [[Helena Beat]]
 ````

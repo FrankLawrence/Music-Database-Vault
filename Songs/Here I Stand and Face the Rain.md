@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Here I Stand and Face the Rain"
+WHERE Favorite_Song = [[Here I Stand and Face the Rain]]
 ````

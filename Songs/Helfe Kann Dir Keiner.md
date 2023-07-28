@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Helfe Kann Dir Keiner"
+WHERE Favorite_Song = [[Helfe Kann Dir Keiner]]
 ````

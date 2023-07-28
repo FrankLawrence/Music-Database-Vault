@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "We Have All The Time In The World"
+WHERE Favorite_Song = [[We Have All The Time In The World]]
 ````

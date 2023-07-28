@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Shine On You Crazy Diamond Pt. 6-9"
+WHERE Favorite_Song = [[Shine On You Crazy Diamond Pt. 6-9]]
 ````

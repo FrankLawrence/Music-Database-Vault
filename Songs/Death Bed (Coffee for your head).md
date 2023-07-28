@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Death Bed (Coffee for your head)"
+WHERE Favorite_Song = [[Death Bed (Coffee for your head)]]
 ````

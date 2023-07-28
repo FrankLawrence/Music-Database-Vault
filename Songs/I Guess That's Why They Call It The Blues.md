@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "I Guess That's Why They Call It The Blues"
+WHERE Favorite_Song = [[I Guess That's Why They Call It The Blues]]
 ````

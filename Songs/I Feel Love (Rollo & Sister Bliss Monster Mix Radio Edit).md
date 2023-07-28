@@ -10,5 +10,5 @@ tags: Song ⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "I Feel Love (Rollo & Sister Bliss Monster Mix Radio Edit)"
+WHERE Favorite_Song = [[I Feel Love (Rollo & Sister Bliss Monster Mix Radio Edit)]]
 ````

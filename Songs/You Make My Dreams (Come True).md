@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "You Make My Dreams (Come True)"
+WHERE Favorite_Song = [[You Make My Dreams (Come True)]]
 ````

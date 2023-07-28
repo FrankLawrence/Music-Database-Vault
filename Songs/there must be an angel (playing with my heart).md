@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "there must be an angel (playing with my heart)"
+WHERE Favorite_Song = [[there must be an angel (playing with my heart)]]
 ````

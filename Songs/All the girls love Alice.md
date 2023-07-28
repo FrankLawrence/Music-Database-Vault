@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "All the girls love Alice"
+WHERE Favorite_Song = [[All the girls love Alice]]
 ````

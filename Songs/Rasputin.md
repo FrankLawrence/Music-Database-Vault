@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Gold - 20 Super Hits.jpg]]"
 ---
 [Time:: 4:26]
 [Artist:: [[Boney M.]] ]

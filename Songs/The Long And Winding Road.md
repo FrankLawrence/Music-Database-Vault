@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "The Long And Winding Road"
+WHERE Favorite_Song = [[The Long And Winding Road]]
 ````

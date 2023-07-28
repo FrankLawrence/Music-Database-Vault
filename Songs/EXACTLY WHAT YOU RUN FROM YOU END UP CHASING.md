@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING"
+WHERE Favorite_Song = [[EXACTLY WHAT YOU RUN FROM YOU END UP CHASING]]
 ````

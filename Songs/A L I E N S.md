@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "A L I E N S"
+WHERE Favorite_Song = [[A L I E N S]]
 ````

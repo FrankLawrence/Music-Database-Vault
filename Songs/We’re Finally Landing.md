@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "We’re Finally Landing"
+WHERE Favorite_Song = [[We’re Finally Landing]]
 ````

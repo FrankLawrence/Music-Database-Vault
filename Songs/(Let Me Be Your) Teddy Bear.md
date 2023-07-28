@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "(Let Me Be Your) Teddy Bear"
+WHERE Favorite_Song = [[(Let Me Be Your) Teddy Bear]]
 ````

@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Spread Your Wings"
+WHERE Favorite_Song = [[Spread Your Wings]]
 ````

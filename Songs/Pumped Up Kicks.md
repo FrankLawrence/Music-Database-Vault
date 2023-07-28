@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Pumped Up Kicks"
+WHERE Favorite_Song = [[Pumped Up Kicks]]
 ````

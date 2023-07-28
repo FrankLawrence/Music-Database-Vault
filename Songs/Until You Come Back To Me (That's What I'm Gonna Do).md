@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Until You Come Back To Me (That's What I'm Gonna Do)"
+WHERE Favorite_Song = [[Until You Come Back To Me (That's What I'm Gonna Do)]]
 ````

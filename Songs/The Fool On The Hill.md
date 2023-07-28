@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "The Fool On The Hill"
+WHERE Favorite_Song = [[The Fool On The Hill]]
 ````

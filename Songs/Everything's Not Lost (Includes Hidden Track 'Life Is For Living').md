@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Everything's Not Lost (Includes Hidden Track 'Life Is For Living')"
+WHERE Favorite_Song = [[Everything's Not Lost (Includes Hidden Track 'Life Is For Living')]]
 ````

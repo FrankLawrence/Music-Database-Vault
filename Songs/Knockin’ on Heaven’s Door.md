@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Knockin’ on Heaven’s Door"
+WHERE Favorite_Song = [[Knockin’ on Heaven’s Door]]
 ````

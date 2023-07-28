@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Est-ce que tu maimes"
+WHERE Favorite_Song = [[Est-ce que tu maimes]]
 ````

@@ -10,5 +10,5 @@ tags: Song ⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Willie & The Hand Jive"
+WHERE Favorite_Song = [[Willie & The Hand Jive]]
 ````

@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Shelter from the Storm"
+WHERE Favorite_Song = [[Shelter from the Storm]]
 ````

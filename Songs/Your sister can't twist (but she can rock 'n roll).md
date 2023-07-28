@@ -10,5 +10,5 @@ tags: Song
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Your sister can't twist (but she can rock 'n roll)"
+WHERE Favorite_Song = [[Your sister can't twist (but she can rock 'n roll)]]
 ````

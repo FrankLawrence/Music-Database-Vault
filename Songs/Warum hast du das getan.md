@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Warum hast du das getan"
+WHERE Favorite_Song = [[Warum hast du das getan]]
 ````

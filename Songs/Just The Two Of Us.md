@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Just The Two Of Us"
+WHERE Favorite_Song = [[Just The Two Of Us]]
 ````

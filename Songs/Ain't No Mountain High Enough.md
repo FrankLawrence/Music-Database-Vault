@@ -10,5 +10,5 @@ tags: Song ⭐⭐⭐⭐
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = "Ain't No Mountain High Enough"
+WHERE Favorite_Song = [[Ain't No Mountain High Enough]]
 ````
