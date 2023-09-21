@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[My Dear Melancholy (2018).jpg]]"
 ---
 [Time:: 3:49]
 [Artist:: [[The Weeknd]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Time (1981).jpg]]"
 ---
 [Time:: 3:07]
 [Artist:: [[Electric Light Orchestra]] ]

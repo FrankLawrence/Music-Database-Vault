@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[The slow rush (2020).jpg]]"
 ---
 [Time:: 4:10]
 [Artist:: [[Tame Impala]] ]

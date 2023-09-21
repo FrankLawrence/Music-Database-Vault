@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Atom Heart Mother (1970).jpg]]"
 ---
 [Time:: 23:42]
 [Artist:: [[Pink Floyd]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Puppy (2001).jpg]]"
 ---
 [Time:: 4:34]
 [Artist:: [[Fluke]] ]

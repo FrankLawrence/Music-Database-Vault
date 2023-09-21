@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Overexposed (2014).jpg]]"
 ---
 [Time:: 3:07]
 [Artist:: [[Maroon 5]] ]

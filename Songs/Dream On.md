@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Aerosmith (1976).jpg]]"
 ---
 [Time:: 4:28]
 [Artist:: [[Aerosmith]] ]

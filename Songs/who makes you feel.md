@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Life for rent (2003).jpg]]"
 ---
 [Time:: 4:21]
 [Artist:: [[Dido]] ]

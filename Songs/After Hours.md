@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[After Hours (2020).jpg]]"
 ---
 [Time:: 6:02]
 [Artist:: [[The Weeknd]] ]

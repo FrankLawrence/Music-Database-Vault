@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Xanadu (1990).jpg]]"
 ---
 [Time:: 4:05]
 [Artist:: [[Electric Light Orchestra]] ]

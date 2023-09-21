@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Let's Talk About Love (1985).jpg]]"
 ---
 [Time:: 3:17]
 [Artist:: [[Modern Talking]] ]

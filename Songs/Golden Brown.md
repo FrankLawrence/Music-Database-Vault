@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[The Very Best Of The Stranglers (1981).jpg]]"
 ---
 [Time:: 3:29]
 [Artist:: [[The Stranglers]] ]

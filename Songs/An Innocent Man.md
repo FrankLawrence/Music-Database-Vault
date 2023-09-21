@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Piano Man (1983).jpg]]"
 ---
 [Time:: 5:18]
 [Artist:: [[Billy Joel]] ]

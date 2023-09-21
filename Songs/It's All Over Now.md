@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Rolled Gold Plus: Very Best Of The Rolling Stones [Disc 1] (1964).jpg]]"
 ---
 [Time:: 3:27]
 [Artist:: [[The Rolling Stones]] ]

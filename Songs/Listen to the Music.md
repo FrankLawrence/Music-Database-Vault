@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Toulouse Street (1972).jpg]]"
 ---
 [Time:: 3:48]
 [Artist:: [[The Doobie Brothers]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[KC And The Sunshine Band (1975).jpg]]"
 ---
 [Time:: 3:03]
 [Artist:: [[K.C. & The Sunshine Band]] ]

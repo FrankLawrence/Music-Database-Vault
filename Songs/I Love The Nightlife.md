@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Pure Disco (1978).jpg]]"
 ---
 [Time:: 3:07]
 [Artist:: [[Alicia Bridges]] ]

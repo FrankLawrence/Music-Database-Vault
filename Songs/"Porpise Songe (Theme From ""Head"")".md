@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[The Monkees Greatest Hits (1968).jpg]]"
 ---
 [Time:: 4:13]
 [Artist:: [[The Monkees]] ]

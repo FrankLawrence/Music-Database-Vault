@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Idea (1968).jpg]]"
 ---
 [Time:: 3:08]
 [Artist:: [[Bee Gees]] ]

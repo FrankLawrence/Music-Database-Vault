@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Hot Space (1977).jpg]]"
 ---
 [Time:: 3:57]
 [Artist:: [[Queen & David Bowie]] ]

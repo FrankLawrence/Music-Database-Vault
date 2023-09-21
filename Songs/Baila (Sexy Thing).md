@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Shake (2001).jpg]]"
 ---
 [Time:: 4:10]
 [Artist:: [[Zucchero]] ]

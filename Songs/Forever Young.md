@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Forever Young (1984).jpg]]"
 ---
 [Time:: 3:38]
 [Artist:: [[Alphaville]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Emergency (1984).jpg]]"
 ---
 [Time:: 3:50]
 [Artist:: [[Kool & The Gang]] ]

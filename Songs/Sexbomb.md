@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Reload (1999).jpg]]"
 ---
 [Time:: 3:29]
 [Artist:: [[Tom Jones & Mousse T.]] ]

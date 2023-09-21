@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[A new world record (1980).jpg]]"
 ---
 [Time:: 47:16]
 [Artist:: [[ELO]] ]

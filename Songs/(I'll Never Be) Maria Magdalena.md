@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Very Best Of Sandra [Disc 1] (2016).jpg]]"
 ---
 [Time:: 3:58]
 [Artist:: [[Sandra]] ]

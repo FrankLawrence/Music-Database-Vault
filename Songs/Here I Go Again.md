@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Saints & Sinners (1994).jpg]]"
 ---
 [Time:: 3:54]
 [Artist:: [[Whitesnake]] ]

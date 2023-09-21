@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Love At First Sting (1984).jpg]]"
 ---
 [Time:: 4:13]
 [Artist:: [[Scorpions]] ]

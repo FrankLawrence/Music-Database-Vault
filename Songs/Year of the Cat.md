@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Ultimate FM Gold (2022).jpg]]"
 ---
 [Time:: 6:37]
 [Artist:: [[Al Stewart]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Pure Disco (1979).jpg]]"
 ---
 [Time:: 3:41]
 [Artist:: [[Gibson Brothers]] ]

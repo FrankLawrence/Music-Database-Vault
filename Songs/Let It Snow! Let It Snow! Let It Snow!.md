@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Making Spirits Bright (1959).jpg]]"
 ---
 [Time:: 1:58]
 [Artist:: [[Dean Martin]] ]

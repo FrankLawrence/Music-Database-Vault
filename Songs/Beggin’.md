@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[So Dark the Con of Man (2017).jpg]]"
 ---
 [Time:: 3:36]
 [Artist:: [[Madcon]] ]

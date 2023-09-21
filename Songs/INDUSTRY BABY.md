@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[MONTERO (2021).jpg]]"
 ---
 [Time:: 3:33]
 [Artist:: [[Lil Nas X]] [[Jack Harlow]] ]

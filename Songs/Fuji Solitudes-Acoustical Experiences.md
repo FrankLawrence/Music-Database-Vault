@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Fuji Solitudes - Acoustical Experiences (1986).jpg]]"
 ---
 [Time:: 47:01]
 [Artist:: [[Solitudes]] ]

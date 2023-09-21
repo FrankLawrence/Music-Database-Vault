@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Meteora (2003).jpg]]"
 ---
 [Time:: 3:06]
 [Artist:: [[Linkin Park]] ]

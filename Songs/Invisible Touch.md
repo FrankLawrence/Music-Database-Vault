@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Invisible Touch (1986).jpg]]"
 ---
 [Time:: 3:28]
 [Artist:: [[Genesis]] ]

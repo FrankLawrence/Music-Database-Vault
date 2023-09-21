@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Secret Messages (1983).jpg]]"
 ---
 [Time:: 4:50]
 [Artist:: [[Electric Light Orchestra]] ]

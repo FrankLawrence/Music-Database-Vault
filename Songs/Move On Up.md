@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Jazz (1971).jpg]]"
 ---
 [Time:: 3:23]
 [Artist:: [[Curtis Mayfield]] ]

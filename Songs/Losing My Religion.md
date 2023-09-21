@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Out of Time (1991).jpg]]"
 ---
 [Time:: 4:54]
 [Artist:: [[R.E.M.]] ]

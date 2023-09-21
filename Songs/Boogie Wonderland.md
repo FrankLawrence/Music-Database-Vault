@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[I Am (1979).jpg]]"
 ---
 [Time:: 4:48]
 [Artist:: [[Earth, Wind & Fire]] ]

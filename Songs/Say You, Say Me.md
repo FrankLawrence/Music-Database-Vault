@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Dancing on the Ceiling (1986).jpg]]"
 ---
 [Time:: 4:03]
 [Artist:: [[Lionel Richie]] ]

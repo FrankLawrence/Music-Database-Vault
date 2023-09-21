@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Make It Big (1984).jpg]]"
 ---
 [Time:: 3:51]
 [Artist:: [[Wham!]] ]

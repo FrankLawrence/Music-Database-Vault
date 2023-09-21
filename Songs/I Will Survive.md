@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Pure Disco (1978).jpg]]"
 ---
 [Time:: 3:17]
 [Artist:: [[Gloria Gaynor]] ]

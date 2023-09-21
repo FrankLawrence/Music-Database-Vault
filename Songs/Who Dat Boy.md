@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Flower Boy (2017).jpg]]"
 ---
 [Time:: 3:46]
 [Artist:: [[Tyler, the Creator]] [[A$AP ROCKY]] ]

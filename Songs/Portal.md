@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Max W (2019).jpg]]"
 ---
 [Time:: 3:53]
 [Artist:: [[Max W & Meikle]] ]

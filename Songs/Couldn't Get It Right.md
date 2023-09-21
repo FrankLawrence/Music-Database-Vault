@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Ultimate FM Gold (2022).jpg]]"
 ---
 [Time:: 3:14]
 [Artist:: [[Climax Blues Band]] ]

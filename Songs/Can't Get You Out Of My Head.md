@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Ultimate Kylie [Disc 2] (2001).jpg]]"
 ---
 [Time:: 3:51]
 [Artist:: [[Kylie Minogue]] ]

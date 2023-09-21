@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Somebody's Watching Me (1984).jpg]]"
 ---
 [Time:: 3:36]
 [Artist:: [[Rockwell]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Wall (1979).jpg]]"
 ---
 [Time:: 3:37]
 [Artist:: [[Pink Floyd]] ]

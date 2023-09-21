@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[長江水 (Water of the Yangtze River) (1983).jpg]]"
 ---
 [Time:: 3:56]
 [Artist:: [[費玉清 (Fei Yu-ching)]] ]

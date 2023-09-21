@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Best Of Bowie (1973).jpg]]"
 ---
 [Time:: 2:55]
 [Artist:: [[David Bowie]] ]

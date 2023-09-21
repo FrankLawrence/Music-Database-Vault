@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Dark Side of the Moon (1973).jpg]]"
 ---
 [Time:: 4:44]
 [Artist:: [[Pink Floyd]] ]

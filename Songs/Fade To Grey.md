@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Visage (1980).jpg]]"
 ---
 [Time:: 8:35]
 [Artist:: [[Visage]] ]

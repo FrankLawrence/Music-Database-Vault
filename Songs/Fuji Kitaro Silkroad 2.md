@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Fuji FRI-II Kitaro Silkroad 2 (1985).jpg]]"
 ---
 [Time:: 44:11]
 [Artist:: [[Kitaro]] ]

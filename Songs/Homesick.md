@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[So Into You  (1997).jpg]]"
 ---
 [Time:: 4:15]
 [Artist:: [[Atlanta Rhythm Section]] ]

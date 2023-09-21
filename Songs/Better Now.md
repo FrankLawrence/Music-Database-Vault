@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Beerbongs & Bentleys (2018).jpg]]"
 ---
 [Time:: 3:52]
 [Artist:: [[Post Malone]] ]

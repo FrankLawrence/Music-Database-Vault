@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[ArtistCollection (1976).jpg]]"
 ---
 [Time:: 2:26]
 [Artist:: [[Hall & Oates]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Chou Ikimonobakari Tennen Kinen Members (2008).jpg]]"
 ---
 [Time:: 3:39]
 [Artist:: [[Ikimonogakaru]] ]

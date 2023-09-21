@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[East Side Story (1981).jpg]]"
 ---
 [Time:: 3:58]
 [Artist:: [[Squeeze]] ]

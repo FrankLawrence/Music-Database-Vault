@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Price Tag (2011).jpg]]"
 ---
 [Time:: 3:45]
 [Artist:: [[Jessie J]] [[B.o.B.]] ]

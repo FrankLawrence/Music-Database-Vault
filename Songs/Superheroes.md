@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[No Sound Without Silence (2014).jpg]]"
 ---
 [Time:: 4:04]
 [Artist:: [[The Script]] ]

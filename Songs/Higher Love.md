@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Back in the High Life (1986).jpg]]"
 ---
 [Time:: 4:13]
 [Artist:: [[Steve Winwood]] ]

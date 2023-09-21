@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Out Of The Blue (1977).jpg]]"
 ---
 [Time:: 3:47]
 [Artist:: [[Electric Light Orchestra]] ]

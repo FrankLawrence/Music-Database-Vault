@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Humanz (2017).jpg]]"
 ---
 [Time:: 3:17]
 [Artist:: [[Gorillaz]] [[D.R.A.M.]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 💛
+banner: "![[Jake Chudnow (2012).jpg]]"
 ---
 [Time:: 3:42]
 [Artist:: [[Jake Chudnow]] ]

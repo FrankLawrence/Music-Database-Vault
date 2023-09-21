@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Hello, I Must Be Going! (1982).jpg]]"
 ---
 [Time:: 2:56]
 [Artist:: [[Phil Collins]] ]

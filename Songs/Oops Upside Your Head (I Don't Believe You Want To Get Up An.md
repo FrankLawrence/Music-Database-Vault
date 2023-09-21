@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Pure Disco (1979).jpg]]"
 ---
 [Time:: 3:26]
 [Artist:: [[The Gap Band]] ]

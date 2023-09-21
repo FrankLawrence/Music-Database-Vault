@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Hold (2020).jpg]]"
 ---
 [Time:: 4:42]
 [Artist:: [[Chunkz X Yung Filly]] ]

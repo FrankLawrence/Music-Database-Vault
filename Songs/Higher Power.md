@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Music Of The Spheres (2021).jpg]]"
 ---
 [Time:: 4:16]
 [Artist:: [[Coldplay]] ]

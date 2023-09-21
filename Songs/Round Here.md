@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Twentyfive: For Loving [Disc 2] (2004).jpg]]"
 ---
 [Time:: 5:56]
 [Artist:: [[George Michael]] ]

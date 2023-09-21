@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Piano Man (1977).jpg]]"
 ---
 [Time:: 3:54]
 [Artist:: [[Billy Joel]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[World Machine (1985).jpg]]"
 ---
 [Time:: 3:43]
 [Artist:: [[Level 42]] ]

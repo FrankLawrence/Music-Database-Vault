@@ -1,6 +1,6 @@
 ---
 tags: Song  
----
+
 [Time:: 5:00]
 [Artist:: [[Queen]] ]
 [Genre:: ]

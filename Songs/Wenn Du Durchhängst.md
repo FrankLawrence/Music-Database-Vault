@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐ 💔
+banner: "![[Stark Wie Zwei (2008).jpg]]"
 ---
 [Time:: 4:20]
 [Artist:: [[Udo Lindenberg]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[The Very Best Of Smooth Jazz [Disc 1] (1968).jpg]]"
 ---
 [Time:: 3:22]
 [Artist:: [[George Benson]] ]

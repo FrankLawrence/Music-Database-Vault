@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Grasshopper (1982).jpg]]"
 ---
 [Time:: 3:09]
 [Artist:: [[J.J. Cale]] ]

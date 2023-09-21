@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[FutureSex/Lovesounds (2006).jpg]]"
 ---
 [Time:: 7:29]
 [Artist:: [[Justin Timberlake]] ]

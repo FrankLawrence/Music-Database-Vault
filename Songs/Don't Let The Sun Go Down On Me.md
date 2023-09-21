@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Twentyfive: For Loving [Disc 2] (1991).jpg]]"
 ---
 [Time:: 5:49]
 [Artist:: [[George Michael & Elton John]] ]

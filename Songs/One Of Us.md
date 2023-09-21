@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[The Visitors (1981).jpg]]"
 ---
 [Time:: 3:58]
 [Artist:: [[ABBA]] ]

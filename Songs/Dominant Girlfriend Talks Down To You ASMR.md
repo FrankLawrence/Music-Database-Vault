@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Yandere (2021).jpg]]"
 ---
 [Time:: 10:22]
 [Artist:: [[]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (2001).jpg]]"
 ---
 [Time:: 3:55]
 [Artist:: [[Dennis Taylor]] ]

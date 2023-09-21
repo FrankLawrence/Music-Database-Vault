@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
----
+
 [Time:: 3:55]
 [Artist:: [[Maître Gims]] ]
 [Genre:: Rock Pop]

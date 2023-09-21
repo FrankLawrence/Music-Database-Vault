@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Give My Regards to Broad Street (1984).jpg]]"
 ---
 [Time:: 4:40]
 [Artist:: [[Paul McCartney]] ]

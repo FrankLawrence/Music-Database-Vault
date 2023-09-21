@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[St. Louis to Liverpool (1964).jpg]]"
 ---
 [Time:: 2:41]
 [Artist:: [[Chuck Berry]] ]

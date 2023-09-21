@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Spirit (2008).jpg]]"
 ---
 [Time:: 3:55]
 [Artist:: [[Leona Lewis]] ]

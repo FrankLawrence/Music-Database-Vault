@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[In Square Circle (1985).jpg]]"
 ---
 [Time:: 4:15]
 [Artist:: [[Stevie Wonder]] ]

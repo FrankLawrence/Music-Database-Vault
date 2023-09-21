@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Me and My Gang (2006).jpg]]"
 ---
 [Time:: 4:29]
 [Artist:: [[Rascal Flatts]] ]

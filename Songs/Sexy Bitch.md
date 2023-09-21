@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[One Love (2009).jpg]]"
 ---
 [Time:: 3:16]
 [Artist:: [[David Guetta]] [[Akon]] ]

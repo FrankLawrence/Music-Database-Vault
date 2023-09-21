@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Hotel California (1976).jpg]]"
 ---
 [Time:: 6:30]
 [Artist:: [[The Eagles]] ]

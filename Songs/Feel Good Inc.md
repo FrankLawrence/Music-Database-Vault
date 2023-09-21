@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Demon Days (2005).jpg]]"
 ---
 [Time:: 3:41]
 [Artist:: [[Gorillaz]] [[De La Soul]] ]

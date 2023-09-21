@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[A Rush of Blood To The Head ().jpg]]"
 ---
 [Time:: 4:57]
 [Artist:: [[Coldplay]] ]

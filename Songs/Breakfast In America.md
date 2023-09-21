@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Breakfast In America (1979).jpg]]"
 ---
 [Time:: 2:39]
 [Artist:: [[Supertramp]] ]

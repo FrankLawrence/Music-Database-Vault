@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Pure Disco (1977).jpg]]"
 ---
 [Time:: 2:55]
 [Artist:: [[Yvonne Elliman]] ]

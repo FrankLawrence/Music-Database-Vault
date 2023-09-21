@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Abracadabra (1982).jpg]]"
 ---
 [Time:: 3:39]
 [Artist:: [[Steve Miller Band]] ]

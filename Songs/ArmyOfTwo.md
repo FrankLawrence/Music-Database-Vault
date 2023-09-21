@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Rigt Place Right Time (2012).jpg]]"
 ---
 [Time:: 4:47]
 [Artist:: [[Olly Murs]] ]

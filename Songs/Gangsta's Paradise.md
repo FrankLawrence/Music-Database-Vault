@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Gangsta's Paradise (1995).jpg]]"
 ---
 [Time:: 4:14]
 [Artist:: [[Coolio]] ]

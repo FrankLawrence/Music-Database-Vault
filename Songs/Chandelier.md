@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[1000 Forms of Fear (2014).jpg]]"
 ---
 [Time:: 3:36]
 [Artist:: [[Sia]] ]

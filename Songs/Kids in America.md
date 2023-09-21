@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Die 80er Show 2 CD2 (2002).jpg]]"
 ---
 [Time:: 3:24]
 [Artist:: [[Kim Wilde]] ]

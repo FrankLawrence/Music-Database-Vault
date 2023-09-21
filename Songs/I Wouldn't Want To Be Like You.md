@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[The Best Of The Alan Parsons Project (1979).jpg]]"
 ---
 [Time:: 3:12]
 [Artist:: [[Alan Parsons Project]] ]

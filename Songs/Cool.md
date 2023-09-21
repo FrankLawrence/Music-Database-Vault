@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[I (2018).jpg]]"
 ---
 [Time:: 3:11]
 [Artist:: [[Felix Jaehn]] [[Marc E. Bassy]] [[Gucci Mane]] ]

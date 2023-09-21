@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Vital Idol (1987).jpg]]"
 ---
 [Time:: 6:00]
 [Artist:: [[Billy Idol]] ]

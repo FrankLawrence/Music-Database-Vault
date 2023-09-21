@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Papercut Chronicles II (2011).jpg]]"
 ---
 [Time:: 3:37]
 [Artist:: [[Gym Class Heroes]] [[Adam Levine]] ]

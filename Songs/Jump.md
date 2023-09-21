@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Jump (1984).jpg]]"
 ---
 [Time:: 4:04]
 [Artist:: [[Van Halen]] ]

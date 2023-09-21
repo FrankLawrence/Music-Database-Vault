@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[In a Tidal Wave of Mystery (2011).jpg]]"
 ---
 [Time:: 3:11]
 [Artist:: [[Capital Cities]] ]

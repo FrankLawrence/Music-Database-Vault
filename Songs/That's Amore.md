@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Dean Martin ().jpg]]"
 ---
 [Time:: 3:06]
 [Artist:: [[Dean Martin]] ]

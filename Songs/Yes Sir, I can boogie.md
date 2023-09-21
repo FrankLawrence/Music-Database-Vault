@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Very Best Of Baccara ().jpg]]"
 ---
 [Time:: 4:35]
 [Artist:: [[Baccara]] ]

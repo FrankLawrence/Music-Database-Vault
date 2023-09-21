@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Flower Boy (2017).jpg]]"
 ---
 [Time:: 1:00]
 [Artist:: [[Tyler, the Creator]] [[Lil Wayne]] ]

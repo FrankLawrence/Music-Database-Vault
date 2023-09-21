@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Stark Wie Zwei (2008).jpg]]"
 ---
 [Time:: 4:07]
 [Artist:: [[Udo Lindenberg]] [[Jan Delay]] ]

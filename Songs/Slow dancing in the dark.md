@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Ballads 1 (2018).jpg]]"
 ---
 [Time:: 3:27]
 [Artist:: [[Joji]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Building the Perfect Beast (1984).jpg]]"
 ---
 [Time:: 4:40]
 [Artist:: [[Don Henley]] ]

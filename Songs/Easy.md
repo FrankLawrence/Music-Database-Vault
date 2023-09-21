@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Commodores (1977).jpg]]"
 ---
 [Time:: 4:17]
 [Artist:: [[Lionel Richie]] ]

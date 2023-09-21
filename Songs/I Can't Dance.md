@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[We can't Dance (1991).jpg]]"
 ---
 [Time:: 4:50]
 [Artist:: [[Genesis]] ]

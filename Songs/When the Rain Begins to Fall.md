@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Jermaine Jackson (1984).jpg]]"
 ---
 [Time:: 4:10]
 [Artist:: [[Jermaine Jackson]] [[Pia Zadora]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Magical Mystery Tour (1967).jpg]]"
 ---
 [Time:: 4:36]
 [Artist:: [[The Beatles]] ]

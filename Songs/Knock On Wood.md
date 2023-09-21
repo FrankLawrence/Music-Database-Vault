@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Knock On Wood (1979).jpg]]"
 ---
 [Time:: 3:43]
 [Artist:: [[Amii Stewart]] ]

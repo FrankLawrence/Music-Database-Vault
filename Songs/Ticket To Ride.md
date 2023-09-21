@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[1 (2000).jpg]]"
 ---
 [Time:: 3:03]
 [Artist:: [[The Beatles]] ]

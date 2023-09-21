@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (2000).jpg]]"
 ---
 [Time:: 3:21]
 [Artist:: [[Jeff Golub]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Brothers in Arms (1985).jpg]]"
 ---
 [Time:: 8:22]
 [Artist:: [[Dire Straits]] ]

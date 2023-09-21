@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Whitesnake (1988).jpg]]"
 ---
 [Time:: 4:44]
 [Artist:: [[Whitesnake]] ]

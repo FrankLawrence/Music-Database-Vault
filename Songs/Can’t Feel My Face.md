@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Beauty Behind the Madness (2015).jpg]]"
 ---
 [Time:: 3:36]
 [Artist:: [[The Weeknd]] ]

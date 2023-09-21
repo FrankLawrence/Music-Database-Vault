@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 💛
+banner: "![[Raise! (1981).jpg]]"
 ---
 [Time:: 3:55]
 [Artist:: [[Earth, Wind & Fire]] ]

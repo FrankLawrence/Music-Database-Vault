@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Feed Tha Streets II (2018).jpg]]"
 ---
 [Time:: 3:44]
 [Artist:: [[Roddy Ricch]] ]

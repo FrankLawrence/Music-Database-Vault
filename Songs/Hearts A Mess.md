@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Like Drawing Blood (2006).jpg]]"
 ---
 [Time:: 4:40]
 [Artist:: [[Gotye]] ]

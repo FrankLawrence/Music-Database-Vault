@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[All The Best (1971).jpg]]"
 ---
 [Time:: 3:42]
 [Artist:: [[Paul McCartney]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[All The Best (1972).jpg]]"
 ---
 [Time:: 4:34]
 [Artist:: [[Wings]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Flower Boy (2017).jpg]]"
 ---
 [Time:: 3:23]
 [Artist:: [[Tyler, the Creator]] [[Kali Uchis]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[All The Lost Souls (2007).jpg]]"
 ---
 [Time:: 3:45]
 [Artist:: [[James Blunt]] ]

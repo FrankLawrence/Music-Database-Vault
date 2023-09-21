@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Manic (2020).jpg]]"
 ---
 [Time:: 3:23]
 [Artist:: [[Halsey]] ]

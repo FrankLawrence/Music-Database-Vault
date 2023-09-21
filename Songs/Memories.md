@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Jordi (2019).jpg]]"
 ---
 [Time:: 3:11]
 [Artist:: [[Maroon 5]] ]

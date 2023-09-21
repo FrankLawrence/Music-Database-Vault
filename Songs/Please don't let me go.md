@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Olly Murs (2012).jpg]]"
 ---
 [Time:: 3:28]
 [Artist:: [[Olly Murs]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Magical Mystery Tour (1967).jpg]]"
 ---
 [Time:: 2:16]
 [Artist:: [[The Beatles]] ]

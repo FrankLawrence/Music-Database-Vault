@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
----
+
 [Time:: 3:34]
 [Artist:: [[Zucchero]] ]
 [Genre:: Disco]

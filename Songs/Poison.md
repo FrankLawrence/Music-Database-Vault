@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Trash (1981).jpg]]"
 ---
 [Time:: 4:28]
 [Artist:: [[Alice Cooper]] ]

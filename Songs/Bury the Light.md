@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Devil May Cry 5 Soundtrack (2020).jpg]]"
 ---
 [Time:: 9:42]
 [Artist:: [[Casey Edwards]] [[Victor Borba]] ]

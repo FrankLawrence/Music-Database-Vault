@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[1 (2000).jpg]]"
 ---
 [Time:: 1:56]
 [Artist:: [[The Beatles]] ]

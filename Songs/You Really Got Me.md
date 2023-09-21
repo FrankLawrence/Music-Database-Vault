@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Van Halen (1978).jpg]]"
 ---
 [Time:: 2:38]
 [Artist:: [[Van Halen]] ]

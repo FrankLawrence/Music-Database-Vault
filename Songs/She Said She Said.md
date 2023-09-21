@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Revolver (1966).jpg]]"
 ---
 [Time:: 2:36]
 [Artist:: [[The Beatles]] ]

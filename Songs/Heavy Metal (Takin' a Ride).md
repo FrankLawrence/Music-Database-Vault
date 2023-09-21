@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Heavy Metal: Music from the Motion Picture (1981).jpg]]"
 ---
 [Time:: 4:53]
 [Artist:: [[Don Felder]] ]

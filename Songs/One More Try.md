@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Faith (1987).jpg]]"
 ---
 [Time:: 5:53]
 [Artist:: [[George Michael]] ]

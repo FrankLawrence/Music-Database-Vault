@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Plastic Beach (2010).jpg]]"
 ---
 [Time:: 4:33]
 [Artist:: [[Gorillaz]] [[Mos Def & Bobby Womack]] ]

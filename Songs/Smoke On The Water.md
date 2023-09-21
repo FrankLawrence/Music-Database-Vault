@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Deepest Purple: The Very Best Of ... (1972).jpg]]"
 ---
 [Time:: 5:40]
 [Artist:: [[Deep Purple]] ]

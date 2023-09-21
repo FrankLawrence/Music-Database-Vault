@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Top Gun (1986).jpg]]"
 ---
 [Time:: 4:11]
 [Artist:: [[Berlin]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Monty Python's Life of Brian (1979).jpg]]"
 ---
 [Time:: 3:38]
 [Artist:: [[Monty Python]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Wovoka (1973).jpg]]"
 ---
 [Time:: 3:27]
 [Artist:: [[Redbone]] ]

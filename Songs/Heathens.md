@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Suicide Squad: The Album (2016).jpg]]"
 ---
 [Time:: 3:38]
 [Artist:: [[Twenty One Pilots]] ]

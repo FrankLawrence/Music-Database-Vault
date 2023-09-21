@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Papas & The Mamas (1968).jpg]]"
 ---
 [Time:: 3:16]
 [Artist:: [[The Mamas & The Papas]] ]

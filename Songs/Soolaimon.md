@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Greatest Hits - Das Beste (1970).jpg]]"
 ---
 [Time:: 4:27]
 [Artist:: [[Les Humphries Singers]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Meddle (1971).jpg]]"
 ---
 [Time:: 23:35]
 [Artist:: [[Pink Floyd]] ]

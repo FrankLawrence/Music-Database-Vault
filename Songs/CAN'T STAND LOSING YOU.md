@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Outlandos d'Amour (1978).jpg]]"
 ---
 [Time:: 3:04]
 [Artist:: [[The Police]] ]

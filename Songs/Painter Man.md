@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Gold - 20 Super Hits (1993).jpg]]"
 ---
 [Time:: 3:17]
 [Artist:: [[Boney M.]] ]

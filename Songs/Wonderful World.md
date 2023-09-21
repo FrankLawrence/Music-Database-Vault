@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Best of Herman and the Hermits (1965).jpg]]"
 ---
 [Time:: 2:02]
 [Artist:: [[Herman's Hermits]] ]

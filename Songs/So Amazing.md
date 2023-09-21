@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1987).jpg]]"
 ---
 [Time:: 4:38]
 [Artist:: [[Gerald Albright]] ]

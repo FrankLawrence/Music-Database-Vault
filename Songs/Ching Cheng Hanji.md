@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
----
+
 [Time:: 3:35]
 [Artist:: [[Farid Bang]] ]
 [Genre:: ]

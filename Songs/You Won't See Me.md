@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Rubber Soul (1965).jpg]]"
 ---
 [Time:: 3:20]
 [Artist:: [[The Beatles]] ]

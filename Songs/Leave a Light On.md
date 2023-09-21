@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[What a Time to Be Alive (2017).jpg]]"
 ---
 [Time:: 3:08]
 [Artist:: [[Tom Walker]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[So Good (2015).jpg]]"
 ---
 [Time:: 3:21]
 [Artist:: [[Zara Larsson]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Brasilian Skies (1978).jpg]]"
 ---
 [Time:: 6:39]
 [Artist:: [[Masayoshi Takanaka (高中正義)]] ]

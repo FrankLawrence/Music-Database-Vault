@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Animals (1977).jpg]]"
 ---
 [Time:: 17:05]
 [Artist:: [[Pink Floyd]] ]

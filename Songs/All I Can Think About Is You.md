@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Kaleidoscope (2017).jpg]]"
 ---
 [Time:: 4:31]
 [Artist:: [[Coldplay]] ]

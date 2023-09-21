@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Communion (2015).jpg]]"
 ---
 [Time:: 3:54]
 [Artist:: [[Years & Years]] ]

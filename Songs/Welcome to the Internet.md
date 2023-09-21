@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Inside (2020).jpg]]"
 ---
 [Time:: 4:36]
 [Artist:: [[Bo Burnham]] ]

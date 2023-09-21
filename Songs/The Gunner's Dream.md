@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[The Final Cut (1983).jpg]]"
 ---
 [Time:: 5:18]
 [Artist:: [[Pink Floyd]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Beatles (White Album) [Disc 2] (1968).jpg]]"
 ---
 [Time:: 2:25]
 [Artist:: [[The Beatles]] ]

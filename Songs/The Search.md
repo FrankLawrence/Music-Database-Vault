@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Search (2019).jpg]]"
 ---
 [Time:: 4:52]
 [Artist:: [[NF]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[1967-1970 (1973).jpg]]"
 ---
 [Time:: 4:19]
 [Artist:: [[The Beatles]] ]

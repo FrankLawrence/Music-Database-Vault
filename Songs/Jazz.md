@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[BASF Jazz side A ().jpg]]"
 ---
 [Time:: 47:20]
 [Artist:: [[Jazz]] ]

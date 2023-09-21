@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Stars (1991).jpg]]"
 ---
 [Time:: 4:06]
 [Artist:: [[Simply Red]] ]

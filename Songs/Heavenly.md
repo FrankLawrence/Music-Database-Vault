@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
----
+
 [Time:: 3:51]
 [Artist:: [[Max]] ]
 [Genre:: ]

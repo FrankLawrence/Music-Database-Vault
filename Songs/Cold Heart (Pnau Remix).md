@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Lockdown Session (2021).jpg]]"
 ---
 [Time:: 4:14]
 [Artist:: [[Elton John]] [[Dua Lipa]] ]

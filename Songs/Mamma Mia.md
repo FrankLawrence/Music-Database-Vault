@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[ABBA (1975).jpg]]"
 ---
 [Time:: 3:34]
 [Artist:: [[ABBA]] ]

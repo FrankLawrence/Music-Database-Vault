@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Nena (1983).jpg]]"
 ---
 [Time:: 3:53]
 [Artist:: [[Nena]] ]

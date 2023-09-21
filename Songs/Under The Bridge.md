@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Blood Sugar Sex Magik (1992).jpg]]"
 ---
 [Time:: 4:27]
 [Artist:: [[Red Hot Chili Peppers]] ]

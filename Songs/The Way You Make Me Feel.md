@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Bad (1986).jpg]]"
 ---
 [Time:: 4:58]
 [Artist:: [[Michael Jackson]] ]

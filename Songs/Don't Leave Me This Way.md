@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Pure Disco (1976).jpg]]"
 ---
 [Time:: 3:36]
 [Artist:: [[Thelma Houston]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Introspective (1988).jpg]]"
 ---
 [Time:: 4:18]
 [Artist:: [[Pet Shop Boys]] ]

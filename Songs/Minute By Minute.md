@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[The Very Best Of Smooth Jazz [Disc 1] (1987).jpg]]"
 ---
 [Time:: 4:50]
 [Artist:: [[Larry Carlton]] ]

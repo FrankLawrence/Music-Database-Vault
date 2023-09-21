@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[All The Best (1973).jpg]]"
 ---
 [Time:: 3:13]
 [Artist:: [[Paul McCartney & Wings]] ]

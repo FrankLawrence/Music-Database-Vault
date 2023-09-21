@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Music from the Edge of Heaven (2006).jpg]]"
 ---
 [Time:: 4:03]
 [Artist:: [[George Michael]] ]

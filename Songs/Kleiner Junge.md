@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Horizont (1986).jpg]]"
 ---
 [Time:: 4:29]
 [Artist:: [[Udo Lindenberg]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐ 💔
+banner: "![[30 #1 Hits (1963).jpg]]"
 ---
 [Time:: 2:22]
 [Artist:: [[Elvis Presley]] ]

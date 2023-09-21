@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Really (1973).jpg]]"
 ---
 [Time:: 2:57]
 [Artist:: [[J.J. Cale]] ]

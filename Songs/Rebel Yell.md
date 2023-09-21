@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Rebel Yell (1983).jpg]]"
 ---
 [Time:: 4:47]
 [Artist:: [[Billy Idol]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Youthquake (1984).jpg]]"
 ---
 [Time:: 3:17]
 [Artist:: [[Dead or Alive]] ]

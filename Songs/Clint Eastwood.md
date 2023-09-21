@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Gorillaz (2001).jpg]]"
 ---
 [Time:: 5:41]
 [Artist:: [[Gorillaz]] [[Del the Funky Homosapien]] ]

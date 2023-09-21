@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Hybrid Theory (2001).jpg]]"
 ---
 [Time:: 3:13]
 [Artist:: [[Linkin Park]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Hollywood's Bleeding (2018).jpg]]"
 ---
 [Time:: 2:31]
 [Artist:: [[Post Malone]] ]

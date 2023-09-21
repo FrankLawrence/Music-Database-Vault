@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Something Special (1981).jpg]]"
 ---
 [Time:: 4:36]
 [Artist:: [[Kool & The Gang]] ]

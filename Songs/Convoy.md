@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Black Bear Road (1975).jpg]]"
 ---
 [Time:: 3:51]
 [Artist:: [[C.W. McCall]] ]

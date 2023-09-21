@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Wahnsinn (1984).jpg]]"
 ---
 [Time:: 5:50]
 [Artist:: [[BAP]] ]

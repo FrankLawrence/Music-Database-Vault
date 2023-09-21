@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
----
+
 [Time:: 4:17]
 [Artist:: [[Foster the People]] ]
 [Genre:: Alternative]

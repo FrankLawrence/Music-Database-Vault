@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[I Am a Photograph (1977).jpg]]"
 ---
 [Time:: 4:13]
 [Artist:: [[Amanda Lear]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1989).jpg]]"
 ---
 [Time:: 4:25]
 [Artist:: [[The Rippingtons]] ]

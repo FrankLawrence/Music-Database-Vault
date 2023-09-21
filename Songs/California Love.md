@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[All Eyez on Me (1995).jpg]]"
 ---
 [Time:: 4:45]
 [Artist:: [[2Pac]] [[Dre. Dre and Roger Troutman]] ]

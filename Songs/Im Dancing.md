@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[DJ Replay (2014).jpg]]"
 ---
 [Time:: 2:09]
 [Artist:: [[Max]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Ultimate FM Gold (2022).jpg]]"
 ---
 [Time:: 2:27]
 [Artist:: [[Freddie Notes]] [[The Rudies]] ]

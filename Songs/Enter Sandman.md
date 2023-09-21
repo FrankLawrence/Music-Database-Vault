@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Metallica (1991).jpg]]"
 ---
 [Time:: 5:31]
 [Artist:: [[Metallica]] ]

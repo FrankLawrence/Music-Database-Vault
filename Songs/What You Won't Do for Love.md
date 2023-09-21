@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Bobby Caldwell (1978).jpg]]"
 ---
 [Time:: 4:44]
 [Artist:: [[Bobby Caldwell]] ]

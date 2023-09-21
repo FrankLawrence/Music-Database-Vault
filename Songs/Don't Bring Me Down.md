@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Discovery (1979).jpg]]"
 ---
 [Time:: 4:04]
 [Artist:: [[Electric Light Orchestra]] ]

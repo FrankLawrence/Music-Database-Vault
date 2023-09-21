@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Where The Light Is (2019).jpg]]"
 ---
 [Time:: 2:57]
 [Artist:: [[Surfaces]] ]

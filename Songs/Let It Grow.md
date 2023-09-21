@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Time Pieces - The Best Of Eric Clapton (1974).jpg]]"
 ---
 [Time:: 4:56]
 [Artist:: [[Eric Clapton]] ]

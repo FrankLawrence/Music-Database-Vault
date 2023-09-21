@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Swaay (2015).jpg]]"
 ---
 [Time:: 4:17]
 [Artist:: [[DNCE]] ]

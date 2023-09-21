@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Some Nights (2013).jpg]]"
 ---
 [Time:: 16:48]
 [Artist:: [[Fun]] ]

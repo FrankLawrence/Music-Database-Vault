@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Very Best Of Smooth Jazz [Disc 1] (1978).jpg]]"
 ---
 [Time:: 5:39]
 [Artist:: [[Bob James]] ]

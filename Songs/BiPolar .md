@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Evil Genius (2018).jpg]]"
 ---
 [Time:: 3:35]
 [Artist:: [[Gucci Mane]] [[Quavo]] ]

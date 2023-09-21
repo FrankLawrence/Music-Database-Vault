@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Dawn FM (2020).jpg]]"
 ---
 [Time:: 3:45]
 [Artist:: [[The Weeknd]] ]

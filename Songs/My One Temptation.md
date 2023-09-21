@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1988).jpg]]"
 ---
 [Time:: 4:20]
 [Artist:: [[Mica Paris]] ]

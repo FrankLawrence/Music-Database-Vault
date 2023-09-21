@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[A Kind of Magic (1977).jpg]]"
 ---
 [Time:: 4:09]
 [Artist:: [[Queen]] ]

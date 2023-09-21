@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[A Head Full of Dreams (2015).jpg]]"
 ---
 [Time:: 6:45]
 [Artist:: [[Coldplay]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Dead Letters (2003).jpg]]"
 ---
 [Time:: 3:52]
 [Artist:: [[The Rasmus]] ]

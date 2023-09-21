@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-banner: "![[Wish You Were Here.jpg]]"
+banner: "![[Wish You Were Here (1975).jpg]]"
 ---
 [Time:: 13:22]
 [Artist:: [[Pink Floyd]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Lifetime (2021).jpg]]"
 ---
 [Time:: 3:07]
 [Artist:: [[Swedish House Mafia]] ]

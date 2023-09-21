@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Horizontal (1968).jpg]]"
 ---
 [Time:: 2:24]
 [Artist:: [[Bee Gees]] ]

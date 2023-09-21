@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Hollywood's Bleeding (2019).jpg]]"
 ---
 [Time:: 2:54]
 [Artist:: [[Post Malone]] [[Yount Thug]] ]

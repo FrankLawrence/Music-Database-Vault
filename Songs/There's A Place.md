@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Please Please Me (1963).jpg]]"
 ---
 [Time:: 1:53]
 [Artist:: [[The Beatles]] ]

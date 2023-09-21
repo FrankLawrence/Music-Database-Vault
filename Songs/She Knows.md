@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Born Sinner (2013).jpg]]"
 ---
 [Time:: 4:59]
 [Artist:: [[J. Cole]] [[Amber Coffman & Cults]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[La Bionda (1978).jpg]]"
 ---
 [Time:: 10:17]
 [Artist:: [[La Bionda]] ]

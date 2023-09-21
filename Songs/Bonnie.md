@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[..Famous Last Words.. (1982).jpg]]"
 ---
 [Time:: 5:38]
 [Artist:: [[Supertramp]] ]

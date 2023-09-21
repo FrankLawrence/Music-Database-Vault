@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The 20/20 Experience (2014).jpg]]"
 ---
 [Time:: 4:35]
 [Artist:: [[Justin Timberlake]] ]

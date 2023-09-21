@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
----
+
 [Time:: 2:10]
 [Artist:: [[Lindsey Buckingham]] ]
 [Genre:: Rock]

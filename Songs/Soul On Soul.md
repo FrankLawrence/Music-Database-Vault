@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1998).jpg]]"
 ---
 [Time:: 5:14]
 [Artist:: [[Rick Braun]] [[Maysa]] ]

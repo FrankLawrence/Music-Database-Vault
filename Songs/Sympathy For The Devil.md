@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Beggars Banquet (2007).jpg]]"
 ---
 [Time:: 6:19]
 [Artist:: [[The Rolling Stones]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[A mí me gusta (1993).jpg]]"
 ---
 [Time:: 3:42]
 [Artist:: [[Los del Rio]] ]

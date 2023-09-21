@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 💛
+banner: "![[Loose (2006).jpg]]"
 ---
 [Time:: 4:03]
 [Artist:: [[Nelly Furtado]] ]

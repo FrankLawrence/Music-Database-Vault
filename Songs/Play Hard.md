@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Nothing but the Beat 2.0 (2012).jpg]]"
 ---
 [Time:: 3:29]
 [Artist:: [[David Guetta]] [[Ne-Yo & Akon]] ]

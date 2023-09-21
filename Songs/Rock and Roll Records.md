@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Okie (1974).jpg]]"
 ---
 [Time:: 2:05]
 [Artist:: [[J.J. Cale]] ]

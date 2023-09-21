@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Deep in Abyss (Made in Abyss) - Single (2019).jpg]]"
 ---
 [Time:: 3:43]
 [Artist:: [[Miyu Tomita & Mariye Ise]] ]

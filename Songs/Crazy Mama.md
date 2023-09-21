@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Naturally (1972).jpg]]"
 ---
 [Time:: 2:31]
 [Artist:: [[J.J. Cale]] ]

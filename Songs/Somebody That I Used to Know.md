@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Making Mirrors (2011).jpg]]"
 ---
 [Time:: 4:04]
 [Artist:: [[Gotye]] ]

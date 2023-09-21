@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Genesis (1983).jpg]]"
 ---
 [Time:: 4:25]
 [Artist:: [[Genesis]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1985).jpg]]"
 ---
 [Time:: 4:36]
 [Artist:: [[Freddie Jackson]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Flower Boy (2017).jpg]]"
 ---
 [Time:: 0:36]
 [Artist:: [[Tyler, the Creator]] ]

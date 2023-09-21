@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Discovery (2000).jpg]]"
 ---
 [Time:: 5:20]
 [Artist:: [[Daft Punk]] ]

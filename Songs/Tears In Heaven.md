@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Rush: Music from the Motion Picture Soundtrack (1992).jpg]]"
 ---
 [Time:: 3:40]
 [Artist:: [[Eric Clapton]] ]

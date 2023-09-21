@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Use Your Illusion II (1992).jpg]]"
 ---
 [Time:: 5:36]
 [Artist:: [[Guns N' Roses]] ]

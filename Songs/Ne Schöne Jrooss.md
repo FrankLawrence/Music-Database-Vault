@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐ 💔
+banner: "![[Wahnsinn (1985).jpg]]"
 ---
 [Time:: 5:36]
 [Artist:: [[BAP]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Highway To Hell (1979).jpg]]"
 ---
 [Time:: 4:37]
 [Artist:: [[AC/DC]] ]

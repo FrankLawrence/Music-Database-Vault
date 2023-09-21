@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[2014 Forest Hills Drive (2014).jpg]]"
 ---
 [Time:: 4:53]
 [Artist:: [[J. Cole]] ]

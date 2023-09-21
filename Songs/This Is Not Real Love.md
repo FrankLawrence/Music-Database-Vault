@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Twentyfive: For Loving [Disc 2] (2006).jpg]]"
 ---
 [Time:: 4:57]
 [Artist:: [[George Michael]] [[Mutya]] ]

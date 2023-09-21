@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[All The Best (1980).jpg]]"
 ---
 [Time:: 3:32]
 [Artist:: [[Paul McCartney]] ]

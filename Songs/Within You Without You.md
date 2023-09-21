@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Sgt. Pepper's Lonely Hearts Club Band ().jpg]]"
 ---
 [Time:: 5:05]
 [Artist:: [[The Beatles]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Led Zeppelin IV (1971).jpg]]"
 ---
 [Time:: 8:02]
 [Artist:: [[Led Zeppelin]] ]

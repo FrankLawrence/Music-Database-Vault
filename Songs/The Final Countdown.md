@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Final Countdown (1986).jpg]]"
 ---
 [Time:: 4:56]
 [Artist:: [[Europe]] ]

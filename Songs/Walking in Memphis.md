@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Ultimate FM Gold (2022).jpg]]"
 ---
 [Time:: 4:15]
 [Artist:: [[Marc Cohn]] ]

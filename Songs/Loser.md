@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Mellow Gold (1992).jpg]]"
 ---
 [Time:: 3:54]
 [Artist:: [[Beck]] ]

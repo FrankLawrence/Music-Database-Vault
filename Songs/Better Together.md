@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[In Between Dreams (2005).jpg]]"
 ---
 [Time:: 3:28]
 [Artist:: [[Jack Johnson]] ]

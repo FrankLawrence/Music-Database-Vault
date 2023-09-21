@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Voices (1981).jpg]]"
 ---
 [Time:: 3:11]
 [Artist:: [[Daryl an Oates]] ]

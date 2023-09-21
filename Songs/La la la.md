@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Hotel Cabana (2013).jpg]]"
 ---
 [Time:: 4:04]
 [Artist:: [[Naughty Boy]] [[Sam Smith]] ]

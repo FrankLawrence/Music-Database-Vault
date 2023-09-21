@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-banner: "![[Plastic Beach.jpg]]"
+banner: "![[Plastic Beach (2010).jpg]]"
 ---
 [Time:: 3:35]
 [Artist:: [[Gorillaz]] [[Snoop Dogg]] ]

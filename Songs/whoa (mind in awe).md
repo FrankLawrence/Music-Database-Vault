@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
----
+
 [Time:: 2:38]
 [Artist:: [[XXXTENTACION]] ]
 [Genre:: Hip-Hop/Rap]

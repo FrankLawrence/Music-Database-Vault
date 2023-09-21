@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Starboy (2016).jpg]]"
 ---
 [Time:: 3:51]
 [Artist:: [[The Weekend]] [[Daft Punk]] ]

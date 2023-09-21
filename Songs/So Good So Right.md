@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1979).jpg]]"
 ---
 [Time:: 3:20]
 [Artist:: [[Brenda Russell]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Very Best Of J.J. Cale (2005).jpg]]"
 ---
 [Time:: 4:26]
 [Artist:: [[J.J. Cale]] ]

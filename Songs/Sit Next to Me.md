@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Sacred Hearts Club (2017).jpg]]"
 ---
 [Time:: 4:05]
 [Artist:: [[Foster the People]] ]

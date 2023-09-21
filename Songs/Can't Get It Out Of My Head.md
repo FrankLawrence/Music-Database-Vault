@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Eldorado (1974).jpg]]"
 ---
 [Time:: 4:24]
 [Artist:: [[Electric Light Orchestra]] ]

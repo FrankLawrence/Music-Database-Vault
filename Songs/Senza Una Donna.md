@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Best Of Zucchero (1987).jpg]]"
 ---
 [Time:: 4:27]
 [Artist:: [[Zucchero]] ]

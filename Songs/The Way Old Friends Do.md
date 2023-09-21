@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Super trouper (1980).jpg]]"
 ---
 [Time:: 2:55]
 [Artist:: [[ABBA]] ]

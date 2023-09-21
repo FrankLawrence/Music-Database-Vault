@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Random Access Memories (2013).jpg]]"
 ---
 [Time:: 4:09]
 [Artist:: [[Daft Punk]] [[Pharrell Williams]] ]

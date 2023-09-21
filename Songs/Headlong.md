@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Innuendo (1977).jpg]]"
 ---
 [Time:: 4:33]
 [Artist:: [[Queen]] ]

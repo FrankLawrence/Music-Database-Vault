@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[These Nights (2017).jpg]]"
 ---
 [Time:: 4:07]
 [Artist:: [[Darci]] ]

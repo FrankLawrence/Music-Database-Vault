@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Destroyer (1976).jpg]]"
 ---
 [Time:: 3:38]
 [Artist:: [[Kiss]] ]

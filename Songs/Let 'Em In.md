@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 💛
+banner: "![[Back in the World (2003).jpg]]"
 ---
 [Time:: 5:10]
 [Artist:: [[Paul McCartney]] ]

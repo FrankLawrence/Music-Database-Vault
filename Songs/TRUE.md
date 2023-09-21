@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[TRUE (1983).jpg]]"
 ---
 [Time:: 5:17]
 [Artist:: [[Spandau Ballet]] ]

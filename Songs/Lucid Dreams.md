@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Goodbye & Good Riddance (2018).jpg]]"
 ---
 [Time:: 3:50]
 [Artist:: [[Juice WRLD]] ]

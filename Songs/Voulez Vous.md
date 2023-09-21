@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Voulez-vous (1979).jpg]]"
 ---
 [Time:: 4:23]
 [Artist:: [[ABBA]] ]

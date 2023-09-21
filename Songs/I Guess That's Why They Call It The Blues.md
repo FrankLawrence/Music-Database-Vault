@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Too Low For Zero (1983).jpg]]"
 ---
 [Time:: 4:45]
 [Artist:: [[Elton John]] ]

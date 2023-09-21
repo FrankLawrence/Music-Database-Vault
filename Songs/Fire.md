@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[West Ryder Pauper Lunatic Asylum (2009).jpg]]"
 ---
 [Time:: 4:12]
 [Artist:: [[Kasabian]] ]

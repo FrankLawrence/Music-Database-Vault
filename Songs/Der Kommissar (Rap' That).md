@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Falco Hit Singles (1982).jpg]]"
 ---
 [Time:: 3:53]
 [Artist:: [[Falco]] ]

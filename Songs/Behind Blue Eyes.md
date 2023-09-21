@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Who's Next (1971).jpg]]"
 ---
 [Time:: 3:42]
 [Artist:: [[The Who]] ]

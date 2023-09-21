@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Dynamite (2020).jpg]]"
 ---
 [Time:: 3:19]
 [Artist:: [[BTS]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1988).jpg]]"
 ---
 [Time:: 3:37]
 [Artist:: [[Will Downing]] ]

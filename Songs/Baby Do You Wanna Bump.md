@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Take the Heat off Me (1975).jpg]]"
 ---
 [Time:: 2:27]
 [Artist:: [[Boney M]] ]

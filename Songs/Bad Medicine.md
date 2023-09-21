@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Cross Road (1994).jpg]]"
 ---
 [Time:: 5:17]
 [Artist:: [[Bon Jovi]] ]

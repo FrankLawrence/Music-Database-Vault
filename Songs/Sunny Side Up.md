@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[The Very Best Of Smooth Jazz [Disc 1] (2001).jpg]]"
 ---
 [Time:: 4:07]
 [Artist:: [[Freddie Ravel]] ]

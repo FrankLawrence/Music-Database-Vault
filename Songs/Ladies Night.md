@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Ladies' Night (1979).jpg]]"
 ---
 [Time:: 6:26]
 [Artist:: [[Kool & The Gang]] ]

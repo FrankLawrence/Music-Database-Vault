@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Hunting High and Low (1985).jpg]]"
 ---
 [Time:: 2:37]
 [Artist:: [[A-ha]] ]

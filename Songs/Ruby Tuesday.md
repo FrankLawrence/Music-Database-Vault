@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Between the Buttons (2007).jpg]]"
 ---
 [Time:: 3:16]
 [Artist:: [[The Rolling Stones]] ]

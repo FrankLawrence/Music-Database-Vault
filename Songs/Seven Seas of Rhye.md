@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Queen II (1974).jpg]]"
 ---
 [Time:: 2:49]
 [Artist:: [[Queen]] ]

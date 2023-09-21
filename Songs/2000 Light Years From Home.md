@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Their Satanic Majesties Request (2007).jpg]]"
 ---
 [Time:: 4:47]
 [Artist:: [[The Rolling Stones]] ]

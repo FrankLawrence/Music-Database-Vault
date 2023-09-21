@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Captain and Me (1973).jpg]]"
 ---
 [Time:: 3:42]
 [Artist:: [[The Doobie Brothers]] ]

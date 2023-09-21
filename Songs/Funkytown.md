@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Mouth To Mouth (1979).jpg]]"
 ---
 [Time:: 3:58]
 [Artist:: [[Lipps Inc.]] ]

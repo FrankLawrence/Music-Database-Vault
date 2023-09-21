@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Torches (2011).jpg]]"
 ---
 [Time:: 3:59]
 [Artist:: [[Foster the People]] ]

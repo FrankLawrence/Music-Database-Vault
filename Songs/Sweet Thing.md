@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1975).jpg]]"
 ---
 [Time:: 3:58]
 [Artist:: [[Chaka Khan]] ]

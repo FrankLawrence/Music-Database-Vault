@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Too-Rye-Ay (1982).jpg]]"
 ---
 [Time:: 4:00]
 [Artist:: [[Dexy's Midnight Runners and the Emerald Express]] ]

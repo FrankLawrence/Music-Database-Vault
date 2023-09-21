@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Works (1977).jpg]]"
 ---
 [Time:: 5:43]
 [Artist:: [[Queen]] ]

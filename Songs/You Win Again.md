@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[E.S.P. (1987).jpg]]"
 ---
 [Time:: 3:58]
 [Artist:: [[Bee Gees]] ]

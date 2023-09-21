@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Sick Boy (2018).jpg]]"
 ---
 [Time:: 3:38]
 [Artist:: [[The Chainsmokers]] ]

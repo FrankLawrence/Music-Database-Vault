@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Greatest Hits (1983).jpg]]"
 ---
 [Time:: 3:49]
 [Artist:: [[Eurythmics]] ]

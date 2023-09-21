@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[An Insatiable High (1977).jpg]]"
 ---
 [Time:: 5:10]
 [Artist:: [[Masayoshi Takanaka (高中正義)]] ]

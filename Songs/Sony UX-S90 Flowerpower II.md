@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Sony UX-S90 Flowerpower II A and B ().jpg]]"
 ---
 [Time:: 1:34:10]
 [Artist:: [[Flowerpower II]] ]

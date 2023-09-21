@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Anthology 1 [Disc 2] (1963).jpg]]"
 ---
 [Time:: 0:50]
 [Artist:: [[The Beatles]] ]

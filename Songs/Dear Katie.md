@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Some Kind of Trouble (2010).jpg]]"
 ---
 [Time:: 2:19]
 [Artist:: [[James Blunt]] ]

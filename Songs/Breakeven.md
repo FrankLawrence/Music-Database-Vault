@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Script (2008).jpg]]"
 ---
 [Time:: 4:16]
 [Artist:: [[The Script]] ]

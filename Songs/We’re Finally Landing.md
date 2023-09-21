@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Before The Night (2014).jpg]]"
 ---
 [Time:: 4:32]
 [Artist:: [[HOME]] ]

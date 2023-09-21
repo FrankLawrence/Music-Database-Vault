@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Overloaded - The Singles Collection (2006).jpg]]"
 ---
 [Time:: 3:40]
 [Artist:: [[Sugababes]] ]

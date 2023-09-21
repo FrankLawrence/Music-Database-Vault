@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Rolled Gold Plus: Very Best Of The Rolling Stones [Disc 2] (1971).jpg]]"
 ---
 [Time:: 5:42]
 [Artist:: [[The Rolling Stones]] ]

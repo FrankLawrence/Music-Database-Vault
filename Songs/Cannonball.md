@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Brother Where You Bound (1985).jpg]]"
 ---
 [Time:: 4:57]
 [Artist:: [[Supertramp]] ]

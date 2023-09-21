@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Listen Without Prejudice Vol. 1 (2006).jpg]]"
 ---
 [Time:: 4:44]
 [Artist:: [[Paul McCartney & George Michael]] ]

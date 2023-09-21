@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[United (1967).jpg]]"
 ---
 [Time:: 2:32]
 [Artist:: [[Marvin Gaye]] ]

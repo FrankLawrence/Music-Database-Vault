@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[The Very Best of the Rolling Stones (2007).jpg]]"
 ---
 [Time:: 1:50]
 [Artist:: [[The Rolling Stones]] ]

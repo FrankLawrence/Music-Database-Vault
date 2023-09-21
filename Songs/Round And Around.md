@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[A Momentary Lapse of Reason (1987).jpg]]"
 ---
 [Time:: 1:13]
 [Artist:: [[Pink Floyd]] ]

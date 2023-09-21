@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Let it Bleed (2007).jpg]]"
 ---
 [Time:: 6:54]
 [Artist:: [[The Rolling Stones]] ]

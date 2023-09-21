@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Fragile (1971).jpg]]"
 ---
 [Time:: 8:36]
 [Artist:: [[Yes]] ]

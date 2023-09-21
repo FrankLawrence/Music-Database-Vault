@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Battle Born (2012).jpg]]"
 ---
 [Time:: 4:35]
 [Artist:: [[The Killers]] ]

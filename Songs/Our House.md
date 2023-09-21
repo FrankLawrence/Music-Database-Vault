@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[The Rise & Fall (1982).jpg]]"
 ---
 [Time:: 3:22]
 [Artist:: [[Madness]] ]

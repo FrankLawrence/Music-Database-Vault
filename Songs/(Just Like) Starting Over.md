@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The John Lennon Collection (1980).jpg]]"
 ---
 [Time:: 3:58]
 [Artist:: [[John Lennon]] ]

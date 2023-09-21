@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Led Zeppelin III (1970).jpg]]"
 ---
 [Time:: 2:27]
 [Artist:: [[Led Zeppelin]] ]

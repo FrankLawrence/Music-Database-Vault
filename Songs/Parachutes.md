@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Parachutes (2000).jpg]]"
 ---
 [Time:: 0:46]
 [Artist:: [[Coldplay]] ]

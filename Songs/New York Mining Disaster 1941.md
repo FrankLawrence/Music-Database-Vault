@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Bee Gees' 1st (1967).jpg]]"
 ---
 [Time:: 2:12]
 [Artist:: [[Bee Gees]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The John Lennon Collection (1975).jpg]]"
 ---
 [Time:: 3:28]
 [Artist:: [[John Lennon]] ]

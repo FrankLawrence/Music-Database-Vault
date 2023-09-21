@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Very Best Of The Bee Gees (1990).jpg]]"
 ---
 [Time:: 3:29]
 [Artist:: [[Bee Gees]] ]

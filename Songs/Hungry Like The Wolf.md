@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Rio (1982).jpg]]"
 ---
 [Time:: 3:25]
 [Artist:: [[Duran Duran]] ]

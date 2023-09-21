@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Very Best Of Smooth Jazz [Disc 1] (1965).jpg]]"
 ---
 [Time:: 2:53]
 [Artist:: [[Nina Simone]] ]

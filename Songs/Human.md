@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Human (2017).jpg]]"
 ---
 [Time:: 3:18]
 [Artist:: [[RagnBone Man]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Balance of Power (1986).jpg]]"
 ---
 [Time:: 4:30]
 [Artist:: [[Electric Light Orchestra]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Dissimulation (2020).jpg]]"
 ---
 [Time:: 2:55]
 [Artist:: [[Ksi]] [[Swarmz & Tion Wayne]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Rock and Roll Over (1976).jpg]]"
 ---
 [Time:: 3:46]
 [Artist:: [[Kiss]] ]

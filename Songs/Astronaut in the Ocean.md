@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Astronaut in the Ocean (2019).jpg]]"
 ---
 [Time:: 2:12]
 [Artist:: [[Masked Wolf]] ]

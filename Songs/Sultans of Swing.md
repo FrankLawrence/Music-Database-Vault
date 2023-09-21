@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Dire Straits (1978).jpg]]"
 ---
 [Time:: 4:57]
 [Artist:: [[Dire Straits]] ]

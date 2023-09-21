@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Scoundrel Days (1986).jpg]]"
 ---
 [Time:: 4:16]
 [Artist:: [[a-ha]] ]

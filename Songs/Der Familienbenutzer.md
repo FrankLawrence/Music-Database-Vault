@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💔
+banner: "![[Heile Welt (1978).jpg]]"
 ---
 [Time:: 1:59]
 [Artist:: [[Loriot]] ]

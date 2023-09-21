@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Back To Front [UK] (1992).jpg]]"
 ---
 [Time:: 3:46]
 [Artist:: [[Lionel Richie]] ]

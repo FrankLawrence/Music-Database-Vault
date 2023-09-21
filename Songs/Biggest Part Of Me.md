@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1994).jpg]]"
 ---
 [Time:: 4:13]
 [Artist:: [[Take 6]] ]

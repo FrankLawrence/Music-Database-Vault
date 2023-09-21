@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Best Of Bowie (1969).jpg]]"
 ---
 [Time:: 5:14]
 [Artist:: [[David Bowie]] ]

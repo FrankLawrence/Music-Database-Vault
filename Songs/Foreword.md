@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Flower Boy (2017).jpg]]"
 ---
 [Time:: 3:14]
 [Artist:: [[Tyler, the Creator]] [[Rex Orange County]] ]

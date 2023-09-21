@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[X&Y (2005).jpg]]"
 ---
 [Time:: 5:28]
 [Artist:: [[Coldplay]] ]

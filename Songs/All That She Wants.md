@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Happy Nation (1992).jpg]]"
 ---
 [Time:: 3:33]
 [Artist:: [[Ace Of Base]] ]

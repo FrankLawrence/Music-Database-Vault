@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[長江水 (Water of the Yangtze River) (2020).jpg]]"
 ---
 [Time:: 3:00]
 [Artist:: [[費玉清 (Fei Yu-ching)]] ]

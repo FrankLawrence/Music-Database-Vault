@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[The Very Best Of Smooth Jazz [Disc 1] (1999).jpg]]"
 ---
 [Time:: 5:25]
 [Artist:: [[David Benoit]] ]

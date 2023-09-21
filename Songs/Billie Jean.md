@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Thriller (1982).jpg]]"
 ---
 [Time:: 4:56]
 [Artist:: [[Michael Jackson]] ]

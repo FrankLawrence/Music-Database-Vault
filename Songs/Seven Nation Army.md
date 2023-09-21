@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Elephant (2003).jpg]]"
 ---
 [Time:: 3:58]
 [Artist:: [[The White Stripes]] ]

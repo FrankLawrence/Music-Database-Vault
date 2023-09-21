@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[AM (2013).jpg]]"
 ---
 [Time:: 2:44]
 [Artist:: [[Arctic Monkeys]] ]

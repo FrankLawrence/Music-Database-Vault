@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Yellow Submarine ().jpg]]"
 ---
 [Time:: 2:13]
 [Artist:: [[The Beatles]] ]

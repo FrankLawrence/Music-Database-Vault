@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[The Album (1977).jpg]]"
 ---
 [Time:: 4:00]
 [Artist:: [[ABBA]] ]

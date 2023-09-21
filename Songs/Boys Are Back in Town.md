@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Jailbreak (1976).jpg]]"
 ---
 [Time:: 2:22]
 [Artist:: [[Thin Lizzy]] ]

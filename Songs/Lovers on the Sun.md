@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Listen (2014).jpg]]"
 ---
 [Time:: 3:24]
 [Artist:: [[David Guetta]] [[Sam Martin]] ]

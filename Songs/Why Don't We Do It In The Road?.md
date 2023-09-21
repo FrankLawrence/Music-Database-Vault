@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Beatles (1968).jpg]]"
 ---
 [Time:: 1:42]
 [Artist:: [[The Beatles]] ]

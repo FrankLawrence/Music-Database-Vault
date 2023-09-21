@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Overexposed (2012).jpg]]"
 ---
 [Time:: 3:51]
 [Artist:: [[Maroon 5]] [[Wiz Khalifa]] ]

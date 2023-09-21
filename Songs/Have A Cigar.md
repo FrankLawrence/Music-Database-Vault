@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Wish You Were Here (1975).jpg]]"
 ---
 [Time:: 5:08]
 [Artist:: [[Pink Floyd]] [[Roy Harper]] ]

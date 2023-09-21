@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Ocean Eyes (2009).jpg]]"
 ---
 [Time:: 3:45]
 [Artist:: [[Owl City]] ]

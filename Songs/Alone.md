@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Old Is New (2018).jpg]]"
 ---
 [Time:: 4:31]
 [Artist:: [[Toto]] ]

@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐ 
----
+
 [Time:: 5:45]
 [Artist:: [[Haddaway]] ]
 [Genre:: Rock/Pop]

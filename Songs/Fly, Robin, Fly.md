@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Save Me (1975).jpg]]"
 ---
 [Time:: 5:34]
 [Artist:: [[Silver Convention]] ]

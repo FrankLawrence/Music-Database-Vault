@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Plastic Beach (2010).jpg]]"
 ---
 [Time:: 4:44]
 [Artist:: [[Gorillaz]] [[Yukimi Nagano]] ]

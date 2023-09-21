@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Jazz (1997).jpg]]"
 ---
 [Time:: 4:50]
 [Artist:: [[Candy Dulfer]] ]

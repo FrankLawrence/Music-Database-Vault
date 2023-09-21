@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Attack on Titan Original Soundtrack (2021).jpg]]"
 ---
 [Time:: 5:17]
 [Artist:: [[Shinsei Kamattechan]] ]

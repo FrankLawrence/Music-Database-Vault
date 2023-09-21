@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[With The Beatles (1963).jpg]]"
 ---
 [Time:: 2:14]
 [Artist:: [[The Beatles]] ]

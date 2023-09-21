@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Plastic Beach (2010).jpg]]"
 ---
 [Time:: 1:09]
 [Artist:: [[Gorillaz]] ]

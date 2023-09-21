@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f9490290ba56684",
+        "id": "c2d48ec5661d5ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "ca4f71c267221ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Script Idea.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8a82453369fc96d6",
+            "id": "700432f4ebf5ed10",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,38 +21,12 @@
             }
           },
           {
-            "id": "a30a127c21773c54",
+            "id": "8894a11a0b464274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Lady (Hear Me Tonight).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b894659f656e7e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-07-16.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "106eb2bb700f9f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Rasputin.md",
+                "file": "Daily Notes/2023-09-22.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -73,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,19 +81,18 @@
             }
           },
           {
-            "id": "9f79838ae352b430",
+            "id": "d0bb03f02978e8e3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
@@ -157,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Lady (Hear Me Tonight).md",
+                "file": "Daily Notes/2023-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Lady (Hear Me Tonight).md",
+                "file": "Daily Notes/2023-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,152 +152,80 @@
             }
           },
           {
-            "id": "3279d6c55a6ec62c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "14ca63461016b643",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "89cc0e471d3f2e0e",
+            "id": "07ce3e541a6dbd4f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Lady (Hear Me Tonight).md"
+                "file": "Daily Notes/2023-09-22.md"
               }
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "4c6142e30c7eb0ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37e4f775598626bb",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Songs/Lady (Hear Me Tonight).md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -0.8,
-                  "nodeSizeMultiplier": 1.48013980263158,
-                  "lineSizeMultiplier": 0.952261513157895,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7997998405182888,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": true,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": true,
-      "random-note:Open random note": true,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "templater-obsidian:Templater": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a30a127c21773c54",
+  "active": "8894a11a0b464274",
   "lastOpenFiles": [
-    "Daily Notes/2023-07-27.md",
-    "Songs/Lady (Hear Me Tonight).md",
-    "Favorite Songs.md",
-    "Script Idea.md",
-    "Songs/Rasputin.md",
-    "Daily Notes/2023-07-16.md",
-    "Daily Notes/2023-07-17.md",
-    "Daily Notes/2023-07-18.md",
-    "Songs/Speed Of Sound.md",
-    "Songs/Here Is The News.md",
-    "Daily Notes/2023-07-19.md",
-    "Daily Notes/2023-07-20.md",
-    "Daily Notes/2023-07-21.md",
-    "Daily Notes/2023-07-22.md",
-    "Daily Notes/2023-07-23.md",
-    "Songs/Lay All Your Love On Me.md",
-    "Daily Notes/2023-07-24.md",
-    "Daily Notes/2023-07-25.md",
-    "Daily Notes/2023-07-26.md",
-    "Songs/Riders on the Storm.md",
-    "Daily Notes/2023-07-28.md",
-    "Songs/Welcome to the World.md",
-    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
-    "Songs/Wish You Were Here.md",
-    "Album Covers/Demon Days.jpg",
-    "Album Covers/Abracadabra.png",
-    "Album Covers/A Head Full of Dreams.jpg",
-    "Album Covers/Yellow Submarine.png",
-    "Album Covers/1.jpg",
-    "Album Covers/The Best Of Aretha Franklin.jpg",
-    "Album Covers/Bad.png",
-    "Album Covers/ABBA.png",
-    "Album Covers/The John Lennon Collection.jpg",
-    "Album Covers/Hot Chocolate Their Greatest Hits.png",
+    "Daily Notes/2023-09-21.md",
+    "Daily Notes/2023-09-20.md",
+    "Daily Notes/2023-09-19.md",
+    "Daily Notes/2023-09-18.md",
+    "Daily Notes/2023-09-17.md",
+    "Daily Notes/2023-10-31.md",
+    "Daily Notes/2023-10-30.md",
+    "Daily Notes/2023-10-29.md",
+    "Daily Notes/2023-10-28.md",
+    "Daily Notes/2023-10-27.md",
+    "Daily Notes/2023-10-26.md",
+    "Daily Notes/2023-10-25.md",
+    "Daily Notes/2023-10-24.md",
+    "Daily Notes/2023-10-23.md",
+    "Daily Notes/2023-10-22.md",
+    "Daily Notes/2023-10-21.md",
+    "Daily Notes/2023-10-20.md",
+    "Daily Notes/2023-10-19.md",
+    "Daily Notes/2023-10-18.md",
+    "Daily Notes/2023-10-17.md",
+    "Daily Notes/2023-10-16.md",
+    "Daily Notes/2023-10-15.md",
+    "Daily Notes/2023-10-14.md",
+    "Daily Notes/2023-10-13.md",
+    "Daily Notes/2023-10-12.md",
+    "Daily Notes/2023-10-11.md",
+    "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
+    "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
+    "Album Covers/Zodiac (2016).jpg",
+    "Album Covers/Youthquake (1984).jpg",
+    "Album Covers/YouSeeBIGGIRL:T-T.jpg",
+    "Album Covers/Yellow Submarine (1966).jpg",
+    "Album Covers/You'll Never Learn (1976).jpg",
+    "Album Covers/Xanadu (From The Original Motion Picture Soundtrack) (1980).jpg",
+    "Album Covers/X&Y (2005).jpg",
+    "Album Covers/Woodstock (2017).jpg",
     "Album Covers",
-    "Songs.md",
-    "Most Played.md",
-    "Songs",
-    "Templates",
-    "Daily Notes",
-    "Genres",
-    "Series",
-    "Movies",
-    "01 Shine On You Crazy Diamond Pt. 1-5.mp3",
-    "Miscellaneous/movies.js",
-    "Miscellaneous",
-    "Personal/;).canvas",
-    "Computer Programming/Projects/Clinical Trials API.canvas",
-    "Computer Programming/Computer Networks/Network Layer Model.canvas",
-    "Untitled.canvas",
-    "Computer Programming/Computer Networks/Sliding Windows Abnormal case.canvas",
-    "Computer Programming/Computer Organization/A five-stage organization.canvas",
-    "Computer Programming/Information Management for CS/An industry and its competitive forces.canvas",
-    "Computer Programming/Information Management for CS/Information characteristics for managerial decisions.canvas"
+    "Album Covers (year)",
+    "Recording 20230730140407.webm"
   ]
 }

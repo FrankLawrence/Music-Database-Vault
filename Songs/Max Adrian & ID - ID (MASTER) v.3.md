@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Max ().jpg]]"
 ---
 [Time:: 4:04]
 [Artist:: [[Max]] ]

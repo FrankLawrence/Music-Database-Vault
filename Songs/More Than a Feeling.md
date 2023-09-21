@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Boston (1976).jpg]]"
 ---
 [Time:: 4:45]
 [Artist:: [[Boston]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1976).jpg]]"
 ---
 [Time:: 3:42]
 [Artist:: [[Roy Ayers]] ]

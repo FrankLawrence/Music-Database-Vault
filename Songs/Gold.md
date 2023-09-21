@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[TRUE (1983).jpg]]"
 ---
 [Time:: 3:51]
 [Artist:: [[Spandau Ballet]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[At Worse...The Best Of Boy George And Culture Club (1982).jpg]]"
 ---
 [Time:: 2:36]
 [Artist:: [[Culture Club]] ]

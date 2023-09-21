@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Dschinghis Khan (1979).jpg]]"
 ---
 [Time:: 4:29]
 [Artist:: [[Dschinghis Khan]] ]

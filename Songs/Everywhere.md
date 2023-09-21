@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Tango in the Night (1987).jpg]]"
 ---
 [Time:: 3:43]
 [Artist:: [[Fleetwood Mac]] ]

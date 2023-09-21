@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Sing When You're Winning (2000).jpg]]"
 ---
 [Time:: 4:15]
 [Artist:: [[Robbie Williams]] ]

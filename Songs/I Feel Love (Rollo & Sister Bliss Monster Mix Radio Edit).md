@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Pure Disco (1995).jpg]]"
 ---
 [Time:: 3:55]
 [Artist:: [[Donna Summer]] ]

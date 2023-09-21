@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Freeze-Frame (1981).jpg]]"
 ---
 [Time:: 3:35]
 [Artist:: [[J. Geils Band]] ]

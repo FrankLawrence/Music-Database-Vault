@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Serenade (2018).jpg]]"
 ---
 [Time:: 3:00]
 [Artist:: [[Travis Scott]] ]

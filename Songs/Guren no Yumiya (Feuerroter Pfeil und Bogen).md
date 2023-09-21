@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Attack on Titan Original Soundtrack ().jpg]]"
 ---
 [Time:: 5:16]
 [Artist:: [[Linked Horizon]] ]

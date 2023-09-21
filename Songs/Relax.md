@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Now that's what I call music (1984).jpg]]"
 ---
 [Time:: 3:54]
 [Artist:: [[Frankie Goes To Hollywood]] ]

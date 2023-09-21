@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Pure Disco (1980).jpg]]"
 ---
 [Time:: 3:34]
 [Artist:: [[Teena Marie]] ]

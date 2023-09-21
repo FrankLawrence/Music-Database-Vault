@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Zodiac (2016).jpg]]"
 ---
 [Time:: 3:54]
 [Artist:: [[Maddix]] ]

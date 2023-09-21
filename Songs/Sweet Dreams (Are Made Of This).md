@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Sweet Dreams (Are Made Of This) (1983).jpg]]"
 ---
 [Time:: 3:36]
 [Artist:: [[Eurythmics]] ]

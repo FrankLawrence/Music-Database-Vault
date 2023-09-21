@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Die Großen Erfolge ().jpg]]"
 ---
 [Time:: 4:33]
 [Artist:: [[Dschinghis Khan]] ]

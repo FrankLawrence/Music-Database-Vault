@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[WELCOME HOME (2019).jpg]]"
 ---
 [Time:: 3:11]
 [Artist:: [[Aries]] ]

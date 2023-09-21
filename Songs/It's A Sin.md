@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Actually (1987).jpg]]"
 ---
 [Time:: 5:01]
 [Artist:: [[Pet Shop Boys]] ]

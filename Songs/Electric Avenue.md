@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Road To Reparation (1982).jpg]]"
 ---
 [Time:: 3:45]
 [Artist:: [[Eddy Grant]] ]

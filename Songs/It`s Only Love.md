@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Help! (1965).jpg]]"
 ---
 [Time:: 1:59]
 [Artist:: [[The Beatles]] ]

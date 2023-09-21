@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Ultimate FM Gold (2022).jpg]]"
 ---
 [Time:: 5:15]
 [Artist:: [[Daryl Hall & John Oates]] ]

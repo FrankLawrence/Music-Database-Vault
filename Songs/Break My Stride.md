@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[I Don't Speak the Language (1983).jpg]]"
 ---
 [Time:: 3:06]
 [Artist:: [[Matthew Wilder]] ]

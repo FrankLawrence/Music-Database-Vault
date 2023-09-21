@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Best of Earth, Wind & Fire, Vol. 1 (1978).jpg]]"
 ---
 [Time:: 3:35]
 [Artist:: [[Earth, Wind & Fire]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Into the Light (1986).jpg]]"
 ---
 [Time:: 4:05]
 [Artist:: [[Chris de Burgh]] ]

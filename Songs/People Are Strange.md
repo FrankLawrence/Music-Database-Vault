@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Strange Days (1967).jpg]]"
 ---
 [Time:: 2:10]
 [Artist:: [[The Doors]] ]

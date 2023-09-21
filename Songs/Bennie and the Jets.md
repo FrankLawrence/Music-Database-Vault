@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 💛
+banner: "![[Goodbye Yellow Brick Road (1973).jpg]]"
 ---
 [Time:: 5:23]
 [Artist:: [[Elton John]] ]

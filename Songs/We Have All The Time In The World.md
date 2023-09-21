@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[On Her Majesty's Secret Service (1969).jpg]]"
 ---
 [Time:: 3:13]
 [Artist:: [[Louis Armstrong]] ]

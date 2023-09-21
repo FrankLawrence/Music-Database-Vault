@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Küssen verboten (1992).jpg]]"
 ---
 [Time:: 3:25]
 [Artist:: [[Die Prinzen]] ]

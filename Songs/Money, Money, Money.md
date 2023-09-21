@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Arrival (1976).jpg]]"
 ---
 [Time:: 3:08]
 [Artist:: [[ABBA]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Greatest Hits (1998).jpg]]"
 ---
 [Time:: 4:30]
 [Artist:: [[La Bouche]] ]

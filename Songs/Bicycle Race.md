@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Jazz (1977).jpg]]"
 ---
 [Time:: 3:04]
 [Artist:: [[Queen]] ]

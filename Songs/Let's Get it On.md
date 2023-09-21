@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Let's get it on (1973).jpg]]"
 ---
 [Time:: 4:51]
 [Artist:: [[Marvin Gaye]] ]

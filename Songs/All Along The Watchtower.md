@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Electric Ladyland (1968).jpg]]"
 ---
 [Time:: 4:01]
 [Artist:: [[The Jimi Hendrix Experience]] ]

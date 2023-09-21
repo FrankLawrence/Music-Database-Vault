@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Everyday Life (2019).jpg]]"
 ---
 [Time:: 1:58]
 [Artist:: [[Coldplay]] ]

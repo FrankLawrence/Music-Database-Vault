@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Eye In The Sky (1982).jpg]]"
 ---
 [Time:: 4:10]
 [Artist:: [[Alan Parsons Project]] ]

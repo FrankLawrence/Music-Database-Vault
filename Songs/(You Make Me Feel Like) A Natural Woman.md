@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[The Best Of Aretha Franklin (1984).jpg]]"
 ---
 [Time:: 2:44]
 [Artist:: [[Aretha Franklin]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Confessions on a Dance Floor (2005).jpg]]"
 ---
 [Time:: 5:36]
 [Artist:: [[Madonna]] ]

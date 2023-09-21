@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Crash! Boom! Bang! (1994).jpg]]"
 ---
 [Time:: 5:02]
 [Artist:: [[Roxette]] ]

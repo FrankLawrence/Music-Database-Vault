@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[7 (2018).jpg]]"
 ---
 [Time:: 3:23]
 [Artist:: [[David Guetta]] [[Martin Garrix & Brooks]] ]

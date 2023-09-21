@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Out of Our Heads (1965).jpg]]"
 ---
 [Time:: 3:42]
 [Artist:: [[The Rolling Stones]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Dissimulation (2020).jpg]]"
 ---
 [Time:: 3:32]
 [Artist:: [[KSI]] [[Lil Pump & Smokepurp]] ]

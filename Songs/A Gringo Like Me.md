@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Legendary Italian Westerns - The Film Composers Series, Volume II (1963).jpg]]"
 ---
 [Time:: 2:27]
 [Artist:: [[ENNIO MORRICONE]] ]

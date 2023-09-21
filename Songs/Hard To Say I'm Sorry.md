@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Az Yet (1996).jpg]]"
 ---
 [Time:: 3:43]
 [Artist:: [[Az Yet]] ]

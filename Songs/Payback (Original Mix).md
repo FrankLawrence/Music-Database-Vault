@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Payback (2017).jpg]]"
 ---
 [Time:: 4:04]
 [Artist:: [[Aftermarket & Max Adrian]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Woodstock (2017).jpg]]"
 ---
 [Time:: 4:07]
 [Artist:: [[Portugal. The Man]] ]

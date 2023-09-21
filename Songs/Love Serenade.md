@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Barry White's Greatest Hits (1975).jpg]]"
 ---
 [Time:: 7:07]
 [Artist:: [[Barry White]] ]

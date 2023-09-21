@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Their Greatest Hits (1980).jpg]]"
 ---
 [Time:: 4:28]
 [Artist:: [[Hot Chocolate]] ]

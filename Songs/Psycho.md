@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Beerbongs & Bentleys (2018).jpg]]"
 ---
 [Time:: 2:57]
 [Artist:: [[Post Malone]] [[Ty Dolla $ign]] ]

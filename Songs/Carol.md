@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[The Rolling Stones (2007).jpg]]"
 ---
 [Time:: 2:34]
 [Artist:: [[The Rolling Stones]] ]

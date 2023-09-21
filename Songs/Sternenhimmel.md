@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Die 80er Show 2 CD1 (1983).jpg]]"
 ---
 [Time:: 3:06]
 [Artist:: [[Hubert Kah]] ]

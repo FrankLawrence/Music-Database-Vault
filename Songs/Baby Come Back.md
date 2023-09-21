@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Player (1977).jpg]]"
 ---
 [Time:: 3:56]
 [Artist:: [[Player]] ]

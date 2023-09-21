@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Poems of the Past (2020).jpg]]"
 ---
 [Time:: 2:54]
 [Artist:: [[Powfu]] [[beabadoobee]] ]

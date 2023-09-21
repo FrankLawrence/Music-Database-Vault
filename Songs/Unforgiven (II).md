@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Reload (1998).jpg]]"
 ---
 [Time:: 6:36]
 [Artist:: [[Metallica]] ]

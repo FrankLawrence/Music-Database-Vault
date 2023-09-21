@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
----
+
 [Time:: 3:55]
 [Artist:: [[Ryan Paris]] ]
 [Genre:: Italo Disco]

@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
----
+
 [Time:: 4:52]
 [Artist:: [[Tame Impala]] ]
 [Genre:: Psychedelic Pop]

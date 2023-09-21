@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Let It Be (1970).jpg]]"
 ---
 [Time:: 3:37]
 [Artist:: [[The Beatles]] ]

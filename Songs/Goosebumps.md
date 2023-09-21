@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Birds in the Trap Sing McKnight (2016).jpg]]"
 ---
 [Time:: 4:04]
 [Artist:: [[Travis Scott]] [[Kendrick Lamar]] ]

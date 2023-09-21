@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Crime of the Century (1974).jpg]]"
 ---
 [Time:: 7:19]
 [Artist:: [[Supertramp]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[JackBoys (2019).jpg]]"
 ---
 [Time:: 2:39]
 [Artist:: [[JACKBOYS]] [[Travis Scott & Young Thug]] ]

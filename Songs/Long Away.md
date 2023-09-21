@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[A Day at the Races (1976).jpg]]"
 ---
 [Time:: 3:34]
 [Artist:: [[Queen]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Kissing To Be Clever (1982).jpg]]"
 ---
 [Time:: 4:29]
 [Artist:: [[Culture Club]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[HIStory: Past, Present and Future, Book I (1995).jpg]]"
 ---
 [Time:: 6:45]
 [Artist:: [[Michael Jackson]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Quo Vadis (1989).jpg]]"
 ---
 [Time:: 4:14]
 [Artist:: [[Frank Zander]] ]

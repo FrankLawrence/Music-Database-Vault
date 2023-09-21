@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[The Original Soundtrack (1975).jpg]]"
 ---
 [Time:: 6:00]
 [Artist:: [[10cc]] ]

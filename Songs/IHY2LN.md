@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[IHY2LN + Marinate (2020).jpg]]"
 ---
 [Time:: 5:53]
 [Artist:: [[Zack Fox]] ]

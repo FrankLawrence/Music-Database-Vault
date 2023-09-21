@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Parallel Lines (1979).jpg]]"
 ---
 [Time:: 3:43]
 [Artist:: [[Blondie]] ]

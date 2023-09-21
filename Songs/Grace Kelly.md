@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Life in Cartoon Motion (2007).jpg]]"
 ---
 [Time:: 3:08]
 [Artist:: [[Mika]] ]

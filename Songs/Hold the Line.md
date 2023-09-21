@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Toto (1978).jpg]]"
 ---
 [Time:: 3:58]
 [Artist:: [[Toto]] ]

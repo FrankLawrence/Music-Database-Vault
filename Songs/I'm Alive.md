@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Xanadu (From The Original Motion Picture Soundtrack) (1980).jpg]]"
 ---
 [Time:: 3:47]
 [Artist:: [[Electric Light Orchestra]] ]

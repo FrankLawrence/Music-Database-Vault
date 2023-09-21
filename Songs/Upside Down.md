@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Diana (1980).jpg]]"
 ---
 [Time:: 4:06]
 [Artist:: [[Diana Ross]] ]

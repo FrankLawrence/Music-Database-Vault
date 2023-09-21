@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1962).jpg]]"
 ---
 [Time:: 2:59]
 [Artist:: [[Stan Getz]] ]

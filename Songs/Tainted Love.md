@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Non-Stop Erotic Cabaret (1981).jpg]]"
 ---
 [Time:: 3:01]
 [Artist:: [[Soft Cell]] ]

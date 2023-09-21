@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
----
+
 [Time:: 3:24]
 [Artist:: [[Neil Diamond]] ]
 [Genre:: Soft Rock]

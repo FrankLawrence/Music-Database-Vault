@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Astro Lounge (1999).jpg]]"
 ---
 [Time:: 3:57]
 [Artist:: [[Smash Mouth]] ]

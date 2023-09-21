@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Hope (2016).jpg]]"
 ---
 [Time:: 14:08]
 [Artist:: [[Martin Garrix & Third Party]] ]

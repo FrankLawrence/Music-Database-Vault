@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[To Whom It May Concern (1972).jpg]]"
 ---
 [Time:: 3:07]
 [Artist:: [[Bee Gees]] ]

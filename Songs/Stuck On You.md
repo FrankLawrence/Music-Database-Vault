@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[30 #1 Hits (1960).jpg]]"
 ---
 [Time:: 2:21]
 [Artist:: [[Elvis Presley]] ]

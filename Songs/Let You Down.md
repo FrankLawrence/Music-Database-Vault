@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Perception (2017).jpg]]"
 ---
 [Time:: 3:32]
 [Artist:: [[NF]] ]

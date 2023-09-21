@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Memories...Do Not Open (2016).jpg]]"
 ---
 [Time:: 4:27]
 [Artist:: [[The Chainsmokers]] [[Coldplay]] ]

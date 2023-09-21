@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1999).jpg]]"
 ---
 [Time:: 3:52]
 [Artist:: [[Martin Taylor]] ]

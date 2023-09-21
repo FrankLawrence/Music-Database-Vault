@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Ghost Stories (2014).jpg]]"
 ---
 [Time:: 3:48]
 [Artist:: [[Coldplay]] ]

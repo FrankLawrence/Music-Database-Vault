@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐ 💔
+banner: "![[Highway To Hell (1979).jpg]]"
 ---
 [Time:: 3:56]
 [Artist:: [[AC/DC]] ]

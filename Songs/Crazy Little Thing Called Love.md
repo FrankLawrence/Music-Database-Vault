@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[The Game (1977).jpg]]"
 ---
 [Time:: 2:44]
 [Artist:: [[Queen]] ]

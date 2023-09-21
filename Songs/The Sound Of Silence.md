@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Graduate (1965).jpg]]"
 ---
 [Time:: 3:06]
 [Artist:: [[Simon & Garfunkel]] ]

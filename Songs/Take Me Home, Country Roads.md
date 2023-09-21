@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Poems, Prayers & Promises (1971).jpg]]"
 ---
 [Time:: 3:18]
 [Artist:: [[John Denver]] ]

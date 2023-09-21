@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Completely Well (1969).jpg]]"
 ---
 [Time:: 5:27]
 [Artist:: [[B.B. King]] ]

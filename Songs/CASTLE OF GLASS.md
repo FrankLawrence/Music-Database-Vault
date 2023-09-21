@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Living Things (2012).jpg]]"
 ---
 [Time:: 3:26]
 [Artist:: [[Linkin Park]] ]

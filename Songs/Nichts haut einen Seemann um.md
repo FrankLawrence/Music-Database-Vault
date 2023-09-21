@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐ 💔
+banner: "![[Alles klar auf der Andrea Doria (1973).jpg]]"
 ---
 [Time:: 5:10]
 [Artist:: [[Udo Lindenberg]] ]

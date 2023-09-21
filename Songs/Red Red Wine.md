@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Labour of Love (1982).jpg]]"
 ---
 [Time:: 3:24]
 [Artist:: [[UB40]] ]

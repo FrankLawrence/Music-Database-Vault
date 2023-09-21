@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Can't Get Enough (1975).jpg]]"
 ---
 [Time:: 4:35]
 [Artist:: [[Barry White]] ]

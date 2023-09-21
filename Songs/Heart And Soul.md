@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[The Monkees Greatest Hits (1987).jpg]]"
 ---
 [Time:: 3:44]
 [Artist:: [[The Monkees]] ]

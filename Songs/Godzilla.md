@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Music to Be Murderd By (2020).jpg]]"
 ---
 [Time:: 3:33]
 [Artist:: [[Eminem]] [[Juice WRLD]] ]

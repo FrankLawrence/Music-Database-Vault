@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Back to Bedlam (2004).jpg]]"
 ---
 [Time:: 4:18]
 [Artist:: [[James Blunt]] ]

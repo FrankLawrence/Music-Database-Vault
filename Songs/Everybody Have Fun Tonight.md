@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Mosiac (1986).jpg]]"
 ---
 [Time:: 4:42]
 [Artist:: [[Wang Chung]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[1967-1970 (1973).jpg]]"
 ---
 [Time:: 4:45]
 [Artist:: [[The Beatles]] ]

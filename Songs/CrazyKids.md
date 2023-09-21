@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Crazy Kids (2013).jpg]]"
 ---
 [Time:: 3:51]
 [Artist:: [[Kesha]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Pendulum (1971).jpg]]"
 ---
 [Time:: 3:04]
 [Artist:: [[Creedence Clearwater Revival]] ]

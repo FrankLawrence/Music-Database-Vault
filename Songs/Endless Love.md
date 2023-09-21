@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Endless Love (1981).jpg]]"
 ---
 [Time:: 4:28]
 [Artist:: [[Lionel Richie & Diana Ross]] ]

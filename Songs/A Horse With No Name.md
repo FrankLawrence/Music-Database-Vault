@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[America (1972).jpg]]"
 ---
 [Time:: 4:08]
 [Artist:: [[America (2)]] ]

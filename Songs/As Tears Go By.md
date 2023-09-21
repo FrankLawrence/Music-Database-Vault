@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[December's Children (2007).jpg]]"
 ---
 [Time:: 2:46]
 [Artist:: [[The Rolling Stones]] ]

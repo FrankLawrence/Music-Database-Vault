@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Mylo Xyloto (2011).jpg]]"
 ---
 [Time:: 4:01]
 [Artist:: [[Coldplay]] ]

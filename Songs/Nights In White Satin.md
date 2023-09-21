@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Fading Shades (1995).jpg]]"
 ---
 [Time:: 3:34]
 [Artist:: [[Sandra]] ]

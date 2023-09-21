@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐ 💔
+banner: "![[All The Best (1974).jpg]]"
 ---
 [Time:: 4:24]
 [Artist:: [[Paul McCartney & Wings]] ]

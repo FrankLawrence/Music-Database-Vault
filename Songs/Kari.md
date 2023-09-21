@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1979).jpg]]"
 ---
 [Time:: 4:02]
 [Artist:: [[Bob James & Earl Klugh]] ]

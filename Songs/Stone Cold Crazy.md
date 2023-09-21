@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Sheer Heart Attack (1974).jpg]]"
 ---
 [Time:: 2:22]
 [Artist:: [[Queen]] ]

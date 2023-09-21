@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Hard Candy (2008).jpg]]"
 ---
 [Time:: 4:49]
 [Artist:: [[Madonna]] ]

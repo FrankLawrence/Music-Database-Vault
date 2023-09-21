@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Animotion (1984).jpg]]"
 ---
 [Time:: 3:59]
 [Artist:: [[Animotion]] ]

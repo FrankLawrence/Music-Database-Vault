@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Ich und meine Maske (2008).jpg]]"
 ---
 [Time:: 4:35]
 [Artist:: [[SIDO]] ]

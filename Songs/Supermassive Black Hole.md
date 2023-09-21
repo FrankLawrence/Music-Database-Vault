@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Black Holes and Revelations (2006).jpg]]"
 ---
 [Time:: 3:31]
 [Artist:: [[Muse]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[The Miracle (1977).jpg]]"
 ---
 [Time:: 4:55]
 [Artist:: [[Queen]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Time Flies.. The Best of Huey Lewis & The News (1996).jpg]]"
 ---
 [Time:: 3:55]
 [Artist:: [[Huey Lewis & The News]] ]

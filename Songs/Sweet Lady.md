@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[A Night at the Opera (1975).jpg]]"
 ---
 [Time:: 4:02]
 [Artist:: [[Queen]] ]

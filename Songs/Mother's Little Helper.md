@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Aftermath (1966).jpg]]"
 ---
 [Time:: 2:47]
 [Artist:: [[The Rolling Stones]] ]

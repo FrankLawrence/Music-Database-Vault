@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Greatest Kiss (1976).jpg]]"
 ---
 [Time:: 3:35]
 [Artist:: [[Kiss]] ]

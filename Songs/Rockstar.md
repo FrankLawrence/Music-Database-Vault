@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Blame it on Baby (2020).jpg]]"
 ---
 [Time:: 3:02]
 [Artist:: [[Dababy]] [[Roddy Ricch]] ]

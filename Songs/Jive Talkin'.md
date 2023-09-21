@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Main Course (1975).jpg]]"
 ---
 [Time:: 3:44]
 [Artist:: [[Bee Gees]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[don't leave home (2003).jpg]]"
 ---
 [Time:: 3:47]
 [Artist:: [[Dido]] ]

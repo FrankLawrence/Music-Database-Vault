@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[LSD (2018).jpg]]"
 ---
 [Time:: 3:45]
 [Artist:: [[LSD]] ]

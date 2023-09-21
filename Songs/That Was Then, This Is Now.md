@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[The Monkees Greatest Hits (1986).jpg]]"
 ---
 [Time:: 4:04]
 [Artist:: [[Micky Dolenz & Peter Tork]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Face the Music (1976).jpg]]"
 ---
 [Time:: 4:08]
 [Artist:: [[Electric Light Orchestra]] ]

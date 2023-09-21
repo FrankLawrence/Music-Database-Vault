@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Origins (2018).jpg]]"
 ---
 [Time:: 4:44]
 [Artist:: [[Imagine Dragons]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Broadcast (1986).jpg]]"
 ---
 [Time:: 4:31]
 [Artist:: [[Cutting Crew]] ]

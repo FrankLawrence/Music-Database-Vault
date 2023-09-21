@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Pipes of peace (1983).jpg]]"
 ---
 [Time:: 3:57]
 [Artist:: [[Paul McCartney]] [[Michael Jackson]] ]

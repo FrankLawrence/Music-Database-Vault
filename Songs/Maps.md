@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[V (2014).jpg]]"
 ---
 [Time:: 3:09]
 [Artist:: [[Maroon 5]] ]

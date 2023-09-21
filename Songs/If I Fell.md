@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[A Hard Day's Night (1964).jpg]]"
 ---
 [Time:: 2:22]
 [Artist:: [[The Beatles]] ]

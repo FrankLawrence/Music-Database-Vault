@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Fuji Kitaro Silkroad 1 (1985).jpg]]"
 ---
 [Time:: 42:39]
 [Artist:: [[Kitaro]] ]

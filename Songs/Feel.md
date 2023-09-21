@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Escapology (2002).jpg]]"
 ---
 [Time:: 4:24]
 [Artist:: [[Robbie Williams]] ]

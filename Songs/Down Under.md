@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Buisness as Usual (1981).jpg]]"
 ---
 [Time:: 3:42]
 [Artist:: [[Men At Work]] ]

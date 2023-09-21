@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Plastic Beach (2010).jpg]]"
 ---
 [Time:: 5:20]
 [Artist:: [[Gorillaz]] [[Mos Def]] ]

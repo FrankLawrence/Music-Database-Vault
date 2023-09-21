@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[IGOR (2019).jpg]]"
 ---
 [Time:: 0:15]
 [Artist:: [[Tyler, the Creator]] ]

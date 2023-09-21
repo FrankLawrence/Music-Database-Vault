@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Children of the World (1967).jpg]]"
 ---
 [Time:: 4:47]
 [Artist:: [[Bee Gees]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Twentyfive: For Loving [Disc 2] (1987).jpg]]"
 ---
 [Time:: 5:41]
 [Artist:: [[George Michael]] ]

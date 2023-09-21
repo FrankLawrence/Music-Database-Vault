@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Supermodel (2014).jpg]]"
 ---
 [Time:: 4:49]
 [Artist:: [[Foster the People]] ]

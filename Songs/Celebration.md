@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Celebrate! (1980).jpg]]"
 ---
 [Time:: 3:41]
 [Artist:: [[Kool & The Gang]] ]

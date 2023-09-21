@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Super trouper (1980).jpg]]"
 ---
 [Time:: 3:39]
 [Artist:: [[ABBA]] ]

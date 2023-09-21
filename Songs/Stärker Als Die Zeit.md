@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Stärker Als Die Zeit (2016).jpg]]"
 ---
 [Time:: 4:08]
 [Artist:: [[Udo Lindenberg]] ]

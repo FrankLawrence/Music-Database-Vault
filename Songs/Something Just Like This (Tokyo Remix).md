@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Kaleidoscope (2017).jpg]]"
 ---
 [Time:: 4:27]
 [Artist:: [[The Chainsmokers]] [[Coldplay]] ]

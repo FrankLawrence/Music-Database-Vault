@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Slash (2020).jpg]]"
 ---
 [Time:: 3:01]
 [Artist:: [[Aspyer]] ]

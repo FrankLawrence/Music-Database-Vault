@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Nothing but the Beat 2.0 (2012).jpg]]"
 ---
 [Time:: 4:05]
 [Artist:: [[David Guetta]] [[Sia]] ]

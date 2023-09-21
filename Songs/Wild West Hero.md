@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Out of the Blue (1990).jpg]]"
 ---
 [Time:: 4:42]
 [Artist:: [[Electric Light Orchestra]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Attack on Titan Original Soundtrack ().jpg]]"
 ---
 [Time:: 1:30]
 [Artist:: [[Yoshiki]] [[Hyde]] ]

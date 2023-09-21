@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Motel Lovers - Southern Soul From The Chitlin' Circuit (2007).jpg]]"
 ---
 [Time:: 4:57]
 [Artist:: [[Barbara Carr]] ]

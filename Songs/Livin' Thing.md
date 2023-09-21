@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[A New World Record (1976).jpg]]"
 ---
 [Time:: 3:32]
 [Artist:: [[Electric Light Orchestra]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[If You Can Believe Your Eyes and Ears (1965).jpg]]"
 ---
 [Time:: 2:43]
 [Artist:: [[The Mamas & The Papas]] ]

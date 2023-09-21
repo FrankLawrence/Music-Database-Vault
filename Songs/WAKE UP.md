@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Astroworld (2018).jpg]]"
 ---
 [Time:: 3:02]
 [Artist:: [[Travis Scott]] ]

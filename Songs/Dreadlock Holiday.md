@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Bloody Tourists (1978).jpg]]"
 ---
 [Time:: 4:14]
 [Artist:: [[10cc]] ]

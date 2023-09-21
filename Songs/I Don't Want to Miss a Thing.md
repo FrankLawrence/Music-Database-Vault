@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Armageddon: The Album (1998).jpg]]"
 ---
 [Time:: 4:59]
 [Artist:: [[Aerosmith]] ]

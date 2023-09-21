@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[NOT ALL HEROES WEAR CAPES (2018).jpg]]"
 ---
 [Time:: 2:46]
 [Artist:: [[Metro Boomin]] [[Travis Scott]] ]

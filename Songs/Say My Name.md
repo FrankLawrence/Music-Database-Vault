@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[7 (2018).jpg]]"
 ---
 [Time:: 3:18]
 [Artist:: [[David Guetta]] [[Bebe Rexha & J Balvin]] ]

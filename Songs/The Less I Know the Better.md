@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Currents (2015).jpg]]"
 ---
 [Time:: 3:37]
 [Artist:: [[Tame Impala]] ]

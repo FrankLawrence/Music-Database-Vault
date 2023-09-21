@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Saturday Night Fever (1977).jpg]]"
 ---
 [Time:: 4:03]
 [Artist:: [[Bee Gees]] ]

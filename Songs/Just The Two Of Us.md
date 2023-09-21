@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Winelight (1981).jpg]]"
 ---
 [Time:: 3:18]
 [Artist:: [[Grover Washington Jr. & Bill Withers]] ]

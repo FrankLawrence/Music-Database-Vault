@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Plastic Beach (2010).jpg]]"
 ---
 [Time:: 3:10]
 [Artist:: [[Gorillaz]] [[Gruff Rhys & De La Soul]] ]

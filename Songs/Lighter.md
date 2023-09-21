@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Lighter (2020).jpg]]"
 ---
 [Time:: 4:30]
 [Artist:: [[Nathan Dawe (feat. KSI)]] ]

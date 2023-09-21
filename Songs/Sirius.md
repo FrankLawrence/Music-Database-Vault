@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Eye In The Sky (1982).jpg]]"
 ---
 [Time:: 1:52]
 [Artist:: [[Alan Parsons Project]] ]

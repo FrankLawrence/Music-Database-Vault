@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Ultimate FM Gold (2022).jpg]]"
 ---
 [Time:: 4:19]
 [Artist:: [[The Dream Academy]] ]

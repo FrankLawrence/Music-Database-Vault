@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[With The Beatles (1963).jpg]]"
 ---
 [Time:: 1:48]
 [Artist:: [[The Beatles]] ]

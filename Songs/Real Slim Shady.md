@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[The Marshall Mathers LP (2000).jpg]]"
 ---
 [Time:: 4:28]
 [Artist:: [[Eminem]] ]

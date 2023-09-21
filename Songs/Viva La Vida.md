@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Viva La Vida Or Death And All His Friends (2008).jpg]]"
 ---
 [Time:: 4:02]
 [Artist:: [[Coldplay]] ]

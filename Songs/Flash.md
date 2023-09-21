@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Flash Gordon (1977).jpg]]"
 ---
 [Time:: 2:49]
 [Artist:: [[Queen]] ]

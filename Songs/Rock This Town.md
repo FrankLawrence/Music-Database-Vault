@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Stray Cats (1981).jpg]]"
 ---
 [Time:: 3:22]
 [Artist:: [[Stray Cats]] ]

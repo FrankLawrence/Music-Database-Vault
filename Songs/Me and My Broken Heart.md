@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Let the Road (2014).jpg]]"
 ---
 [Time:: 3:15]
 [Artist:: [[Rixton]] ]

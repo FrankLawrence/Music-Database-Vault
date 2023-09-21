@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Little Dark Age (2018).jpg]]"
 ---
 [Time:: 5:00]
 [Artist:: [[MGMT]] ]

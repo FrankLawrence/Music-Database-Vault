@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Part 3 (1976).jpg]]"
 ---
 [Time:: 3:08]
 [Artist:: [[K.C. & The Sunshine Band]] ]

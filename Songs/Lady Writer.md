@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Communiqué (1979).jpg]]"
 ---
 [Time:: 3:46]
 [Artist:: [[Dire Straits]] ]

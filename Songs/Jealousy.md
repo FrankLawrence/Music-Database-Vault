@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Jazz (1978).jpg]]"
 ---
 [Time:: 3:22]
 [Artist:: [[Queen]] ]

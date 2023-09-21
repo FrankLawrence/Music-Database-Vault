@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 💛
+banner: "![[American Gigolo (1980).jpg]]"
 ---
 [Time:: 2:15]
 [Artist:: [[Blondie]] ]

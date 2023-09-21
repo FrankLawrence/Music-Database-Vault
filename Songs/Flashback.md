@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Pure Disco (1981).jpg]]"
 ---
 [Time:: 3:42]
 [Artist:: [[Imagination]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Heartbreaker [UK] (1996).jpg]]"
 ---
 [Time:: 4:11]
 [Artist:: [[Pat Benatar]] ]

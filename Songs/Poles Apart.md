@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[The Division Bell (1994).jpg]]"
 ---
 [Time:: 7:04]
 [Artist:: [[Pink Floyd]] ]

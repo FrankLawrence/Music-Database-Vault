@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Aqualung (1971).jpg]]"
 ---
 [Time:: 6:35]
 [Artist:: [[Jethro Tull]] ]

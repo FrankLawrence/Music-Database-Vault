@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[I (2015).jpg]]"
 ---
 [Time:: 3:08]
 [Artist:: [[Felix Jaehn]] [[Jasmine Thompson]] ]

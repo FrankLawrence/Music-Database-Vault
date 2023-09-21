@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Pure Disco (1990).jpg]]"
 ---
 [Time:: 4:51]
 [Artist:: [[Olivia Newton-John & John Travolta]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Can't Slow Down (1983).jpg]]"
 ---
 [Time:: 5:54]
 [Artist:: [[Lionel Richie]] ]

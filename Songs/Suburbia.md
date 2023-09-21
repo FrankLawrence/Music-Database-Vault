@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Please (1986).jpg]]"
 ---
 [Time:: 5:16]
 [Artist:: [[Pet Shop Boys]] ]

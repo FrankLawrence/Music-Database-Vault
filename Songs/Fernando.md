@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Frida ensam (1975).jpg]]"
 ---
 [Time:: 4:14]
 [Artist:: [[Anni-Frid Lyngstad]] ]

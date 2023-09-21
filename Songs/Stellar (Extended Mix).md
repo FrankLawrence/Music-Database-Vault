@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Stellar (2018).jpg]]"
 ---
 [Time:: 3:45]
 [Artist:: [[Sansixto]] [[Max Adrian & Aftermarket]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Revenge ().jpg]]"
 ---
 [Time:: 4:30]
 [Artist:: [[Eurythmics]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Mirrors (1986).jpg]]"
 ---
 [Time:: 4:13]
 [Artist:: [[Sandra]] ]

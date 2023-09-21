@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Songs from the Big Chair (1985).jpg]]"
 ---
 [Time:: 4:13]
 [Artist:: [[Tears For Fears]] ]

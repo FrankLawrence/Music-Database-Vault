@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Goodbye Yellow Brick Road (1973).jpg]]"
 ---
 [Time:: 2:46]
 [Artist:: [[Elton John]] ]

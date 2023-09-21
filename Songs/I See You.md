@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Jutty Ranx (2013).jpg]]"
 ---
 [Time:: 3:30]
 [Artist:: [[Jutty Ranx]] ]

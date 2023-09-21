@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Violator (1990).jpg]]"
 ---
 [Time:: 3:46]
 [Artist:: [[Depeche Mode]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Midnight Love (1982).jpg]]"
 ---
 [Time:: 4:05]
 [Artist:: [[Marvin Gaye]] ]

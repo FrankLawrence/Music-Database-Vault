@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Seychelles (1976).jpg]]"
 ---
 [Time:: 4:28]
 [Artist:: [[Masayoshi Takanaka (高中正義)]] ]

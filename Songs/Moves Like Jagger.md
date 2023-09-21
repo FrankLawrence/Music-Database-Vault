@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Hands All Over (2011).jpg]]"
 ---
 [Time:: 3:22]
 [Artist:: [[Maroon 5]] [[Christina Aguilera]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Ring Ring (1973).jpg]]"
 ---
 [Time:: 3:11]
 [Artist:: [[ABBA]] ]

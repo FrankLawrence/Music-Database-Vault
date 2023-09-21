@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[The Very Best Of Smooth Jazz [Disc 1] (2000).jpg]]"
 ---
 [Time:: 3:08]
 [Artist:: [[Hil St. Soul]] ]

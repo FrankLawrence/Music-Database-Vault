@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[The Endless River (2014).jpg]]"
 ---
 [Time:: 4:27]
 [Artist:: [[Pink Floyd]] ]

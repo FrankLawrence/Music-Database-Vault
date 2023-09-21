@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Cloud Nine (1987).jpg]]"
 ---
 [Time:: 3:52]
 [Artist:: [[George Harrison]] ]

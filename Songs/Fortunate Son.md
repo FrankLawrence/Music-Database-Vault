@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Willy and the Poor Boys (1969).jpg]]"
 ---
 [Time:: 2:17]
 [Artist:: [[Creedence Clearwater Revival]] ]

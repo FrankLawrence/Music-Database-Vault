@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Night Visions (2013).jpg]]"
 ---
 [Time:: 3:56]
 [Artist:: [[Imagine Dragons]] ]

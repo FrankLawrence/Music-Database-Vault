@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[MONTERO (2021).jpg]]"
 ---
 [Time:: 2:18]
 [Artist:: [[Lil Nas X]] ]

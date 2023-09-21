@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Sand in my Shoes (2003).jpg]]"
 ---
 [Time:: 4:59]
 [Artist:: [[Dido]] ]

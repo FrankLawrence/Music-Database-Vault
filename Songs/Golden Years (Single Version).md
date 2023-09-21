@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐ 💔
+banner: "![[Best Of Bowie (1976).jpg]]"
 ---
 [Time:: 3:30]
 [Artist:: [[David Bowie]] ]

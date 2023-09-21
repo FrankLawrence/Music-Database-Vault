@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Reach the Beach (1983).jpg]]"
 ---
 [Time:: 3:16]
 [Artist:: [[The Fixx]] ]

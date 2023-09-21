@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Just Another Way To Say I Love You (1975).jpg]]"
 ---
 [Time:: 3:33]
 [Artist:: [[Barry White]] ]

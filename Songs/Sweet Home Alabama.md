@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Second Helping (1974).jpg]]"
 ---
 [Time:: 4:45]
 [Artist:: [[Lynyrd Skynyrd]] ]

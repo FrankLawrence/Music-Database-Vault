@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Plastic Beach (2010).jpg]]"
 ---
 [Time:: 4:03]
 [Artist:: [[Gorillaz]] [[Mark E. Smith]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Takanaka (1977).jpg]]"
 ---
 [Time:: 4:01]
 [Artist:: [[Masayoshi Takanaka (高中正義)]] ]

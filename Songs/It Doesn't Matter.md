@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Free as a Bird (1987).jpg]]"
 ---
 [Time:: 4:52]
 [Artist:: [[Supertramp]] ]

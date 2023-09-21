@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Into the Gap (1984).jpg]]"
 ---
 [Time:: 4:11]
 [Artist:: [[The Thompson Twins]] ]

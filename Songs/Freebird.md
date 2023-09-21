@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[(Pronounced 'Lĕh-'nérd 'Skin-'nérd) (1973).jpg]]"
 ---
 [Time:: 9:10]
 [Artist:: [[Lynyrd Skynyrd]] ]

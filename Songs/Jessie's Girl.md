@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Working Class Dog (1981).jpg]]"
 ---
 [Time:: 3:12]
 [Artist:: [[Rick Springfield]] ]

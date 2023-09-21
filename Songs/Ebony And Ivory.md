@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[All The Best (1982).jpg]]"
 ---
 [Time:: 3:43]
 [Artist:: [[Paul McCartney & Stevie Wonder]] ]

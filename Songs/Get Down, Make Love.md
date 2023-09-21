@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[News of the World (1977).jpg]]"
 ---
 [Time:: 4:00]
 [Artist:: [[Queen]] ]

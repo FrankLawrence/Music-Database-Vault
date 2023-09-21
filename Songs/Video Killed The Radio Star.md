@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[The Age of Plastic (1979).jpg]]"
 ---
 [Time:: 3:15]
 [Artist:: [[The Buggles]] ]

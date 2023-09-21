@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[This Is Acting (2016).jpg]]"
 ---
 [Time:: 3:40]
 [Artist:: [[Sia]] ]

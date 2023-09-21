@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Parachutes (2000).jpg]]"
 ---
 [Time:: 4:33]
 [Artist:: [[Coldplay]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Waterloo (1974).jpg]]"
 ---
 [Time:: 2:43]
 [Artist:: [[ABBA]] ]

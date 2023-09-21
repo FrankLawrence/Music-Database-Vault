@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[New Age ().jpg]]"
 ---
 [Time:: 3:49]
 [Artist:: [[KSI & Randalf]] ]

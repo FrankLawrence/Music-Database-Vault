@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Kalimba de Luna – 16 Happy Songs (1984).jpg]]"
 ---
 [Time:: 4:13]
 [Artist:: [[Boney M]] ]

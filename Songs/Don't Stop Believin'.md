@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Escape (1981).jpg]]"
 ---
 [Time:: 4:10]
 [Artist:: [[Journey]] ]

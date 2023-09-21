@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐ 
+banner: "![[Greatest Hits Vol. 2 (1979).jpg]]"
 ---
 [Time:: 3:31]
 [Artist:: [[ABBA]] ]

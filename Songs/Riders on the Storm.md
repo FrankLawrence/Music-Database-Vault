@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[L.A. Woman (1971).jpg]]"
 ---
 [Time:: 7:14]
 [Artist:: [[The Doors]] ]
@@ -10,5 +11,5 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = [[Riders on the Storm]]
+WHERE Favorite_Song = [[Riders on the Storn]]
 ````

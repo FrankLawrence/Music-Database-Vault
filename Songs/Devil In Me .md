@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
----
+
 [Time:: 3:17]
 [Artist:: [[Purple Disco Machine]] [[Joe Killington & Duane Harden]] ]
 [Genre:: Rock/Pop]

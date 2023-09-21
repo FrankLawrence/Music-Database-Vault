@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Shades (1981).jpg]]"
 ---
 [Time:: 2:21]
 [Artist:: [[J.J. Cale]] ]

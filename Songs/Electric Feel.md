@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Oracluar Spectacular (2007).jpg]]"
 ---
 [Time:: 3:50]
 [Artist:: [[MGMT]] ]

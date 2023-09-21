@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[#8 (1983).jpg]]"
 ---
 [Time:: 4:17]
 [Artist:: [[J.J. Cale]] ]

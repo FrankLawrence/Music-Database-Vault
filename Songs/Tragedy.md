@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Spirits Having Flown (1979).jpg]]"
 ---
 [Time:: 5:04]
 [Artist:: [[Bee Gees]] ]

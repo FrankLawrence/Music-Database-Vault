@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Californication (2000).jpg]]"
 ---
 [Time:: 5:21]
 [Artist:: [[Red Hot Chili Peppers]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
+banner: "![[Their Greatest Hits (1973).jpg]]"
 ---
 [Time:: 4:58]
 [Artist:: [[Hot Chocolate]] ]

@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Music from the Edge of Heaven (1984).jpg]]"
 ---
 [Time:: 4:27]
 [Artist:: [[Wham!]] ]

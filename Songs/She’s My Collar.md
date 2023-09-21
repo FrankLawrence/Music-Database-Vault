@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Humanz (2017).jpg]]"
 ---
 [Time:: 3:24]
 [Artist:: [[Gorillaz]] [[Kali Uchis]] ]

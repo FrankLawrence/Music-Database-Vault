@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Troubadour (1967).jpg]]"
 ---
 [Time:: 2:54]
 [Artist:: [[J.J. Cale]] ]

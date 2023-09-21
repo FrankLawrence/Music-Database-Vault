@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
+banner: "![[Bouquet (2015).jpg]]"
 ---
 [Time:: 3:48]
 [Artist:: [[The Chainsmokers]] [[Rozes]] ]

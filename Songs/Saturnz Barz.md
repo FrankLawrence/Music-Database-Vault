@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐ 
+banner: "![[Humanz (2017).jpg]]"
 ---
 [Time:: 6:13]
 [Artist:: [[Gorillaz]] [[Popcaan]] ]

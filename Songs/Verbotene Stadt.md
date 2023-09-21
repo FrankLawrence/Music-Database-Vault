@@ -1,5 +1,6 @@
 ---
 tags: Song  
+banner: "![[Stark Wie Zwei (2008).jpg]]"
 ---
 [Time:: 5:07]
 [Artist:: [[Udo Lindenberg]] [[Till Brönner]] ]

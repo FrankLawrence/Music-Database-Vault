@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Sempiternal (2013).jpg]]"
 ---
 [Time:: 3:48]
 [Artist:: [[Bring Me The Horizon]] ]
