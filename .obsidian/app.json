@@ -24,5 +24,6 @@
   "foldHeading": true,
   "showInlineTitle": true,
   "autoConvertHtml": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "propertiesInDocument": "hidden"
 }
