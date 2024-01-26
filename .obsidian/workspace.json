@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/Eyes Without A Face.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,12 +153,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af68da5da2e3de0e",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-25.md",
+                "file": "Songs/Eyes Without A Face.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-25.md",
+                "file": "Songs/Eyes Without A Face.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,12 +222,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-25.md"
+                "file": "Songs/Eyes Without A Face.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,10 +250,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ccf17990c441112",
+  "active": "4a8cb08379ca2e59",
   "lastOpenFiles": [
-    "Songs/Eyes Without A Face.md",
     "Daily Notes/2024-01-25.md",
+    "Songs/Eyes Without A Face.md",
     "Daily Notes/2024-01-26.md",
     "Daily Notes/2023-10-04.md",
     "Daily Notes/2022-12-02.md",
