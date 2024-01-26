@@ -27,19 +27,6 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/Eyes Without A Face.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d8fca33d516d23b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2022-12-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,38 +34,12 @@
             }
           },
           {
-            "id": "8fc9b59c72a6d6ca",
+            "id": "48df473d6f8af4a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-10-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1f1581e85f629e4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2022-12-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d7ac79ddcf6a350f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2022-12-02.md",
+                "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -110,17 +71,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "48df473d6f8af4a0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md"
+              }
             }
           }
         ],
@@ -270,12 +227,13 @@
   },
   "active": "48df473d6f8af4a0",
   "lastOpenFiles": [
-    "Daily Notes/2022-12-02.md",
     "Songs/Eyes Without A Face.md",
-    "Daily Notes/2023-10-04.md",
-    "Daily Notes/2022-12-04.md",
-    "Songs/Marooned.md",
     "Daily Notes/2024-01-25.md",
+    "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
+    "Songs/Marooned.md",
+    "Daily Notes/2022-12-02.md",
+    "Daily Notes/2022-12-04.md",
+    "Daily Notes/2023-10-04.md",
     "Daily Notes/2024-01-26.md",
     "Daily Notes/2023-10-05.md",
     "HeatMap.md",
@@ -295,7 +253,6 @@
     "Daily Notes/2024-04-22.md",
     "Daily Notes/2024-04-21.md",
     "Daily Notes/2024-04-20.md",
-    "Daily Notes/2024-04-19.md",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
     "Album Covers/Zodiac (2016).jpg",

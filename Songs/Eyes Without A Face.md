@@ -22,7 +22,7 @@ const calendarData = {
 	entries: [] 
 }; 
 
-for (let page of dv.pages('"Daily Notes"').where(p => p.Eyes_Without_A_Face)) { 
+for (let page of dv.pages('"Daily Notes"')) { 
 	calendarData.entries.push({ 
 		date: page.file.name, 
 		intensity: page.Eyes_Without_A_Face
