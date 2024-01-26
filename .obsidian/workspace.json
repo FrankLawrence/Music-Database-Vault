@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/One Of Us.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
