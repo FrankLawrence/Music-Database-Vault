@@ -17,7 +17,7 @@ WHERE Favorite_Song = [[Eyes Without A Face]]
 ```dataviewjs
 const calendarData = { 
 	colors: { 
-		green: ["#c6e48b", "#7bc96f", "#49af5d", "#2e8840", "#196127"] 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
 	}, 
 	entries: [] 
 }; 
