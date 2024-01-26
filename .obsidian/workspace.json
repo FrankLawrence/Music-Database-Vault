@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most Played.md",
+                "file": "Songs/Eyes Without A Face.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "8894a11a0b464274",
+            "id": "8fc9b59c72a6d6ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Daily Notes/2023-10-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,13 +47,26 @@
             }
           },
           {
-            "id": "5db678a4303a806f",
+            "id": "1f1581e85f629e4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HeatMap.md",
-                "mode": "preview",
+                "file": "Daily Notes/2022-12-04.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d7ac79ddcf6a350f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-12-02.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -71,9 +84,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0ccf17990c441112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-01-25.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -127,12 +153,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af68da5da2e3de0e",
@@ -156,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Daily Notes/2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Daily Notes/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-26.md"
+                "file": "Daily Notes/2024-01-25.md"
               }
             }
           }
@@ -224,15 +250,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8894a11a0b464274",
+  "active": "0ccf17990c441112",
   "lastOpenFiles": [
+    "Songs/Eyes Without A Face.md",
     "Daily Notes/2024-01-25.md",
-    "Daily Notes/2024-01-24.md",
-    "Daily Notes/2024-01-23.md",
+    "Daily Notes/2024-01-26.md",
+    "Daily Notes/2023-10-04.md",
+    "Daily Notes/2022-12-02.md",
+    "Daily Notes/2022-12-04.md",
+    "Daily Notes/2023-10-05.md",
     "HeatMap.md",
     "Songs/Marooned.md",
-    "Favorite Songs.md",
     "Most Played.md",
+    "Favorite Songs.md",
+    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
+    "Daily Notes/2024-01-24.md",
+    "Daily Notes/2024-01-23.md",
     "Daily Notes/2024-04-30.md",
     "Daily Notes/2024-04-29.md",
     "Daily Notes/2024-04-28.md",
@@ -245,13 +278,6 @@
     "Daily Notes/2024-04-21.md",
     "Daily Notes/2024-04-20.md",
     "Daily Notes/2024-04-19.md",
-    "Daily Notes/2024-04-18.md",
-    "Daily Notes/2024-04-17.md",
-    "Daily Notes/2024-04-16.md",
-    "Daily Notes/2024-04-15.md",
-    "Daily Notes/2024-04-14.md",
-    "Daily Notes/2024-04-13.md",
-    "Daily Notes/2024-04-12.md",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
     "Album Covers/Zodiac (2016).jpg",
