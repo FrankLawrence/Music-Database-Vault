@@ -27,6 +27,19 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/Eyes Without A Face.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d8fca33d516d23b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-12-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,9 +110,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "48df473d6f8af4a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -183,7 +204,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Eyes Without A Face.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +220,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Eyes Without A Face.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,9 +241,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Songs/Eyes Without A Face.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -251,15 +268,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f167871f5c6045ee",
+  "active": "48df473d6f8af4a0",
   "lastOpenFiles": [
-    "Songs/Marooned.md",
+    "Daily Notes/2022-12-02.md",
     "Songs/Eyes Without A Face.md",
+    "Daily Notes/2023-10-04.md",
+    "Daily Notes/2022-12-04.md",
+    "Songs/Marooned.md",
     "Daily Notes/2024-01-25.md",
     "Daily Notes/2024-01-26.md",
-    "Daily Notes/2023-10-04.md",
-    "Daily Notes/2022-12-02.md",
-    "Daily Notes/2022-12-04.md",
     "Daily Notes/2023-10-05.md",
     "HeatMap.md",
     "Most Played.md",
