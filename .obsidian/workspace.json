@@ -21,12 +21,64 @@
             }
           },
           {
-            "id": "f167871f5c6045ee",
+            "id": "e2c2d517c4f9c3fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Eyes Without A Face.md",
+                "file": "Songs/Welcome to the World.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e07d3f76cdf05278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-12-26.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a11d5b9232fabae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-12-23.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9ee2927a5b6a70e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-11-07.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3a5eb541e84365d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-07-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -40,19 +92,6 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "993733e4d9a05a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Marooned.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -66,14 +105,14 @@
               "type": "markdown",
               "state": {
                 "file": "Daily Notes/2024-01-25.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
+                "file": "Songs/Welcome to the World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
+                "file": "Songs/Welcome to the World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md"
+                "file": "Songs/Welcome to the World.md"
               }
             }
           }
@@ -225,34 +264,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48df473d6f8af4a0",
+  "active": "e2c2d517c4f9c3fc",
   "lastOpenFiles": [
+    "Daily Notes/2023-12-26.md",
+    "Daily Notes/2023-12-23.md",
+    "Daily Notes/2023-11-07.md",
+    "Daily Notes/2023-07-28.md",
+    "Songs/Welcome to the World.md",
     "Songs/Eyes Without A Face.md",
-    "Daily Notes/2024-01-25.md",
-    "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
-    "Songs/Marooned.md",
     "Daily Notes/2022-12-02.md",
     "Daily Notes/2022-12-04.md",
     "Daily Notes/2023-10-04.md",
-    "Daily Notes/2024-01-26.md",
     "Daily Notes/2023-10-05.md",
-    "HeatMap.md",
-    "Most Played.md",
     "Favorite Songs.md",
-    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
-    "Daily Notes/2024-01-24.md",
-    "Daily Notes/2024-01-23.md",
-    "Daily Notes/2024-04-30.md",
-    "Daily Notes/2024-04-29.md",
-    "Daily Notes/2024-04-28.md",
-    "Daily Notes/2024-04-27.md",
-    "Daily Notes/2024-04-26.md",
-    "Daily Notes/2024-04-25.md",
-    "Daily Notes/2024-04-24.md",
-    "Daily Notes/2024-04-23.md",
-    "Daily Notes/2024-04-22.md",
-    "Daily Notes/2024-04-21.md",
-    "Daily Notes/2024-04-20.md",
+    "Daily Notes/2024-01-25.md",
+    "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
+    "Songs/Child Of Vision.md",
+    "Songs/Marooned.md",
+    "Songs copy/Child Of Vision.md",
+    "Songs copy/Another One Bites The Dust.md",
+    "Songs copy/Another kind of Blues (Slap It) (Zion).md",
+    "Songs copy/Another Brick in the Wall Pt. 2.md",
+    "Songs copy/Always On My Mind.md",
+    "Songs copy/Always in My Head.md",
+    "Songs copy/Allons-y (2).md",
+    "Songs copy/A Different Corner.md",
+    "Songs copy/99 Luftballons.md",
+    "Songs copy/145 (Poodles).md",
+    "Songs copy/505.md",
+    "Songs copy",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
     "Album Covers/Zodiac (2016).jpg",
