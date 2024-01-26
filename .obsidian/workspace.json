@@ -26,60 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Welcome to the World.md",
+                "file": "Songs/One Of Us.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e07d3f76cdf05278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-12-26.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a11d5b9232fabae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-12-23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9ee2927a5b6a70e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-11-07.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3a5eb541e84365d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-07-28.md",
-                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -92,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -104,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-25.md",
-                "mode": "preview",
+                "file": "Daily Notes/2024-01-26.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -196,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Welcome to the World.md",
+                "file": "Songs/One Of Us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Welcome to the World.md",
+                "file": "Songs/One Of Us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Welcome to the World.md"
+                "file": "Songs/One Of Us.md"
               }
             }
           }
@@ -266,19 +214,20 @@
   },
   "active": "e2c2d517c4f9c3fc",
   "lastOpenFiles": [
+    "Songs/Welcome to the World.md",
+    "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
+    "Daily Notes/2023-07-28.md",
+    "Daily Notes/2023-11-07.md",
     "Daily Notes/2023-12-26.md",
     "Daily Notes/2023-12-23.md",
-    "Daily Notes/2023-11-07.md",
-    "Daily Notes/2023-07-28.md",
-    "Songs/Welcome to the World.md",
+    "Daily Notes/2024-01-26.md",
+    "Daily Notes/2024-01-25.md",
     "Songs/Eyes Without A Face.md",
     "Daily Notes/2022-12-02.md",
     "Daily Notes/2022-12-04.md",
     "Daily Notes/2023-10-04.md",
     "Daily Notes/2023-10-05.md",
     "Favorite Songs.md",
-    "Daily Notes/2024-01-25.md",
-    "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
     "Songs/Child Of Vision.md",
     "Songs/Marooned.md",
     "Songs copy/Child Of Vision.md",
@@ -291,7 +240,6 @@
     "Songs copy/A Different Corner.md",
     "Songs copy/99 Luftballons.md",
     "Songs copy/145 (Poodles).md",
-    "Songs copy/505.md",
     "Songs copy",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",

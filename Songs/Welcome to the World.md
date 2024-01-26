@@ -14,21 +14,3 @@ TABLE Favorite_Song
 WHERE Favorite_Song = [[Welcome to the World]]
 ````
 
-```dataviewjs
-const calendarData = { 
-	year: 2023,
-	colors: { 
-		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
-	}, 
-	entries: [] 
-}; 
-
-for (let page of dv.pages('"Daily Notes"')) { 
-	calendarData.entries.push({ 
-		date: page.file.name, 
-		intensity: page.Welcome_to_the_World
-	}); 
-} 
-
-renderHeatmapCalendar(this.container, calendarData);
-```
