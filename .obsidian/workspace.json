@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af68da5da2e3de0e",
@@ -250,17 +251,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a8cb08379ca2e59",
+  "active": "f167871f5c6045ee",
   "lastOpenFiles": [
-    "Daily Notes/2024-01-25.md",
+    "Songs/Marooned.md",
     "Songs/Eyes Without A Face.md",
+    "Daily Notes/2024-01-25.md",
     "Daily Notes/2024-01-26.md",
     "Daily Notes/2023-10-04.md",
     "Daily Notes/2022-12-02.md",
     "Daily Notes/2022-12-04.md",
     "Daily Notes/2023-10-05.md",
     "HeatMap.md",
-    "Songs/Marooned.md",
     "Most Played.md",
     "Favorite Songs.md",
     "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
