@@ -1,13 +1,9 @@
 [
   "table-editor-obsidian",
   "calendar",
-  "obsidian-outliner",
-  "obsidian-excalidraw-plugin",
   "nldates-obsidian",
-  "hotkeysplus-obsidian",
   "templater-obsidian",
   "obsidian-icons-plugin",
-  "obsidian-relative-line-numbers",
   "obsidian-pandoc",
   "dataview",
   "obsidian-minimal-settings",
@@ -15,10 +11,7 @@
   "settings-search",
   "obsidian-banners",
   "obsidian-style-settings",
-  "quick-latex",
-  "todoist-sync-plugin",
   "obsidian-sortable",
-  "obsidian-contextual-typography",
   "quickadd",
   "heatmap-calendar"
 ]
