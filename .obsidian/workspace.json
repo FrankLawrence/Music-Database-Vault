@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "8bb6ebe26c0d0663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script Idea.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e2c2d517c4f9c3fc",
             "type": "leaf",
             "state": {
@@ -34,25 +47,12 @@
             }
           },
           {
-            "id": "48df473d6f8af4a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0ccf17990c441112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Daily Notes/2024-01-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Script Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Script Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-26.md"
+                "file": "Script Idea.md"
               }
             }
           }
@@ -211,23 +212,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ccf17990c441112",
+  "active": "8bb6ebe26c0d0663",
   "lastOpenFiles": [
-    "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
+    "Daily Notes/2024-01-23.md",
+    "Script Idea.md",
     "Songs/One Of Us.md",
+    "Favorite Songs.md",
+    "Daily Notes/2024-01-26.md",
+    "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
     "Songs/Welcome to the World.md",
     "Daily Notes/2023-07-28.md",
     "Daily Notes/2023-11-07.md",
     "Daily Notes/2023-12-26.md",
     "Daily Notes/2023-12-23.md",
-    "Daily Notes/2024-01-26.md",
     "Daily Notes/2024-01-25.md",
     "Songs/Eyes Without A Face.md",
     "Daily Notes/2022-12-02.md",
     "Daily Notes/2022-12-04.md",
     "Daily Notes/2023-10-04.md",
     "Daily Notes/2023-10-05.md",
-    "Favorite Songs.md",
     "Songs/Child Of Vision.md",
     "Songs/Marooned.md",
     "Songs copy/Child Of Vision.md",
@@ -237,8 +240,6 @@
     "Songs copy/Always On My Mind.md",
     "Songs copy/Always in My Head.md",
     "Songs copy/Allons-y (2).md",
-    "Songs copy/A Different Corner.md",
-    "Songs copy/99 Luftballons.md",
     "Songs copy",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
