@@ -1,5 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
+banner: "![[Ylang Ylang - EP]]"
 ---
 [Time:: 3:33]
 [Artist:: [[FKJ]] [[((( O ))]] ]

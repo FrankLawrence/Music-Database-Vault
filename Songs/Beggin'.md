@@ -11,5 +11,5 @@ banner: "![[So Dark the Con of Man (2017).jpg]]"
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = [[Beggin’]]
+WHERE Favorite_Song = [[Beggin']]
 ````

@@ -11,5 +11,5 @@ banner: "![[Secret Messages (1983).jpg]]"
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = [[Rock And Roll Is King]]
+WHERE Favorite_Song = [[Rock 'N' Roll Is King]]
 ````

@@ -11,5 +11,5 @@ banner: "![[30 #1 Hits (1959).jpg]]"
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = [[A Big Hunk O' Love]]
+WHERE Favorite_Song = [[A Big Hunk O'Love]]
 ````

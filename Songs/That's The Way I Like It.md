@@ -11,5 +11,5 @@ banner: "![[KC And The Sunshine Band (1975).jpg]]"
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = [[That's The Way (I Like It)]]
+WHERE Favorite_Song = [[That's The Way I Like It]]
 ````

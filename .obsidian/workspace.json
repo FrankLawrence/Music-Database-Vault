@@ -47,25 +47,12 @@
             }
           },
           {
-            "id": "b40ebeeccb2146bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Georgy Porgy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "881ee1b37798e14f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YouSeeBIGGIRL-T-T.md",
+                "file": "Songs/Aquarium.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YouSeeBIGGIRL-T-T.md",
+                "file": "Songs/Aquarium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YouSeeBIGGIRL-T-T.md",
+                "file": "Songs/Aquarium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YouSeeBIGGIRL-T-T.md"
+                "file": "Songs/Aquarium.md"
               }
             }
           }
@@ -227,36 +214,37 @@
   },
   "active": "881ee1b37798e14f",
   "lastOpenFiles": [
-    "Georgy Porgy.md",
-    "YouSeeBIGGIRL-T-T.md",
-    "\"Awaken, My Love!\" (2016).jpg",
-    "Songs/YouSeeBIGGIRL-T-T",
-    "YouSeeBIGGIRL/T-T.md",
-    "YouSeeBIGGIRL",
-    "Ylang Ylang.md",
-    "Songs/Me and Your Mama.md",
-    "Album Covers/\"Awaken, My Love!\" (2016).jpg",
-    "Songs/One Of Us.md",
+    "Songs/Final.md",
+    "Songs/Le Cygne.md",
+    "Songs/Fossiles.md",
+    "Songs/Pianistes.md",
+    "Songs/Voliere.md",
+    "Songs/Le Coucou au fond des bois.md",
+    "Songs/Personnages a longues orielles.md",
+    "Songs/YouSeeBIGGIRL-T-T.md",
+    "Songs/Kangourous.md",
+    "Songs/L'elephant.md",
+    "Songs/Tortues.md",
+    "Songs/Hemiones.md",
+    "Songs/Poules et coqs.md",
+    "Songs/Introduction et marche royale du Lion.md",
     "Daily Notes/2024-01-26.md",
-    "Album Covers/\"Awaken, My Love!\" (2016).jpeg",
-    "Songs/BiPolar.md",
     "Songs/Hard To Say I'm Sorry.md",
-    "Songs/Rockaria!.md",
-    "Songs/Birthday.md",
-    "Daily Notes/2024-01-25.md",
-    "Daily Notes/2024-01-24.md",
-    "Daily Notes/2024-01-23.md",
-    "Favorite Songs.md",
-    "Script Idea.md",
-    "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
-    "Songs/Welcome to the World.md",
-    "Daily Notes/2023-07-28.md",
-    "Daily Notes/2023-11-07.md",
-    "Daily Notes/2023-12-26.md",
-    "Daily Notes/2023-12-23.md",
-    "Songs/Eyes Without A Face.md",
-    "Daily Notes/2022-12-02.md",
-    "Daily Notes/2022-12-04.md",
+    "Songs/Ron's Theme.md",
+    "Songs/Beggin'.md",
+    "Songs/Ain't No Mountain High Enough.md",
+    "Songs/A Big Hunk O'Love.md",
+    "Songs/That's The Way I Like It.md",
+    "Songs/The Rumbling.md",
+    "Songs/Another kind of Blues.md",
+    "Songs/Rock 'N' Roll Is King.md",
+    "Songs/Ylang Ylang.md",
+    "Daily Notes/2024-01-27.md",
+    "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
+    "Songs/YouSeeBIGGIRL-T-T",
+    "YouSeeBIGGIRL",
+    "Album Covers/\"Awaken, My Love!\" (2016).jpg",
+    "Album Covers/\"Awaken, My Love!\" (2016).jpeg",
     "Songs copy",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
