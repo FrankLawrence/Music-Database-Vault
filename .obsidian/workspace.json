@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "49de213dc71d0e62",
+            "id": "b40ebeeccb2146bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/BiPolar.md",
+                "file": "Georgy Porgy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "453981721174081b",
+            "id": "881ee1b37798e14f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ylang Ylang.md",
+                "file": "YouSeeBIGGIRL-T-T.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ylang Ylang.md",
+                "file": "YouSeeBIGGIRL-T-T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ylang Ylang.md",
+                "file": "YouSeeBIGGIRL-T-T.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ylang Ylang.md"
+                "file": "YouSeeBIGGIRL-T-T.md"
               }
             }
           }
@@ -225,16 +225,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "453981721174081b",
+  "active": "881ee1b37798e14f",
   "lastOpenFiles": [
-    "Songs/BiPolar.md",
+    "Georgy Porgy.md",
+    "YouSeeBIGGIRL-T-T.md",
+    "\"Awaken, My Love!\" (2016).jpg",
+    "Songs/YouSeeBIGGIRL-T-T",
+    "YouSeeBIGGIRL/T-T.md",
+    "YouSeeBIGGIRL",
     "Ylang Ylang.md",
-    "Songs/Birthday.md",
+    "Songs/Me and Your Mama.md",
+    "Album Covers/\"Awaken, My Love!\" (2016).jpg",
+    "Songs/One Of Us.md",
     "Daily Notes/2024-01-26.md",
+    "Album Covers/\"Awaken, My Love!\" (2016).jpeg",
+    "Songs/BiPolar.md",
+    "Songs/Hard To Say I'm Sorry.md",
+    "Songs/Rockaria!.md",
+    "Songs/Birthday.md",
     "Daily Notes/2024-01-25.md",
     "Daily Notes/2024-01-24.md",
     "Daily Notes/2024-01-23.md",
-    "Songs/One Of Us.md",
     "Favorite Songs.md",
     "Script Idea.md",
     "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
@@ -246,24 +257,14 @@
     "Songs/Eyes Without A Face.md",
     "Daily Notes/2022-12-02.md",
     "Daily Notes/2022-12-04.md",
-    "Daily Notes/2023-10-04.md",
-    "Daily Notes/2023-10-05.md",
-    "Songs/Child Of Vision.md",
-    "Songs/Marooned.md",
-    "Songs copy/Child Of Vision.md",
-    "Songs copy/Another One Bites The Dust.md",
-    "Songs copy/Another kind of Blues (Slap It) (Zion).md",
     "Songs copy",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
     "Album Covers/Zodiac (2016).jpg",
     "Album Covers/Youthquake (1984).jpg",
-    "Album Covers/YouSeeBIGGIRL:T-T.jpg",
+    "Album Covers/YouSeeBIGGIRL-T-T.jpg",
     "Album Covers/Yellow Submarine (1966).jpg",
     "Album Covers/You'll Never Learn (1976).jpg",
-    "Album Covers/Xanadu (From The Original Motion Picture Soundtrack) (1980).jpg",
-    "Album Covers/X&Y (2005).jpg",
-    "Album Covers/Woodstock (2017).jpg",
     "Album Covers",
     "Album Covers (year)",
     "Recording 20230730140407.webm"
