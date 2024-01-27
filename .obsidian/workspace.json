@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "881ee1b37798e14f",
+            "id": "d491d3689dce6af4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Ylang Ylang.md",
+                "file": "Songs/Maybe Maybe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,7 +60,20 @@
             }
           },
           {
-            "id": "08837cd8d2df04df",
+            "id": "542b4278e92a9830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4ff9e66935fb5310",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,8 +140,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,9 +237,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08837cd8d2df04df",
+  "active": "4ff9e66935fb5310",
   "lastOpenFiles": [
     "Songs/Ylang Ylang.md",
+    "Songs/Adore You.md",
+    "Songs/Maybe Maybe.md",
+    "Songs/Untitled.md",
+    "Daily Notes/2024-01-26.md",
     "Songs/Ron's Theme.md",
     "Songs/Ain't No Mountain High Enough.md",
     "Songs/Way Out.md",
@@ -246,13 +262,9 @@
     "Songs/Introduction et marche royale du Lion.md",
     "Songs/Aquarium.md",
     "Songs/YouSeeBIGGIRL-T-T.md",
-    "Daily Notes/2024-01-26.md",
     "Songs/Hard To Say I'm Sorry.md",
     "Songs/Beggin'.md",
     "Songs/A Big Hunk O'Love.md",
-    "Songs/That's The Way I Like It.md",
-    "Songs/The Rumbling.md",
-    "Songs/Another kind of Blues.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",

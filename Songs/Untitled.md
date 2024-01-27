@@ -1,6 +1,7 @@
+
 ---
 tags: Song ⭐⭐⭐ 
-banner: "![[Scoundrel Days (1986).jpg]]"
+banner: "![[.jpg]]"
 ---
 [Time:: 2:36]
 [Artist:: [[A-ha]] ]
@@ -11,5 +12,5 @@ banner: "![[Scoundrel Days (1986).jpg]]"
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = [[Maybe, Maybe]]
+WHERE Favorite_Song = [[Maybe Maybe]]
 ````

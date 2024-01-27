@@ -1,6 +1,6 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-banner: "![[BlacKkKlansman (Original Motion Picture Soundtrack) (2019)]]"
+banner: "![[BlacKkKlansman (Original Motion Picture Soundtrack) (2019).jpg]]"
 ---
 [Time:: 5:19]
 [Artist:: [[Terence Blanchard]] ]
