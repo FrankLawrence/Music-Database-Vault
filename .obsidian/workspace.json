@@ -39,15 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-23.md",
-                "mode": "source",
+                "file": "Daily Notes/2024-01-26.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Daily Notes/2024-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Daily Notes/2024-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/One Of Us.md"
+                "file": "Daily Notes/2024-01-26.md"
               }
             }
           }
@@ -199,20 +199,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2c2d517c4f9c3fc",
+  "active": "0ccf17990c441112",
   "lastOpenFiles": [
-    "Favorite Songs.md",
-    "Script Idea.md",
+    "Daily Notes/2024-01-25.md",
+    "Daily Notes/2024-01-26.md",
+    "Daily Notes/2024-01-24.md",
     "Daily Notes/2024-01-23.md",
     "Songs/One Of Us.md",
-    "Daily Notes/2024-01-26.md",
+    "Favorite Songs.md",
+    "Script Idea.md",
     "Songs/熱情のスペクトラム (Netsujo No Spectrum).md",
     "Songs/Welcome to the World.md",
     "Daily Notes/2023-07-28.md",
     "Daily Notes/2023-11-07.md",
     "Daily Notes/2023-12-26.md",
     "Daily Notes/2023-12-23.md",
-    "Daily Notes/2024-01-25.md",
     "Songs/Eyes Without A Face.md",
     "Daily Notes/2022-12-02.md",
     "Daily Notes/2022-12-04.md",
@@ -226,7 +227,6 @@
     "Songs copy/Another Brick in the Wall Pt. 2.md",
     "Songs copy/Always On My Mind.md",
     "Songs copy/Always in My Head.md",
-    "Songs copy/Allons-y (2).md",
     "Songs copy",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
