@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Aquarium.md",
+                "file": "Songs/Ylang Ylang.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "08837cd8d2df04df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Ron's Theme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Aquarium.md",
+                "file": "Songs/Ron's Theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Aquarium.md",
+                "file": "Songs/Ron's Theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Aquarium.md"
+                "file": "Songs/Ron's Theme.md"
               }
             }
           }
@@ -212,34 +225,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "881ee1b37798e14f",
+  "active": "08837cd8d2df04df",
   "lastOpenFiles": [
-    "Songs/Final.md",
-    "Songs/Le Cygne.md",
-    "Songs/Fossiles.md",
-    "Songs/Pianistes.md",
-    "Songs/Voliere.md",
-    "Songs/Le Coucou au fond des bois.md",
-    "Songs/Personnages a longues orielles.md",
-    "Songs/YouSeeBIGGIRL-T-T.md",
-    "Songs/Kangourous.md",
-    "Songs/L'elephant.md",
-    "Songs/Tortues.md",
-    "Songs/Hemiones.md",
+    "Songs/Ylang Ylang.md",
+    "Songs/Ron's Theme.md",
+    "Songs/Ain't No Mountain High Enough.md",
+    "Songs/Way Out.md",
+    "Songs/Personnages a longues oreilles.md",
     "Songs/Poules et coqs.md",
+    "Songs/Hemiones.md",
+    "Songs/Tortues.md",
+    "Songs/L'elephant.md",
+    "Songs/Kangourous.md",
+    "Songs/Le Coucou au fond des bois.md",
+    "Songs/Voliere.md",
+    "Songs/Pianistes.md",
+    "Songs/Fossiles.md",
+    "Songs/Le Cygne.md",
+    "Songs/Final.md",
     "Songs/Introduction et marche royale du Lion.md",
+    "Songs/Aquarium.md",
+    "Songs/YouSeeBIGGIRL-T-T.md",
     "Daily Notes/2024-01-26.md",
     "Songs/Hard To Say I'm Sorry.md",
-    "Songs/Ron's Theme.md",
     "Songs/Beggin'.md",
-    "Songs/Ain't No Mountain High Enough.md",
     "Songs/A Big Hunk O'Love.md",
     "Songs/That's The Way I Like It.md",
     "Songs/The Rumbling.md",
     "Songs/Another kind of Blues.md",
-    "Songs/Rock 'N' Roll Is King.md",
-    "Songs/Ylang Ylang.md",
-    "Daily Notes/2024-01-27.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",

@@ -2,7 +2,6 @@
 tags: Song ⭐⭐⭐⭐ 
 banner: "![[BlacKkKlansman (Original Motion Picture Soundtrack) (2019)]]"
 ---
-
 [Time:: 5:19]
 [Artist:: [[Terence Blanchard]] ]
 [Genre:: Classical, Stage & Screen]
