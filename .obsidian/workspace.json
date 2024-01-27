@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Daily Notes/2024-01-27.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Scarborough Fair - Canticle.md",
+                "file": "Daily Notes/2024-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Scarborough Fair - Canticle.md",
+                "file": "Daily Notes/2024-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Scarborough Fair - Canticle.md"
+                "file": "Daily Notes/2024-01-27.md"
               }
             }
           }
@@ -263,12 +263,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cf02cc865bb4295",
+  "active": "0ccf17990c441112",
   "lastOpenFiles": [
+    "Daily Notes/2024-01-26.md",
+    "Songs/Scarborough Fair - Canticle.md",
     "Songs/Vivaldi- Violin Concerto In F Minor, Op. 8-4, RV 297, \"The Four Seasons (Winter)\" - 2. Largo.md",
     "Songs/Vivaldi- Violin Concerto In G Minor, Op. 8-2, RV 315, \"The Four Seasons (Summer)\" - 3. Presto.md",
     "Songs/Amy Winehouse - Back To Black.md",
-    "Songs/Scarborough Fair - Canticle.md",
     "Songs/Maybe Maybe.md",
     "Songs/Resonance.md",
     "Songs/GONE, GONE - THANK YOU.md",
@@ -277,7 +278,6 @@
     "Songs/Ron's Theme.md",
     "Songs/Ylang Ylang.md",
     "Songs/Adore You.md",
-    "Daily Notes/2024-01-26.md",
     "Songs/Ain't No Mountain High Enough.md",
     "Songs/Personnages a longues oreilles.md",
     "Songs/Hemiones.md",
