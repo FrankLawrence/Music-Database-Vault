@@ -45,9 +45,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "49de213dc71d0e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/BiPolar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "453981721174081b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ylang Ylang.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Ylang Ylang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Ylang Ylang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-26.md"
+                "file": "Ylang Ylang.md"
               }
             }
           }
@@ -199,10 +225,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ccf17990c441112",
+  "active": "453981721174081b",
   "lastOpenFiles": [
-    "Daily Notes/2024-01-25.md",
+    "Songs/BiPolar.md",
+    "Ylang Ylang.md",
+    "Songs/Birthday.md",
     "Daily Notes/2024-01-26.md",
+    "Daily Notes/2024-01-25.md",
     "Daily Notes/2024-01-24.md",
     "Daily Notes/2024-01-23.md",
     "Songs/One Of Us.md",
@@ -224,9 +253,6 @@
     "Songs copy/Child Of Vision.md",
     "Songs copy/Another One Bites The Dust.md",
     "Songs copy/Another kind of Blues (Slap It) (Zion).md",
-    "Songs copy/Another Brick in the Wall Pt. 2.md",
-    "Songs copy/Always On My Mind.md",
-    "Songs copy/Always in My Head.md",
     "Songs copy",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
