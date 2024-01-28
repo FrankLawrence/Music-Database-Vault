@@ -25,9 +25,11 @@ const calendarData = {
 for (let page of dv.pages('"Daily Notes"')) { 
 	calendarData.entries.push({ 
 		date: page.file.name, 
-		intensity: page.One_Of_Us
+		intensity: page["test(t"]
 	}); 
 } 
+const value = dv.pages()[0]["test(t"];
+console.log(value)
 
 renderHeatmapCalendar(this.container, calendarData);
 ```
