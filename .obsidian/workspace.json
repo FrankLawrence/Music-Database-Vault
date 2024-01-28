@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
+                "file": "Daily Notes/2024-01-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Daily Notes/2024-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Daily Notes/2024-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/One Of Us.md"
+                "file": "Daily Notes/2024-01-27.md"
               }
             }
           }
@@ -198,12 +198,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "278706d930749795",
+  "active": "0ccf17990c441112",
   "lastOpenFiles": [
-    "Daily Notes/2024-01-26.md",
     "Songs/One Of Us.md",
-    "Daily Notes/2024-01-24.md",
+    "Songs/YouSeeBIGGIRL-T-T.md",
     "Daily Notes/2024-01-27.md",
+    "Daily Notes/2024-01-26.md",
+    "Daily Notes/2024-01-24.md",
     "Favorite Songs.md",
     "Songs/Maybe Maybe.md",
     "Songs/Vivaldi- Violin Concerto In G Minor, Op. 8-2, RV 315, \"The Four Seasons (Summer)\" - 3. Presto.md",
@@ -225,7 +226,6 @@
     "Songs/Kangourous.md",
     "Songs/Le Coucou au fond des bois.md",
     "Songs/Voliere.md",
-    "Songs/Pianistes.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",
