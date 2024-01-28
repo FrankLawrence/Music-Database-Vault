@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/One Of Us.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-28.md",
+                "file": "Songs/One Of Us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-28.md",
+                "file": "Songs/One Of Us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-28.md"
+                "file": "Songs/One Of Us.md"
               }
             }
           }
@@ -225,8 +225,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe699f93f6ac4e7a",
+  "active": "278706d930749795",
   "lastOpenFiles": [
+    "Daily Notes/2024-01-28.md",
     "Daily Notes/2024-01-27.md",
     "Daily Notes/2024-01-26.md",
     "Daily Notes/2024-01-25.md",
@@ -241,7 +242,6 @@
     "Songs/John And Elvis Are Dead.md",
     "Songs/Don't Let The Sun Go Down On Me.md",
     "Album Covers/Twenty Five (2006).jpg",
-    "Daily Notes/2024-01-28.md",
     "Songs/I'm Not In Love_PinkFloyds-MacBook-Pro.local_Jan-28-123911-2024_CaseConflict.md",
     "Songs/Sometimes_PinkFloyds-MacBook-Pro.local_Jan-28-123757-2024_CaseConflict.md",
     "Songs/Lost In Yesterday_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
