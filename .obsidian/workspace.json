@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "e2c2d517c4f9c3fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/One Of Us.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0ccf17990c441112",
             "type": "leaf",
             "state": {
@@ -47,38 +34,12 @@
             }
           },
           {
-            "id": "d491d3689dce6af4",
+            "id": "278706d930749795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Maybe Maybe.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e852bc7e966a2c17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Vivaldi- Violin Concerto In G Minor, Op. 8-2, RV 315, \"The Four Seasons (Summer)\" - 3. Presto.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2b81a25ca8ae57e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Vivaldi- Violin Concerto In F Minor, Op. 8-4, RV 297, \"The Four Seasons (Winter)\" - 2. Largo.md",
+                "file": "Songs/One Of Us.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Vivaldi- Violin Concerto In G Minor, Op. 8-2, RV 315, \"The Four Seasons (Summer)\" - 3. Presto.md",
+                "file": "Songs/One Of Us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Vivaldi- Violin Concerto In G Minor, Op. 8-2, RV 315, \"The Four Seasons (Summer)\" - 3. Presto.md",
+                "file": "Songs/One Of Us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Vivaldi- Violin Concerto In G Minor, Op. 8-2, RV 315, \"The Four Seasons (Summer)\" - 3. Presto.md"
+                "file": "Songs/One Of Us.md"
               }
             }
           }
@@ -237,15 +198,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e852bc7e966a2c17",
+  "active": "278706d930749795",
   "lastOpenFiles": [
-    "Songs/Vivaldi- Violin Concerto In F Minor, Op. 8-4, RV 297, \"The Four Seasons (Winter)\" - 2. Largo.md",
-    "Songs/Vivaldi- Violin Concerto In G Minor, Op. 8-2, RV 315, \"The Four Seasons (Summer)\" - 3. Presto.md",
+    "Daily Notes/2024-01-27.md",
+    "Favorite Songs.md",
+    "Songs/One Of Us.md",
     "Songs/Maybe Maybe.md",
+    "Songs/Vivaldi- Violin Concerto In G Minor, Op. 8-2, RV 315, \"The Four Seasons (Summer)\" - 3. Presto.md",
+    "Songs/Vivaldi- Violin Concerto In F Minor, Op. 8-4, RV 297, \"The Four Seasons (Winter)\" - 2. Largo.md",
     "Songs/Amy Winehouse - Back To Black.md",
     "Songs/Scarborough Fair - Canticle.md",
-    "Songs/One Of Us.md",
-    "Daily Notes/2024-01-27.md",
     "Daily Notes/2024-01-26.md",
     "Songs/Resonance.md",
     "Songs/GONE, GONE - THANK YOU.md",
@@ -264,7 +226,6 @@
     "Songs/Voliere.md",
     "Songs/Pianistes.md",
     "Songs/Fossiles.md",
-    "Songs/Le Cygne.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",
