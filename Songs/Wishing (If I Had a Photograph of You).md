@@ -13,3 +13,20 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Wishing (If I Had a Photograph of You)]]
 ````
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Wishing_(If_I_Had_a_Photograph_of_You)"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

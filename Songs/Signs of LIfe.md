@@ -5,7 +5,7 @@ banner: "![[A Momentary Lapse of Reason (1987).jpg]]"
 [Time:: 4:24]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
-[Played:: 62]
+[Played:: 70]
 [Album:: [[A Momentary Lapse of Reason (1987)]]]
 [Year:: 1987]
 ### Dates
@@ -13,3 +13,21 @@ banner: "![[A Momentary Lapse of Reason (1987).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Signs of LIfe]]
 ````
+
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Signs_of_LIfe"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

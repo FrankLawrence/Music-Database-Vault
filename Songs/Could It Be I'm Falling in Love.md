@@ -13,3 +13,20 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Could It Be I'm Falling in Love]]
 ````
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Could_It_Be_I'm_Falling_in_Love"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

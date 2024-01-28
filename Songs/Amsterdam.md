@@ -5,7 +5,7 @@ banner: "![[A Rush of Blood To The Head ().jpg]]"
 [Time:: 5:19]
 [Artist:: [[Coldplay]] ]
 [Genre:: Soul]
-[Played:: 4]
+[Played:: 6]
 [Album:: [[A Rush of Blood To The Head ()]]]
 [Year:: ]
 ### Dates
@@ -13,3 +13,21 @@ banner: "![[A Rush of Blood To The Head ().jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Amsterdam]]
 ````
+
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Amsterdam"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

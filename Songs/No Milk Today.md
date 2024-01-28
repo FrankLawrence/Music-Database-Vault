@@ -13,3 +13,20 @@ banner: "![[The Best of Herman and the Hermits (1966).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[No Milk Today]]
 ````
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["No_Milk_Today"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

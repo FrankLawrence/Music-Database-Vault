@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 4:28]
 [Artist:: [[Anita Baker]] ]
 [Genre:: Pop]
-[Played:: ]
+[Played:: 8]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
@@ -13,3 +13,21 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Sweet Love]]
 ````
+
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Sweet_Love"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

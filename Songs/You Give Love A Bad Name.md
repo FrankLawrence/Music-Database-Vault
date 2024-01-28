@@ -5,7 +5,7 @@ banner: "![[Cross Road (1994).jpg]]"
 [Time:: 3:44]
 [Artist:: [[Bon Jovi]] ]
 [Genre:: Rock]
-[Played:: 8]
+[Played:: 9]
 [Album:: [[Cross Road (1994)]]]
 [Year:: 1994]
 ### Dates
@@ -13,3 +13,21 @@ banner: "![[Cross Road (1994).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[You Give Love A Bad Name]]
 ````
+
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["You_Give_Love_A_Bad_Name"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

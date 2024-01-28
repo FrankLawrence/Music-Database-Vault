@@ -13,3 +13,20 @@ banner: "![[At Worse...The Best Of Boy George And Culture Club (1993).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Sweet Toxic Love - Deliverance Mix]]
 ````
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Sweet_Toxic_Love_-_Deliverance_Mix"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

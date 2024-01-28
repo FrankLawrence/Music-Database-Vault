@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-27.md",
+                "file": "Songs/Older.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -40,6 +40,45 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/One Of Us.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4cfa035a3285e06d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/This Is Not Real Love.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f20e287fca299e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/You Have Been Loved.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "36974778f9683188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/John And Elvis Are Dead.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -66,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Twenty Five",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -130,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-27.md",
+                "file": "Songs/Older.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-27.md",
+                "file": "Songs/Older.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-27.md"
+                "file": "Songs/Older.md"
               }
             }
           }
@@ -200,32 +240,33 @@
   },
   "active": "0ccf17990c441112",
   "lastOpenFiles": [
+    "Songs/John And Elvis Are Dead.md",
+    "Songs/You Have Been Loved.md",
+    "Songs/This Is Not Real Love.md",
+    "Songs/Older.md",
     "Songs/One Of Us.md",
-    "Songs/YouSeeBIGGIRL-T-T.md",
+    "Songs/Don't Let The Sun Go Down On Me.md",
+    "Album Covers/Twenty Five (2006).jpg",
     "Daily Notes/2024-01-27.md",
-    "Daily Notes/2024-01-26.md",
-    "Daily Notes/2024-01-24.md",
-    "Favorite Songs.md",
-    "Songs/Maybe Maybe.md",
-    "Songs/Vivaldi- Violin Concerto In G Minor, Op. 8-2, RV 315, \"The Four Seasons (Summer)\" - 3. Presto.md",
-    "Songs/Vivaldi- Violin Concerto In F Minor, Op. 8-4, RV 297, \"The Four Seasons (Winter)\" - 2. Largo.md",
-    "Songs/Amy Winehouse - Back To Black.md",
-    "Songs/Scarborough Fair - Canticle.md",
-    "Songs/Resonance.md",
-    "Songs/GONE, GONE - THANK YOU.md",
-    "Songs/Poules et coqs.md",
-    "Songs/Way Out.md",
-    "Songs/Ron's Theme.md",
-    "Songs/Ylang Ylang.md",
-    "Songs/Adore You.md",
-    "Songs/Ain't No Mountain High Enough.md",
-    "Songs/Personnages a longues oreilles.md",
-    "Songs/Hemiones.md",
-    "Songs/Tortues.md",
-    "Songs/L'elephant.md",
-    "Songs/Kangourous.md",
-    "Songs/Le Coucou au fond des bois.md",
-    "Songs/Voliere.md",
+    "Daily Notes/2024-01-28.md",
+    "Songs/I'm Not In Love_PinkFloyds-MacBook-Pro.local_Jan-28-123911-2024_CaseConflict.md",
+    "Songs/Sometimes_PinkFloyds-MacBook-Pro.local_Jan-28-123757-2024_CaseConflict.md",
+    "Songs/Lost In Yesterday_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
+    "Songs/The Less I Know The Better_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
+    "Songs/Let It Happen_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
+    "Songs/In The Flesh_PinkFloyds-MacBook-Pro.local_Jan-28-123738-2024_CaseConflict.md",
+    "Songs/Bipolar_PinkFloyds-MacBook-Pro.local_Jan-28-123715-2024_CaseConflict.md",
+    "Songs/Don't Stop (Color On The Walls)_PinkFloyds-MacBook-Pro.local_Jan-28-123711-2024_CaseConflict.md",
+    "Songs/Coming Of Age_PinkFloyds-MacBook-Pro.local_Jan-28-123710-2024_CaseConflict.md",
+    "Songs/Blood And Ice_PinkFloyds-MacBook-Pro.local_Jan-28-123709-2024_CaseConflict.md",
+    "Songs/Sit Next To Me_PinkFloyds-MacBook-Pro.local_Jan-28-123709-2024_CaseConflict.md",
+    "Songs/Another Kind Of Blues_PinkFloyds-MacBook-Pro.local_Jan-28-123709-2024_CaseConflict.md",
+    "Songs/Who's That Girl_PinkFloyds-MacBook-Pro.local_Jan-28-123708-2024_CaseConflict.md",
+    "Songs/Bennie And The Jets_PinkFloyds-MacBook-Pro.local_Jan-28-123707-2024_CaseConflict.md",
+    "Songs/I've Seen That Movie Too_PinkFloyds-MacBook-Pro.local_Jan-28-123706-2024_CaseConflict.md",
+    "Songs/Goodbye Yellow Brick Road_PinkFloyds-MacBook-Pro.local_Jan-28-123705-2024_CaseConflict.md",
+    "Songs/Sharing The Night Together_PinkFloyds-MacBook-Pro.local_Jan-28-123701-2024_CaseConflict.md",
+    "Songs/Sultans Of Swing_PinkFloyds-MacBook-Pro.local_Jan-28-123700-2024_CaseConflict.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",
@@ -238,7 +279,6 @@
     "Album Covers/Youthquake (1984).jpg",
     "Album Covers/YouSeeBIGGIRL-T-T.jpg",
     "Album Covers/Yellow Submarine (1966).jpg",
-    "Album Covers/You'll Never Learn (1976).jpg",
     "Album Covers",
     "Album Covers (year)",
     "Recording 20230730140407.webm"

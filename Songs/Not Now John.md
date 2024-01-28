@@ -5,7 +5,7 @@ banner: "![[The Final Cut (1983).jpg]]"
 [Time:: 4:27]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Art rock]
-[Played:: 3]
+[Played:: 4]
 [Album:: [[The Final Cut (1983)]]]
 [Year:: 1983]
 ### Dates
@@ -13,3 +13,21 @@ banner: "![[The Final Cut (1983).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Not Now John]]
 ````
+
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Not_Now_John"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

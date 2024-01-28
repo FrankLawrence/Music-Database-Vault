@@ -13,3 +13,20 @@ banner: "![[Barry White's Greatest Hits (1975).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Honey Please, Can't Ya See]]
 ````
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Honey_Please,_Can't_Ya_See"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

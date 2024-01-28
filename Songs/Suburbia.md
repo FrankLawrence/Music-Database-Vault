@@ -5,7 +5,7 @@ banner: "![[Please (1986).jpg]]"
 [Time:: 5:16]
 [Artist:: [[Pet Shop Boys]] ]
 [Genre:: Synth-Pop]
-[Played:: 43]
+[Played:: 47]
 [Album:: [[Please (1986)]]]
 [Year:: 1986]
 ### Dates
@@ -13,3 +13,21 @@ banner: "![[Please (1986).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Suburbia]]
 ````
+
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Suburbia"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

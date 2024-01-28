@@ -13,3 +13,20 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[It Doesn't Have to Be This Way]]
 ````
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["It_Doesn't_Have_to_Be_This_Way"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

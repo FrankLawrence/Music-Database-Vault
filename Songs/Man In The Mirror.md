@@ -13,3 +13,20 @@ banner: "![[Bad (1986).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Man In The Mirror]]
 ````
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["Man_In_The_Mirror"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```

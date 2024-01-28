@@ -13,3 +13,20 @@ banner: "![[A Hard Day's Night (1964).jpg]]"
 TABLE Favorite_Song
 WHERE Favorite_Song = [[If I Fell]]
 ````
+  ```dataviewjs
+const calendarData = { 
+	colors: { 
+		blue: ["#9ccfd8", "#5BAAB8", "#57A1BB", "#5da8c7", "#3e8fb0"] 
+	}, 
+	entries: [] 
+}; 
+
+for (let page of dv.pages('"Daily Notes"')) { 
+	calendarData.entries.push({ 
+		date: page.file.name, 
+		intensity: page["If_I_Fell"]
+	}); 
+} 
+
+renderHeatmapCalendar(this.container, calendarData);
+```
