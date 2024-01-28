@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "4cfa035a3285e06d",
+            "id": "fe699f93f6ac4e7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/This Is Not Real Love.md",
+                "file": "Daily Notes/2024-01-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "8f9fb078fd21b5b9",
+            "id": "4cfa035a3285e06d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,9 +58,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7f92831ec3f07e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/(I Can't Get No) Satisfaction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/This Is Not Real Love.md",
+                "file": "Daily Notes/2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/This Is Not Real Love.md",
+                "file": "Daily Notes/2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/This Is Not Real Love.md"
+                "file": "Daily Notes/2024-01-28.md"
               }
             }
           }
@@ -212,18 +225,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f9fb078fd21b5b9",
+  "active": "fe699f93f6ac4e7a",
   "lastOpenFiles": [
-    "Songs/Round Here.md",
+    "Daily Notes/2024-01-27.md",
+    "Daily Notes/2024-01-26.md",
+    "Daily Notes/2024-01-25.md",
+    "Daily Notes/2024-01-24.md",
     "Songs/One Of Us.md",
+    "Songs/(I Can't Get No) Satisfaction.md",
     "Songs/This Is Not Real Love.md",
+    "Songs/Round Here.md",
     "Favorite Songs.md",
     "Songs/Older.md",
     "Songs/You Have Been Loved.md",
     "Songs/John And Elvis Are Dead.md",
     "Songs/Don't Let The Sun Go Down On Me.md",
     "Album Covers/Twenty Five (2006).jpg",
-    "Daily Notes/2024-01-27.md",
     "Daily Notes/2024-01-28.md",
     "Songs/I'm Not In Love_PinkFloyds-MacBook-Pro.local_Jan-28-123911-2024_CaseConflict.md",
     "Songs/Sometimes_PinkFloyds-MacBook-Pro.local_Jan-28-123757-2024_CaseConflict.md",
@@ -237,10 +254,6 @@
     "Songs/Blood And Ice_PinkFloyds-MacBook-Pro.local_Jan-28-123709-2024_CaseConflict.md",
     "Songs/Sit Next To Me_PinkFloyds-MacBook-Pro.local_Jan-28-123709-2024_CaseConflict.md",
     "Songs/Another Kind Of Blues_PinkFloyds-MacBook-Pro.local_Jan-28-123709-2024_CaseConflict.md",
-    "Songs/Who's That Girl_PinkFloyds-MacBook-Pro.local_Jan-28-123708-2024_CaseConflict.md",
-    "Songs/Bennie And The Jets_PinkFloyds-MacBook-Pro.local_Jan-28-123707-2024_CaseConflict.md",
-    "Songs/I've Seen That Movie Too_PinkFloyds-MacBook-Pro.local_Jan-28-123706-2024_CaseConflict.md",
-    "Songs/Goodbye Yellow Brick Road_PinkFloyds-MacBook-Pro.local_Jan-28-123705-2024_CaseConflict.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",

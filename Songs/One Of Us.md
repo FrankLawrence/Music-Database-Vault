@@ -25,7 +25,7 @@ const calendarData = {
 for (let page of dv.pages('"Daily Notes"')) { 
 	calendarData.entries.push({ 
 		date: page.file.name, 
-		intensity: page["One_Of_Us"]
+		intensity: page["Luv(sic.)_pt3_(feat._Shing02)"]
 	}); 
 } 
 
