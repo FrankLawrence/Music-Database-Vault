@@ -1,13 +1,13 @@
 ---
 tags: Song  
-banner: "![[Twentyfive: For Loving [Disc 2] (2004).jpg]]"
+banner: "![[Twenty Five (2006).jpg]]"
 ---
 [Time:: 5:56]
 [Artist:: [[George Michael]] ]
 [Genre:: Pop]
 [Played:: 2]
-[Album:: [[Twentyfive: For Loving [Disc 2] (2004)]]]
-[Year:: 2004]
+[Album:: [[Twentyfive (2006)]]]
+[Year:: 2006]
 ### Dates
 ````dataview
 TABLE Favorite_Song

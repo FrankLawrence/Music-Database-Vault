@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "0ccf17990c441112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Older.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "278706d930749795",
             "type": "leaf",
             "state": {
@@ -60,33 +47,20 @@
             }
           },
           {
-            "id": "f20e287fca299e59",
+            "id": "8f9fb078fd21b5b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/You Have Been Loved.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "36974778f9683188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/John And Elvis Are Dead.md",
-                "mode": "source",
+                "file": "Songs/This Is Not Real Love.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Older.md",
+                "file": "Songs/This Is Not Real Love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Older.md",
+                "file": "Songs/This Is Not Real Love.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Older.md"
+                "file": "Songs/This Is Not Real Love.md"
               }
             }
           }
@@ -238,13 +212,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ccf17990c441112",
+  "active": "8f9fb078fd21b5b9",
   "lastOpenFiles": [
-    "Songs/John And Elvis Are Dead.md",
-    "Songs/You Have Been Loved.md",
-    "Songs/This Is Not Real Love.md",
-    "Songs/Older.md",
+    "Songs/Round Here.md",
     "Songs/One Of Us.md",
+    "Songs/This Is Not Real Love.md",
+    "Favorite Songs.md",
+    "Songs/Older.md",
+    "Songs/You Have Been Loved.md",
+    "Songs/John And Elvis Are Dead.md",
     "Songs/Don't Let The Sun Go Down On Me.md",
     "Album Covers/Twenty Five (2006).jpg",
     "Daily Notes/2024-01-27.md",
@@ -265,8 +241,6 @@
     "Songs/Bennie And The Jets_PinkFloyds-MacBook-Pro.local_Jan-28-123707-2024_CaseConflict.md",
     "Songs/I've Seen That Movie Too_PinkFloyds-MacBook-Pro.local_Jan-28-123706-2024_CaseConflict.md",
     "Songs/Goodbye Yellow Brick Road_PinkFloyds-MacBook-Pro.local_Jan-28-123705-2024_CaseConflict.md",
-    "Songs/Sharing The Night Together_PinkFloyds-MacBook-Pro.local_Jan-28-123701-2024_CaseConflict.md",
-    "Songs/Sultans Of Swing_PinkFloyds-MacBook-Pro.local_Jan-28-123700-2024_CaseConflict.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",
