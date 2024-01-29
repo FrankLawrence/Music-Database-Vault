@@ -21,13 +21,26 @@
             }
           },
           {
+            "id": "da02718bf703a11e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Most Played.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "278706d930749795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Songs/One Of Us.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -39,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-28.md",
-                "mode": "preview",
+                "file": "Daily Notes/2024-01-29.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-28.md",
+                "file": "Most Played.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-28.md",
+                "file": "Most Played.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-28.md"
+                "file": "Most Played.md"
               }
             }
           }
@@ -212,22 +225,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe699f93f6ac4e7a",
+  "active": "da02718bf703a11e",
   "lastOpenFiles": [
-    "Songs/This Is Not Real Love.md",
-    "Daily Notes/2024-01-28.md",
-    "Daily Notes/2024-01-27.md",
+    "Favorite Songs.md",
     "Daily Notes/2024-01-29.md",
+    "Daily Notes/2024-01-28.md",
+    "Songs/This Is Not Real Love.md",
+    "Songs/One Of Us.md",
+    "Daily Notes/2024-01-27.md",
     "Maniac.md",
     "Songs/This Is Not Real Love 2.md",
     "Daily Notes/2024-01-282.md",
-    "Songs/One Of Us.md",
     "Songs/(I Can't Get No) Satisfaction.md",
     "Daily Notes/2024-01-26.md",
     "Daily Notes/2024-01-25.md",
     "Daily Notes/2024-01-24.md",
     "Songs/Round Here.md",
-    "Favorite Songs.md",
     "Songs/Older.md",
     "Songs/You Have Been Loved.md",
     "Songs/John And Elvis Are Dead.md",

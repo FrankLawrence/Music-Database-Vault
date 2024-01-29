@@ -5,7 +5,7 @@ banner: "![[Best Of Bowie (1973).jpg]]"
 [Time:: 2:55]
 [Artist:: [[David Bowie]] ]
 [Genre:: Rock]
-[Played:: 16]
+[Played:: 18]
 [Album:: [[Best Of Bowie (1973)]]]
 [Year:: 1973]
 ### Dates

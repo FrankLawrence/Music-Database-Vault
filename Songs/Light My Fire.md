@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 3:58]
 [Artist:: [[Amii Stewart]] ]
 [Genre:: ]
-[Played:: ]
+[Played:: 1]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates

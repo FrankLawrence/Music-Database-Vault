@@ -5,7 +5,7 @@ banner: "![[Twenty Five (2006).jpg]]"
 [Time:: 4:57]
 [Artist:: [[George Michael]] [[Mutya]] ]
 [Genre:: Pop]
-[Played:: 11]
+[Played:: 12]
 [Album:: [[Twentyfive (2006)]]]
 [Year:: 2006]
 ### Dates
