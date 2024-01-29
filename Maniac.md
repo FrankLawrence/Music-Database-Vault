@@ -1,18 +1,19 @@
 ---
-tags: Song ⭐⭐⭐⭐⭐ 
-banner: "![[Spirits Having Flown (1979).jpg]]"
+tags: Song  
+banner: 
 ---
-[Time:: 5:04]
-[Artist:: [[Bee Gees]] ]
-[Genre:: Disco]
-[Played:: 12]
-[Album:: [[Spirits Having Flown (1979)]]]
-[Year:: 1979]
+[Time:: 4:05]
+[Artist:: [[Michael Sembello]] ]
+[Genre:: ]
+[Played:: ]
+[Album:: ]
+[Year:: ]
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = [[Tragedy]]
+WHERE Favorite_Song = [[Maniac]]
 ````
+
   ```dataviewjs
 const calendarData = { 
 	colors: { 
@@ -24,7 +25,7 @@ const calendarData = {
 for (let page of dv.pages('"Daily Notes"')) { 
 	calendarData.entries.push({ 
 		date: page.file.name, 
-		intensity: page["Tragedy"]
+		intensity: page["Maniac"]
 	}); 
 } 
 

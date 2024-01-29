@@ -5,7 +5,7 @@ banner: "![[Greatest Hits Vol. 2 (1979).jpg]]"
 [Time:: 4:19]
 [Artist:: [[ABBA]] ]
 [Genre:: Pop]
-[Played:: 32]
+[Played:: 34]
 [Album:: [[Greatest Hits Vol. 2 (1979)]]]
 [Year:: 1979]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 3:40]
 [Artist:: [[Gilbert O'Sullivan]] ]
 [Genre:: Pop]
-[Played:: 35]
+[Played:: 37]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates

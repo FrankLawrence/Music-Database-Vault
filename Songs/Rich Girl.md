@@ -5,7 +5,7 @@ banner: "![[ArtistCollection (1976).jpg]]"
 [Time:: 2:26]
 [Artist:: [[Hall & Oates]] ]
 [Genre:: Pop]
-[Played:: 17]
+[Played:: 19]
 [Album:: [[ArtistCollection (1976)]]]
 [Year:: 1976]
 ### Dates

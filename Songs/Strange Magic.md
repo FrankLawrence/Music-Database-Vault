@@ -5,7 +5,7 @@ banner: "![[Face the Music (1976).jpg]]"
 [Time:: 4:08]
 [Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
-[Played:: 9]
+[Played:: 11]
 [Album:: [[Face the Music (1976)]]]
 [Year:: 1976]
 ### Dates

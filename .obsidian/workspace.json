@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Daily Notes/2024-01-28.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/This Is Not Real Love.md",
+                "file": "Daily Notes/2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/This Is Not Real Love.md",
+                "file": "Daily Notes/2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/This Is Not Real Love.md"
+                "file": "Daily Notes/2024-01-28.md"
               }
             }
           }
@@ -212,12 +212,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cfa035a3285e06d",
+  "active": "fe699f93f6ac4e7a",
   "lastOpenFiles": [
-    "Daily Notes/2024-01-28.md",
-    "Songs/One Of Us.md",
     "Songs/This Is Not Real Love.md",
+    "Daily Notes/2024-01-28.md",
     "Daily Notes/2024-01-27.md",
+    "Daily Notes/2024-01-29.md",
+    "Maniac.md",
+    "Songs/This Is Not Real Love 2.md",
+    "Daily Notes/2024-01-282.md",
+    "Songs/One Of Us.md",
     "Songs/(I Can't Get No) Satisfaction.md",
     "Daily Notes/2024-01-26.md",
     "Daily Notes/2024-01-25.md",
@@ -237,10 +241,6 @@
     "Songs/In The Flesh_PinkFloyds-MacBook-Pro.local_Jan-28-123738-2024_CaseConflict.md",
     "Songs/Bipolar_PinkFloyds-MacBook-Pro.local_Jan-28-123715-2024_CaseConflict.md",
     "Songs/Don't Stop (Color On The Walls)_PinkFloyds-MacBook-Pro.local_Jan-28-123711-2024_CaseConflict.md",
-    "Songs/Coming Of Age_PinkFloyds-MacBook-Pro.local_Jan-28-123710-2024_CaseConflict.md",
-    "Songs/Blood And Ice_PinkFloyds-MacBook-Pro.local_Jan-28-123709-2024_CaseConflict.md",
-    "Songs/Sit Next To Me_PinkFloyds-MacBook-Pro.local_Jan-28-123709-2024_CaseConflict.md",
-    "Songs/Another Kind Of Blues_PinkFloyds-MacBook-Pro.local_Jan-28-123709-2024_CaseConflict.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",

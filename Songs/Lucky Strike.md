@@ -5,7 +5,7 @@ banner: "![[Overexposed (2014).jpg]]"
 [Time:: 3:07]
 [Artist:: [[Maroon 5]] ]
 [Genre:: Pop]
-[Played:: 4]
+[Played:: 6]
 [Album:: [[Overexposed (2014)]]]
 [Year:: 2014]
 ### Dates

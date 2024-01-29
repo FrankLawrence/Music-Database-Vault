@@ -5,7 +5,7 @@ tags: Song ⭐⭐⭐⭐⭐ 💛
 [Artist:: [[Rodrigo Amarante]] ]
 [Genre:: ]
 [Played:: 41]
-[Played:: 6]
+[Played:: 8]
 [Year:: 2016]
 ### Dates
 ````dataview

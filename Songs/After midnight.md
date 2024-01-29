@@ -5,7 +5,7 @@ banner: "![[Naturally (1972).jpg]]"
 [Time:: 2:23]
 [Artist:: [[J.J. Cale]] ]
 [Genre:: Blues]
-[Played:: 12]
+[Played:: 14]
 [Album:: [[Naturally (1972)]]]
 [Year:: 1972]
 ### Dates

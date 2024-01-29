@@ -5,7 +5,7 @@ banner: "![[ABBA: The Album (1977).jpg]]"
 [Time:: 3:52]
 [Artist:: [[ABBA]] ]
 [Genre:: Pop]
-[Played:: 29]
+[Played:: 31]
 [Album:: [[ABBA: The Album (1977)]]]
 [Year:: 1977]
 ### Dates

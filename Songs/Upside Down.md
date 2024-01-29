@@ -5,7 +5,7 @@ banner: "![[Diana (1980).jpg]]"
 [Time:: 4:06]
 [Artist:: [[Diana Ross]] ]
 [Genre:: R&B]
-[Played:: 6]
+[Played:: 7]
 [Album:: [[Diana (1980)]]]
 [Year:: 1980]
 ### Dates

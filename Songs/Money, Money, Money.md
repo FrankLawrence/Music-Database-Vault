@@ -5,7 +5,7 @@ banner: "![[Arrival (1976).jpg]]"
 [Time:: 3:08]
 [Artist:: [[ABBA]] ]
 [Genre:: Pop]
-[Played:: 30]
+[Played:: 32]
 [Album:: [[Arrival (1976)]]]
 [Year:: 1976]
 ### Dates

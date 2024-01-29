@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 6:37]
 [Artist:: [[Al Stewart]] ]
 [Genre:: Rock]
-[Played:: 30]
+[Played:: 31]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates

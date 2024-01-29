@@ -5,7 +5,7 @@ banner: "![[Wahnsinn (1990).jpg]]"
 [Time:: 5:03]
 [Artist:: [[BAP]] ]
 [Genre:: German Rock-Pop]
-[Played:: 36]
+[Played:: 38]
 [Album:: [[Wahnsinn (1990)]]]
 [Year:: 1990]
 ### Dates
