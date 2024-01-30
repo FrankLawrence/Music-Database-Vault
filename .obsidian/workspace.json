@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Most Played.md",
+                "file": "Songs/This Is Not Real Love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Most Played.md",
+                "file": "Songs/This Is Not Real Love.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Most Played.md"
+                "file": "Songs/This Is Not Real Love.md"
               }
             }
           }
@@ -225,13 +225,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da02718bf703a11e",
+  "active": "4cfa035a3285e06d",
   "lastOpenFiles": [
-    "Favorite Songs.md",
+    "Songs/Sorrow.md",
     "Daily Notes/2024-01-29.md",
-    "Daily Notes/2024-01-28.md",
     "Songs/This Is Not Real Love.md",
     "Songs/One Of Us.md",
+    "Most Played.md",
+    "Favorite Songs.md",
+    "Daily Notes/2024-01-28.md",
     "Daily Notes/2024-01-27.md",
     "Maniac.md",
     "Songs/This Is Not Real Love 2.md",
@@ -252,8 +254,6 @@
     "Songs/The Less I Know The Better_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
     "Songs/Let It Happen_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
     "Songs/In The Flesh_PinkFloyds-MacBook-Pro.local_Jan-28-123738-2024_CaseConflict.md",
-    "Songs/Bipolar_PinkFloyds-MacBook-Pro.local_Jan-28-123715-2024_CaseConflict.md",
-    "Songs/Don't Stop (Color On The Walls)_PinkFloyds-MacBook-Pro.local_Jan-28-123711-2024_CaseConflict.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",
