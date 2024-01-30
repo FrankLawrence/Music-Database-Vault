@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Most Played.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -71,9 +71,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cabfc3d8220429b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/This Is Not Real Love.md",
+                "file": "Songs/One Of Us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/This Is Not Real Love.md",
+                "file": "Songs/One Of Us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/This Is Not Real Love.md"
+                "file": "Songs/One Of Us.md"
               }
             }
           }
@@ -225,14 +233,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cfa035a3285e06d",
+  "active": "278706d930749795",
   "lastOpenFiles": [
+    "Favorite Songs.md",
+    "Most Played.md",
+    "Songs/Everybody Wants to Rule the World.md",
+    "Songs/One Of Us.md",
+    "Songs/This Is Not Real Love.md",
     "Songs/Sorrow.md",
     "Daily Notes/2024-01-29.md",
-    "Songs/This Is Not Real Love.md",
-    "Songs/One Of Us.md",
-    "Most Played.md",
-    "Favorite Songs.md",
     "Daily Notes/2024-01-28.md",
     "Daily Notes/2024-01-27.md",
     "Maniac.md",
@@ -253,7 +262,6 @@
     "Songs/Lost In Yesterday_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
     "Songs/The Less I Know The Better_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
     "Songs/Let It Happen_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
-    "Songs/In The Flesh_PinkFloyds-MacBook-Pro.local_Jan-28-123738-2024_CaseConflict.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",
