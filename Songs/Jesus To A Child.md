@@ -5,7 +5,7 @@ banner: "![[Twentyfive: For Loving [Disc 2] (2006).jpg]]"
 [Time:: 6:50]
 [Artist:: [[George Michael]] ]
 [Genre:: Pop]
-[Played:: 13]
+[Played:: 14]
 [Album:: [[Twentyfive: For Loving [Disc 2] (2006)]]]
 [Year:: 2006]
 ### Dates

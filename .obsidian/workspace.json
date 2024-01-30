@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-29.md",
+                "file": "Daily Notes/2024-01-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Daily Notes/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Daily Notes/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/One Of Us.md"
+                "file": "Daily Notes/2024-01-30.md"
               }
             }
           }
@@ -233,15 +233,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "278706d930749795",
+  "active": "fe699f93f6ac4e7a",
   "lastOpenFiles": [
+    "Songs/One Of Us.md",
+    "Daily Notes/2024-01-30.md",
+    "Daily Notes/2024-01-31.md",
+    "Daily Notes/2024-01-29.md",
     "Favorite Songs.md",
     "Most Played.md",
     "Songs/Everybody Wants to Rule the World.md",
-    "Songs/One Of Us.md",
     "Songs/This Is Not Real Love.md",
     "Songs/Sorrow.md",
-    "Daily Notes/2024-01-29.md",
     "Daily Notes/2024-01-28.md",
     "Daily Notes/2024-01-27.md",
     "Maniac.md",
@@ -260,8 +262,6 @@
     "Songs/I'm Not In Love_PinkFloyds-MacBook-Pro.local_Jan-28-123911-2024_CaseConflict.md",
     "Songs/Sometimes_PinkFloyds-MacBook-Pro.local_Jan-28-123757-2024_CaseConflict.md",
     "Songs/Lost In Yesterday_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
-    "Songs/The Less I Know The Better_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
-    "Songs/Let It Happen_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",

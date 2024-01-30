@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 4:28]
 [Artist:: [[Anita Baker]] ]
 [Genre:: Pop]
-[Played:: 8]
+[Played:: 9]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Mirrors (1986).jpg]]"
 [Time:: 4:13]
 [Artist:: [[Sandra]] ]
 [Genre:: Electronic]
-[Played:: 30]
+[Played:: 31]
 [Album:: [[Mirrors (1986)]]]
 [Year:: 1986]
 ### Dates

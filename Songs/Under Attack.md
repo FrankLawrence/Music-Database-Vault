@@ -5,7 +5,7 @@ banner: "![[The Visitors (1981).jpg]]"
 [Time:: 3:44]
 [Artist:: [[ABBA]] ]
 [Genre:: Pop]
-[Played:: 71]
+[Played:: 72]
 [Album:: [[The Visitors (1981)]]]
 [Year:: 1981]
 ### Dates

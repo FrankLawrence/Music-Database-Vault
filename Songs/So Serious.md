@@ -5,7 +5,7 @@ banner: "![[Balance Of Power (1986).jpg]]"
 [Time:: 2:44]
 [Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Electronic, Rock, Pop]
-[Played:: 109]
+[Played:: 110]
 [Album:: [[Balance Of Power (1986)]]]
 [Year:: 1986]
 ### Dates
