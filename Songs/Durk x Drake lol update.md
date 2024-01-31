@@ -1,11 +1,11 @@
 ---
 tags: Song  
-
+banner:
+---
 [Time:: 0:57]
 [Artist:: [[]] ]
 [Genre:: Instrumental]
-[Played:: 2]
-[Played:: 1]
+[Played:: 3]
 [Year:: 2022]
 ### Dates
 ````dataview

@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💔
-
+banner: 
+---
 [Time:: 4:04]
 [Artist:: [[Ryos]] [[Karra]] ]
 [Genre:: ]
-[Played:: 20]
-[Played:: 2]
+[Played:: 22]
 [Year:: ]
 ### Dates
 ````dataview

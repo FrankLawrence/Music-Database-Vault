@@ -1,10 +1,10 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 3:29]
 [Artist:: [[Mark Forster]] ]
 [Genre:: ]
-[Played:: ]
 [Played:: 1]
 [Year:: ]
 ### Dates

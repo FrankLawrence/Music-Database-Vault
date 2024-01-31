@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-
+banner: 
+---
 [Time:: 3:02]
 [Artist:: [[Grady]] ]
 [Genre:: Pop]
-[Played:: 19]
-[Played:: 7]
+[Played:: 26]
 [Year:: 2019]
 ### Dates
 ````dataview

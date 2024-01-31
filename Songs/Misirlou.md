@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-
+banner:
+---
 [Time:: 2:16]
 [Artist:: [[Dick Dale]] ]
 [Genre:: Instrumental Rock]
-[Played:: 15]
-[Played:: 2]
+[Played:: 17]
 [Year:: 1962]
 ### Dates
 ````dataview

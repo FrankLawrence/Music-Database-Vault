@@ -1,10 +1,10 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 3:55]
 [Artist:: [[Maître Gims]] ]
 [Genre:: Rock Pop]
-[Played:: ]
 [Played:: 1]
 [Year:: 2019]
 ### Dates

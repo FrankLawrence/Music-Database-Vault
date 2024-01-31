@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 5:05]
 [Artist:: [[Mick Gordon]] ]
 [Genre:: Instrumental]
-[Played:: 1]
-[Played:: 2]
+[Played:: 3]
 [Year:: 2020]
 ### Dates
 ````dataview

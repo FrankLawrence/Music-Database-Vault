@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "da02718bf703a11e",
+            "id": "fe699f93f6ac4e7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most Played.md",
-                "mode": "source",
+                "file": "Daily Notes/2024-01-31.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -45,43 +45,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "fe699f93f6ac4e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-01-30.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4cfa035a3285e06d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/This Is Not Real Love.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cabfc3d8220429b7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-30.md",
+                "file": "Favorite Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-30.md",
+                "file": "Favorite Songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-30.md"
+                "file": "Favorite Songs.md"
               }
             }
           }
@@ -233,35 +198,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe699f93f6ac4e7a",
+  "active": "700432f4ebf5ed10",
   "lastOpenFiles": [
-    "Songs/One Of Us.md",
-    "Daily Notes/2024-01-30.md",
-    "Daily Notes/2024-01-31.md",
-    "Daily Notes/2024-01-29.md",
+    "Songs/If I Were Sorry.md",
+    "Songs/Est-ce que tu maimes.md",
+    "Songs/Chöre (Willkommen bei den Hartmanns Version).md",
+    "Songs/Say Something.md",
+    "Songs/Love really hurts without you.md",
+    "Songs/Feather.md",
+    "Songs/The Only Thing They Fear Is You.md",
     "Favorite Songs.md",
+    "Songs/Sometimes.md",
     "Most Played.md",
-    "Songs/Everybody Wants to Rule the World.md",
-    "Songs/This Is Not Real Love.md",
-    "Songs/Sorrow.md",
-    "Daily Notes/2024-01-28.md",
-    "Daily Notes/2024-01-27.md",
-    "Maniac.md",
-    "Songs/This Is Not Real Love 2.md",
-    "Daily Notes/2024-01-282.md",
-    "Songs/(I Can't Get No) Satisfaction.md",
-    "Daily Notes/2024-01-26.md",
-    "Daily Notes/2024-01-25.md",
-    "Daily Notes/2024-01-24.md",
-    "Songs/Round Here.md",
-    "Songs/Older.md",
-    "Songs/You Have Been Loved.md",
-    "Songs/John And Elvis Are Dead.md",
-    "Songs/Don't Let The Sun Go Down On Me.md",
+    "Songs/Durk x Drake lol update.md",
+    "Songs/Legendary.md",
+    "Songs/Giant.md",
+    "Songs/I Like To Party.md",
+    "Songs/Imagination.md",
+    "Songs/Output.md",
+    "Songs/Dolce Vita.md",
+    "Songs/Misirlou.md",
+    "Daily Notes/2024-01-31.md",
+    "Songs/One Of Us.md",
+    "Songs/Blood And Ice.md",
+    "Songs/Black Rover.md",
+    "Songs/Bleed (Citylights Remix).md",
+    "Songs/Can You Hear the Moon.md",
+    "Songs/Where We Are.md",
+    "Songs/FRANCHISE.md",
     "Album Covers/Twenty Five (2006).jpg",
-    "Songs/I'm Not In Love_PinkFloyds-MacBook-Pro.local_Jan-28-123911-2024_CaseConflict.md",
-    "Songs/Sometimes_PinkFloyds-MacBook-Pro.local_Jan-28-123757-2024_CaseConflict.md",
-    "Songs/Lost In Yesterday_PinkFloyds-MacBook-Pro.local_Jan-28-123748-2024_CaseConflict.md",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
     "YouSeeBIGGIRL",

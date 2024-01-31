@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 4:17]
 [Artist:: [[Foster the People]] ]
 [Genre:: Alternative]
-[Played:: 10]
-[Played:: 1]
+[Played:: 11]
 [Year:: 2019]
 ### Dates
 ````dataview

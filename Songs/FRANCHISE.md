@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-
+banner: 
+---
 [Time:: 3:24]
 [Artist:: [[Travis Scott]] [[Young Thug & M.I.A.]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 20]
-[Played:: 3]
+[Played:: 23]
 [Year:: 2020]
 ### Dates
 ````dataview

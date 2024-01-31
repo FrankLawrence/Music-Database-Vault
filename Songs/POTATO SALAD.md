@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-
+banner: 
+---
 [Time:: 3:15]
 [Artist:: [[Tyler, the Creator]] [[A$AP ROCKY]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 31]
-[Played:: 3]
+[Played:: 34]
 [Year:: 2018]
 ### Dates
 ````dataview

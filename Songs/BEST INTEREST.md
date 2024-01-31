@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
-
+banner: 
+---
 [Time:: 2:14]
 [Artist:: [[Tyler, the Creator]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 31]
-[Played:: 1]
+[Played:: 32]
 [Year:: 2020]
 ### Dates
 ````dataview

@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 2:52]
 [Artist:: [[Billy Ocean]] ]
 [Genre:: Pop]
-[Played:: 1]
-[Played:: 1]
+[Played:: 2]
 [Year:: 1976]
 ### Dates
 ````dataview

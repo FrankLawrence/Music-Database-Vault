@@ -1,10 +1,10 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 3:41]
 [Artist:: [[Frans]] ]
 [Genre:: ]
-[Played:: ]
 [Played:: 1]
 [Year:: ]
 ### Dates

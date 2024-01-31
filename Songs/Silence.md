@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-
+banner: 
+---
 [Time:: 2:58]
 [Artist:: [[Rodrigo Amarante]] ]
 [Genre:: ]
-[Played:: 41]
-[Played:: 8]
+[Played:: 49]
 [Year:: 2016]
 ### Dates
 ````dataview

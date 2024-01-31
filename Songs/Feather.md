@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 2:27]
 [Artist:: [[Citylights]] ]
 [Genre:: ]
-[Played:: 1]
-[Played:: 1]
+[Played:: 2]
 [Year:: 2016]
 ### Dates
 ````dataview

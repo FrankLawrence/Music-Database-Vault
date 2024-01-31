@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-
+banner:
+---
 [Time:: 9:17]
 [Artist:: [[Ewan Dobson]] ]
 [Genre:: Acoustic guitar]
-[Played:: 10]
-[Played:: 2]
+[Played:: 12]
 [Year:: 2010]
 ### Dates
 ````dataview

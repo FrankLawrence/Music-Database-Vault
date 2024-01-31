@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 3:51]
 [Artist:: [[Welshly Arms]] ]
 [Genre:: ]
-[Played:: 3]
-[Played:: 1]
+[Played:: 4]
 [Year:: 2017]
 ### Dates
 ````dataview

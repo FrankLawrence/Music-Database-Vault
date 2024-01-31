@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-
+banner: 
+---
 [Time:: 3:36]
 [Artist:: [[Sylo Nozra]] ]
 [Genre:: Pop]
-[Played:: 50]
-[Played:: 4]
+[Played:: 54]
 [Year:: 2020]
 ### Dates
 ````dataview

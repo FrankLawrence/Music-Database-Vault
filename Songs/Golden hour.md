@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
-
+banner: 
+---
 [Time:: 3:36]
 [Artist:: [[JVKE]] ]
 [Genre:: ]
-[Played:: 50]
-[Played:: 5]
+[Played:: 55]
 [Year:: ]
 ### Dates
 ````dataview

@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 3:05]
 [Artist:: [[Jagwar Twin]] ]
 [Genre:: Alternative]
-[Played:: 9]
-[Played:: 1]
+[Played:: 10]
 [Year:: 2021]
 ### Dates
 ````dataview

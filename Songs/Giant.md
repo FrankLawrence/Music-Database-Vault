@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 3:49]
 [Artist:: [[Calvin Harris RagnBone Man]] ]
 [Genre:: Rock Pop]
-[Played:: 3]
-[Played:: 1]
+[Played:: 4]
 [Year:: 2019]
 ### Dates
 ````dataview

@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 
-
+banner:
+---
 [Time:: 2:42]
 [Artist:: [[Max]] ]
 [Genre:: ]
-[Played:: 11]
-[Played:: 2]
+[Played:: 13]
 [Year:: 2014]
 ### Dates
 ````dataview

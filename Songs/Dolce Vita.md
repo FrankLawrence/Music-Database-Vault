@@ -1,11 +1,11 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-
+banner:
+---
 [Time:: 3:55]
 [Artist:: [[Ryan Paris]] ]
 [Genre:: Italo Disco]
-[Played:: 15]
-[Played:: 1]
+[Played:: 16]
 [Year:: 1983]
 ### Dates
 ````dataview
