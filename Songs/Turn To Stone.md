@@ -5,7 +5,7 @@ banner: "![[Out Of The Blue (1977).jpg]]"
 [Time:: 3:47]
 [Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
-[Played:: 94]
+[Played:: 96]
 [Album:: [[Out Of The Blue (1977)]]]
 [Year:: 1977]
 ### Dates

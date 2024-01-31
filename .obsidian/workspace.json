@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Favorite Songs.md",
+                "file": "Songs/One Of Us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Favorite Songs.md",
+                "file": "Songs/One Of Us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Favorite Songs.md"
+                "file": "Songs/One Of Us.md"
               }
             }
           }
@@ -198,8 +199,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "700432f4ebf5ed10",
+  "active": "278706d930749795",
   "lastOpenFiles": [
+    "Songs/This Is Not Real Love.md",
+    "Songs/One Of Us.md",
+    "Daily Notes/2024-01-31.md",
+    "Songs/Time.md",
+    "Favorite Songs.md",
     "Songs/If I Were Sorry.md",
     "Songs/Est-ce que tu maimes.md",
     "Songs/Chöre (Willkommen bei den Hartmanns Version).md",
@@ -207,7 +213,6 @@
     "Songs/Love really hurts without you.md",
     "Songs/Feather.md",
     "Songs/The Only Thing They Fear Is You.md",
-    "Favorite Songs.md",
     "Songs/Sometimes.md",
     "Most Played.md",
     "Songs/Durk x Drake lol update.md",
@@ -218,14 +223,10 @@
     "Songs/Output.md",
     "Songs/Dolce Vita.md",
     "Songs/Misirlou.md",
-    "Daily Notes/2024-01-31.md",
-    "Songs/One Of Us.md",
     "Songs/Blood And Ice.md",
     "Songs/Black Rover.md",
     "Songs/Bleed (Citylights Remix).md",
     "Songs/Can You Hear the Moon.md",
-    "Songs/Where We Are.md",
-    "Songs/FRANCHISE.md",
     "Album Covers/Twenty Five (2006).jpg",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
