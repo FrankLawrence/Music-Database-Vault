@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-31.md",
+                "file": "Daily Notes/2024-02-01.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/This Is Not Real Love.md",
+                "file": "Daily Notes/2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/This Is Not Real Love.md",
+                "file": "Daily Notes/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/This Is Not Real Love.md"
+                "file": "Daily Notes/2024-02-01.md"
               }
             }
           }
@@ -212,12 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc763ff59a471872",
+  "active": "fe699f93f6ac4e7a",
   "lastOpenFiles": [
-    "Songs/Time.md",
-    "Songs/This Is Not Real Love.md",
-    "Songs/One Of Us.md",
     "Daily Notes/2024-01-31.md",
+    "Songs/This Is Not Real Love.md",
+    "Songs/Time.md",
+    "Songs/One Of Us.md",
     "Favorite Songs.md",
     "Songs/If I Were Sorry.md",
     "Songs/Est-ce que tu maimes.md",
