@@ -5,7 +5,7 @@ banner: "![[Attack on Titan Original Soundtrack ().jpg]]"
 [Time:: 4:29]
 [Artist:: [[Yoshiki]] [[Hyde]] ]
 [Genre:: J-Pop]
-[Played:: 55]
+[Played:: 57]
 [Album:: [[Attack on Titan Original Soundtrack ()]]]
 [Year:: ]
 ### Dates

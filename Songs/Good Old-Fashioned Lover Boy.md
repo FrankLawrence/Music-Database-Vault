@@ -5,7 +5,7 @@ banner: "![[A Day at the Races (1976).jpg]]"
 [Time:: 2:56]
 [Artist:: [[Queen]] ]
 [Genre:: Rock]
-[Played:: 76]
+[Played:: 77]
 [Album:: [[A Day at the Races (1976)]]]
 [Year:: 1976]
 ### Dates

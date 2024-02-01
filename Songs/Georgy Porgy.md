@@ -5,7 +5,7 @@ banner: "![[Toto (1978).jpg]]"
 [Time:: 4:08]
 [Artist:: [[Toto]] ]
 [Genre:: Soft Rock]
-[Played:: 43]
+[Played:: 44]
 [Album:: [[Toto (1978)]]]
 [Year:: 1979]
 ### Dates

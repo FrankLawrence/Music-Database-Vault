@@ -5,7 +5,7 @@ banner: "![[Main Course (1975).jpg]]"
 [Time:: 4:28]
 [Artist:: [[Bee Gees]] ]
 [Genre:: Pop Rock]
-[Played:: 41]
+[Played:: 42]
 [Album:: [[Main Course (1975)]]]
 [Year:: 1975]
 ### Dates

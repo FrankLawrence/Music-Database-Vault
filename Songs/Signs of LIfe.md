@@ -5,13 +5,13 @@ banner: "![[A Momentary Lapse of Reason (1987).jpg]]"
 [Time:: 4:24]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
-[Played:: 73]
+[Played:: 74]
 [Album:: [[A Momentary Lapse of Reason (1987)]]]
 [Year:: 1987]
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = [[Signs of LIfe]]
+WHERE Favorite_Song = [[Signs of Life]]
 ````
 
   ```dataviewjs
@@ -25,7 +25,7 @@ const calendarData = {
 for (let page of dv.pages('"Daily Notes"')) { 
 	calendarData.entries.push({ 
 		date: page.file.name, 
-		intensity: page["Signs_of_LIfe"]
+		intensity: page["Signs_of_Life"]
 	}); 
 } 
 
