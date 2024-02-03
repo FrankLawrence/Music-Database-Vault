@@ -5,7 +5,7 @@ banner: "![[E.S.P. (1987).jpg]]"
 [Time:: 3:58]
 [Artist:: [[Bee Gees]] ]
 [Genre:: Synth-Pop]
-[Played:: 74]
+[Played:: 75]
 [Album:: [[E.S.P. (1987)]]]
 [Year:: 1987]
 ### Dates

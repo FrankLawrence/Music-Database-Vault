@@ -26,41 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-02-01.md",
-                "mode": "source",
+                "file": "Daily Notes/2024-02-02.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           },
           {
-            "id": "68a330890e1f1a00",
+            "id": "47db24ab060675ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Signs of Life.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dc15d0670d0679a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/A Little Less Conversation (JXL Radio Edit Remix).md",
-                "mode": "source",
+                "file": "Most Played.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-02-01.md",
+                "file": "Most Played.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-02-01.md",
+                "file": "Most Played.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-02-01.md"
+                "file": "Most Played.md"
               }
             }
           }
@@ -211,11 +198,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe699f93f6ac4e7a",
+  "active": "47db24ab060675ee",
   "lastOpenFiles": [
+    "Favorite Songs.md",
+    "Daily Notes/2024-02-02.md",
+    "Daily Notes/2024-02-01.md",
     "Songs/Signs of Life.md",
     "Songs/A Little Less Conversation (JXL Radio Edit Remix).md",
-    "Daily Notes/2024-02-01.md",
+    "Songs/Shine On You Crazy Diamond Pt. 6-9.md",
     "Daily Notes/2024-01-29.md",
     "Daily Notes/2024-01-30.md",
     "Daily Notes/2024-01-31.md",
@@ -236,9 +226,6 @@
     "Songs/This Is Not Real Love.md",
     "Songs/This Is Not Real Love 2.md",
     "Songs/The Less I Know The Better.md",
-    "Favorite Songs.md",
-    "Songs/If I Were Sorry.md",
-    "Songs/Est-ce que tu maimes.md",
     "Album Covers/Twenty Five (2006).jpg",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",

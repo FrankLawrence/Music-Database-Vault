@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 3:54]
 [Artist:: [[Rose Royce]] ]
 [Genre:: Pop]
-[Played:: 23]
+[Played:: 24]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates

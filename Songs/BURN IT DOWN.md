@@ -5,7 +5,7 @@ banner: "![[Living Things (2012).jpg]]"
 [Time:: 3:53]
 [Artist:: [[Linkin Park]] ]
 [Genre:: Electronic Rock]
-[Played:: 72]
+[Played:: 73]
 [Album:: [[Living Things (2012)]]]
 [Year:: 2012]
 ### Dates
