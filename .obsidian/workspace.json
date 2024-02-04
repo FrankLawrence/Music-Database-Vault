@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "fe699f93f6ac4e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-02-03.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "47db24ab060675ee",
             "type": "leaf",
             "state": {
@@ -45,9 +32,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fe699f93f6ac4e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-02-02.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4c9a1891565ce2f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Maybe Maybe.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-02-03.md",
+                "file": "Songs/Maybe Maybe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-02-03.md",
+                "file": "Songs/Maybe Maybe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-02-03.md"
+                "file": "Songs/Maybe Maybe.md"
               }
             }
           }
@@ -198,15 +211,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe699f93f6ac4e7a",
+  "active": "4c9a1891565ce2f3",
   "lastOpenFiles": [
     "Daily Notes/2024-02-02.md",
     "Songs/Maybe Maybe.md",
+    "Most Played.md",
+    "Daily Notes/2024-02-03.md",
     "Songs/This Is Not Real Love.md",
     "Songs/Don't wait.md",
-    "Daily Notes/2024-02-03.md",
     "Daily Notes/2024-02-01.md",
-    "Most Played.md",
     "Favorite Songs.md",
     "Songs/Signs of Life.md",
     "Songs/A Little Less Conversation (JXL Radio Edit Remix).md",
