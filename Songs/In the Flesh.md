@@ -5,13 +5,13 @@ banner: "![[The Wall (1979).jpg]]"
 [Time:: 4:16]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
-[Played:: 30]
+[Played:: 20]
 [Album:: [[The Wall (1979)]]]
 [Year:: 1979]
 ### Dates
 ````dataview
 TABLE Favorite_Song
-WHERE Favorite_Song = [[In The Flesh]]
+WHERE Favorite_Song = [[In the Flesh]]
 ````
 
   ```dataviewjs
