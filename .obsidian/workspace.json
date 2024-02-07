@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-02-02.md",
-                "mode": "source",
+                "file": "Daily Notes/2024-02-04.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Maybe Maybe.md",
+                "file": "Daily Notes/2024-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Maybe Maybe.md",
+                "file": "Daily Notes/2024-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Maybe Maybe.md"
+                "file": "Daily Notes/2024-02-04.md"
               }
             }
           }
@@ -211,15 +211,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e27ac7d9afeacfe0",
+  "active": "fe699f93f6ac4e7a",
   "lastOpenFiles": [
-    "Favorite Songs.md",
+    "Daily Notes/2024-02-03.md",
     "Daily Notes/2024-02-02.md",
+    "Songs/Maybe Maybe.md",
+    "Favorite Songs.md",
     "Songs/In the Flesh?.md",
     "Songs/In the Flesh.md",
-    "Songs/Maybe Maybe.md",
     "Most Played.md",
-    "Daily Notes/2024-02-03.md",
     "Songs/This Is Not Real Love.md",
     "Songs/Don't wait.md",
     "Daily Notes/2024-02-01.md",

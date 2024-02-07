@@ -5,7 +5,7 @@ banner: "![[Grasshopper (1982).jpg]]"
 [Time:: 3:09]
 [Artist:: [[J.J. Cale]] ]
 [Genre:: Blues]
-[Played:: 24]
+[Played:: 26]
 [Album:: [[Grasshopper (1982)]]]
 [Year:: 1982]
 ### Dates
