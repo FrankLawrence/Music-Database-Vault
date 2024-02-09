@@ -5,7 +5,7 @@ banner: "![[Piano Man (1977).jpg]]"
 [Time:: 3:21]
 [Artist:: [[Billy Joel]] ]
 [Genre:: Pop]
-[Played:: 43]
+[Played:: 44]
 [Album:: [[Piano Man (1977)]]]
 [Year:: 1977]
 ### Dates
