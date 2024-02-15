@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-02-04.md",
+                "file": "Daily Notes/2024-02-10.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Maybe Maybe.md",
+                "file": "Daily Notes/2024-02-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Maybe Maybe.md",
+                "file": "Daily Notes/2024-02-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Maybe Maybe.md"
+                "file": "Daily Notes/2024-02-10.md"
               }
             }
           }
@@ -211,12 +211,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e27ac7d9afeacfe0",
+  "active": "fe699f93f6ac4e7a",
   "lastOpenFiles": [
+    "Daily Notes/2024-02-09.md",
+    "Daily Notes/2024-02-08.md",
+    "Daily Notes/2024-02-07.md",
+    "Daily Notes/2024-02-06.md",
+    "Daily Notes/2024-02-05.md",
+    "Daily Notes/2024-02-04.md",
+    "Songs/Maybe Maybe.md",
     "Daily Notes/2024-02-10.md",
     "Songs/One Of Us.md",
-    "Songs/Maybe Maybe.md",
-    "Daily Notes/2024-02-04.md",
     "Daily Notes/2024-02-03.md",
     "Daily Notes/2024-02-02.md",
     "Favorite Songs.md",
@@ -234,11 +239,6 @@
     "Daily Notes/2024-01-31.md",
     "Daily Notes/2024-02-012.md",
     "Daily Notes/2022-10-19.md",
-    "Songs/Welcome to the World.md",
-    "Songs/White Wedding.md",
-    "Songs/You Never Can Tell With Friends.md",
-    "Songs/You Win Again.md",
-    "Songs/サヨナラ・・・・・・FUJIさん.md",
     "Album Covers/Twenty Five (2006).jpg",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",

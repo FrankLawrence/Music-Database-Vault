@@ -5,7 +5,7 @@ banner: "![[The Very Best Of Smooth Jazz [Disc 1] (2001).jpg]]"
 [Time:: 3:29]
 [Artist:: [[Richard Elliot]] ]
 [Genre:: Jazz]
-[Played:: 43]
+[Played:: 44]
 [Album:: [[The Very Best Of Smooth Jazz [Disc 1] (2001)]]]
 [Year:: 2001]
 ### Dates

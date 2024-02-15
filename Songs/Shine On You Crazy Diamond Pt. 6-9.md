@@ -5,7 +5,7 @@ banner: "![[Wish You Were Here (1975).jpg]]"
 [Time:: 12:30]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
-[Played:: 102]
+[Played:: 104]
 [Album:: [[Wish You Were Here (1975)]]]
 [Year:: 1975]
 ### Dates

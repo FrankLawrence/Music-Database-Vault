@@ -5,7 +5,7 @@ banner: "![[The Slow Rush (2020).jpg]]"
 [Time:: 3:58]
 [Artist:: [[Tame Impala]] ]
 [Genre:: Electronic, Rock, Pop]
-[Played:: 107]
+[Played:: 108]
 [Album:: [[The Slow Rush (2020)]]]
 [Year:: 2020]
 ### Dates

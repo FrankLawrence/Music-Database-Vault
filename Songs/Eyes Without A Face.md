@@ -5,7 +5,7 @@ banner: "![[Rebel Yell (1983).jpg]]"
 [Time:: 4:54]
 [Artist:: [[Billy Idol]] ]
 [Genre:: Rock]
-[Played:: 115]
+[Played:: 116]
 [Album:: [[Rebel Yell (1983)]]]
 [Year:: 1983]
 ### Dates

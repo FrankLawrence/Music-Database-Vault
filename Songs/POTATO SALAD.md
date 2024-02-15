@@ -5,7 +5,7 @@ banner:
 [Time:: 3:15]
 [Artist:: [[Tyler, the Creator]] [[A$AP ROCKY]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 34]
+[Played:: 35]
 [Year:: 2018]
 ### Dates
 ````dataview

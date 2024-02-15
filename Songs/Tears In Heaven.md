@@ -5,7 +5,7 @@ banner: "![[Rush: Music from the Motion Picture Soundtrack (1992).jpg]]"
 [Time:: 3:40]
 [Artist:: [[Eric Clapton]] ]
 [Genre:: Soft Rock]
-[Played:: 29]
+[Played:: 30]
 [Album:: [[Rush: Music from the Motion Picture Soundtrack (1992)]]]
 [Year:: 1992]
 ### Dates

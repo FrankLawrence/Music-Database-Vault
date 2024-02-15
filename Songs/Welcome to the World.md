@@ -5,7 +5,7 @@ banner: "![[Plastic Beach (2010).jpg]]"
 [Time:: 3:35]
 [Artist:: [[Gorillaz]] [[Snoop Dogg]] ]
 [Genre:: Pop]
-[Played:: 51]
+[Played:: 55]
 [Album:: [[Plastic Beach (2010)]]]
 [Year:: 2010]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[90125 (1983).jpg]]"
 [Time:: 4:28]
 [Artist:: [[Yes]] ]
 [Genre:: Dance-rock]
-[Played:: 66]
+[Played:: 68]
 [Album:: [[90125 (1983)]]]
 [Year:: 1983]
 ### Dates

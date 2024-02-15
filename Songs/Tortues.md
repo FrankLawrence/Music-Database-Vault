@@ -5,7 +5,7 @@ banner: "![[Le Carnaval des Animaux (1886).jpg]]"
 [Time:: 2:17]
 [Artist:: [[Pascal Roge]] [[Cristina Ortiz - pianos]] [[London Sinfonietta]] [[con. Charles Dutoit]] ]
 [Genre:: Classical]
-[Played:: 31]
+[Played:: 35]
 [Album:: [[Le Carnaval des Animaux (1886)]]]
 [Year:: 1886]
 ### Dates

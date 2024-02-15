@@ -5,7 +5,7 @@ banner: "![[The Best Of The Alan Parsons Project (1979).jpg]]"
 [Time:: 5:00]
 [Artist:: [[Alan Parsons Project]] ]
 [Genre:: Pop]
-[Played:: 42]
+[Played:: 47]
 [Album:: [[The Best Of The Alan Parsons Project (1979)]]]
 [Year:: 1979]
 ### Dates
