@@ -5,7 +5,7 @@ banner: "![[So Good (2015).jpg]]"
 [Time:: 3:21]
 [Artist:: [[Zara Larsson]] ]
 [Genre:: Electropop]
-[Played:: ]
+[Played:: 1]
 [Album:: [[So Good (2015)]]]
 [Year:: 2015]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[IGOR (2019).jpg]]"
 [Time:: 2:57]
 [Artist:: [[Tyler, the Creator]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 18]
+[Played:: 19]
 [Album:: [[IGOR (2019)]]]
 [Year:: 2019]
 ### Dates

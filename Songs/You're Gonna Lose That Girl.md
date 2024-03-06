@@ -5,7 +5,7 @@ banner: "![[Help! (1965).jpg]]"
 [Time:: 2:20]
 [Artist:: [[The Beatles]] ]
 [Genre:: Rock]
-[Played:: ]
+[Played:: 1]
 [Album:: [[Help! (1965)]]]
 [Year:: 1965]
 ### Dates

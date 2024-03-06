@@ -5,7 +5,7 @@ banner: "![[Flower Boy (2017).jpg]]"
 [Time:: 1:00]
 [Artist:: [[Tyler, the Creator]] [[Lil Wayne]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 11]
+[Played:: 13]
 [Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates

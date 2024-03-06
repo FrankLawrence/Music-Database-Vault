@@ -5,7 +5,7 @@ banner: "![[Whitesnake (1988).jpg]]"
 [Time:: 5:37]
 [Artist:: [[Whitesnake]] ]
 [Genre:: Metal]
-[Played:: 44]
+[Played:: 45]
 [Album:: [[Whitesnake (1988)]]]
 [Year:: 1988]
 ### Dates

@@ -5,7 +5,7 @@ banner:
 [Time:: 2:14]
 [Artist:: [[Tyler, the Creator]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 32]
+[Played:: 33]
 [Year:: 2020]
 ### Dates
 ````dataview

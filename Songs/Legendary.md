@@ -5,7 +5,7 @@ banner:
 [Time:: 3:51]
 [Artist:: [[Welshly Arms]] ]
 [Genre:: ]
-[Played:: 4]
+[Played:: 5]
 [Year:: 2017]
 ### Dates
 ````dataview

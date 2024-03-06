@@ -5,7 +5,7 @@ banner: "![[30 #1 Hits (2002).jpg]]"
 [Time:: 3:33]
 [Artist:: [[Elvis Presley]] ]
 [Genre:: Rock]
-[Played:: 49]
+[Played:: 53]
 [Album:: [[30 #1 Hits (2002)]]]
 [Year:: 2002]
 ### Dates

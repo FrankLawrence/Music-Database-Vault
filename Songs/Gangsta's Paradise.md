@@ -5,7 +5,7 @@ banner: "![[Gangsta's Paradise (1995).jpg]]"
 [Time:: 4:14]
 [Artist:: [[Coolio]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 2]
+[Played:: 3]
 [Album:: [[Gangsta's Paradise (1995)]]]
 [Year:: 1995]
 ### Dates

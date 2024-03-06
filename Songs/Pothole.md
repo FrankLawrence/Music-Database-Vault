@@ -5,7 +5,7 @@ banner: "![[Flower Boy (2017).jpg]]"
 [Time:: 3:57]
 [Artist:: [[Tyler, the Creator]] [[Jaden Smith]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 14]
+[Played:: 16]
 [Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Making Mirrors (2011).jpg]]"
 [Time:: 5:23]
 [Artist:: [[Gotye]] ]
 [Genre:: Indie Rock]
-[Played:: 27]
+[Played:: 28]
 [Album:: [[Making Mirrors (2011)]]]
 [Year:: 2011]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Flower Boy (2017).jpg]]"
 [Time:: 3:55]
 [Artist:: [[Tyler, the Creator]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 23]
+[Played:: 24]
 [Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates

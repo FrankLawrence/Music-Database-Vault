@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 2:43]
 [Artist:: [[Buffalo Springfield]] ]
 [Genre:: Alternative]
-[Played:: 3]
+[Played:: 5]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates

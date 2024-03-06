@@ -5,7 +5,7 @@ banner: "![[Atom Heart Mother (1970).jpg]]"
 [Time:: 4:31]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
-[Played:: 46]
+[Played:: 47]
 [Album:: [[Atom Heart Mother (1970)]]]
 [Year:: 1970]
 ### Dates

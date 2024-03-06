@@ -5,7 +5,7 @@ banner: "![[Flower Boy (2017).jpg]]"
 [Time:: 5:23]
 [Artist:: [[Tyler, the Creator]] [[Rex Orange County & Anna of the North]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 5]
+[Played:: 7]
 [Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates

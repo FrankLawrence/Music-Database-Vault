@@ -5,7 +5,7 @@ banner: "![[Flower Boy (2017).jpg]]"
 [Time:: 3:14]
 [Artist:: [[Tyler, the Creator]] [[Rex Orange County]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 21]
+[Played:: 23]
 [Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates

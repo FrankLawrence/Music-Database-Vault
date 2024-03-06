@@ -5,7 +5,7 @@ tags: Song ⭐⭐⭐
 [Artist:: [[Lost Frequencies]] [[Janieck Devy]] ]
 [Genre:: Rock/Pop]
 [Played:: ]
-[Album:: ]
+[Played:: 1]
 [Year:: 2018]
 ### Dates
 ````dataview

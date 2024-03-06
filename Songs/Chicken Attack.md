@@ -5,7 +5,7 @@ tags: Song ⭐⭐⭐⭐⭐
 [Artist:: [[Producer Snafu]] ]
 [Genre:: ]
 [Played:: 17]
-[Album:: ]
+[Played:: 1]
 [Year:: 2017]
 ### Dates
 ````dataview

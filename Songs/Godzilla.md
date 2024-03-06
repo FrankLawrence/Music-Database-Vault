@@ -5,7 +5,7 @@ banner: "![[Music to Be Murderd By (2020).jpg]]"
 [Time:: 3:33]
 [Artist:: [[Eminem]] [[Juice WRLD]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 14]
+[Played:: 15]
 [Album:: [[Music to Be Murderd By (2020)]]]
 [Year:: 2020]
 ### Dates

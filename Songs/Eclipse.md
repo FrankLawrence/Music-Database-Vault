@@ -5,7 +5,7 @@ banner: "![[The Dark Side of the Moon (1973).jpg]]"
 [Time:: 2:13]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
-[Played:: 24]
+[Played:: 23]
 [Album:: [[The Dark Side of the Moon (1973)]]]
 [Year:: 1973]
 ### Dates

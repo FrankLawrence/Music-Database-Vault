@@ -5,7 +5,7 @@ banner: "![[Heile Welt (1978).jpg]]"
 [Time:: 2:13]
 [Artist:: [[Loriot]] ]
 [Genre:: Spoken & Audio]
-[Played:: 4]
+[Played:: 5]
 [Album:: [[Heile Welt (1978)]]]
 [Year:: 1978]
 ### Dates
