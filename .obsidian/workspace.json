@@ -53,14 +53,14 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/Maybe Maybe.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-02-14.md",
+                "file": "Songs/Maybe Maybe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-02-14.md",
+                "file": "Songs/Maybe Maybe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-02-14.md"
+                "file": "Songs/Maybe Maybe.md"
               }
             }
           }
@@ -212,8 +212,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe699f93f6ac4e7a",
+  "active": "e27ac7d9afeacfe0",
   "lastOpenFiles": [
+    "Daily Notes/2024-02-14.md",
+    "LICENSE",
     "Daily Notes/2024-02-15.md",
     "Daily Notes/2024-02-10.md",
     "Songs/Maybe Maybe.md",
@@ -239,7 +241,6 @@
     "Most Played.md",
     "Songs/This Is Not Real Love.md",
     "Songs/Don't wait.md",
-    "Daily Notes/2024-02-01.md",
     "Album Covers/Twenty Five (2006).jpg",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",
