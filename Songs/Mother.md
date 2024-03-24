@@ -5,7 +5,7 @@ banner: "![[The Wall (1979).jpg]]"
 [Time:: 5:35]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
-[Played:: 12]
+[Played:: 13]
 [Album:: [[The Wall (1979)]]]
 [Year:: 1979]
 ### Dates

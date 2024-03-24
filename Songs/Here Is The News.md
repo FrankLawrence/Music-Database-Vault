@@ -5,7 +5,7 @@ banner: "![[Time (1981).jpg]]"
 [Time:: 3:51]
 [Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Progressive Rock]
-[Played:: 18]
+[Played:: 19]
 [Album:: [[Time (1981)]]]
 [Year:: 1981]
 ### Dates

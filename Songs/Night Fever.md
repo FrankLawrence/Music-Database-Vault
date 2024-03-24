@@ -5,7 +5,7 @@ banner: "![[Saturday Night Fever (1977).jpg]]"
 [Time:: 3:32]
 [Artist:: [[Bee Gees]] ]
 [Genre:: Disco]
-[Played:: 17]
+[Played:: 18]
 [Album:: [[Saturday Night Fever (1977)]]]
 [Year:: 1977]
 ### Dates

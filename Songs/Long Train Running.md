@@ -5,7 +5,7 @@ banner: "![[The Captain and Me (1973).jpg]]"
 [Time:: 3:42]
 [Artist:: [[The Doobie Brothers]] ]
 [Genre:: Country Rock]
-[Played:: 9]
+[Played:: 10]
 [Album:: [[The Captain and Me (1973)]]]
 [Year:: 1973]
 ### Dates

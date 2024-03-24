@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 5:15]
 [Artist:: [[Daryl Hall & John Oates]] ]
 [Genre:: Rock]
-[Played:: ]
+[Played:: 1]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates

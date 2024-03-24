@@ -5,7 +5,7 @@ banner: "![[Too Low For Zero (1983).jpg]]"
 [Time:: 3:04]
 [Artist:: [[Elton John]] ]
 [Genre:: Pop Rock]
-[Played:: 8]
+[Played:: 9]
 [Album:: [[Too Low For Zero (1983)]]]
 [Year:: 1983]
 ### Dates

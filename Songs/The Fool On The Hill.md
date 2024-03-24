@@ -5,7 +5,7 @@ banner: "![[1967-1970 (1973).jpg]]"
 [Time:: 3:00]
 [Artist:: [[The Beatles]] ]
 [Genre:: Rock]
-[Played:: ]
+[Played:: 1]
 [Album:: [[1967-1970 (1973)]]]
 [Year:: 1973]
 ### Dates

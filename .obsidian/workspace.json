@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af68da5da2e3de0e",
@@ -214,12 +213,14 @@
   },
   "active": "e27ac7d9afeacfe0",
   "lastOpenFiles": [
+    "Script Idea.md",
+    "Songs/Maybe Maybe.md",
+    "Songs/Maniac.md",
     "Daily Notes/2024-03-22.md",
     "Daily Notes/2024-02-14.md",
     "LICENSE",
     "Daily Notes/2024-02-15.md",
     "Daily Notes/2024-02-10.md",
-    "Songs/Maybe Maybe.md",
     "Songs/One Of Us.md",
     "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
     "Albums/The Visitors (1981).md",
@@ -239,8 +240,6 @@
     "Favorite Songs.md",
     "Songs/In the Flesh?.md",
     "Songs/In the Flesh.md",
-    "Most Played.md",
-    "Songs/This Is Not Real Love.md",
     "Album Covers/Twenty Five (2006).jpg",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
     "Songs/YouSeeBIGGIRL-T-T",

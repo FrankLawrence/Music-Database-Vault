@@ -5,7 +5,7 @@ banner: "![[Crime of the Century (1974).jpg]]"
 [Time:: 7:19]
 [Artist:: [[Supertramp]] ]
 [Genre:: Progressive Rock]
-[Played:: ]
+[Played:: 1]
 [Album:: [[Crime of the Century (1974)]]]
 [Year:: 1974]
 ### Dates

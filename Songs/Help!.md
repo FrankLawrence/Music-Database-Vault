@@ -5,7 +5,7 @@ banner: "![[1 (2000).jpg]]"
 [Time:: 2:19]
 [Artist:: [[The Beatles]] ]
 [Genre:: ]
-[Played:: 1]
+[Played:: 2]
 [Album:: [[1 (2000)]]]
 [Year:: 2000]
 ### Dates

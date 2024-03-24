@@ -5,7 +5,7 @@ banner: "![[Plastic Beach (2010).jpg]]"
 [Time:: 3:44]
 [Artist:: [[Gorillaz]] [[Bashy & Kano]] ]
 [Genre:: Pop]
-[Played:: 1]
+[Played:: 2]
 [Album:: [[Plastic Beach (2010)]]]
 [Year:: 2010]
 ### Dates

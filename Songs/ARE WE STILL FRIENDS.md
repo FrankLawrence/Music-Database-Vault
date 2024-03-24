@@ -5,7 +5,7 @@ banner: "![[IGOR (2019).jpg]]"
 [Time:: 4:26]
 [Artist:: [[Tyler, the Creator]] [[Pharrell Williams]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 34]
+[Played:: 35]
 [Album:: [[IGOR (2019)]]]
 [Year:: 2019]
 ### Dates

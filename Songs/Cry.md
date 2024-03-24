@@ -5,7 +5,7 @@ banner: "![[Back to Bedlam (2004).jpg]]"
 [Time:: 4:07]
 [Artist:: [[James Blunt]] ]
 [Genre:: Pop Rock]
-[Played:: 2]
+[Played:: 3]
 [Album:: [[Back to Bedlam (2004)]]]
 [Year:: 2004]
 ### Dates
