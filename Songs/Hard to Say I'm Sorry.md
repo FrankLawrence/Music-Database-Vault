@@ -25,7 +25,7 @@ const calendarData = {
 for (let page of dv.pages('"Daily Notes"')) { 
 	calendarData.entries.push({ 
 		date: page.file.name, 
-		intensity: page["Hard_to_Say_I'm_Sorry_PinkFloyds-MacBook-Pro.local_Jan-28-123651-2024_CaseConflict"]
+		intensity: page["Hard_to_Say_I'm_Sorry"]
 	}); 
 } 
 

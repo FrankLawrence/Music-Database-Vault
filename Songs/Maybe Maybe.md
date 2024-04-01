@@ -5,7 +5,7 @@ banner: "![[Scoundrel Days (1986).jpg]]"
 [Time:: 2:36]
 [Artist:: [[A-ha]] ]
 [Genre:: Pop Rock]
-[Played:: 41]
+[Played:: 43]
 [Album:: [[Scoundrel Days (1986)]]]
 [Year:: 1986]
 ### Dates
