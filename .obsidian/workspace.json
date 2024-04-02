@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-01.md",
-                "mode": "source",
+                "file": "Daily Notes/2024-04-02.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af68da5da2e3de0e",
@@ -239,9 +240,12 @@
   },
   "active": "1e182d4c67bd9f43",
   "lastOpenFiles": [
-    "Songs/Alles Em Lot.md",
+    "Daily Notes/2024-04-02.md",
+    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
     "Script Idea.md",
+    "Daily Notes/2024-04-01.md",
     "Songs/One Of Us.md",
+    "Songs/Alles Em Lot.md",
     "Favorite Songs.md",
     "Albums/Parachutes (2000).md",
     "Albums/A Rush of Blood To The Head (2002).md",
@@ -262,9 +266,6 @@
     "Albums/E.S.P. (1987).md",
     "Albums/Dschinghis Khan (1979).md",
     "Albums/Flower Boy (2017).md",
-    "Albums/Abracadabra (1982).md",
-    "Albums/ABBA (1975).md",
-    "Albums/Deepest Purple: The Very Best Of ... (1972).md",
     "LICENSE",
     "Album Covers/Twenty Five (2006).jpg",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",

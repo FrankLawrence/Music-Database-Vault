@@ -17,7 +17,7 @@ const calendarData = {
 };
 
 const albumSongs = dv.pages('"Songs"')
-  .where(p => p.Genre == "Pop")
+  .where(p => p.Artist && p.Artist.path && p.Artist.path.includes("Pink Floyd"))
   .map(p => {
   let songTitle = p.file.name.split(".")[0];
   return songTitle.replace(/ /g, "_");
