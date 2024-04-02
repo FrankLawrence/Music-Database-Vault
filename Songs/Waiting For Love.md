@@ -1,8 +1,11 @@
 ---
 tags: Song
+banner: "![[Stories (2015).jpg]]"
 ---
 [Time:: 3:50]
 [Artist:: [[Avicii]]]
+[Genre:: ]
+[Played:: 0]
 [Album:: [[Stories (2015)]]]
 [Year:: 2015]
 ### Dates
@@ -10,6 +13,7 @@ tags: Song
 TABLE Favorite_Song
 WHERE Favorite_Song = [[Waiting For Love]]
 ```
+
 ```dataviewjs
 const calendarData = {
   colors: {
@@ -19,7 +23,7 @@ const calendarData = {
 };
 
 for (let page of dv.pages('"Daily Notes"')) {
-  let song = page["Waiting For Love"];
+  let song = page["Waiting_For_Love"];
   if (song) {
     calendarData.entries.push({
       date: page.file.name,

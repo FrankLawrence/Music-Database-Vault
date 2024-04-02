@@ -53,7 +53,7 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/One Of Us.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-03-22.md",
+                "file": "Daily Notes/2024-04-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Turn To Stone.md",
+                "file": "Songs/Waiting For Love.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Favorite Songs.md",
+                "file": "Daily Notes/2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Favorite Songs.md",
+                "file": "Daily Notes/2024-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Favorite Songs.md"
+                "file": "Daily Notes/2024-04-01.md"
               }
             }
           }
@@ -238,11 +238,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "645ce3ec9fda0b40",
+  "active": "9bddaea6142a72a5",
   "lastOpenFiles": [
-    "Script Idea.md",
+    "Songs/Waiting For Love.md",
+    "Daily Notes/2024-04-01.md",
     "Songs/Turn To Stone.md",
+    "Songs/One Of Us.md",
+    "Songs/Alles Em Lot.md",
+    "Daily Notes/2024-03-31.md",
+    "Daily Notes/2024-03-30.md",
+    "Daily Notes/2024-04-02.md",
     "Daily Notes/2024-03-22.md",
+    "Favorite Songs.md",
+    "Script Idea.md",
     "Songs/ARE WE STILL FRIENDS.md",
     "Daily Notes/2024-03-23.md",
     "Songs/(I Just) Died in Your Arms.md",
@@ -252,20 +260,12 @@
     "Songs/Rasputin.md",
     "Songs/Under Attack.md",
     "Songs/Welcome to the World.md",
-    "Songs/Alles Em Lot.md",
     "Songs/Maybe Maybe.md",
     "Daily Notes/2024-03-25.md",
     "Most Played.md",
     "Songs/Hard to Say I'm Sorry.md",
-    "Songs/One Of Us.md",
     "Songs/Waiting for the Worms.md",
     "Songs/Another Brick in the Wall Pt. 2.md",
-    "Songs/Shine On You Crazy Diamond Pt. 6-9.md",
-    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
-    "Songs/Who's That Girl.md",
-    "Songs/who's that girl.md",
-    "Songs/Sultans Of Swing.md",
-    "Songs/Time (Clock Of The Heart).md",
     "LICENSE",
     "Album Covers/Twenty Five (2006).jpg",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
