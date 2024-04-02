@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-01.md",
-                "mode": "source",
+                "file": "Daily Notes/2024-03-29.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-01.md",
+                "file": "Favorite Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-01.md",
+                "file": "Favorite Songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-01.md"
+                "file": "Favorite Songs.md"
               }
             }
           }
@@ -238,13 +237,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bddaea6142a72a5",
+  "active": "700432f4ebf5ed10",
   "lastOpenFiles": [
+    "Most Played.md",
+    "Songs/Alles Em Lot.md",
+    "Songs/One Of Us.md",
     "Songs/Waiting For Love.md",
+    "Daily Notes/2024-03-29.md",
     "Daily Notes/2024-04-01.md",
     "Songs/Turn To Stone.md",
-    "Songs/One Of Us.md",
-    "Songs/Alles Em Lot.md",
     "Daily Notes/2024-03-31.md",
     "Daily Notes/2024-03-30.md",
     "Daily Notes/2024-04-02.md",
@@ -262,10 +263,8 @@
     "Songs/Welcome to the World.md",
     "Songs/Maybe Maybe.md",
     "Daily Notes/2024-03-25.md",
-    "Most Played.md",
     "Songs/Hard to Say I'm Sorry.md",
     "Songs/Waiting for the Worms.md",
-    "Songs/Another Brick in the Wall Pt. 2.md",
     "LICENSE",
     "Album Covers/Twenty Five (2006).jpg",
     "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
