@@ -6,6 +6,5 @@ banner: "![[Wish You Were Here (1975).jpg]]"
 [Artist:: [[Pink Floyd]]]
 [Genre:: Progressive Rock]
 ```dataview
-TABLE Track FROM [[Wish You Were Here (1975)]]
-SORT Track
+TABLE FROM [[Wish You Were Here (1975)]]
 ```

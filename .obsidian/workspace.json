@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/Alles Em Lot.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Albums/Wish You Were Here (1975).md",
+                "file": "Songs/Alles Em Lot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Albums/Wish You Were Here (1975).md",
+                "file": "Songs/Alles Em Lot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Albums/Wish You Were Here (1975).md"
+                "file": "Songs/Alles Em Lot.md"
               }
             }
           }
@@ -238,12 +238,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d89bc7794db0f2de",
+  "active": "e27ac7d9afeacfe0",
   "lastOpenFiles": [
+    "Albums/Wish You Were Here (1975).md",
     "Songs/Alles Em Lot.md",
     "Daily Notes/2024-03-29.md",
     "Songs/Waiting For Love.md",
-    "Albums/Wish You Were Here (1975).md",
     "Songs/Wish You Were Here.md",
     "Songs/Have A Cigar.md",
     "Songs/Welcome to the Machine.md",
