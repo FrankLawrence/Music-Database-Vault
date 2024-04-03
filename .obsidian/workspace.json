@@ -34,32 +34,6 @@
             }
           },
           {
-            "id": "4e1e8aa2f4335763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/One Of Us.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "03492d647635449b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Script Idea.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "9bddaea6142a72a5",
             "type": "leaf",
             "state": {
@@ -86,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,6 +214,16 @@
   },
   "active": "a73bb0fb49283379",
   "lastOpenFiles": [
+    "Albums/Flower Boy (2017).md",
+    "Songs/Alles Em Lot.md",
+    "Songs/One Of Us.md",
+    "Script Idea.md",
+    "Artists/The Stranglers.md",
+    "Daily Notes/2024-04-02.md",
+    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
+    "Songs/911 - Mr. Lonely.md",
+    "Songs/Always the Sun.md",
+    "Albums/Ultimate FM Gold (2022).md",
     "Albums/Wish You Were Here (1975).md",
     "Artists/ABBA.md",
     "Artists/Coldplay.md",
@@ -249,7 +233,6 @@
     "Albums/Parachutes (2000).md",
     "Albums/A Rush of Blood To The Head (2002).md",
     "Artists/Pink Floyd.md",
-    "Script Idea.md",
     "Artists/Rose Royce.md",
     "Artists/Dean Martin.md",
     "Artists/Don Henley.md",
@@ -257,15 +240,6 @@
     "Artists/Bob James.md",
     "Artists/Duran Duran.md",
     "Artists/Boney M..md",
-    "Artists/Guns N' Roses.md",
-    "Artists/Gilbert O'Sullivan.md",
-    "Artists/Loriot.md",
-    "Artists/Queen.md",
-    "Artists/Barbara Carr.md",
-    "Artists/Paper Dolls.md",
-    "Artists/Level 42.md",
-    "Artists/The Jimi Hendrix Experience.md",
-    "Artists/Daryl an Oates.md",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
     "Album Covers/Zodiac (2016).jpg",
