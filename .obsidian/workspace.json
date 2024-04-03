@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "1e182d4c67bd9f43",
+            "id": "03492d647635449b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,13 +73,13 @@
             }
           },
           {
-            "id": "f4770372c74f3b85",
+            "id": "a73bb0fb49283379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
-                "mode": "preview",
+                "file": "Albums/Wish You Were Here (1975).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -140,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -237,49 +238,50 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e182d4c67bd9f43",
+  "active": "03492d647635449b",
   "lastOpenFiles": [
-    "Daily Notes/2024-04-03.md",
+    "Albums/Wish You Were Here (1975).md",
     "Daily Notes/2024-04-02.md",
     "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
     "Script Idea.md",
-    "Daily Notes/2024-04-01.md",
-    "Songs/One Of Us.md",
-    "Songs/Alles Em Lot.md",
-    "Favorite Songs.md",
-    "Albums/Parachutes (2000).md",
-    "Albums/A Rush of Blood To The Head (2002).md",
-    "Albums/IGOR (2019).md",
-    "Albums/Meddle (1971).md",
-    "Albums/Breakfast In America (1979).md",
-    "Albums/Supermodel (2014).md",
-    "Albums/Super trouper (1980).md",
-    "Albums/Very Best Of The Bee Gees (1990).md",
-    "Albums/Ultimate FM Gold (2022).md",
-    "Albums/TRUE (1983).md",
-    "Albums/Trash (1981).md",
-    "Albums/Toulouse Street (1972).md",
-    "Albums/Toto IV (1982).md",
-    "Albums/Toto (1978).md",
-    "Albums/The Wall (1979).md",
-    "Albums/Eye In The Sky (1982).md",
-    "Albums/E.S.P. (1987).md",
-    "Albums/Dschinghis Khan (1979).md",
-    "LICENSE",
-    "Album Covers/Twenty Five (2006).jpg",
-    "Album Covers/\"Awaken, My Love!\" (2016) 1.jpg",
-    "Songs/YouSeeBIGGIRL-T-T",
-    "YouSeeBIGGIRL",
-    "Album Covers/\"Awaken, My Love!\" (2016).jpg",
-    "Album Covers/\"Awaken, My Love!\" (2016).jpeg",
-    "Songs copy",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
     "Album Covers/Zodiac (2016).jpg",
     "Album Covers/Youthquake (1984).jpg",
     "Album Covers/YouSeeBIGGIRL-T-T.jpg",
+    "Album Covers/You'll Never Learn (1976).jpg",
     "Album Covers/Yellow Submarine (1966).jpg",
+    "Album Covers/Xanadu (From The Original Motion Picture Soundtrack) (1980).jpg",
+    "Album Covers/X&Y (2005).jpg",
+    "Album Covers/Woodstock (2017).jpg",
     "Album Covers",
+    "Albums/Deepest Purple: The Very Best Of ... (1972).md",
+    "Albums/Küssen verboten (1992).md",
+    "Albums/30 #1 Hits (1960).md",
+    "Albums/No Sound Without Silence (2014).md",
+    "Albums/Born Sinner (2013).md",
+    "Albums/Best Of Bowie (1973).md",
+    "Albums/Meddle (1971).md",
+    "Albums/Pure Disco (1978).md",
+    "Albums/So Good (2015).md",
+    "Albums/Saturday Night Fever (1977).md",
+    "Albums/Rolled Gold Plus: Very Best Of The Rolling Stones [Disc 2] (1971).md",
+    "Albums/Woodstock (2017).md",
+    "Albums/Astronaut in the Ocean (2019).md",
+    "Albums/Oracluar Spectacular (2007).md",
+    "Albums/Dschinghis Khan (1979).md",
+    "Albums/All The Best (1982).md",
+    "Albums/Plastic Beach (2010).md",
+    "Albums/1967-1970 (1973).md",
+    "Albums/Time Pieces - The Best Of Eric Clapton (1977).md",
+    "Albums/Give My Regards to Broad Street (1984).md",
+    "Albums/Midnight Love (1982).md",
+    "Albums/Piano Man (1975).md",
+    "Albums",
+    "LICENSE",
+    "Songs/YouSeeBIGGIRL-T-T",
+    "YouSeeBIGGIRL",
+    "Songs copy",
     "Album Covers (year)",
     "Recording 20230730140407.webm"
   ]

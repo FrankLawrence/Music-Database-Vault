@@ -1,13 +1,15 @@
 ---
 cssclass: cards, cards-cover, table-max, cards-1-1, cards-cols-4
+Tags: Artist
 ---
-
+# Albums
 ```dataview
-TABLE without id banner as Poster, file.link as Name, "" + year as Year, Artist, tags, Album from "Albums" 
+TABLE without id banner as Poster, file.link as Name, "" + year as Year FROM "Albums" 
 WHERE banner != null AND Artist = [[Pink Floyd]]
-SORT file.name asc
+SORT year asc
 ```
 
+# Total Plays
 ```dataviewjs
 const calendarData = {
   colors: {
