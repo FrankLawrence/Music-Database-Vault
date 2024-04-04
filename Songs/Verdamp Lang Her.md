@@ -1,12 +1,12 @@
 ---
 tags: Song ⭐ 
-banner: "![[Wahnsinn (1981).jpg]]"
+banner: "![[Wahnsinn (1997).jpg]]"
 ---
 [Time:: 5:49]
 [Artist:: [[BAP]] ]
 [Genre:: German Rock-Pop]
 [Played:: 4]
-[Album:: [[Wahnsinn (1981)]]]
+[Album:: [[Wahnsinn (1997)]]]
 [Year:: 1981]
 ### Dates
 ````dataview

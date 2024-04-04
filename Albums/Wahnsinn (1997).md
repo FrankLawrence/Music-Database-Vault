@@ -1,11 +1,11 @@
 ---
 tags: Album
-banner: "![[Wahnsinn (1982).jpg]]"
+banner: "![[Wahnsinn (1997).jpg]]"
 ---
-[Year:: 1982]
+[Year:: 1997]
 [Artist:: [[BAP]]]
 ```dataview
-TABLE FROM [[Wahnsinn (1982)]]
+TABLE FROM [[Wahnsinn (1997)]]
 ```
 ```dataviewjs
 const calendarData = {
@@ -16,7 +16,7 @@ const calendarData = {
 };
 
 const albumSongs = dv.pages('"Songs"')
-  .where(p => p.Album && p.Album.path && p.Album.path.includes("Wahnsinn (1982)"))
+  .where(p => p.Album && p.Album.path && p.Album.path.includes("Wahnsinn (1997)"))
   .map(p => {
   let songTitle = p.file.name.split(".")[0];
   return songTitle.replace(/ /g, "_");

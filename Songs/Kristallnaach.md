@@ -1,13 +1,13 @@
 ---
 tags: Song  
-banner: "![[Wahnsinn (1982).jpg]]"
+banner: "![[Wahnsinn (1997).jpg]]"
 ---
 [Time:: 4:59]
 [Artist:: [[BAP]] ]
 [Genre:: German Rock-Pop]
 [Played:: 1]
-[Album:: [[Wahnsinn (1982)]]]
-[Year:: 1982]
+[Album:: [[Wahnsinn (1997)]]]
+[Year:: 1997]
 ### Dates
 ````dataview
 TABLE Favorite_Song
