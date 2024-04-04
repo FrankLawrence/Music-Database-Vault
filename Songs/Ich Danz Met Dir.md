@@ -1,13 +1,13 @@
 ---
 tags: Song ⭐ 💔
-banner: "![[Wahnsinn (1995).jpg]]"
+banner: "![[Wahnsinn (1997).jpg]]"
 ---
 [Time:: 4:41]
 [Artist:: [[BAP]] ]
 [Genre:: German Rock-Pop]
 [Played:: ]
-[Album:: [[Wahnsinn (1995)]]]
-[Year:: 1995]
+[Album:: [[Wahnsinn (1997)]]]
+[Year:: 1997]
 ### Dates
 ````dataview
 TABLE Favorite_Song

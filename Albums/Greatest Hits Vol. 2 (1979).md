@@ -1,6 +1,6 @@
 ---
 tags: Album
-banner: "![[Greatest Hits Vol. 2 (1979).jpg]]"
+banner: "![[ABBA Greatest Hits Vol. 2 (1979).jpg]]"
 ---
 [Year:: 1979]
 [Artist:: [[ABBA]]]

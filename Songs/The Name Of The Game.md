@@ -1,12 +1,12 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-banner: "![[The Album (1977).jpg]]"
+banner: "![[ABBA- The Album (1977).jpg]]"
 ---
 [Time:: 4:00]
 [Artist:: [[ABBA]] ]
 [Genre:: Electronic, Rock, Pop, Stage & Screen]
 [Played:: 23]
-[Album:: [[The Album (1977)]]]
+[Album:: [[ABBA: The Album (1977)]]]
 [Year:: 1977]
 ### Dates
 ````dataview

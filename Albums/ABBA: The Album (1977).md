@@ -1,6 +1,6 @@
 ---
 tags: Album
-banner: "![[ABBA: The Album (1977).jpg]]"
+banner: "![[ABBA- The Album (1977).jpg]]"
 ---
 [Year:: 1977]
 [Artist:: [[ABBA]]]
