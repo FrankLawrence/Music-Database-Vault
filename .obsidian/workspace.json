@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artists/Pink Floyd.md",
+                "file": "Genres/Pop.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artists/Pink Floyd.md",
+                "file": "Genres/Pop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artists/Pink Floyd.md",
+                "file": "Genres/Pop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artists/Pink Floyd.md"
+                "file": "Genres/Pop.md"
               }
             }
           }
@@ -240,32 +240,33 @@
   },
   "active": "a29614b853b3005a",
   "lastOpenFiles": [
-    "Artists/ABBA.md",
-    "Albums/Waterloo (1974).md",
-    "Albums/Greatest Hits Vol. 2 (1979).md",
-    "Albums/ABBA: The Album (1977).md",
-    "Albums/The Album (1977).md",
-    "Songs/The Name Of The Game.md",
-    "Artists/BAP.md",
-    "Albums/Wahnsinn (1997).md",
-    "Albums/Wahnsinn (1984).md",
-    "Songs/Alexandra, Nit Nur Do.md",
-    "Albums/Wahnsinn (1985).md",
-    "Songs/Ne Schöne Jrooss.md",
-    "Songs/Helfe Kann Dir Keiner.md",
-    "Songs/Anna.md",
-    "Albums/Wahnsinn (1986).md",
-    "Songs/Ahl Männer, Aalglatt.md",
-    "Albums/Wahnsinn (1988).md",
-    "Songs/Fortsetzung Folgt.md",
-    "Albums/Wahnsinn (1990).md",
-    "Songs/Alles Em Lot.md",
-    "Albums/Wahnsinn (1993).md",
-    "Songs/Widderlich.md",
-    "Songs/Paar Daach Fröher.md",
-    "Albums/Wahnsinn (1995).md",
-    "Songs/Wahnsinn.md",
-    "Songs/Lass Se Doch Reden.md",
+    "Script Idea.md",
+    "Genres/Pop.md",
+    "Synth-Pop.md",
+    "Soundtrack.md",
+    "Soul.md",
+    "Soft Rock.md",
+    "Rock.md",
+    "Rock Pop.md",
+    "Reggae.md",
+    "R&B.md",
+    "Psychedelic.md",
+    "Psychedelic Pop.md",
+    "Progressive Rock.md",
+    "Progressive House.md",
+    "Pop.md",
+    "Pop Rock.md",
+    "New Wave.md",
+    "Jazz.md",
+    "J-Pop.md",
+    "Instrumental.md",
+    "Hip-Hop.md",
+    "Hard Rock.md",
+    "Funk.md",
+    "Electronic.md",
+    "Electro-pop.md",
+    "Disco.md",
+    "Genres",
     "Album Covers/Wahnsinn (1997).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
