@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Albums/The Endless River (2014).md",
+                "file": "Songs/Alles Em Lot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Albums/The Endless River (2014).md",
+                "file": "Songs/Alles Em Lot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Albums/The Endless River (2014).md"
+                "file": "Songs/Alles Em Lot.md"
               }
             }
           }
@@ -225,15 +225,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8369c552d0d6f28",
+  "active": "e27ac7d9afeacfe0",
   "lastOpenFiles": [
+    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
+    "Albums/The Endless River (2014).md",
     "Artists/Pink Floyd.md",
     "Albums/A Momentary Lapse of Reason (1987).md",
     "Songs/Alles Em Lot.md",
     "Artists/ABBA.md",
     "Artists/Dababy.md",
     "Daily Notes/2024-04-02.md",
-    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
     "Albums/Flower Boy (2017).md",
     "Songs/One Of Us.md",
     "Script Idea.md",
@@ -252,7 +253,6 @@
     "Artists/Dean Martin.md",
     "Artists/Don Henley.md",
     "Artists/Tame Impala.md",
-    "Artists/Bob James.md",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (1983).jpg",
     "Album Covers/Zodiac (2016).jpg",
