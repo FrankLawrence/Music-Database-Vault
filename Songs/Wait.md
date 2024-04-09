@@ -5,7 +5,7 @@ banner: "![[Rubber Soul (1965).jpg]]"
 [Time:: 2:15]
 [Artist:: [[The Beatles]] ]
 [Genre:: ]
-[Played:: 1]
+[Played:: 2]
 [Album:: [[Rubber Soul (1965)]]]
 [Year:: 1965]
 ### Dates

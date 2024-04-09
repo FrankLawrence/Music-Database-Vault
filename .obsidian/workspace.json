@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Pop.md",
+                "file": "Songs/Ylang Ylang.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genres/Pop.md",
+                "file": "Songs/Ylang Ylang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genres/Pop.md",
+                "file": "Songs/Ylang Ylang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genres/Pop.md"
+                "file": "Songs/Ylang Ylang.md"
               }
             }
           }
@@ -240,32 +240,32 @@
   },
   "active": "a29614b853b3005a",
   "lastOpenFiles": [
-    "Script Idea.md",
+    "Albums/The Endless River (2014).md",
+    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
+    "Daily Notes/2024-04-04.md",
+    "Artists/BAP.md",
+    "Favorite Songs.md",
+    "Daily Notes/2024-03-20.md",
+    "Songs/Ylang Ylang.md",
+    "Genres/Alternative.md",
+    "Genres/Alternative Rock.md",
+    "Genres/Anime.md",
+    "Genres/Art rock.md",
+    "Genres/Blues.md",
+    "Genres/Classical.md",
+    "Genres/Dance.md",
+    "Genres/Dance-pop.md",
+    "Genres/Disco.md",
+    "Genres/Electro-pop.md",
+    "Genres/Electronic.md",
+    "Genres/Funk.md",
+    "Genres/Hard Rock.md",
+    "Genres/Hip-Hop.md",
+    "Genres/Instrumental.md",
+    "Genres/J-Pop.md",
+    "Genres/Jazz.md",
+    "Genres/New Wave.md",
     "Genres/Pop.md",
-    "Synth-Pop.md",
-    "Soundtrack.md",
-    "Soul.md",
-    "Soft Rock.md",
-    "Rock.md",
-    "Rock Pop.md",
-    "Reggae.md",
-    "R&B.md",
-    "Psychedelic.md",
-    "Psychedelic Pop.md",
-    "Progressive Rock.md",
-    "Progressive House.md",
-    "Pop.md",
-    "Pop Rock.md",
-    "New Wave.md",
-    "Jazz.md",
-    "J-Pop.md",
-    "Instrumental.md",
-    "Hip-Hop.md",
-    "Hard Rock.md",
-    "Funk.md",
-    "Electronic.md",
-    "Electro-pop.md",
-    "Disco.md",
     "Genres",
     "Album Covers/Wahnsinn (1997).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",

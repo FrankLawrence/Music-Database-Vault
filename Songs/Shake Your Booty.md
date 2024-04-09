@@ -5,7 +5,7 @@ banner: "![[Part 3 (1976).jpg]]"
 [Time:: 3:08]
 [Artist:: [[K.C. & The Sunshine Band]] ]
 [Genre:: Disco]
-[Played:: 7]
+[Played:: 8]
 [Album:: [[Part 3 (1976)]]]
 [Year:: 1976]
 ### Dates

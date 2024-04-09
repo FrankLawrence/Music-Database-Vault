@@ -5,7 +5,7 @@ banner: "![[Anthology 1 [Disc 2] (1964).jpg]]"
 [Time:: 2:48]
 [Artist:: [[The Beatles]] ]
 [Genre:: Rock]
-[Played:: 1]
+[Played:: 2]
 [Album:: [[Anthology 1 [Disc 2] (1964)]]]
 [Year:: 1964]
 ### Dates

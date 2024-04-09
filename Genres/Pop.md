@@ -6,7 +6,7 @@ Songs
 ```dataview
 TABLE Artist, Year FROM "Songs"
 WHERE Genre = "Pop"
-SORT Year desc
+SORT Artist
 ```
 ## Plays
 ```dataviewjs

@@ -5,7 +5,7 @@ banner: "![[The Works (1977).jpg]]"
 [Time:: 4:19]
 [Artist:: [[Queen]] ]
 [Genre:: Rock]
-[Played:: 50]
+[Played:: 51]
 [Album:: [[The Works (1977)]]]
 [Year:: 1977]
 ### Dates
