@@ -5,7 +5,7 @@ banner: "![[Greatest Hits - Das Beste (1970).jpg]]"
 [Time:: 3:55]
 [Artist:: [[Les Humphries Singers]] ]
 [Genre:: Pop]
-[Played:: ]
+[Played:: 1]
 [Album:: [[Greatest Hits - Das Beste (1970)]]]
 [Year:: 1970]
 ### Dates
