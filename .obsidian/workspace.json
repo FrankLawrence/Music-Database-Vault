@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-04.md",
+                "file": "Daily Notes/2024-03-24.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
+                "file": "Artists/ABBA.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Albums/The Endless River (2014).md",
+                "file": "Songs/Surfacing.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/Ylang Ylang.md",
+                "file": "Daily Notes/2024-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/Ylang Ylang.md",
+                "file": "Daily Notes/2024-03-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/Ylang Ylang.md"
+                "file": "Daily Notes/2024-03-24.md"
               }
             }
           }
@@ -238,34 +238,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a29614b853b3005a",
+  "active": "9bddaea6142a72a5",
   "lastOpenFiles": [
-    "Albums/The Endless River (2014).md",
-    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
+    "Artists/ABBA.md",
+    "Albums/The Visitors (1981).md",
+    "Songs/Under Attack.md",
+    "Daily Notes/2024-03-24.md",
+    "Daily Notes/2024-03-25.md",
+    "Daily Notes/2024-03-26.md",
+    "Daily Notes/2024-03-27.md",
+    "Daily Notes/2024-03-28.md",
+    "Daily Notes/2024-03-29.md",
+    "Daily Notes/2024-03-30.md",
+    "Daily Notes/2024-03-31.md",
+    "Daily Notes/2024-04-01.md",
+    "Daily Notes/2024-04-02.md",
+    "Daily Notes/2024-04-03.md",
     "Daily Notes/2024-04-04.md",
+    "Songs/Surfacing.md",
     "Artists/BAP.md",
+    "Songs/One Of Us.md",
+    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
+    "Albums/The Endless River (2014).md",
+    "Songs/Ylang Ylang.md",
     "Favorite Songs.md",
     "Daily Notes/2024-03-20.md",
-    "Songs/Ylang Ylang.md",
     "Genres/Alternative.md",
     "Genres/Alternative Rock.md",
     "Genres/Anime.md",
-    "Genres/Art rock.md",
-    "Genres/Blues.md",
-    "Genres/Classical.md",
-    "Genres/Dance.md",
-    "Genres/Dance-pop.md",
-    "Genres/Disco.md",
-    "Genres/Electro-pop.md",
-    "Genres/Electronic.md",
-    "Genres/Funk.md",
-    "Genres/Hard Rock.md",
-    "Genres/Hip-Hop.md",
-    "Genres/Instrumental.md",
-    "Genres/J-Pop.md",
-    "Genres/Jazz.md",
-    "Genres/New Wave.md",
-    "Genres/Pop.md",
     "Genres",
     "Album Covers/Wahnsinn (1997).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
