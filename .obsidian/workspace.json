@@ -84,9 +84,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e2e6602c9beadc66",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -145,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af68da5da2e3de0e",
@@ -170,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +193,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-03-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +214,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2024-03-24.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -238,13 +241,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bddaea6142a72a5",
+  "active": "e2e6602c9beadc66",
   "lastOpenFiles": [
+    "Daily Notes/2024-03-24.md",
     "Daily Notes/2024-04-11.md",
     "Artists/ABBA.md",
     "Albums/The Visitors (1981).md",
     "Songs/Under Attack.md",
-    "Daily Notes/2024-03-24.md",
     "Daily Notes/2024-03-25.md",
     "Daily Notes/2024-03-26.md",
     "Daily Notes/2024-03-27.md",
