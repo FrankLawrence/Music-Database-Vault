@@ -5,7 +5,7 @@ banner: "![[Brasilian Skies (1978).jpg]]"
 [Time:: 4:54]
 [Artist:: [[Masayoshi Takanaka (高中正義)]] ]
 [Genre:: Jazz]
-[Played:: 2]
+[Played:: 3]
 [Album:: [[Brasilian Skies (1978)]]]
 [Year:: 1978]
 ### Dates

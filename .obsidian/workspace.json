@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Daily Notes/2024-03-24.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -89,12 +89,30 @@
             "id": "e2e6602c9beadc66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Songs/One Of Us.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a908e6c50329f081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -153,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af68da5da2e3de0e",
@@ -177,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +235,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Songs.md"
+              }
             }
           }
         ],
@@ -241,8 +264,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2e6602c9beadc66",
+  "active": "a908e6c50329f081",
   "lastOpenFiles": [
+    "Albums/The Division Bell (1994).md",
+    "Songs.md",
+    "Favorite Songs.md",
+    "Songs/One Of Us.md",
+    "Daily Notes/2024-04-12.md",
+    "Songs/Alles Em Lot.md",
     "Daily Notes/2024-03-24.md",
     "Daily Notes/2024-04-11.md",
     "Artists/ABBA.md",
@@ -261,14 +290,8 @@
     "Daily Notes/2024-04-04.md",
     "Songs/Surfacing.md",
     "Artists/BAP.md",
-    "Songs/One Of Us.md",
     "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
     "Albums/The Endless River (2014).md",
-    "Songs/Ylang Ylang.md",
-    "Favorite Songs.md",
-    "Daily Notes/2024-03-20.md",
-    "Genres/Alternative.md",
-    "Genres/Alternative Rock.md",
     "Genres",
     "Album Covers/Wahnsinn (1997).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",

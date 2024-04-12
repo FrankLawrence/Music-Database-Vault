@@ -5,7 +5,7 @@ banner: "![[WELCOME HOME (2019).jpg]]"
 [Time:: 2:53]
 [Artist:: [[Aries]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: ]
+[Played:: 1]
 [Album:: [[WELCOME HOME (2019)]]]
 [Year:: 2019]
 ### Dates

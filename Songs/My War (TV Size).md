@@ -5,7 +5,7 @@ banner: "![[Attack on Titan Original Soundtrack (2021).jpg]]"
 [Time:: 1:30]
 [Artist:: [[Shinsei Kamattechan]] ]
 [Genre:: Anime]
-[Played:: 8]
+[Played:: 9]
 [Album:: [[Attack on Titan Original Soundtrack (2021)]]]
 [Year:: 2021]
 ### Dates
