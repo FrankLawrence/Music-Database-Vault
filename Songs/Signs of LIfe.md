@@ -5,7 +5,7 @@ banner: "![[A Momentary Lapse of Reason (1987).jpg]]"
 [Time:: 4:24]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Progressive Rock]
-[Played:: 77]
+[Played:: 78]
 [Album:: [[A Momentary Lapse of Reason (1987)]]]
 [Year:: 1987]
 ### Dates

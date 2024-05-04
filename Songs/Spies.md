@@ -5,7 +5,7 @@ banner: "![[Parachutes (2000).jpg]]"
 [Time:: 5:19]
 [Artist:: [[Coldplay]] ]
 [Genre:: Alternative Rock]
-[Played:: 31]
+[Played:: 32]
 [Album:: [[Parachutes (2000)]]]
 [Year:: 2000]
 ### Dates

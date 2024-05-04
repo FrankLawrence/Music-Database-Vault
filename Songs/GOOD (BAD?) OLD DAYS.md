@@ -5,7 +5,7 @@ banner: "![[An Insatiable High (1977).jpg]]"
 [Time:: 5:26]
 [Artist:: [[Masayoshi Takanaka (高中正義)]] ]
 [Genre:: Jazz]
-[Played:: 13]
+[Played:: 14]
 [Album:: [[An Insatiable High (1977)]]]
 [Year:: 1977]
 ### Dates

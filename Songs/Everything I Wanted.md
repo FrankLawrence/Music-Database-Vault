@@ -5,7 +5,7 @@ banner:
 [Time:: 4:06]
 [Artist:: [[Billie Eilish]] ]
 [Genre:: Alternative]
-[Played:: 24]
+[Played:: 25]
 [Year:: 2019]
 ### Dates
 ````dataview

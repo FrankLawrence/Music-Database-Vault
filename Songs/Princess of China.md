@@ -5,7 +5,7 @@ banner: "![[Mylo Xyloto (2011).jpg]]"
 [Time:: 3:59]
 [Artist:: [[Coldplay]] [[Rihanna]] ]
 [Genre:: Pop]
-[Played:: 26]
+[Played:: 27]
 [Album:: [[Mylo Xyloto (2011)]]]
 [Year:: 2011]
 ### Dates

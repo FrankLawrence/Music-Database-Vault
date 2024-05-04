@@ -5,7 +5,7 @@ tags: Song ⭐⭐⭐⭐
 [Artist:: [[Tiny Meat Gang]] ]
 [Genre:: Hip-Hop/Rap]
 [Played:: 2]
-[Album:: ]
+[Played:: 1]
 [Year:: 2019]
 ### Dates
 ````dataview

@@ -5,7 +5,7 @@ banner: "![[X&Y (2005).jpg]]"
 [Time:: 4:48]
 [Artist:: [[Coldplay]] ]
 [Genre:: Rock]
-[Played:: 26]
+[Played:: 27]
 [Album:: [[X&Y (2005)]]]
 [Year:: 2005]
 ### Dates

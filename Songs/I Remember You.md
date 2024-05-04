@@ -5,7 +5,7 @@ banner: "![[Takanaka (1977).jpg]]"
 [Time:: 5:27]
 [Artist:: [[Masayoshi Takanaka (高中正義)]] ]
 [Genre:: Jazz]
-[Played:: 7]
+[Played:: 8]
 [Album:: [[Takanaka (1977)]]]
 [Year:: 1977]
 ### Dates

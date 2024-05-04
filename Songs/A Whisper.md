@@ -5,7 +5,7 @@ banner: "![[A Rush of Blood To The Head ().jpg]]"
 [Time:: 3:57]
 [Artist:: [[Coldplay]] ]
 [Genre:: Soul]
-[Played:: 2]
+[Played:: 3]
 [Album:: [[A Rush of Blood To The Head ()]]]
 [Year:: ]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[..Famous Last Words.. (1982).jpg]]"
 [Time:: 6:25]
 [Artist:: [[Supertramp]] ]
 [Genre:: Progressive Rock]
-[Played:: 2]
+[Played:: 3]
 [Album:: [[..Famous Last Words.. (1982)]]]
 [Year:: 1982]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[The Very Best Of Sandra [Disc 2] (2016).jpg]]"
 [Time:: 3:16]
 [Artist:: [[Sandra]] ]
 [Genre:: Pop]
-[Played:: 8]
+[Played:: 9]
 [Album:: [[The Very Best Of Sandra [Disc 2] (2016)]]]
 [Year:: 2016]
 ### Dates

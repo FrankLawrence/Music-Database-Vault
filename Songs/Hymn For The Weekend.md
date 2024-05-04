@@ -5,7 +5,7 @@ banner: "![[A Head Full Of Dreams (2015).jpg]]"
 [Time:: 4:21]
 [Artist:: [[Coldplay]] ]
 [Genre:: Rock, Pop]
-[Played:: 11]
+[Played:: 12]
 [Album:: [[A Head Full Of Dreams (2015)]]]
 [Year:: 2015]
 ### Dates

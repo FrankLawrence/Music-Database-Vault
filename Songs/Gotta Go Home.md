@@ -5,7 +5,7 @@ banner: "![[Gold - 20 Super Hits (1993).jpg]]"
 [Time:: 2:33]
 [Artist:: [[Boney M.]] ]
 [Genre:: Electronic]
-[Played:: 21]
+[Played:: 22]
 [Album:: [[Gold - 20 Super Hits (1993)]]]
 [Year:: 1993]
 ### Dates

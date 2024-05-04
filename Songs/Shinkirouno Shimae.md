@@ -5,7 +5,7 @@ banner: "![[Seychelles (1976).jpg]]"
 [Time:: 3:38]
 [Artist:: [[Masayoshi Takanaka (高中正義)]] ]
 [Genre:: Jazz]
-[Played:: 2]
+[Played:: 3]
 [Album:: [[Seychelles (1976)]]]
 [Year:: 1976]
 ### Dates
