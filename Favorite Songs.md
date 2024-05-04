@@ -1,5 +1,7 @@
 ```dataview
-TABLE Favorite_Song as Favorite
+TABLE WITHOUT ID
+Favorite_Song as Favorite, length(rows) as "Favorite Song Count"
 WHERE Favorite_Song
-SORT Favorite_Song desc
+GROUP BY Favorite_Song
+SORT length(rows) desc
 ```

@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "e27ac7d9afeacfe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artists/BAP.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "9bddaea6142a72a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-03-24.md",
+                "file": "Daily Notes/2024-05-05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -53,32 +40,6 @@
               "type": "markdown",
               "state": {
                 "file": "Artists/ABBA.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f8369c552d0d6f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Surfacing.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a29614b853b3005a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Ylang Ylang.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -111,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs.md",
+                "file": "Favorite Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs.md",
+                "file": "Favorite Songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs.md"
+                "file": "Favorite Songs.md"
               }
             }
           }
@@ -264,17 +224,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a908e6c50329f081",
+  "active": "700432f4ebf5ed10",
   "lastOpenFiles": [
-    "Albums/The Division Bell (1994).md",
-    "Songs.md",
+    "Daily Notes/2024-05-05.md",
     "Favorite Songs.md",
+    "Albums/Wahnsinn (1997).md",
+    "Artists/BAP.md",
+    "Daily Notes/2024-05-04.md",
+    "Daily Notes/2024-05-03.md",
+    "Daily Notes/2024-05-02.md",
+    "Daily Notes/2024-05-01.md",
+    "Daily Notes/2024-03-24.md",
+    "Artists/ABBA.md",
+    "Songs/Surfacing.md",
+    "Songs/Ylang Ylang.md",
     "Songs/One Of Us.md",
+    "Songs.md",
+    "Albums/The Division Bell (1994).md",
     "Daily Notes/2024-04-12.md",
     "Songs/Alles Em Lot.md",
-    "Daily Notes/2024-03-24.md",
     "Daily Notes/2024-04-11.md",
-    "Artists/ABBA.md",
     "Albums/The Visitors (1981).md",
     "Songs/Under Attack.md",
     "Daily Notes/2024-03-25.md",
@@ -283,15 +252,6 @@
     "Daily Notes/2024-03-28.md",
     "Daily Notes/2024-03-29.md",
     "Daily Notes/2024-03-30.md",
-    "Daily Notes/2024-03-31.md",
-    "Daily Notes/2024-04-01.md",
-    "Daily Notes/2024-04-02.md",
-    "Daily Notes/2024-04-03.md",
-    "Daily Notes/2024-04-04.md",
-    "Songs/Surfacing.md",
-    "Artists/BAP.md",
-    "Songs/Shine On You Crazy Diamond Pt. 1-5.md",
-    "Albums/The Endless River (2014).md",
     "Genres",
     "Album Covers/Wahnsinn (1997).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
