@@ -1,13 +1,13 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-banner: "![[X&Y (2006).jpg]]"
+banner: "![[X&Y (2005).jpg]]"
 ---
 [Time:: 4:25]
 [Artist:: [[Coldplay]] ]
 [Genre:: Pop Rock]
 [Played:: 3]
-[Album:: [[X&Y (2006)]]]
-[Year:: 2006]
+[Album:: [[X&Y (2005)]]]
+[Year:: 2005]
 ### Dates
 ````dataview
 TABLE Favorite_Song
