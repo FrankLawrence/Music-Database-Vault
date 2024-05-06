@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Genres/Pop.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artists/ABBA.md",
+                "file": "Genres/Pop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artists/ABBA.md",
+                "file": "Genres/Pop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artists/ABBA.md"
+                "file": "Genres/Pop.md"
               }
             }
           }
@@ -211,14 +211,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a73bb0fb49283379",
+  "active": "e2e6602c9beadc66",
   "lastOpenFiles": [
-    "Songs/One Of Us.md",
     "Songs.md",
+    "Artists/The Beatles.md",
     "Artists/ABBA.md",
+    "Genres/Pop.md",
+    "Artists/Pink Floyd.md",
+    "Albums/Meddle (1971).md",
+    "Artists/Coldplay.md",
+    "Albums/The Visitors (1981).md",
+    "Songs/One Of Us.md",
     "Favorite Songs.md",
     "Songs/Wish You Were Here.md",
-    "Artists/Coldplay.md",
     "Albums/X&Y (2006).md",
     "Songs/The Hardest Part.md",
     "Albums/Ghost Stories (2014).md",
@@ -234,11 +239,6 @@
     "Songs/Surfacing.md",
     "Songs/Ylang Ylang.md",
     "Albums/The Division Bell (1994).md",
-    "Daily Notes/2024-04-12.md",
-    "Songs/Alles Em Lot.md",
-    "Daily Notes/2024-04-11.md",
-    "Albums/The Visitors (1981).md",
-    "Songs/Under Attack.md",
     "Genres",
     "Album Covers/Wahnsinn (1997).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",
