@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "e2e6602c9beadc66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genres/Pop.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a908e6c50329f081",
             "type": "leaf",
             "state": {
@@ -59,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genres/Pop.md",
+                "file": "Favorite Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genres/Pop.md",
+                "file": "Favorite Songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genres/Pop.md"
+                "file": "Favorite Songs.md"
               }
             }
           }
@@ -211,12 +197,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2e6602c9beadc66",
+  "active": "700432f4ebf5ed10",
   "lastOpenFiles": [
-    "Songs.md",
-    "Artists/The Beatles.md",
     "Artists/ABBA.md",
     "Genres/Pop.md",
+    "Songs.md",
+    "Artists/The Beatles.md",
     "Artists/Pink Floyd.md",
     "Albums/Meddle (1971).md",
     "Artists/Coldplay.md",
