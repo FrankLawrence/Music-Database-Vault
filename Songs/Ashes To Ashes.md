@@ -5,7 +5,7 @@ banner: "![[Best Of Bowie (1980).jpg]]"
 [Time:: 3:37]
 [Artist:: [[David Bowie]] ]
 [Genre:: Rock]
-[Played:: 8]
+[Played:: 9]
 [Album:: [[Best Of Bowie (1980)]]]
 [Year:: 1980]
 ### Dates

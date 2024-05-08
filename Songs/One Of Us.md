@@ -32,5 +32,5 @@ for (let page of dv.pages('"Daily Notes"')) {
 renderHeatmapCalendar(this.container, calendarData);
 ```
 
-`$=console.log(dv.current().file.frontmatter['tags'])`: 
+`$=console.log(Object.values(dv.current().file.frontmatter))`: 
 `$=console.log(dv.current().file.frontmatter[Object.keys(dv.current().file.frontmatter)[0]])`

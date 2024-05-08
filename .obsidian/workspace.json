@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/One Of Us.md"
+                "file": "Songs.md"
               }
             }
           }
@@ -211,7 +212,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59d464382471ddbe",
+  "active": "a908e6c50329f081",
   "lastOpenFiles": [
     "Artists/ABBA.md",
     "Songs/One Of Us.md",
