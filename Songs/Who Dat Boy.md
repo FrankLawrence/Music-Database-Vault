@@ -5,7 +5,7 @@ banner: "![[Flower Boy (2017).jpg]]"
 [Time:: 3:46]
 [Artist:: [[Tyler, the Creator]] [[A$AP ROCKY]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 42]
+[Played:: 43]
 [Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates

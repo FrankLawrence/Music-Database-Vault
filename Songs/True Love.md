@@ -5,7 +5,7 @@ banner: "![[Ghost Stories (2014).jpg]]"
 [Time:: 4:06]
 [Artist:: [[Coldplay]] ]
 [Genre:: Rock, Pop]
-[Played:: 16]
+[Played:: 17]
 [Album:: [[Ghost Stories (2014)]]]
 [Year:: 2014]
 ### Dates

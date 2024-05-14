@@ -5,7 +5,7 @@ banner: "![[Kaleidoscope (2017).jpg]]"
 [Time:: 4:27]
 [Artist:: [[The Chainsmokers]] [[Coldplay]] ]
 [Genre:: EDM]
-[Played:: 1]
+[Played:: 2]
 [Album:: [[Kaleidoscope (2017)]]]
 [Year:: 2017]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Kaleidoscope (2017).jpg]]"
 [Time:: 4:55]
 [Artist:: [[Coldplay]] ]
 [Genre:: Progressive Rock]
-[Played:: 45]
+[Played:: 46]
 [Album:: [[Kaleidoscope (2017)]]]
 [Year:: 2017]
 ### Dates

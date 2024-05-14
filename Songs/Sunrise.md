@@ -5,7 +5,7 @@ banner: "![[Everyday Life (2019).jpg]]"
 [Time:: 2:32]
 [Artist:: [[Coldplay]] ]
 [Genre:: Instrumental]
-[Played:: 6]
+[Played:: 7]
 [Album:: [[Everyday Life (2019)]]]
 [Year:: 2019]
 ### Dates

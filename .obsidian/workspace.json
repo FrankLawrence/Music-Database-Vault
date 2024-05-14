@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Artists/ABBA.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -53,14 +53,14 @@
               "type": "markdown",
               "state": {
                 "file": "Songs/One Of Us.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs.md",
+                "file": "Artists/ABBA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs.md",
+                "file": "Artists/ABBA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs.md"
+                "file": "Artists/ABBA.md"
               }
             }
           }
@@ -212,12 +212,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a908e6c50329f081",
+  "active": "a73bb0fb49283379",
   "lastOpenFiles": [
-    "Artists/ABBA.md",
-    "Songs/One Of Us.md",
     "Songs.md",
+    "Artists/ABBA.md",
     "Favorite Songs.md",
+    "Songs/One Of Us.md",
+    "Daily Notes/2024-05-08.md",
+    "Daily Notes/2024-05-07.md",
+    "Daily Notes/2024-05-06.md",
+    "Daily Notes/2024-05-05.md",
+    "Daily Notes/2024-05-04.md",
     "Genres/Pop.md",
     "Artists/The Beatles.md",
     "Artists/Pink Floyd.md",
@@ -229,17 +234,12 @@
     "Songs/The Hardest Part.md",
     "Albums/Ghost Stories (2014).md",
     "Daily Notes/2023-11-18.md",
-    "Daily Notes/2024-05-05.md",
     "Albums/Wahnsinn (1997).md",
     "Artists/BAP.md",
-    "Daily Notes/2024-05-04.md",
     "Daily Notes/2024-05-03.md",
     "Daily Notes/2024-05-02.md",
     "Daily Notes/2024-05-01.md",
     "Daily Notes/2024-03-24.md",
-    "Songs/Surfacing.md",
-    "Songs/Ylang Ylang.md",
-    "Albums/The Division Bell (1994).md",
     "Genres",
     "Album Covers/Wahnsinn (1997).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",

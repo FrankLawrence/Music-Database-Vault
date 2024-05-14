@@ -5,7 +5,7 @@ banner: "![[Mylo Xyloto (2011).jpg]]"
 [Time:: 0:42]
 [Artist:: [[Coldplay]] ]
 [Genre:: Electronic, Rock, Pop]
-[Played:: 10]
+[Played:: 11]
 [Album:: [[Mylo Xyloto (2011)]]]
 [Year:: 2011]
 ### Dates

@@ -5,7 +5,7 @@ banner:
 [Time:: 3:36]
 [Artist:: [[JVKE]] ]
 [Genre:: ]
-[Played:: 60]
+[Played:: 61]
 [Year:: ]
 ### Dates
 ````dataview

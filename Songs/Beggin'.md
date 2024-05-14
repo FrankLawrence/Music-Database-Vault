@@ -5,7 +5,7 @@ banner: "![[So Dark the Con of Man (2017).jpg]]"
 [Time:: 3:36]
 [Artist:: [[Madcon]] ]
 [Genre:: Hip-Hop]
-[Played:: 21]
+[Played:: 22]
 [Album:: [[So Dark the Con of Man (2017)]]]
 [Year:: 2017]
 ### Dates

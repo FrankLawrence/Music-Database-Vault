@@ -5,7 +5,7 @@ banner: "![[A Rush of Blood To The Head (2002).jpg]]"
 [Time:: 4:25]
 [Artist:: [[Coldplay]] ]
 [Genre:: Alternative Rock]
-[Played:: 9]
+[Played:: 10]
 [Album:: [[A Rush of Blood To The Head (2002)]]]
 [Year:: 2002]
 ### Dates
