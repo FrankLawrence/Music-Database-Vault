@@ -1,12 +1,12 @@
 ---
 tags: Song ⭐⭐⭐⭐ 
-banner: "![[Kaleidoscope (2017).jpg]]"
+banner: "![[Kaleidoscope EP (2017).jpg]]"
 ---
 [Time:: 5:54]
 [Artist:: [[Coldplay]] ]
 [Genre:: Soft Rock]
-[Played:: 16]
-[Album:: [[Kaleidoscope (2017)]]]
+[Played:: 17]
+[Album:: [[Kaleidoscope EP (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

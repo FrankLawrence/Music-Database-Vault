@@ -1,12 +1,12 @@
 ---
 tags: Song ⭐⭐⭐⭐⭐ 💛
-banner: "![[Kaleidoscope (2017).jpg]]"
+banner: "![[Kaleidoscope EP (2017).jpg]]"
 ---
 [Time:: 4:55]
 [Artist:: [[Coldplay]] ]
 [Genre:: Progressive Rock]
 [Played:: 46]
-[Album:: [[Kaleidoscope (2017)]]]
+[Album:: [[Kaleidoscope EP (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

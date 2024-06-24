@@ -1,12 +1,12 @@
 ---
 tags: Song ⭐⭐⭐ 
-banner: "![[Kaleidoscope (2017).jpg]]"
+banner: "![[Kaleidoscope EP (2017).jpg]]"
 ---
 [Time:: 4:27]
 [Artist:: [[The Chainsmokers]] [[Coldplay]] ]
 [Genre:: EDM]
 [Played:: 2]
-[Album:: [[Kaleidoscope (2017)]]]
+[Album:: [[Kaleidoscope EP (2017)]]]
 [Year:: 2017]
 ### Dates
 ````dataview

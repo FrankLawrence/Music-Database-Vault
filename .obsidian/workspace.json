@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artists/ABBA.md",
+                "file": "Songs/One Of Us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artists/ABBA.md",
+                "file": "Songs/One Of Us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artists/ABBA.md"
+                "file": "Songs/One Of Us.md"
               }
             }
           }
@@ -212,10 +212,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a73bb0fb49283379",
+  "active": "59d464382471ddbe",
   "lastOpenFiles": [
-    "Songs.md",
+    "Artists/Coldplay.md",
+    "Albums/Kaleidoscope EP (2017).md",
+    "Songs/Something Just Like This (Tokyo Remix).md",
+    "Songs/Something Just Like This.md",
+    "Songs/A L I E N S.md",
+    "Songs/Hypnotised.md",
+    "Songs/All I Can Think About Is You.md",
+    "Albums/X&Y (2006).md",
     "Artists/ABBA.md",
+    "Songs.md",
     "Favorite Songs.md",
     "Songs/One Of Us.md",
     "Daily Notes/2024-05-08.md",
@@ -227,19 +235,11 @@
     "Artists/The Beatles.md",
     "Artists/Pink Floyd.md",
     "Albums/Meddle (1971).md",
-    "Artists/Coldplay.md",
     "Albums/The Visitors (1981).md",
     "Songs/Wish You Were Here.md",
-    "Albums/X&Y (2006).md",
     "Songs/The Hardest Part.md",
     "Albums/Ghost Stories (2014).md",
     "Daily Notes/2023-11-18.md",
-    "Albums/Wahnsinn (1997).md",
-    "Artists/BAP.md",
-    "Daily Notes/2024-05-03.md",
-    "Daily Notes/2024-05-02.md",
-    "Daily Notes/2024-05-01.md",
-    "Daily Notes/2024-03-24.md",
     "Genres",
     "Album Covers/Wahnsinn (1997).jpg",
     "Album Covers/長江水 (Water of the Yangtze River) (2020).jpg",

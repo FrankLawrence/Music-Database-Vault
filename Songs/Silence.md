@@ -5,7 +5,7 @@ banner:
 [Time:: 2:58]
 [Artist:: [[Rodrigo Amarante]] ]
 [Genre:: ]
-[Played:: 49]
+[Played:: 52]
 [Year:: 2016]
 ### Dates
 ````dataview
