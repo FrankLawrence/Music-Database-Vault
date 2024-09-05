@@ -5,7 +5,7 @@ banner: "![[Attack on Titan Original Soundtrack ().jpg]]"
 [Time:: 1:35]
 [Artist:: [[Linked Horizon]] ]
 [Genre:: Anime]
-[Played:: 19]
+[Played:: 21]
 [Album:: [[Attack on Titan Original Soundtrack ()]]]
 [Year:: ]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Songs About Jane (2004).jpg]]"
 [Time:: 3:25]
 [Artist:: [[Maroon 5]] ]
 [Genre:: Pop Rock]
-[Played:: 91]
+[Played:: 95]
 [Album:: [[Songs About Jane (2004)]]]
 [Year:: 2004]
 ### Dates

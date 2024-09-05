@@ -5,7 +5,7 @@ banner:
 [Time:: 3:36]
 [Artist:: [[Sylo Nozra]] ]
 [Genre:: Pop]
-[Played:: 56]
+[Played:: 57]
 [Year:: 2020]
 ### Dates
 ````dataview

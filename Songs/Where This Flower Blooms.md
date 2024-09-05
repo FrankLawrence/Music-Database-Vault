@@ -5,7 +5,7 @@ banner: "![[Flower Boy (2017).jpg]]"
 [Time:: 3:15]
 [Artist:: [[Tyler, the Creator]] [[Frank Ocean]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 20]
+[Played:: 21]
 [Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates

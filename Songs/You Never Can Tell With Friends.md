@@ -5,7 +5,7 @@ banner: "![[Free As A Bird (1987).jpg]]"
 [Time:: 4:17]
 [Artist:: [[Supertramp]] ]
 [Genre:: Rock]
-[Played:: 39]
+[Played:: 40]
 [Album:: [[Free As A Bird (1987)]]]
 [Year:: 1987]
 ### Dates

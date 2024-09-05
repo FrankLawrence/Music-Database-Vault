@@ -5,7 +5,7 @@ banner: "![[Sempiternal (2013).jpg]]"
 [Time:: 3:48]
 [Artist:: [[Bring Me The Horizon]] ]
 [Genre:: Rock]
-[Played:: 46]
+[Played:: 47]
 [Album:: [[Sempiternal (2013)]]]
 [Year:: 2013]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Pleasure and Pain (1978).jpg]]"
 [Time:: 2:45]
 [Artist:: [[Dr. Hook]] ]
 [Genre:: Country Rock]
-[Played:: 54]
+[Played:: 56]
 [Album:: [[Pleasure and Pain (1978)]]]
 [Year:: 1978]
 ### Dates

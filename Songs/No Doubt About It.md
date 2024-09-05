@@ -5,7 +5,7 @@ banner: "![[Their Greatest Hits (1980).jpg]]"
 [Time:: 4:28]
 [Artist:: [[Hot Chocolate]] ]
 [Genre:: Pop]
-[Played:: 81]
+[Played:: 84]
 [Album:: [[Their Greatest Hits (1980)]]]
 [Year:: 1980]
 ### Dates

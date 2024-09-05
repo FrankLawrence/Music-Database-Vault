@@ -5,7 +5,7 @@ banner: "![[Vital Idol (1987).jpg]]"
 [Time:: 8:24]
 [Artist:: [[Billy Idol]] ]
 [Genre:: Rock]
-[Played:: 18]
+[Played:: 20]
 [Album:: [[Vital Idol (1987)]]]
 [Year:: 1987]
 ### Dates

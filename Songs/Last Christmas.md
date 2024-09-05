@@ -5,7 +5,7 @@ banner: "![[Music from the Edge of Heaven (1984).jpg]]"
 [Time:: 4:27]
 [Artist:: [[Wham!]] ]
 [Genre:: Pop]
-[Played:: 19]
+[Played:: 22]
 [Album:: [[Music from the Edge of Heaven (1984)]]]
 [Year:: 1984]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Flower Boy (2017).jpg]]"
 [Time:: 3:44]
 [Artist:: [[Tyler, the Creator]] [[Estelle]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 86]
+[Played:: 88]
 [Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates

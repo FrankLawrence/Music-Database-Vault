@@ -5,7 +5,7 @@ banner:
 [Time:: 3:02]
 [Artist:: [[Grady]] ]
 [Genre:: Pop]
-[Played:: 26]
+[Played:: 30]
 [Year:: 2019]
 ### Dates
 ````dataview

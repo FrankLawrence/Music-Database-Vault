@@ -5,7 +5,7 @@ banner: "![[Kaleidoscope EP (2017).jpg]]"
 [Time:: 5:54]
 [Artist:: [[Coldplay]] ]
 [Genre:: Soft Rock]
-[Played:: 17]
+[Played:: 23]
 [Album:: [[Kaleidoscope EP (2017)]]]
 [Year:: 2017]
 ### Dates

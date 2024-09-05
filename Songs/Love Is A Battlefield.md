@@ -5,7 +5,7 @@ banner: "![[Heartbreaker [UK] (1996).jpg]]"
 [Time:: 4:11]
 [Artist:: [[Pat Benatar]] ]
 [Genre:: Rock]
-[Played:: 14]
+[Played:: 15]
 [Album:: [[Heartbreaker [UK] (1996)]]]
 [Year:: 1996]
 ### Dates

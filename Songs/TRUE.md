@@ -5,7 +5,7 @@ banner: "![[TRUE (1983).jpg]]"
 [Time:: 5:17]
 [Artist:: [[Spandau Ballet]] ]
 [Genre:: ]
-[Played:: 3]
+[Played:: 4]
 [Album:: [[TRUE (1983)]]]
 [Year:: 1983]
 ### Dates

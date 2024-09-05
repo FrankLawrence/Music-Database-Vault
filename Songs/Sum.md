@@ -5,7 +5,7 @@ banner: "![[The Endless River (2014).jpg]]"
 [Time:: 4:48]
 [Artist:: [[Pink Floyd]] ]
 [Genre:: Psychedelic]
-[Played:: 55]
+[Played:: 57]
 [Album:: [[The Endless River (2014)]]]
 [Year:: 2014]
 ### Dates

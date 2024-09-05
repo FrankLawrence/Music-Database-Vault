@@ -5,7 +5,7 @@ banner: "![[Their Greatest Hits (1978).jpg]]"
 [Time:: 4:02]
 [Artist:: [[Hot Chocolate]] ]
 [Genre:: Pop]
-[Played:: 12]
+[Played:: 13]
 [Album:: [[Their Greatest Hits (1978)]]]
 [Year:: 1978]
 ### Dates

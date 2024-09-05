@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 3:14]
 [Artist:: [[Climax Blues Band]] ]
 [Genre:: Pop]
-[Played:: 10]
+[Played:: 11]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates
