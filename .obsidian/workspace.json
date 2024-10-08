@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songs/One Of Us.md",
+                "file": "Songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songs/One Of Us.md"
+                "file": "Songs.md"
               }
             }
           }
@@ -212,11 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59d464382471ddbe",
+  "active": "a908e6c50329f081",
   "lastOpenFiles": [
-    "Favorite Songs.md",
     "Artists/ABBA.md",
     "Songs/One Of Us.md",
+    "Songs.md",
+    "Favorite Songs.md",
     "Artists/Coldplay.md",
     "Albums/Kaleidoscope EP (2017).md",
     "Songs/Something Just Like This (Tokyo Remix).md",
@@ -225,7 +226,6 @@
     "Songs/Hypnotised.md",
     "Songs/All I Can Think About Is You.md",
     "Albums/X&Y (2006).md",
-    "Songs.md",
     "Daily Notes/2024-05-08.md",
     "Daily Notes/2024-05-07.md",
     "Daily Notes/2024-05-06.md",

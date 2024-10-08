@@ -5,7 +5,7 @@ banner: "![[All The Best (1982).jpg]]"
 [Time:: 3:43]
 [Artist:: [[Paul McCartney & Stevie Wonder]] ]
 [Genre:: Pop]
-[Played:: 7]
+[Played:: 8]
 [Album:: [[All The Best (1982)]]]
 [Year:: 1982]
 ### Dates

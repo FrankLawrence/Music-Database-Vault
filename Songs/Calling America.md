@@ -5,7 +5,7 @@ banner: "![[Balance of Power (1990).jpg]]"
 [Time:: 3:27]
 [Artist:: [[Electric Light Orchestra]] ]
 [Genre:: Rock]
-[Played:: 39]
+[Played:: 40]
 [Album:: [[Balance of Power (1990)]]]
 [Year:: 1990]
 ### Dates

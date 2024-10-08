@@ -5,7 +5,7 @@ banner: "![[Flower Boy (2017).jpg]]"
 [Time:: 3:23]
 [Artist:: [[Tyler, the Creator]] [[Kali Uchis]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 85]
+[Played:: 86]
 [Album:: [[Flower Boy (2017)]]]
 [Year:: 2017]
 ### Dates

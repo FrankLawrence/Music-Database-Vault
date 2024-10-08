@@ -5,7 +5,7 @@ banner: "![[Plastic Beach (2010).jpg]]"
 [Time:: 3:00]
 [Artist:: [[Gorillaz]] [[Lou Reed]] ]
 [Genre:: Pop]
-[Played:: 8]
+[Played:: 11]
 [Album:: [[Plastic Beach (2010)]]]
 [Year:: 2010]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Plastic Beach (2010).jpg]]"
 [Time:: 3:56]
 [Artist:: [[Gorillaz]] [[Little Dragon]] ]
 [Genre:: Pop]
-[Played:: 5]
+[Played:: 7]
 [Album:: [[Plastic Beach (2010)]]]
 [Year:: 2010]
 ### Dates

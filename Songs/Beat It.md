@@ -5,7 +5,7 @@ banner: "![[Thriller (1982).jpg]]"
 [Time:: 4:58]
 [Artist:: [[Michael Jackson]] ]
 [Genre:: Rock]
-[Played:: ]
+[Played:: 1]
 [Album:: [[Thriller (1982)]]]
 [Year:: 1982]
 ### Dates

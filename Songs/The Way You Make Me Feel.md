@@ -5,7 +5,7 @@ banner: "![[Bad (1986).jpg]]"
 [Time:: 4:58]
 [Artist:: [[Michael Jackson]] ]
 [Genre:: Pop Rock]
-[Played:: 1]
+[Played:: 3]
 [Album:: [[Bad (1986)]]]
 [Year:: 1986]
 ### Dates
