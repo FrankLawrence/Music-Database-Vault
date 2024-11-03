@@ -5,7 +5,7 @@ banner: "![[The Beatles (1968).jpg]]"
 [Time:: 1:46]
 [Artist:: [[The Beatles]] ]
 [Genre:: Rock]
-[Played:: 9]
+[Played:: 10]
 [Album:: [[The Beatles (1968)]]]
 [Year:: 1968]
 ### Dates

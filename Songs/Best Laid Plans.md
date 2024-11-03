@@ -5,7 +5,7 @@ banner: "![[Some Kind of Trouble (2010).jpg]]"
 [Time:: 3:30]
 [Artist:: [[James Blunt]] ]
 [Genre:: ]
-[Played:: 4]
+[Played:: 5]
 [Album:: [[Some Kind of Trouble (2010)]]]
 [Year:: 2010]
 ### Dates

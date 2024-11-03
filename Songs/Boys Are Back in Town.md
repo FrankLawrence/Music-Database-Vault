@@ -5,7 +5,7 @@ banner: "![[Jailbreak (1976).jpg]]"
 [Time:: 2:22]
 [Artist:: [[Thin Lizzy]] ]
 [Genre:: Hard Rock]
-[Played:: 11]
+[Played:: 12]
 [Album:: [[Jailbreak (1976)]]]
 [Year:: 1976]
 ### Dates

@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 4:20]
 [Artist:: [[Carly Simon]] ]
 [Genre:: Pop]
-[Played:: 1]
+[Played:: 2]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates

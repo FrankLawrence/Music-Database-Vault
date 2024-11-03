@@ -5,7 +5,7 @@ banner: "![[Ultimate FM Gold (2022).jpg]]"
 [Time:: 3:34]
 [Artist:: [[Aretha Franklin]] ]
 [Genre:: Pop]
-[Played:: 2]
+[Played:: 3]
 [Album:: [[Ultimate FM Gold (2022)]]]
 [Year:: 2022]
 ### Dates

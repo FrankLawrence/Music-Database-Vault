@@ -5,7 +5,7 @@ banner: "![[Astroworld (2018).jpg]]"
 [Time:: 3:31]
 [Artist:: [[Travis Scott]] ]
 [Genre:: Hip-Hop/Rap]
-[Played:: 20]
+[Played:: 21]
 [Album:: [[Astroworld (2018)]]]
 [Year:: 2018]
 ### Dates

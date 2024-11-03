@@ -5,7 +5,7 @@ banner: "![[Barry White's Greatest Hits (1975).jpg]]"
 [Time:: 4:50]
 [Artist:: [[Barry White]] ]
 [Genre:: R&B]
-[Played:: ]
+[Played:: 6]
 [Album:: [[Barry White's Greatest Hits (1975)]]]
 [Year:: 1975]
 ### Dates
