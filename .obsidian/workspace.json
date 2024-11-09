@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,13 +238,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59d464382471ddbe",
+  "active": "a73bb0fb49283379",
   "lastOpenFiles": [
-    "Albums/The Visitors (1981).md",
+    "Songs.md",
     "Artists/ABBA.md",
+    "Albums/The Visitors (1981).md",
     "Songs/One Of Us.md",
     "Songs/The Visitors (1981).md",
-    "Songs.md",
     "Favorite Songs.md",
     "Artists/Coldplay.md",
     "Albums/Kaleidoscope EP (2017).md",
