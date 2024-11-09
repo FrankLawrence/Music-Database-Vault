@@ -5,7 +5,7 @@ banner: "![[Wahnsinn (1997).jpg]]"
 [Time:: 5:03]
 [Artist:: [[BAP]] ]
 [Genre:: German Rock-Pop]
-[Played:: 70]
+[Played:: 71]
 [Album:: [[Wahnsinn (1997)]]]
 [Year:: 1997]
 ### Dates
