@@ -45,8 +45,8 @@
               "state": {
                 "file": "Albums/The Division Bell (1994).md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "The Division Bell (1994)"
