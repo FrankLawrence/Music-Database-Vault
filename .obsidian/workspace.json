@@ -73,17 +73,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-26.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Songs/Young Lust.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2024-01-26"
+              "title": "Young Lust"
+            }
+          },
+          {
+            "id": "6a8a98c66c215f8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -129,7 +141,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -253,8 +266,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a908e6c50329f081",
+  "active": "6a8a98c66c215f8a",
   "lastOpenFiles": [
+    "Daily Notes/2024-11-30.md",
+    "Daily Notes/2024-12-14.md",
+    "Daily Notes/2024-12-18.md",
+    "Daily Notes/2024-12-25.md",
+    "Daily Notes/2024-12-24.md",
+    "Daily Notes/2024-12-23.md",
+    "Daily Notes/2024-12-26.md",
+    "Daily Notes/2024-12-28.md",
+    "Daily Notes/2024-12-29.md",
+    "Daily Notes/2024-12-31.md",
+    "Daily Notes/2025-01-02.md",
+    "Daily Notes/2025-01-12.md",
+    "Daily Notes/2025-01-11.md",
+    "Daily Notes/2025-01-04.md",
+    "Daily Notes/2024-02-09.md",
+    "Daily Notes/2024-02-08.md",
+    "Daily Notes/2024-02-07.md",
+    "Daily Notes/2024-02-06.md",
+    "Daily Notes/2024-02-05.md",
+    "Daily Notes/2024-02-04.md",
+    "Daily Notes/2024-02-03.md",
+    "Daily Notes/2024-02-02.md",
+    "Daily Notes/2024-02-01.md",
+    "Daily Notes/2024-01-31.md",
+    "Daily Notes/2024-01-30.md",
+    "Daily Notes/2024-01-29.md",
     "Album Covers/Gold - 20 Super Hits (1993).jpg",
     "Album Covers/Jailbreak (1976).jpg",
     "Album Covers/Loose (2006).jpg",
@@ -265,32 +304,6 @@
     "Album Covers/The Final Cut (1983).jpg",
     "Album Covers/The Very Best Of Sandra (2016).jpg",
     "Album Covers/Toulouse Street (1972).jpg",
-    "Album Covers/Where The Light Is (2019).jpg",
-    "Albums/The Division Bell (1994).md",
-    "Songs.md",
-    "Artists/ABBA.md",
-    "Daily Notes/2024-01-26.md",
-    "Daily Notes/2023-06-12.md",
-    "Daily Notes/2023-02-14.md",
-    "Daily Notes/2022-11-16.md",
-    "Daily Notes/2022-04-25.md",
-    "Albums/Super trouper (1980).md",
-    "Songs/Lay All Your Love On Me.md",
-    "Albums/The Visitors (1981).md",
-    "Albums/ABBA: The Album (1977).md",
-    "Daily Notes/2024-11-10.md",
-    "Songs/One Of Us.md",
-    "Songs/The Visitors (1981).md",
-    "Favorite Songs.md",
-    "Artists/Coldplay.md",
-    "Albums/Kaleidoscope EP (2017).md",
-    "Songs/Something Just Like This (Tokyo Remix).md",
-    "Songs/Something Just Like This.md",
-    "Songs/A L I E N S.md",
-    "Songs/Hypnotised.md",
-    "Songs/All I Can Think About Is You.md",
-    "Albums/X&Y (2006).md",
-    "Daily Notes/2024-05-08.md",
     "Genres",
     "Album Covers",
     "Albums",
