@@ -60,8 +60,8 @@
               "state": {
                 "file": "Artists/ABBA.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "ABBA"
@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songs/Young Lust.md",
+                "file": "Albums/The Wall (1979).md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Young Lust"
+              "title": "The Wall (1979)"
             }
           },
           {
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,8 +131,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -252,6 +252,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -266,8 +267,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a8a98c66c215f8a",
+  "active": "59d464382471ddbe",
   "lastOpenFiles": [
+    "Artists/ABBA.md",
+    "Albums/The Wall (1979).md",
+    "Songs/Young Lust.md",
+    "Artists/Pink Floyd.md",
     "Daily Notes/2024-11-30.md",
     "Daily Notes/2024-12-14.md",
     "Daily Notes/2024-12-18.md",
@@ -290,10 +295,6 @@
     "Daily Notes/2024-02-04.md",
     "Daily Notes/2024-02-03.md",
     "Daily Notes/2024-02-02.md",
-    "Daily Notes/2024-02-01.md",
-    "Daily Notes/2024-01-31.md",
-    "Daily Notes/2024-01-30.md",
-    "Daily Notes/2024-01-29.md",
     "Album Covers/Gold - 20 Super Hits (1993).jpg",
     "Album Covers/Jailbreak (1976).jpg",
     "Album Covers/Loose (2006).jpg",
