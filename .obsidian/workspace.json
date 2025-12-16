@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Artists/Coldplay.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
@@ -129,16 +129,6 @@
             }
           },
           {
-            "id": "f4330612332e4097",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "starred"
-            }
-          },
-          {
             "id": "645ce3ec9fda0b40",
             "type": "leaf",
             "state": {
@@ -162,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -271,6 +261,7 @@
   },
   "active": "da4043c38b3f560f",
   "lastOpenFiles": [
+    "Artists/Coldplay.md",
     "Favorite Songs.md",
     "Albums/The Wall (1979).md",
     "Songs/Square One.md",
@@ -296,7 +287,6 @@
     "Daily Notes/2024-02-09.md",
     "Daily Notes/2024-02-08.md",
     "Daily Notes/2024-02-07.md",
-    "Daily Notes/2024-02-06.md",
     "Album Covers/Gold - 20 Super Hits (1993).jpg",
     "Album Covers/Jailbreak (1976).jpg",
     "Album Covers/Loose (2006).jpg",
