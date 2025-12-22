@@ -97,7 +97,8 @@
               "title": "The Wall (1979)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,14 +260,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "700432f4ebf5ed10",
+  "active": "da4043c38b3f560f",
   "lastOpenFiles": [
+    "Favorite Songs.md",
     "Songs/Alles Em Lot.md",
     "Artists/Coldplay.md",
     "Albums/The Wall (1979).md",
     "Artists/ABBA.md",
     "Songs/Square One.md",
-    "Favorite Songs.md",
     "Songs/Poles Apart.md",
     "Albums/The Division Bell (1994).md",
     "Songs/Young Lust.md",
